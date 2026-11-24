@@ -1,0 +1,34 @@
+{
+  "id": "mandukya",
+  "abbrev": "MaU",
+  "sa": "माण्डूक्योपनिषद्",
+  "iast": "Māṇḍūkya",
+  "en": "Mandukya Upanishad",
+  "veda": "Atharvaveda",
+  "levels": [
+    "mantra"
+  ],
+  "scope": "complete",
+  "expect": 12,
+  "order": 6,
+  "tagline": "OM and the four states of the self: waking, dream, deep sleep, and the Fourth.",
+  "ingest": {
+    "org": "mandukya",
+    "pdf": {
+      "start": "^Mandukya Upanishad$",
+      "end": "Here ends the Mandukyopanishad",
+      "marker": "^(\\d{1,2})\\.\\s+(.*)$",
+      "ref": [
+        "$1"
+      ],
+      "text": 2
+    },
+    "bhashya": {
+      "book": "mandukya-upanishad-karika-bhashya",
+      "translator": "Swami Nikhilananda",
+      "edition": "1949",
+      "crawl": true
+    },
+    "shanti": "Bhadraṃ karṇebhiḥ"
+  }
+}

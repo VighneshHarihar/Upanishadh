@@ -1,0 +1,1744 @@
+[
+ {
+  "id": "MaU_0",
+  "ref": "0",
+  "section": "Śānti mantra · Bhadraṃ karṇebhiḥ",
+  "shanti": true,
+  "sa": [
+   "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।",
+   "स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिर्व्यशेम देवहितं यदायुः ॥",
+   "स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।",
+   "स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥",
+   "ॐ शान्तिः शान्तिः शान्तिः ॥"
+  ],
+  "iast": [
+   "oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devā bhadraṃ paśyemākṣabhir yajatrāḥ",
+   "sthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yad āyuḥ",
+   "svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ",
+   "svasti nas tārkṣyo ariṣṭanemiḥ svasti no bṛhaspatir dadhātu",
+   "oṃ śāntiḥ śāntiḥ śāntiḥ"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Om ! O gods, may we hear with our ears what is auspicious; May we see with our eyes what is auspicious; May we, while offering our praise to gods With our bodies strong of limbs, Enjoy the life which the gods are pleased to grant us. May Indra of great fame be well disposed to us; May the all-knowing (or immensely wealthy) Pusha be propitious to us; May Garuda, the vanquisher of miseries, be well pleased with us; May Brihaspati grant us all prosperity. Om ! Peace ! Peace ! Peace !",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/shantimantra/3.wav",
+   "whole": [
+    0,
+    67.3
+   ]
+  },
+  "hasBhashya": false,
+  "order": 1
+ },
+ {
+  "id": "MaU_1",
+  "ref": "1",
+  "section": "Self and consciousness",
+  "sa": [
+   "ॐ इत्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं",
+   "भूतं भवद् भविष्यदिति सर्वमोङ्कार एव",
+   "यच्चान्यत् त्रिकालातीतं तदप्योङ्कार एव ॥ १॥"
+  ],
+  "iast": [
+   "oṃ ityetadakṣaramidaṃ sarvaṃ tasyopavyākhyānaṃ",
+   "bhūtaṃ bhavad bhaviṣyaditi sarvamoṅkāra eva",
+   "yaccānyat trikālātītaṃ tadapyoṅkāra eva ॥ 1॥"
+  ],
+  "alt": [
+   {
+    "text": "OM is this imperishable Word, OM is the Universe, and this is the exposition of OM. The past, the present and the future, all that was, all that is, all that will be, is OM. Likewise all else that may exist beyond the bounds of Time, that too is OM.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 193",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ॐ",
+    "oṃ",
+    "Oṃ, the sacred syllable",
+    "oṃ"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etat"
+   ],
+   [
+    "अक्षरम्",
+    "akṣaram",
+    "syllable",
+    "akṣaram"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarvam"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tasya"
+   ],
+   [
+    "उपव्याख्यानम्",
+    "upavyākhyānam",
+    "exposition",
+    "upavyākhyānam"
+   ],
+   [
+    "भूतम्",
+    "bhūtam",
+    "what has been",
+    "bhūtam"
+   ],
+   [
+    "भवत्",
+    "bhavat",
+    "what is becoming",
+    "bhavat"
+   ],
+   [
+    "भविष्यत्",
+    "bhaviṣyat",
+    "what will be",
+    "bhaviṣyat"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarvam"
+   ],
+   [
+    "ओङ्कारः",
+    "oṅkāraḥ",
+    "the utterance Oṃ",
+    "oṅkāraḥ"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "यत्",
+    "yat",
+    "whatever",
+    "yat"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अन्यत्",
+    "anyat",
+    "other",
+    "anyat"
+   ],
+   [
+    "त्रिकालातीतम्",
+    "trikālātītam",
+    "beyond the three times",
+    "trikālātītam"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tat"
+   ],
+   [
+    "अपि",
+    "api",
+    "also",
+    "api"
+   ],
+   [
+    "ओङ्कारः",
+    "oṅkāraḥ",
+    "the utterance Oṃ",
+    "oṅkāraḥ"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ]
+  ],
+  "tr": {
+   "text": "All this is the letter Om. A vivid explanation of this (is begun). All that is past, present, and future is but Om. Whatever transcends the three periods of time, too, is Om.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.1.mp3",
+   "whole": [
+    3.33,
+    27.39
+   ]
+  },
+  "hasBhashya": false,
+  "order": 2
+ },
+ {
+  "id": "MaU_2",
+  "ref": "2",
+  "section": "Self and consciousness",
+  "sa": [
+   "सर्वं ह्येतद् ब्रह्मायमात्मा ब्रह्म सोऽयमात्मा चतुष्पात् ॥ २॥"
+  ],
+  "iast": [
+   "sarvaṃ hyetad brahmāyamātmā brahma so’yamātmā catuṣpāt ॥ 2॥"
+  ],
+  "alt": [
+   {
+    "text": "All this Universe is the Eternal Brahman, this Self is the Eternal, and the Self is fourfold.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 193",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarvam"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etat"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahma"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "ayam"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātmā"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahma"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "saḥ"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "ayam"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātmā"
+   ],
+   [
+    "चतुष्पात्",
+    "catuṣpāt",
+    "having four quarters",
+    "catuṣpāt"
+   ]
+  ],
+  "tr": {
+   "text": "All this is certainly Brahman. This Self is Brahman. This Self, as such, is possessed of four quarters.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.2.mp3",
+   "whole": [
+    29.33,
+    41.05
+   ]
+  },
+  "hasBhashya": true,
+  "order": 3
+ },
+ {
+  "id": "MaU_3",
+  "ref": "3",
+  "section": "Self and consciousness",
+  "sa": [
+   "जागरितस्थानो बहिष्प्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः",
+   "स्थूलभुग्वैश्वानरः प्रथमः पादः ॥ ३॥"
+  ],
+  "iast": [
+   "jāgaritasthāno bahiṣprajñaḥ saptāṅga ekonaviṃśatimukhaḥ",
+   "sthūlabhugvaiśvānaraḥ prathamaḥ pādaḥ ॥ 3॥"
+  ],
+  "alt": [
+   {
+    "text": "He whose place is the wakefulness, who is wise of the outward, who has seven limbs, to whom there are nineteen doors, who feeleth and enjoyeth gross objects, Vaiswanor, the Universal Male, He is the first.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 193–194",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "जागरितस्थानः",
+    "jāgaritasthānaḥ",
+    "whose sphere is waking",
+    "jāgaritasthānaḥ"
+   ],
+   [
+    "बहिष्प्रज्ञः",
+    "bahiṣprajñaḥ",
+    "outwardly conscious",
+    "bahiṣprajñaḥ"
+   ],
+   [
+    "सप्ताङ्गः",
+    "saptāṅgaḥ",
+    "having seven limbs",
+    "saptāṅgaḥ"
+   ],
+   [
+    "एकोनविंशतिमुखः",
+    "ekonaviṃśatimukhaḥ",
+    "having nineteen mouths or openings",
+    "ekonaviṃśatimukhaḥ"
+   ],
+   [
+    "स्थूलभुक्",
+    "sthūlabhuk",
+    "enjoyer of gross objects",
+    "sthūlabhuk"
+   ],
+   [
+    "वैश्वानरः",
+    "vaiśvānaraḥ",
+    "Vaiśvānara",
+    "vaiśvānaraḥ"
+   ],
+   [
+    "प्रथमः",
+    "prathamaḥ",
+    "first",
+    "prathamaḥ"
+   ],
+   [
+    "पादः",
+    "pādaḥ",
+    "quarter",
+    "pādaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "(The Self) seated in the waking state and called Vaisvanara who, possessed of the consciousness of the exterior, and seven limbs and nineteen mouths, enjoys the gross objects, is the first quarter.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.3.mp3",
+   "whole": [
+    41.87,
+    58.08
+   ]
+  },
+  "hasBhashya": true,
+  "order": 4
+ },
+ {
+  "id": "MaU_4",
+  "ref": "4",
+  "section": "Self and consciousness",
+  "sa": [
+   "स्वप्नस्थानोऽन्तःप्रज्ञः सप्ताङ्ग एकोनविंशतिमुखः",
+   "प्रविविक्तभुक्तैजसो द्वितीयः पादः ॥ ४॥"
+  ],
+  "iast": [
+   "svapnasthāno’ntaḥprajñaḥ saptāṅga ekonaviṃśatimukhaḥ",
+   "praviviktabhuktaijaso dvitīyaḥ pādaḥ ॥ 4॥"
+  ],
+  "alt": [
+   {
+    "text": "He whose place is the dream, who is wise of the inward, who has seven limbs, to whom there are nineteen doors, who feeleth and enjoyeth subtle objects, Taijasa, the Inhabitant in Luminous Mind, He is the second.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 194",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "स्वप्नस्थानः",
+    "svapnasthānaḥ",
+    "whose sphere is dream",
+    "svapnasthānaḥ"
+   ],
+   [
+    "अन्तःप्रज्ञः",
+    "antaḥprajñaḥ",
+    "inwardly conscious",
+    "antaḥprajñaḥ"
+   ],
+   [
+    "सप्ताङ्गः",
+    "saptāṅgaḥ",
+    "having seven limbs",
+    "saptāṅgaḥ"
+   ],
+   [
+    "एकोनविंशतिमुखः",
+    "ekonaviṃśatimukhaḥ",
+    "having nineteen mouths or openings",
+    "ekonaviṃśatimukhaḥ"
+   ],
+   [
+    "प्रविविक्तभुक्",
+    "praviviktabhuk",
+    "enjoyer of subtle objects",
+    "praviviktabhuk"
+   ],
+   [
+    "तैजसः",
+    "taijasaḥ",
+    "Taijasa",
+    "taijasaḥ"
+   ],
+   [
+    "द्वितीयः",
+    "dvitīyaḥ",
+    "second",
+    "dvitīyaḥ"
+   ],
+   [
+    "पादः",
+    "pādaḥ",
+    "quarter",
+    "pādaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "(The Self) seated in the state of dream and called Taijasa who, possessed of the consciousness of the interior, and seven limbs and nineteen mouths, enjoys the subtle objects, is the second quarter.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.4.mp3",
+   "whole": [
+    58.08,
+    74.32
+   ]
+  },
+  "hasBhashya": true,
+  "order": 5
+ },
+ {
+  "id": "MaU_5",
+  "ref": "5",
+  "section": "Self and consciousness",
+  "sa": [
+   "यत्र सुप्तो न कञ्चन कामं कामयते न कञ्चन स्वप्नं",
+   "पश्यति तत् सुषुप्तम् । सुषुप्तस्थान एकीभूतः प्रज्ञानघन",
+   "एवानन्दमयो ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः ॥ ५॥"
+  ],
+  "iast": [
+   "yatra supto na kañcana kāmaṃ kāmayate na kañcana svapnaṃ",
+   "paśyati tat suṣuptam । suṣuptasthāna ekībhūtaḥ prajñānaghana",
+   "evānandamayo hyānandabhuk cetomukhaḥ prājñastṛtīyaḥ pādaḥ ॥ 5॥"
+  ],
+  "alt": [
+   {
+    "text": "When one sleepeth and yearneth not with any desire, nor seeth any dream, that is the perfect slumber. He whose place is the perfect slumber, who is become Oneness, who is wisdom gathered into itself, who is made of mere delight, who enjoyeth delight unrelated, to whom conscious mind is the door, Prajna, the Lord of Wisdom, He is the third.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 194",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "सुप्तः",
+    "suptaḥ",
+    "asleep",
+    "suptaḥ"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "कञ्चन",
+    "kañcana",
+    "any whatsoever",
+    "kañcana"
+   ],
+   [
+    "कामम्",
+    "kāmam",
+    "desire",
+    "kāmam"
+   ],
+   [
+    "कामयते",
+    "kāmayate",
+    "desires",
+    "kāmayate"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "कञ्चन",
+    "kañcana",
+    "any whatsoever",
+    "kañcana"
+   ],
+   [
+    "स्वप्नम्",
+    "svapnam",
+    "dream",
+    "svapnam"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "√dṛś"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tat"
+   ],
+   [
+    "सुषुप्तम्",
+    "suṣuptam",
+    "deep sleep",
+    "suṣuptam"
+   ],
+   [
+    "सुषुप्तस्थानः",
+    "suṣuptasthānaḥ",
+    "whose sphere is deep sleep",
+    "suṣuptasthānaḥ"
+   ],
+   [
+    "एकीभूतः",
+    "ekībhūtaḥ",
+    "become one",
+    "ekībhūtaḥ"
+   ],
+   [
+    "प्रज्ञानघनः",
+    "prajñānaghanaḥ",
+    "consciousness gathered into a mass",
+    "prajñānaghanaḥ"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "आनन्दमयः",
+    "ānandamayaḥ",
+    "consisting of bliss",
+    "ānandamayaḥ"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "आनन्दभुक्",
+    "ānandabhuk",
+    "enjoyer of bliss",
+    "ānandabhuk"
+   ],
+   [
+    "चेतोमुखः",
+    "cetomukhaḥ",
+    "having consciousness as entrance",
+    "cetomukhaḥ"
+   ],
+   [
+    "प्राज्ञः",
+    "prājñaḥ",
+    "Prājña",
+    "prājñaḥ"
+   ],
+   [
+    "तृतीयः",
+    "tṛtīyaḥ",
+    "third",
+    "tṛtīyaḥ"
+   ],
+   [
+    "पादः",
+    "pādaḥ",
+    "quarter",
+    "pādaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "Where the sleeper desires not a thing of enjoyment and sees not any dream, that state is deep sleep. (The Self) seated in the state of deep sleep and called Prajna, in whom everything is unified, who is dense with consciousness, who is full of bliss, who is certainly the enjoyer of bliss, and who is the door to the knowledge (of the preceding two states), is the third quarter.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.5.mp3",
+   "whole": [
+    74.32,
+    104.43
+   ]
+  },
+  "hasBhashya": true,
+  "order": 6
+ },
+ {
+  "id": "MaU_6",
+  "ref": "6",
+  "section": "Self and consciousness",
+  "sa": [
+   "एष सर्वेश्वरः एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य",
+   "प्रभवाप्ययौ हि भूतानाम् ॥ ६॥"
+  ],
+  "iast": [
+   "eṣa sarveśvaraḥ eṣa sarvajña eṣo’ntaryāmyeṣa yoniḥ sarvasya",
+   "prabhavāpyayau hi bhūtānām ॥ 6॥"
+  ],
+  "alt": [
+   {
+    "text": "This is the Almighty, this is the Omniscient, this is the Inner Soul, this is the Womb of the Universe, this is the Birth and Destruction of creatures.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 194",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एषः",
+    "eṣaḥ",
+    "this one",
+    "eṣaḥ"
+   ],
+   [
+    "सर्वेश्वरः",
+    "sarveśvaraḥ",
+    "Lord of all",
+    "sarveśvaraḥ"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this one",
+    "eṣaḥ"
+   ],
+   [
+    "सर्वज्ञः",
+    "sarvajñaḥ",
+    "all-knowing",
+    "sarvajñaḥ"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this one",
+    "eṣaḥ"
+   ],
+   [
+    "अन्तर्यामी",
+    "antaryāmī",
+    "inner ruler",
+    "antaryāmī"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this one",
+    "eṣaḥ"
+   ],
+   [
+    "योनिः",
+    "yoniḥ",
+    "source",
+    "yoniḥ"
+   ],
+   [
+    "सर्वस्य",
+    "sarvasya",
+    "of all",
+    "sarvasya"
+   ],
+   [
+    "प्रभवाप्ययौ",
+    "prabhavāpyayau",
+    "origin and dissolution",
+    "prabhavāpyayau"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "भूतानाम्",
+    "bhūtānām",
+    "of beings",
+    "bhūtānām"
+   ]
+  ],
+  "tr": {
+   "text": "This is the Lord of all; this is omniscient; this is the in-dwelling controller (of all); this is the source and indeed the origin and dissolution of all beings.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.6.mp3",
+   "whole": [
+    104.43,
+    122.95
+   ]
+  },
+  "hasBhashya": true,
+  "order": 7
+ },
+ {
+  "id": "MaU_7",
+  "ref": "7",
+  "section": "Self and consciousness",
+  "sa": [
+   "नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतःप्रज्ञं न प्रज्ञानघनं",
+   "न प्रज्ञं नाप्रज्ञम् । अदृष्टमव्यवहार्यमग्राह्यमलक्षणं",
+   "अचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं",
+   "शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥ ७॥"
+  ],
+  "iast": [
+   "nāntaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥprajñaṃ na prajñānaghanaṃ",
+   "na prajñaṃ nāprajñam । adṛṣṭamavyavahāryamagrāhyamalakṣaṇaṃ",
+   "acintyamavyapadeśyamekātmapratyayasāraṃ prapañcopaśamaṃ",
+   "śāntaṃ śivamadvaitaṃ caturthaṃ manyante sa ātmā sa vijñeyaḥ ॥ 7॥"
+  ],
+  "alt": [
+   {
+    "text": "He who is neither inward-wise, nor outward-wise, nor both inward and outward wise, nor wisdom self-gathered, nor possessed of wisdom, nor unpossessed of wisdom, He Who is unseen and incommunicable, unseizable, featureless, unthinkable, and unnameable, Whose essentiality is awareness of the Self in its single existence, in Whom all phenomena dissolve, Who is Calm, Who is Good, Who is the One than Whom there is no other, Him they deem the fourth; He is the Self, He is the object of Knowledge.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 194–195",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अन्तःप्रज्ञम्",
+    "antaḥprajñam",
+    "inwardly conscious",
+    "antaḥprajñam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "बहिष्प्रज्ञम्",
+    "bahiṣprajñam",
+    "outwardly conscious",
+    "bahiṣprajñam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "उभयतःप्रज्ञम्",
+    "ubhayataḥprajñam",
+    "conscious in both directions",
+    "ubhayataḥprajñam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "प्रज्ञानघनम्",
+    "prajñānaghanam",
+    "a mass of consciousness",
+    "prajñānaghanam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "प्रज्ञम्",
+    "prajñam",
+    "conscious",
+    "prajñam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अप्रज्ञम्",
+    "aprajñam",
+    "unconscious",
+    "aprajñam"
+   ],
+   [
+    "अदृष्टम्",
+    "adṛṣṭam",
+    "unseen",
+    "adṛṣṭam"
+   ],
+   [
+    "अव्यवहार्यम्",
+    "avyavahāryam",
+    "beyond ordinary dealings",
+    "avyavahāryam"
+   ],
+   [
+    "अग्राह्यम्",
+    "agrāhyam",
+    "not graspable",
+    "agrāhyam"
+   ],
+   [
+    "अलक्षणम्",
+    "alakṣaṇam",
+    "without distinguishing mark",
+    "alakṣaṇam"
+   ],
+   [
+    "अचिन्त्यम्",
+    "acintyam",
+    "unthinkable",
+    "acintyam"
+   ],
+   [
+    "अव्यपदेश्यम्",
+    "avyapadeśyam",
+    "not definable or designatable",
+    "avyapadeśyam"
+   ],
+   [
+    "एकात्मप्रत्ययसारम्",
+    "ekātmapratyayasāram",
+    "whose essence is awareness of the one Self",
+    "ekātmapratyayasāram"
+   ],
+   [
+    "प्रपञ्चोपशमम्",
+    "prapañcopaśamam",
+    "cessation of phenomenal multiplicity",
+    "prapañcopaśamam"
+   ],
+   [
+    "शान्तम्",
+    "śāntam",
+    "peaceful",
+    "śāntam"
+   ],
+   [
+    "शिवम्",
+    "śivam",
+    "auspicious",
+    "śivam"
+   ],
+   [
+    "अद्वैतम्",
+    "advaitam",
+    "nondual",
+    "advaitam"
+   ],
+   [
+    "चतुर्थम्",
+    "caturtham",
+    "fourth",
+    "caturtham"
+   ],
+   [
+    "मन्यन्ते",
+    "manyante",
+    "they deem",
+    "√man"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "saḥ"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātmā"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "saḥ"
+   ],
+   [
+    "विज्ञेयः",
+    "vijñeyaḥ",
+    "to be known",
+    "vijñeyaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "The Fourth is thought of as that which is not conscious of the internal world, nor conscious of the external world, nor conscious of both the worlds, nor dense with consciousness, nor simple consciousness, nor unconsciousness, which is unseen, actionless, incomprehensible, uninferable, unthinkable, indescribable, whose proof consists in the identity of the Self (in all states), in which all phenomena come to a cessation, and which is unchanging, auspicious, and non-dual. That is the Self; that is to be known.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.7.mp3",
+   "whole": [
+    124.14,
+    166.11
+   ]
+  },
+  "hasBhashya": true,
+  "order": 8
+ },
+ {
+  "id": "MaU_8",
+  "ref": "8",
+  "section": "Oṃ and its sound elements",
+  "sa": [
+   "सोऽयमात्माध्यक्षरमोङ्कारोऽधिमात्रं पादा मात्रा मात्राश्च पादा",
+   "अकार उकारो मकार इति ॥ ८॥"
+  ],
+  "iast": [
+   "so’yamātmādhyakṣaramoṅkāro’dhimātraṃ pādā mātrā mātrāśca pādā",
+   "akāra ukāro makāra iti ॥ 8॥"
+  ],
+  "alt": [
+   {
+    "text": "Now this the Self, as to the imperishable Word, is OM; and as to the letters, His parts are the letters and the letters are His parts, namely, A U M.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 195",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "saḥ"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "ayam"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātmā"
+   ],
+   [
+    "अध्यक्षरम्",
+    "adhyakṣaram",
+    "with reference to the syllable",
+    "adhyakṣaram"
+   ],
+   [
+    "ओङ्कारः",
+    "oṅkāraḥ",
+    "the utterance Oṃ",
+    "oṅkāraḥ"
+   ],
+   [
+    "अधिमात्रम्",
+    "adhimātram",
+    "with reference to the sound elements",
+    "adhimātram"
+   ],
+   [
+    "पादाः",
+    "pādāḥ",
+    "quarters",
+    "pādāḥ"
+   ],
+   [
+    "मात्राः",
+    "mātrāḥ",
+    "sound elements",
+    "mātrāḥ"
+   ],
+   [
+    "मात्राः",
+    "mātrāḥ",
+    "sound elements",
+    "mātrāḥ"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "पादाः",
+    "pādāḥ",
+    "quarters",
+    "pādāḥ"
+   ],
+   [
+    "अकारः",
+    "akāraḥ",
+    "the sound A",
+    "akāraḥ"
+   ],
+   [
+    "उकारः",
+    "ukāraḥ",
+    "the sound U",
+    "ukāraḥ"
+   ],
+   [
+    "मकारः",
+    "makāraḥ",
+    "the sound M",
+    "makāraḥ"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "That same Self, from the point of view of the syllable, is Om, and viewed from the stand point of the letters, the quarters are the letters, and the letters are the quarters. The letters are a, u and m.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.8.mp3",
+   "whole": [
+    166.58,
+    186.22
+   ]
+  },
+  "hasBhashya": true,
+  "order": 9
+ },
+ {
+  "id": "MaU_9",
+  "ref": "9",
+  "section": "Oṃ and its sound elements",
+  "sa": [
+   "जागरितस्थानो वैश्वानरोऽकारः प्रथमा मात्राऽऽप्तेरादिमत्त्वाद्",
+   "वाऽऽप्नोति ह वै सर्वान् कामानादिश्च भवति य एवं वेद ॥ ९॥"
+  ],
+  "iast": [
+   "jāgaritasthāno vaiśvānaro’kāraḥ prathamā mātrā’’pterādimattvād",
+   "vā’’pnoti ha vai sarvān kāmānādiśca bhavati ya evaṃ veda ॥ 9॥"
+  ],
+  "alt": [
+   {
+    "text": "The Waker, Vaiswanor, the Universal Male, He is A, the first letter, because of Initiality and Pervasiveness; he that knoweth Him for such pervadeth and attaineth all his desires; he becometh the source and first.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 195",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "जागरितस्थानः",
+    "jāgaritasthānaḥ",
+    "whose sphere is waking",
+    "jāgaritasthānaḥ"
+   ],
+   [
+    "वैश्वानरः",
+    "vaiśvānaraḥ",
+    "Vaiśvānara",
+    "vaiśvānaraḥ"
+   ],
+   [
+    "अकारः",
+    "akāraḥ",
+    "the sound A",
+    "akāraḥ"
+   ],
+   [
+    "प्रथमा",
+    "prathamā",
+    "first",
+    "prathamā"
+   ],
+   [
+    "मात्रा",
+    "mātrā",
+    "sound element",
+    "mātrā"
+   ],
+   [
+    "आप्तेः",
+    "āpteḥ",
+    "because of attainment or pervasion",
+    "āpteḥ"
+   ],
+   [
+    "आदिमत्त्वात्",
+    "ādimattvāt",
+    "because of being first",
+    "ādimattvāt"
+   ],
+   [
+    "वा",
+    "vā",
+    "or",
+    "vā"
+   ],
+   [
+    "आप्नोति",
+    "āpnoti",
+    "attains",
+    "√āp"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "सर्वान्",
+    "sarvān",
+    "all",
+    "sarvān"
+   ],
+   [
+    "कामान्",
+    "kāmān",
+    "desires",
+    "kāmān"
+   ],
+   [
+    "आदिः",
+    "ādiḥ",
+    "first",
+    "ādiḥ"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yaḥ"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ]
+  ],
+  "tr": {
+   "text": "Vaisvanara seated in the waking state is the first letter a, owing to its all-pervasiveness or being the first. He who knows thus verily accomplishes all longings and becomes the first.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.9.mp3",
+   "whole": [
+    187.17,
+    211.71
+   ]
+  },
+  "hasBhashya": true,
+  "order": 10
+ },
+ {
+  "id": "MaU_10",
+  "ref": "10",
+  "section": "Oṃ and its sound elements",
+  "sa": [
+   "स्वप्नस्थानस्तैजस उकारो द्वितीया मात्रोत्कर्षात्",
+   "उभयत्वाद्वोत्कर्षति ह वै ज्ञानसन्ततिं समानश्च भवति",
+   "नास्याब्रह्मवित्कुले भवति य एवं वेद ॥ १०॥"
+  ],
+  "iast": [
+   "svapnasthānastaijasa ukāro dvitīyā mātrotkarṣāt",
+   "ubhayatvādvotkarṣati ha vai jñānasantatiṃ samānaśca bhavati",
+   "nāsyābrahmavitkule bhavati ya evaṃ veda ॥ 10॥"
+  ],
+  "alt": [
+   {
+    "text": "The Dreamer, Taijasa, the Inhabitant in Luminous Mind, He is U, the second letter, because of Advance and Centrality; he that knoweth Him for such, advanceth the bounds of his knowledge and riseth above difference; nor of his seed is any born that knoweth not the Eternal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 195",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "स्वप्नस्थानः",
+    "svapnasthānaḥ",
+    "whose sphere is dream",
+    "svapnasthānaḥ"
+   ],
+   [
+    "तैजसः",
+    "taijasaḥ",
+    "Taijasa",
+    "taijasaḥ"
+   ],
+   [
+    "उकारः",
+    "ukāraḥ",
+    "the sound U",
+    "ukāraḥ"
+   ],
+   [
+    "द्वितीया",
+    "dvitīyā",
+    "second",
+    "dvitīyā"
+   ],
+   [
+    "मात्रा",
+    "mātrā",
+    "sound element",
+    "mātrā"
+   ],
+   [
+    "उत्कर्षात्",
+    "utkarṣāt",
+    "because of elevation",
+    "utkarṣāt"
+   ],
+   [
+    "उभयत्वात्",
+    "ubhayatvāt",
+    "because of being both",
+    "ubhayatvāt"
+   ],
+   [
+    "वा",
+    "vā",
+    "or",
+    "vā"
+   ],
+   [
+    "उत्कर्षति",
+    "utkarṣati",
+    "raises",
+    "utkarṣati"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "ज्ञानसन्ततिम्",
+    "jñānasantatim",
+    "continuity",
+    "jñānasantatim"
+   ],
+   [
+    "समानः",
+    "samānaḥ",
+    "equal",
+    "samānaḥ"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of him",
+    "asya"
+   ],
+   [
+    "अब्रह्मवित्",
+    "abrahmavit",
+    "one who does not know Brahman",
+    "abrahmavit"
+   ],
+   [
+    "कुले",
+    "kule",
+    "in the family",
+    "kule"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yaḥ"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ]
+  ],
+  "tr": {
+   "text": "Taijasa seated in the dream is u, the second letter (of Om), owing to the similarity of excellence or intermediate position. He who knows thus verily advances the bounds of his knowledge and becomes equal (to all) and none who is not a knower of Brahman is born in his family.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.10.mp3",
+   "whole": [
+    213.07,
+    242.06
+   ]
+  },
+  "hasBhashya": true,
+  "order": 11
+ },
+ {
+  "id": "MaU_11",
+  "ref": "11",
+  "section": "Oṃ and its sound elements",
+  "sa": [
+   "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा",
+   "मिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥ ११॥"
+  ],
+  "iast": [
+   "suṣuptasthānaḥ prājño makārastṛtīyā mātrā miterapītervā",
+   "minoti ha vā idaṃ sarvamapītiśca bhavati ya evaṃ veda ॥ 11॥"
+  ],
+  "alt": [
+   {
+    "text": "The Sleeper, Prajna, the Lord of Wisdom, He is M, the third letter, because of Measure and Finality; he that knoweth Him for such measureth with himself the Universe and becometh the departure into the Eternal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 195",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सुषुप्तस्थानः",
+    "suṣuptasthānaḥ",
+    "whose sphere is deep sleep",
+    "suṣuptasthānaḥ"
+   ],
+   [
+    "प्राज्ञः",
+    "prājñaḥ",
+    "Prājña",
+    "prājñaḥ"
+   ],
+   [
+    "मकारः",
+    "makāraḥ",
+    "the sound M",
+    "makāraḥ"
+   ],
+   [
+    "तृतीया",
+    "tṛtīyā",
+    "third",
+    "tṛtīyā"
+   ],
+   [
+    "मात्रा",
+    "mātrā",
+    "sound element",
+    "mātrā"
+   ],
+   [
+    "मितेः",
+    "miteḥ",
+    "because of measuring",
+    "miteḥ"
+   ],
+   [
+    "अपीतेः",
+    "apīteḥ",
+    "because of merging or dissolution",
+    "apīteḥ"
+   ],
+   [
+    "वा",
+    "vā",
+    "or",
+    "vā"
+   ],
+   [
+    "मिनोति",
+    "minoti",
+    "measures",
+    "minoti"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वा",
+    "vā",
+    "or",
+    "vā"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarvam"
+   ],
+   [
+    "अपीतिः",
+    "apītiḥ",
+    "merging",
+    "apītiḥ"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yaḥ"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ]
+  ],
+  "tr": {
+   "text": "Prajna seated in the state of deep sleep is m, the third letter (of Om), because of his being the measure or the entity wherein all become absorbed. He who knows thus measures all this and absorbs all.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.11.mp3",
+   "whole": [
+    242.94,
+    264.79
+   ]
+  },
+  "hasBhashya": true,
+  "order": 12
+ },
+ {
+  "id": "MaU_12",
+  "ref": "12",
+  "section": "Oṃ and its sound elements",
+  "sa": [
+   "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत",
+   "एवमोङ्कार आत्मैव संविशत्यात्मनाऽऽत्मानं य एवं वेद य एवं वेद ॥ १२॥"
+  ],
+  "iast": [
+   "amātraścaturtho’vyavahāryaḥ prapañcopaśamaḥ śivo’dvaita",
+   "evamoṅkāra ātmaiva saṃviśatyātmanā’’tmānaṃ ya evaṃ veda ya evaṃ veda ॥ 12॥"
+  ],
+  "alt": [
+   {
+    "text": "Letterless is the fourth, the Incommunicable, the end of phenomena, the Good, the One than Whom there is no other; thus is OM. He that knoweth is the Self and entereth by his self into the Self, he that knoweth, he that knoweth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 196",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अमात्रः",
+    "amātraḥ",
+    "without a sound element or measure",
+    "amātraḥ"
+   ],
+   [
+    "चतुर्थः",
+    "caturthaḥ",
+    "fourth",
+    "caturthaḥ"
+   ],
+   [
+    "अव्यवहार्यः",
+    "avyavahāryaḥ",
+    "beyond ordinary dealings",
+    "avyavahāryaḥ"
+   ],
+   [
+    "प्रपञ्चोपशमः",
+    "prapañcopaśamaḥ",
+    "cessation of phenomenal multiplicity",
+    "prapañcopaśamaḥ"
+   ],
+   [
+    "शिवः",
+    "śivaḥ",
+    "auspicious",
+    "śivaḥ"
+   ],
+   [
+    "अद्वैतः",
+    "advaitaḥ",
+    "nondual",
+    "advaitaḥ"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "ओङ्कारः",
+    "oṅkāraḥ",
+    "the utterance Oṃ",
+    "oṅkāraḥ"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātmā"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "संविशति",
+    "saṃviśati",
+    "enters",
+    "√viś"
+   ],
+   [
+    "आत्मना",
+    "ātmanā",
+    "by the self",
+    "ātmanā"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the self",
+    "ātmānam"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yaḥ"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yaḥ"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ]
+  ],
+  "tr": {
+   "text": "That which is without letters (parts) is the Fourth, beyond apprehension through ordinary means, the cessation of the phenomenal world, the auspicious and the non-dual. Thus Om is certainly the Self. He who knows thus enters the Self by the Self.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mandukyopanisad/5.12.mp3",
+   "whole": [
+    265.57,
+    291.02
+   ]
+  },
+  "hasBhashya": true,
+  "order": 13
+ }
+]

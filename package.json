@@ -1,0 +1,57 @@
+{
+  "name": "upasarathi",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UpaSārathi (उपसारथि): the Principal Upanishads as a knowledge graph, and an alignment harness that tests AI answers against them.",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/build-harness.mjs && node scripts/build-tts-worker.mjs && next dev --turbopack",
+    "build": "node scripts/build-harness.mjs && node scripts/build-tts-worker.mjs && next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit && tsc -p tests",
+    "test": "node --test tests/*.test.ts",
+    "data:sources": "node scripts/ingest.mjs",
+    "data:words": "node scripts/ingest-words.mjs",
+    "data": "node scripts/build.mjs",
+    "data:verify": "node scripts/verify.mjs",
+    "runs:record": "node scripts/record-runs.mjs",
+    "runs:verify": "node scripts/verify-runs.mjs",
+    "harness:build": "node scripts/build-harness.mjs",
+    "harness": "node harness/cli.ts",
+    "runs:rederive": "node scripts/rederive-checks.mjs",
+    "runs:table": "node scripts/bench-table.mjs",
+    "runs:restamp": "node scripts/restamp-runs.mjs",
+    "tts:worker": "node scripts/build-tts-worker.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.12.0",
+    "@mintplex-labs/piper-tts-web": "1.0.5",
+    "@vercel/analytics": "^2.0.1",
+    "@xyflow/react": "^12.12.0",
+    "d3-force-3d": "^3.0.6",
+    "dagre": "^0.8.5",
+    "next": "^15.5.28",
+    "onnxruntime-web": "1.23.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-force-graph-2d": "^1.29.2",
+    "react-force-graph-3d": "^1.29.2",
+    "three": "^0.187.0",
+    "three-spritetext": "^1.10.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/dagre": "^0.7.54",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/three": "^0.187.0",
+    "esbuild": "^0.28.2",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^5.9.3"
+  },
+  "overrides": {
+    "postcss": "^8.5.32"
+  }
+}

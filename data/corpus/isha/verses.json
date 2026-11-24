@@ -1,0 +1,2434 @@
+[
+ {
+  "id": "IU_0",
+  "ref": "0",
+  "section": "Śānti mantra · Pūrṇam adaḥ",
+  "shanti": true,
+  "sa": [
+   "ॐ पूर्णमदः पूर्णमिदं पूर्णात् पूर्णमुदच्यते ।",
+   "पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते ॥",
+   "ॐ शान्तिः शान्तिः शान्तिः ॥"
+  ],
+  "iast": [
+   "oṃ pūrṇam adaḥ pūrṇam idaṃ pūrṇāt pūrṇam udacyate",
+   "pūrṇasya pūrṇam ādāya pūrṇam evāvaśiṣyate",
+   "oṃ śāntiḥ śāntiḥ śāntiḥ"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Om ! That is full; this is full, (for) from the full the full (indeed) arises. When the full is taken from the full, what remains is full indeed. Om! Peace! Peace! Peace!",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/shantimantra/0.wav",
+   "whole": [
+    0,
+    39.6
+   ]
+  },
+  "hasBhashya": false,
+  "order": 1
+ },
+ {
+  "id": "IU_1",
+  "ref": "1",
+  "section": "The eighteen mantras",
+  "sa": [
+   "ईशा वास्यमिदं सर्वं यत् किञ्च जगत्यां जगत् ।",
+   "तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद् धनम् ॥"
+  ],
+  "iast": [
+   "īśā vāsyamidaṃ sarvaṃ yat kiñca jagatyāṃ jagat ।",
+   "tena tyaktena bhuñjīthā mā gṛdhaḥ kasyasvid dhanam ॥"
+  ],
+  "alt": [
+   {
+    "text": "All this is for habitation by the Lord, whatsoever is individual universe of movement in the universal motion. By that renounced thou shouldst enjoy; lust not after any man's possession.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 5",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ईशा",
+    "īśā",
+    "by the Lord",
+    "īś"
+   ],
+   [
+    "वास्यम्",
+    "vāsyam",
+    "is for habitation",
+    "vās"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "ida"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "यत्",
+    "yat",
+    "whatsoever",
+    "yat"
+   ],
+   [
+    "किम्",
+    "kim",
+    "anything",
+    "kim"
+   ],
+   [
+    "च",
+    "ca",
+    "ever",
+    "ca"
+   ],
+   [
+    "जगत्याम्",
+    "jagatyām",
+    "in the universal motion",
+    "jagatī"
+   ],
+   [
+    "जगत्",
+    "jagat",
+    "individual universe of movement",
+    "jagat"
+   ],
+   [
+    "तेन",
+    "tena",
+    "by that",
+    "ta"
+   ],
+   [
+    "त्यक्तेन",
+    "tyaktena",
+    "renounced",
+    "tyakta"
+   ],
+   [
+    "भुञ्जीथाः",
+    "bhuñjīthāḥ",
+    "thou shouldst enjoy",
+    "√bhuj"
+   ],
+   [
+    "मा",
+    "mā",
+    "lust not",
+    "mā"
+   ],
+   [
+    "गृधः",
+    "gṛdhaḥ",
+    "covet",
+    "√gṛdh"
+   ],
+   [
+    "कस्य",
+    "kasya",
+    "any man's",
+    "ka"
+   ],
+   [
+    "स्वित्",
+    "svit",
+    "indefinite particle: any (with kasya, “anyone’s”)",
+    "svit"
+   ],
+   [
+    "धनम्",
+    "dhanam",
+    "possession",
+    "dhana"
+   ]
+  ],
+  "tr": {
+   "text": "Om. All this should be covered by the Lord, whatsoever moves on the earth. By such a renunciation protect (thyself). Covet not the wealth of others.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.1.mp3",
+   "whole": [
+    10.32,
+    26.44
+   ]
+  },
+  "hasBhashya": true,
+  "order": 2
+ },
+ {
+  "id": "IU_2",
+  "ref": "2",
+  "section": "The eighteen mantras",
+  "sa": [
+   "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः ।",
+   "एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥"
+  ],
+  "iast": [
+   "kurvanneveha karmāṇi jijīviṣecchataṃ samāḥ ।",
+   "evaṃ tvayi nānyatheto’sti na karma lipyate nare ॥"
+  ],
+  "alt": [
+   {
+    "text": "Doing verily works in this world one should wish to live a hundred years. Thus it is in thee and not otherwise than this; action cleaves not to a man.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 5",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "कुर्वन्",
+    "kurvan",
+    "Doing",
+    "kṛ"
+   ],
+   [
+    "एव",
+    "eva",
+    "verily",
+    "eva"
+   ],
+   [
+    "इह",
+    "iha",
+    "in this world",
+    "iha"
+   ],
+   [
+    "कर्माणि",
+    "karmāṇi",
+    "works",
+    "karman"
+   ],
+   [
+    "जिजीविषेत्",
+    "jijīviṣet",
+    "one should wish to live",
+    "√jīv"
+   ],
+   [
+    "शतम्",
+    "śatam",
+    "a hundred",
+    "śata"
+   ],
+   [
+    "समाः",
+    "samāḥ",
+    "years",
+    "samā"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "Thus",
+    "evam"
+   ],
+   [
+    "त्वयि",
+    "tvayi",
+    "in thee",
+    "tva"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अन्यथा",
+    "anyathā",
+    "otherwise",
+    "anya"
+   ],
+   [
+    "इतः",
+    "itaḥ",
+    "than this",
+    "itaḥ"
+   ],
+   [
+    "अस्ति",
+    "asti",
+    "it is",
+    "√as"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "कर्म",
+    "karma",
+    "action",
+    "karman"
+   ],
+   [
+    "लिप्यते",
+    "lipyate",
+    "cleaves",
+    "√lip"
+   ],
+   [
+    "नरे",
+    "nare",
+    "to a man",
+    "nara"
+   ]
+  ],
+  "tr": {
+   "text": "By performing karma in this world (as enjoined by the scriptures) should one yearn to live a hundred years. Thus action does not bind thee, the doer. There is no other way than this.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.2.mp3",
+   "whole": [
+    26.44,
+    42.66
+   ]
+  },
+  "hasBhashya": true,
+  "order": 3
+ },
+ {
+  "id": "IU_3",
+  "ref": "3",
+  "section": "The eighteen mantras",
+  "sa": [
+   "असूर्या नाम ते लोका अन्धेन तमसावृताः ।",
+   "तांस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः ॥"
+  ],
+  "iast": [
+   "asūryā nāma te lokā andhena tamasāvṛtāḥ ।",
+   "tāṃste pretyābhigacchanti ye ke cātmahano janāḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Sunless are those worlds and enveloped in blind gloom whereto all they in their passing hence resort who are slayers of their souls.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "असूर्याः",
+    "asūryāḥ",
+    "Sunless",
+    "sūrya"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "indeed",
+    "nāma"
+   ],
+   [
+    "ते",
+    "te",
+    "those",
+    "ta"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "अन्धेन",
+    "andhena",
+    "in blind",
+    "andha"
+   ],
+   [
+    "तमसा",
+    "tamasā",
+    "gloom",
+    "tamas"
+   ],
+   [
+    "आवृताः",
+    "āvṛtāḥ",
+    "enveloped",
+    "vṛta"
+   ],
+   [
+    "तान्",
+    "tān",
+    "whereto",
+    "ta"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "ta"
+   ],
+   [
+    "प्रेत्य",
+    "pretya",
+    "in their passing hence",
+    "i"
+   ],
+   [
+    "अभिगच्छन्ति",
+    "abhigacchanti",
+    "resort",
+    "√gam"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "ya"
+   ],
+   [
+    "के",
+    "ke",
+    "all",
+    "ka"
+   ],
+   [
+    "च",
+    "ca",
+    "soever",
+    "ca"
+   ],
+   [
+    "आत्महनः",
+    "ātmahanaḥ",
+    "slayers of their souls",
+    "ātman+han"
+   ],
+   [
+    "जनाः",
+    "janāḥ",
+    "who are",
+    "jana"
+   ]
+  ],
+  "tr": {
+   "text": "Those worlds of Asuras (demons) are enshrouded by blinding gloom. Those who are the slayers of the Self go to them after death.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.3.mp3",
+   "whole": [
+    42.66,
+    59.26
+   ]
+  },
+  "hasBhashya": false,
+  "order": 4
+ },
+ {
+  "id": "IU_4",
+  "ref": "4",
+  "section": "The eighteen mantras",
+  "sa": [
+   "अनेजदेकं मनसो जवीयो नैनद् देवा आप्नुवन् पूर्वमर्षत् ।",
+   "तद् धावतोऽन्यानत्येति तिष्ठत् तस्मिन्नपो मातरिश्वा दधाति ॥४॥"
+  ],
+  "iast": [
+   "anejadekaṃ manaso javīyo nainad devā āpnuvan pūrvamarṣat ।",
+   "tad dhāvato’nyānatyeti tiṣṭhat tasminnapo mātariśvā dadhāti ॥4॥"
+  ],
+  "alt": [
+   {
+    "text": "One unmoving that is swifter than Mind, That the Gods reach not, for It progresses ever in front. That, standing, passes beyond others as they run. In That the Master of Life establishes the Waters.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अनेजद्",
+    "anejad",
+    "unmoving",
+    "nej"
+   ],
+   [
+    "एकम्",
+    "ekam",
+    "One",
+    "eka"
+   ],
+   [
+    "मनसः",
+    "manasaḥ",
+    "than Mind",
+    "manas"
+   ],
+   [
+    "जवीयः",
+    "javīyaḥ",
+    "swifter",
+    "javī"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "That",
+    "enad"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "the Gods",
+    "deva"
+   ],
+   [
+    "आप्नुवन्",
+    "āpnuvan",
+    "reach",
+    "√āp"
+   ],
+   [
+    "पूर्वम्",
+    "pūrvam",
+    "in front",
+    "pūrvam"
+   ],
+   [
+    "अर्षत्",
+    "arṣat",
+    "progresses",
+    "√ṛṣ"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "ta"
+   ],
+   [
+    "धावतः",
+    "dhāvataḥ",
+    "as they run",
+    "dhāva"
+   ],
+   [
+    "अन्यान्",
+    "anyān",
+    "others",
+    "anya"
+   ],
+   [
+    "अत्येति",
+    "atyeti",
+    "passes beyond",
+    "√i"
+   ],
+   [
+    "तिष्ठत्",
+    "tiṣṭhat",
+    "standing",
+    "sthā"
+   ],
+   [
+    "तस्मिन्",
+    "tasmin",
+    "In That",
+    "ta"
+   ],
+   [
+    "अपः",
+    "apaḥ",
+    "the Waters",
+    "ap"
+   ],
+   [
+    "मातरिश्वा",
+    "mātariśvā",
+    "the Master of Life",
+    "mātariśvan"
+   ],
+   [
+    "दधाति",
+    "dadhāti",
+    "establishes",
+    "√dhā"
+   ]
+  ],
+  "tr": {
+   "text": "Unmoving, It is one, faster than the mind. The senses cannot reach It, for It proceeds ahead. Remaining static It overtakes others that run. On account of Its presence, Matarsiva (the wind) conducts the activities of beings.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.4.mp3",
+   "whole": [
+    59.26,
+    79.81
+   ]
+  },
+  "hasBhashya": true,
+  "order": 5
+ },
+ {
+  "id": "IU_5",
+  "ref": "5",
+  "section": "The eighteen mantras",
+  "sa": [
+   "तदेजति तन्नैजति तद् दूरे तद्वन्तिके ।",
+   "तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः ॥५॥"
+  ],
+  "iast": [
+   "tadejati tannaijati tad dūre tadvantike ।",
+   "tadantarasya sarvasya tadu sarvasyāsya bāhyataḥ ॥5॥"
+  ],
+  "alt": [
+   {
+    "text": "That moves and That moves not; That is far and the same is near; That is within all this and That also is outside all this.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "That",
+    "ta"
+   ],
+   [
+    "एजति",
+    "ejati",
+    "moves",
+    "√ej"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "ta"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "एजति",
+    "ejati",
+    "moves",
+    "√ej"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "ta"
+   ],
+   [
+    "दूरे",
+    "dūre",
+    "is far",
+    "dūra"
+   ],
+   [
+    "तत्",
+    "tat",
+    "the same",
+    "ta"
+   ],
+   [
+    "उ",
+    "u",
+    "also / emphasis",
+    "u"
+   ],
+   [
+    "अन्तिके",
+    "antike",
+    "is near",
+    "antika"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "ta"
+   ],
+   [
+    "अन्तर्",
+    "antar",
+    "is within",
+    "antar"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "asya"
+   ],
+   [
+    "सर्वस्य",
+    "sarvasya",
+    "all this",
+    "sarva"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "ta"
+   ],
+   [
+    "उ",
+    "u",
+    "also",
+    "u"
+   ],
+   [
+    "सर्वस्य",
+    "sarvasya",
+    "all this",
+    "sarva"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "asya"
+   ],
+   [
+    "बाह्यतः",
+    "bāhyataḥ",
+    "is outside",
+    "bāhya"
+   ]
+  ],
+  "tr": {
+   "text": "It moves; It moves not. It is far; It is near. It is within all; It is without all.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.5.mp3",
+   "whole": [
+    79.81,
+    94.57
+   ]
+  },
+  "hasBhashya": true,
+  "order": 6
+ },
+ {
+  "id": "IU_6",
+  "ref": "6",
+  "section": "The eighteen mantras",
+  "sa": [
+   "यस्तु सर्वाणि भूतानि आत्मन्येवानुपश्यति ।",
+   "सर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥६॥"
+  ],
+  "iast": [
+   "yastu sarvāṇi bhūtāni ātmanyevānupaśyati ।",
+   "sarvabhūteṣu cātmānaṃ tato na vijugupsate ॥6॥"
+  ],
+  "alt": [
+   {
+    "text": "But he who sees everywhere the Self in all existences and all existences in the Self, shrinks not thereafter from aught.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 7",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "ya"
+   ],
+   [
+    "तु",
+    "tu",
+    "but",
+    "tu"
+   ],
+   [
+    "सर्वाणि",
+    "sarvāṇi",
+    "all",
+    "sarva"
+   ],
+   [
+    "भूतानि",
+    "bhūtāni",
+    "existences",
+    "bhūta"
+   ],
+   [
+    "आत्मनि",
+    "ātmani",
+    "in the Self",
+    "ātman"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अनुपश्यति",
+    "anupaśyati",
+    "sees",
+    "√dṛś"
+   ],
+   [
+    "सर्वभूतेषु",
+    "sarvabhūteṣu",
+    "in all existences",
+    "bhūta"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the Self",
+    "ātman"
+   ],
+   [
+    "ततः",
+    "tataḥ",
+    "thereafter",
+    "tat"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "विजुगुप्सते",
+    "vijugupsate",
+    "shrinks from aught",
+    "√gup"
+   ]
+  ],
+  "tr": {
+   "text": "He who perceives all beings in the Self alone, and the Self in all beings, does not entertain any hatred on account of that perception.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.6.mp3",
+   "whole": [
+    94.57,
+    109.47
+   ]
+  },
+  "hasBhashya": true,
+  "order": 7
+ },
+ {
+  "id": "IU_7",
+  "ref": "7",
+  "section": "The eighteen mantras",
+  "sa": [
+   "यस्मिन् सर्वाणि भूतानि आत्मैवाभूद् विजानतः ।",
+   "तत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥७॥"
+  ],
+  "iast": [
+   "yasmin sarvāṇi bhūtāni ātmaivābhūd vijānataḥ ।",
+   "tatra ko mohaḥ kaḥ śoka ekatvamanupaśyataḥ ॥7॥"
+  ],
+  "alt": [
+   {
+    "text": "He in whom it is the Self-Being that has become all existences that are Becomings, for he has the perfect knowledge, how shall he be deluded, whence shall he have grief who sees everywhere oneness?",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 7",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यस्मिन्",
+    "yasmin",
+    "He in whom",
+    "ya"
+   ],
+   [
+    "सर्वाणि",
+    "sarvāṇi",
+    "all",
+    "sarva"
+   ],
+   [
+    "भूतानि",
+    "bhūtāni",
+    "existences",
+    "bhūta"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "it is the Self-Being",
+    "ātman"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अभूद्",
+    "abhūd",
+    "that has become",
+    "√bhū"
+   ],
+   [
+    "विजानतः",
+    "vijānataḥ",
+    "for he has the perfect knowledge",
+    "jñā"
+   ],
+   [
+    "तत्र",
+    "tatra",
+    "how",
+    "ta"
+   ],
+   [
+    "कः",
+    "kaḥ",
+    "what? (what delusion could there be?)",
+    "ka"
+   ],
+   [
+    "मोहः",
+    "mohaḥ",
+    "shall he be deluded",
+    "moha"
+   ],
+   [
+    "कः",
+    "kaḥ",
+    "whence",
+    "ka"
+   ],
+   [
+    "शोकः",
+    "śokaḥ",
+    "shall he have grief",
+    "śoka"
+   ],
+   [
+    "एकत्वम्",
+    "ekatvam",
+    "everywhere oneness",
+    "eka"
+   ],
+   [
+    "अनुपश्यतः",
+    "anupaśyataḥ",
+    "who sees",
+    "paś"
+   ]
+  ],
+  "tr": {
+   "text": "When a man realizes that all beings are but the Self, what delusion is there, what grief, to that perceiver of oneness?",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.7.mp3",
+   "whole": [
+    109.47,
+    124.95
+   ]
+  },
+  "hasBhashya": true,
+  "order": 8
+ },
+ {
+  "id": "IU_8",
+  "ref": "8",
+  "section": "The eighteen mantras",
+  "sa": [
+   "स पर्यगाच्छुक्रमकायमव्रणमस्नाविरं शुद्धमपापविद्धम् ।",
+   "कविर्मनीषी परिभूः स्वयम्भूर्याथातथ्यतोऽर्थान् व्यदधाच्छाश्वतीभ्यः समाभ्यः ॥८॥"
+  ],
+  "iast": [
+   "sa paryagācchukramakāyamavraṇamasnāviraṃ śuddhamapāpaviddham ।",
+   "kavirmanīṣī paribhūḥ svayambhūryāthātathyato’rthān vyadadhācchāśvatībhyaḥ samābhyaḥ ॥8॥"
+  ],
+  "alt": [
+   {
+    "text": "It is He that has gone abroad—That which is bright, bodiless, without scar of imperfection, without sinews, pure, unpierced by evil. The Seer, the Thinker, the One who becomes everywhere, the Self-existent has ordered objects perfectly according to their nature from years sempiternal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 7",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "It is He",
+    "sa"
+   ],
+   [
+    "पर्यगात्",
+    "paryagāt",
+    "that has gone abroad",
+    "√gā"
+   ],
+   [
+    "शुक्रम्",
+    "śukram",
+    "bright",
+    "śukra"
+   ],
+   [
+    "अकायम्",
+    "akāyam",
+    "bodiless",
+    "kāya"
+   ],
+   [
+    "अव्रणम्",
+    "avraṇam",
+    "without scar of imperfection",
+    "vraṇa"
+   ],
+   [
+    "अस्नाविरम्",
+    "asnāviram",
+    "without sinews",
+    "snāvira"
+   ],
+   [
+    "शुद्धम्",
+    "śuddham",
+    "pure",
+    "śuddha"
+   ],
+   [
+    "अपापविद्धम्",
+    "apāpaviddham",
+    "unpierced by evil",
+    "pāpa"
+   ],
+   [
+    "कविः",
+    "kaviḥ",
+    "The Seer",
+    "kavi"
+   ],
+   [
+    "मनीषी",
+    "manīṣī",
+    "the Thinker",
+    "manīṣin"
+   ],
+   [
+    "परिभूः",
+    "paribhūḥ",
+    "the One who becomes everywhere",
+    "bhū"
+   ],
+   [
+    "स्वयम्भूः",
+    "svayambhūḥ",
+    "the Self-existent",
+    "bhū"
+   ],
+   [
+    "याथातथ्यतः",
+    "yāthātathyataḥ",
+    "perfectly according to their nature",
+    "yāthātathyataḥ"
+   ],
+   [
+    "अर्थान्",
+    "arthān",
+    "objects",
+    "artha"
+   ],
+   [
+    "व्यदधात्",
+    "vyadadhāt",
+    "has ordered",
+    "√dhā"
+   ],
+   [
+    "समाभ्यः",
+    "samābhyaḥ",
+    "from years",
+    "samā"
+   ],
+   [
+    "शाश्वतीभ्यः",
+    "śāśvatībhyaḥ",
+    "sempiternal",
+    "śāśvata"
+   ]
+  ],
+  "tr": {
+   "text": "That (Self) is all-pervading, radiant, bodiless, sore less, without sinews, pure, untainted by sin, the all-seer, the lord of the mind, transcendent and self-existent. That (Self) did allot in proper order to the eternal Prajapatis known as samvalsara (year) their duties.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.8.mp3",
+   "whole": [
+    124.95,
+    148.03
+   ]
+  },
+  "hasBhashya": true,
+  "order": 9
+ },
+ {
+  "id": "IU_9",
+  "ref": "9",
+  "section": "The eighteen mantras",
+  "sa": [
+   "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते ।",
+   "ततो भूय इव ते तमो य उ विद्यायां रताः ॥९॥"
+  ],
+  "iast": [
+   "andhaṃ tamaḥ praviśanti ye’vidyāmupāsate ।",
+   "tato bhūya iva te tamo ya u vidyāyāṃ ratāḥ ॥9॥"
+  ],
+  "alt": [
+   {
+    "text": "Into a blind darkness they enter who follow after the Ignorance, they as if into a greater darkness who devote themselves to the Knowledge alone.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अन्धम्",
+    "andham",
+    "Into a blind",
+    "andha"
+   ],
+   [
+    "तमः",
+    "tamaḥ",
+    "darkness",
+    "tamas"
+   ],
+   [
+    "प्रविशन्ति",
+    "praviśanti",
+    "they enter",
+    "√viś"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "ya"
+   ],
+   [
+    "अविद्याम्",
+    "avidyām",
+    "the Ignorance",
+    "vidyā"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "follow after",
+    "√ās"
+   ],
+   [
+    "ततः",
+    "tataḥ",
+    "thence",
+    "tat"
+   ],
+   [
+    "भूयः",
+    "bhūyaḥ",
+    "into a greater",
+    "bhūya"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "ta"
+   ],
+   [
+    "तमः",
+    "tamaḥ",
+    "darkness",
+    "tamas"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "yad"
+   ],
+   [
+    "उ",
+    "u",
+    "alone",
+    "u"
+   ],
+   [
+    "विद्यायाम्",
+    "vidyāyām",
+    "to the Knowledge",
+    "vidyā"
+   ],
+   [
+    "रताः",
+    "ratāḥ",
+    "devote themselves",
+    "rata"
+   ]
+  ],
+  "tr": {
+   "text": "Those who worship avidya (karma born of ignorance) go to pitch darkness, but to a greater darkness than this go those who are devoted to Vidya (knowledge of the Devatas).",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.9.mp3",
+   "whole": [
+    148.03,
+    163.81
+   ]
+  },
+  "hasBhashya": true,
+  "order": 10
+ },
+ {
+  "id": "IU_10",
+  "ref": "10",
+  "section": "The eighteen mantras",
+  "sa": [
+   "अन्यदेवाहुर्विद्यया अन्यदाहुरविद्यया ।",
+   "इति शुश्रुम धीराणां ये नस्तद् विचचक्षिरे ॥१०॥"
+  ],
+  "iast": [
+   "anyadevāhurvidyayā anyadāhuravidyayā ।",
+   "iti śuśruma dhīrāṇāṃ ye nastad vicacakṣire ॥10॥"
+  ],
+  "alt": [
+   {
+    "text": "Other, verily, it is said, is that which comes by the Knowledge, other that which comes by the Ignorance; this is the lore we have received from the wise who revealed That to our understanding.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अन्यत्",
+    "anyat",
+    "Other",
+    "anya"
+   ],
+   [
+    "एव",
+    "eva",
+    "verily",
+    "eva"
+   ],
+   [
+    "आहुः",
+    "āhuḥ",
+    "it is said",
+    "√āh"
+   ],
+   [
+    "विद्यया",
+    "vidyayā",
+    "by Knowledge",
+    "vidyā"
+   ],
+   [
+    "अन्यत्",
+    "anyat",
+    "other",
+    "anya"
+   ],
+   [
+    "आहुः",
+    "āhuḥ",
+    "it is said",
+    "√āh"
+   ],
+   [
+    "अविद्यया",
+    "avidyayā",
+    "by Ignorance",
+    "vidyā"
+   ],
+   [
+    "इति",
+    "iti",
+    "This",
+    "iti"
+   ],
+   [
+    "शुश्रुम",
+    "śuśruma",
+    "is the lore we have received",
+    "√śru"
+   ],
+   [
+    "धीराणाम्",
+    "dhīrāṇām",
+    "from the wise",
+    "dhīra"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "ya"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "to us",
+    "na"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "tat"
+   ],
+   [
+    "विचचक्षिरे",
+    "vicacakṣire",
+    "revealed",
+    "√cakṣ"
+   ]
+  ],
+  "tr": {
+   "text": "Different indeed, they say, is the result (attained) by vidya and different indeed, they say, is the result (attained) by avidya. Thus have we heard from the wise who had explained it to us.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.10.mp3",
+   "whole": [
+    164.54,
+    179
+   ]
+  },
+  "hasBhashya": true,
+  "order": 11
+ },
+ {
+  "id": "IU_11",
+  "ref": "11",
+  "section": "The eighteen mantras",
+  "sa": [
+   "विद्याञ्च अविद्याञ्च यस्तद् वेदोभयं सह ।",
+   "अविद्यया मृत्युं तीर्त्वा विद्ययामृतमश्नुते ॥११॥"
+  ],
+  "iast": [
+   "vidyāñca avidyāñca yastad vedobhayaṃ saha ।",
+   "avidyayā mṛtyuṃ tīrtvā vidyayāmṛtamaśnute ॥11॥"
+  ],
+  "alt": [
+   {
+    "text": "He who knows That as both in one, the Knowledge and the Ignorance, by the Ignorance crosses beyond death and by the Knowledge enjoys Immortality.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "विद्याम्",
+    "vidyām",
+    "Knowledge",
+    "vidyā"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अविद्याम्",
+    "avidyām",
+    "Ignorance",
+    "vidya"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "He who",
+    "ya"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "tat"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ],
+   [
+    "उभयम्",
+    "ubhayam",
+    "both",
+    "ubhaya"
+   ],
+   [
+    "सह",
+    "saha",
+    "in one",
+    "saha"
+   ],
+   [
+    "अविद्यया",
+    "avidyayā",
+    "by the Ignorance",
+    "vidyā"
+   ],
+   [
+    "मृत्युम्",
+    "mṛtyum",
+    "death",
+    "mṛtyu"
+   ],
+   [
+    "तीर्त्वा",
+    "tīrtvā",
+    "crosses beyond",
+    "tīr"
+   ],
+   [
+    "विद्यया",
+    "vidyayā",
+    "by the Knowledge",
+    "vidyā"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "Immortality",
+    "mṛta"
+   ],
+   [
+    "अश्नुते",
+    "aśnute",
+    "enjoys",
+    "√aś"
+   ]
+  ],
+  "tr": {
+   "text": "He who knows both vidya and avidya together, transcends mortality through avidya and reaches immortality through vidya.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.11.mp3",
+   "whole": [
+    178.86,
+    193.32
+   ]
+  },
+  "hasBhashya": false,
+  "order": 12
+ },
+ {
+  "id": "IU_12",
+  "ref": "12",
+  "section": "The eighteen mantras",
+  "sa": [
+   "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते ।",
+   "ततो भूय इव ते तमो य उ सम्भूत्यां रताः ॥१२॥"
+  ],
+  "iast": [
+   "andhaṃ tamaḥ praviśanti ye’sambhūtimupāsate ।",
+   "tato bhūya iva te tamo ya u sambhūtyāṃ ratāḥ ॥12॥"
+  ],
+  "alt": [
+   {
+    "text": "Into a blind darkness they enter who follow after the Non-Birth, they as if into a greater darkness who devote themselves to the Birth alone.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अन्धम्",
+    "andham",
+    "blind",
+    "andha"
+   ],
+   [
+    "तमः",
+    "tamaḥ",
+    "darkness",
+    "tamas"
+   ],
+   [
+    "प्रविशन्ति",
+    "praviśanti",
+    "they enter",
+    "√viś"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "ya"
+   ],
+   [
+    "असम्भूतिम्",
+    "asambhūtim",
+    "the Non-Birth",
+    "asambhūti"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "follow after",
+    "√upās"
+   ],
+   [
+    "ततः",
+    "tataḥ",
+    "Thence",
+    "tataḥ"
+   ],
+   [
+    "भूयः",
+    "bhūyaḥ",
+    "greater",
+    "bhūyaḥ"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "ta"
+   ],
+   [
+    "तमः",
+    "tamaḥ",
+    "darkness",
+    "tamas"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "yad"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "सम्भूत्याम्",
+    "sambhūtyām",
+    "in Birth",
+    "sambhūti"
+   ],
+   [
+    "रताः",
+    "ratāḥ",
+    "devote themselves",
+    "rata"
+   ]
+  ],
+  "tr": {
+   "text": "To pitch darkness they go who worship the Unmanifested (Prakriti). To a greater darkness than this go those who are devoted to the Manifested (Hiranyagarbha).",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.12.mp3",
+   "whole": [
+    193.61,
+    208.9
+   ]
+  },
+  "hasBhashya": false,
+  "order": 13
+ },
+ {
+  "id": "IU_13",
+  "ref": "13",
+  "section": "The eighteen mantras",
+  "sa": [
+   "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात् ।",
+   "इति शुश्रुम धीराणां ये नस्तद् विचचक्षिरे ॥१३॥"
+  ],
+  "iast": [
+   "anyadevāhuḥ sambhavādanyadāhurasambhavāt ।",
+   "iti śuśruma dhīrāṇāṃ ye nastad vicacakṣire ॥13॥"
+  ],
+  "alt": [
+   {
+    "text": "Other, verily, it is said, is that which comes by the Birth, other that which comes by the Non-Birth; this is the lore we have received from the wise who revealed That to our understanding.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अन्यत्",
+    "anyat",
+    "Other",
+    "anya"
+   ],
+   [
+    "एव",
+    "eva",
+    "verily",
+    "eva"
+   ],
+   [
+    "आहुः",
+    "āhuḥ",
+    "it is said",
+    "√āh"
+   ],
+   [
+    "सम्भवात्",
+    "sambhavāt",
+    "by the Birth",
+    "bhava"
+   ],
+   [
+    "अन्यत्",
+    "anyat",
+    "other",
+    "anya"
+   ],
+   [
+    "आहुः",
+    "āhuḥ",
+    "it is said",
+    "√āh"
+   ],
+   [
+    "असम्भवात्",
+    "asambhavāt",
+    "by the Non-Birth",
+    "sambhava"
+   ],
+   [
+    "इति",
+    "iti",
+    "This",
+    "iti"
+   ],
+   [
+    "शुश्रुम",
+    "śuśruma",
+    "is the lore we have received",
+    "√śru"
+   ],
+   [
+    "धीराणाम्",
+    "dhīrāṇām",
+    "from the wise",
+    "dhīra"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "ya"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "to us",
+    "na"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "tat"
+   ],
+   [
+    "विचचक्षिरे",
+    "vicacakṣire",
+    "revealed",
+    "√cakṣ"
+   ]
+  ],
+  "tr": {
+   "text": "Different indeed, they say, is the result (attained) by the worship of the Manifested and different indeed, they say, is the result (attained) by the worship of the Unmanifested. Thus have we heard from the wise who had explained it to us.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.13.mp3",
+   "whole": [
+    209.44,
+    224.24
+   ]
+  },
+  "hasBhashya": false,
+  "order": 14
+ },
+ {
+  "id": "IU_14",
+  "ref": "14",
+  "section": "The eighteen mantras",
+  "sa": [
+   "सम्भूतिञ्च विनाशञ्च यस्तद् वेदोभयं सह ।",
+   "विनाशेन मृत्युं तीर्त्वा सम्भूत्यामृतमश्नुते ॥१४॥"
+  ],
+  "iast": [
+   "sambhūtiñca vināśañca yastad vedobhayaṃ saha ।",
+   "vināśena mṛtyuṃ tīrtvā sambhūtyāmṛtamaśnute ॥14॥"
+  ],
+  "alt": [
+   {
+    "text": "He who knows That as both in one, the Birth and the dissolution of Birth, by the dissolution crosses beyond death and by the Birth enjoys Immortality.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सम्भूतिम्",
+    "sambhūtim",
+    "Birth",
+    "sambhūti"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "विनाशम्",
+    "vināśam",
+    "dissolution",
+    "nāś"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "He who",
+    "ya"
+   ],
+   [
+    "तत्",
+    "tat",
+    "That",
+    "tat"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ],
+   [
+    "उभयम्",
+    "ubhayam",
+    "both",
+    "ubhaya"
+   ],
+   [
+    "सह",
+    "saha",
+    "in one",
+    "saha"
+   ],
+   [
+    "विनाशेन",
+    "vināśena",
+    "by the dissolution",
+    "nāś"
+   ],
+   [
+    "मृत्युम्",
+    "mṛtyum",
+    "death",
+    "mṛtyu"
+   ],
+   [
+    "तीर्त्वा",
+    "tīrtvā",
+    "crosses beyond",
+    "tīr"
+   ],
+   [
+    "सम्भूत्या",
+    "sambhūtyā",
+    "by the Birth",
+    "sambhūti"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "Immortality",
+    "mṛta"
+   ],
+   [
+    "अश्नुते",
+    "aśnute",
+    "enjoys",
+    "√aś"
+   ]
+  ],
+  "tr": {
+   "text": "He who knows both the Unmanifested and the destructible (Hiranyagarbha) together, transcends death by the (worship of) the destructible and attains immortality by the (worship of ) the Unmanifested.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.14.mp3",
+   "whole": [
+    224.29,
+    239.44
+   ]
+  },
+  "hasBhashya": false,
+  "order": 15
+ },
+ {
+  "id": "IU_15",
+  "ref": "15",
+  "section": "The eighteen mantras",
+  "sa": [
+   "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम् ।",
+   "तत् त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये ॥१५॥"
+  ],
+  "iast": [
+   "hiraṇmayena pātreṇa satyasyāpihitaṃ mukham ।",
+   "tat tvaṃ pūṣannapāvṛṇu satyadharmāya dṛṣṭaye ॥15॥"
+  ],
+  "alt": [
+   {
+    "text": "The face of Truth is covered with a brilliant golden lid; that do thou remove, O Fosterer, for the law of the Truth, for sight.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "हिरण्मयेन",
+    "hiraṇmayena",
+    "with a brilliant golden",
+    "hiraṇmaya"
+   ],
+   [
+    "पात्रेण",
+    "pātreṇa",
+    "lid",
+    "pātra"
+   ],
+   [
+    "सत्यस्य",
+    "satyasya",
+    "of Truth",
+    "satya"
+   ],
+   [
+    "आपिहितम्",
+    "āpihitam",
+    "is covered",
+    "pidhā"
+   ],
+   [
+    "मुखम्",
+    "mukham",
+    "face",
+    "mukha"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tat"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "thou",
+    "tva"
+   ],
+   [
+    "पूषन्",
+    "pūṣan",
+    "O Fosterer",
+    "pūṣan"
+   ],
+   [
+    "अपावृणु",
+    "apāvṛṇu",
+    "do remove",
+    "√vṛ"
+   ],
+   [
+    "सत्य",
+    "satya",
+    "of the Truth",
+    "satya"
+   ],
+   [
+    "धर्माय",
+    "dharmāya",
+    "for the law",
+    "dharma"
+   ],
+   [
+    "दृष्टये",
+    "dṛṣṭaye",
+    "for sight",
+    "dṛṣṭi"
+   ]
+  ],
+  "tr": {
+   "text": "The face of the Truth (ie., Purusha in the solar orb) is veiled by a bright vessel. Mayst thou unveil it, O Sun, so as to be perceived by me whose dharma is truth.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.15.mp3",
+   "whole": [
+    239.44,
+    253.95
+   ]
+  },
+  "hasBhashya": true,
+  "order": 16
+ },
+ {
+  "id": "IU_16",
+  "ref": "16",
+  "section": "The eighteen mantras",
+  "sa": [
+   "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह ।",
+   "तेजो यत् ते रूपं कल्याणतमं तत् ते पश्यामि योऽसावसौ पुरुषः सोऽहमस्मि ॥१६॥"
+  ],
+  "iast": [
+   "pūṣannekarṣe yama sūrya prājāpatya vyūha raśmīn samūha ।",
+   "tejo yat te rūpaṃ kalyāṇatamaṃ tat te paśyāmi yo’sāvasau puruṣaḥ so’hamasmi ॥16॥"
+  ],
+  "alt": [
+   {
+    "text": "O Fosterer, O sole Seer, O Ordainer, O illumining Sun, O power of the Father of creatures, marshal thy rays, draw together thy light; the Lustre which is thy most blessed form of all, that in Thee I behold. The Purusha there and there, He am I.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पूषन्",
+    "pūṣan",
+    "O Fosterer",
+    "pūṣan"
+   ],
+   [
+    "एकर्षे",
+    "ekarṣe",
+    "O sole Seer",
+    "rṣi"
+   ],
+   [
+    "यम",
+    "yama",
+    "O Ordainer",
+    "yam"
+   ],
+   [
+    "सूर्य",
+    "sūrya",
+    "O illumining Sun",
+    "sūrya"
+   ],
+   [
+    "प्राजापत्य",
+    "prājāpatya",
+    "O power of the Father of creatures",
+    "jāpati"
+   ],
+   [
+    "व्यूह",
+    "vyūha",
+    "marshal",
+    "√ūh"
+   ],
+   [
+    "रश्मीन्",
+    "raśmīn",
+    "thy rays",
+    "raśmi"
+   ],
+   [
+    "समूह",
+    "samūha",
+    "draw together",
+    "√ūh"
+   ],
+   [
+    "तेजः",
+    "tejaḥ",
+    "the Lustre",
+    "tejas"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ते",
+    "te",
+    "in Thee",
+    "tva"
+   ],
+   [
+    "रूपम्",
+    "rūpam",
+    "form",
+    "rūpa"
+   ],
+   [
+    "कल्याणतमम्",
+    "kalyāṇatamam",
+    "most blessed",
+    "kalyāṇatama"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tat"
+   ],
+   [
+    "ते",
+    "te",
+    "in Thee",
+    "tva"
+   ],
+   [
+    "पश्यामि",
+    "paśyāmi",
+    "I behold",
+    "√dṛś"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "He",
+    "ya"
+   ],
+   [
+    "असौ",
+    "asau",
+    "there",
+    "adas"
+   ],
+   [
+    "असौ",
+    "asau",
+    "there",
+    "adas"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "the Purusha",
+    "puruṣa"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "He",
+    "sa"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "am I",
+    "aha"
+   ],
+   [
+    "अस्मि",
+    "asmi",
+    "am",
+    "√as"
+   ]
+  ],
+  "tr": {
+   "text": "O nourisher, pilgrim of the solitude, controller, absorber (of all rasas), offspring of Prajapati, cast away thy rays, gather them up and give up thy radiating brilliance. That form of thine, most graceful, I may behold. He, the Purusha (in the solar orb), I am.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.16.mp3",
+   "whole": [
+    253.95,
+    277.08
+   ]
+  },
+  "hasBhashya": true,
+  "order": 17
+ },
+ {
+  "id": "IU_17",
+  "ref": "17",
+  "section": "The eighteen mantras",
+  "sa": [
+   "वायुरनिलममृतमथेदं भस्मान्तं शरीरम् ।",
+   "ॐ क्रतो स्मर कृतं स्मर क्रतो स्मर कृतं स्मर ॥१७॥"
+  ],
+  "iast": [
+   "vāyuranilamamṛtamathedaṃ bhasmāntaṃ śarīram ।",
+   "oṃ krato smara kṛtaṃ smara krato smara kṛtaṃ smara ॥17॥"
+  ],
+  "alt": [
+   {
+    "text": "The Breath of things is an immortal Life, but of this body ashes are the end. OM! O Will, remember, that which was done remember! O Will, remember, that which was done remember.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 10",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "वायुः",
+    "vāyuḥ",
+    "The Breath",
+    "vāyu"
+   ],
+   [
+    "अनिलम्",
+    "anilam",
+    "of things",
+    "anila"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "is an immortal Life",
+    "mṛta"
+   ],
+   [
+    "अथ",
+    "atha",
+    "but",
+    "atha"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "of this",
+    "ida"
+   ],
+   [
+    "भस्मान्तम्",
+    "bhasmāntam",
+    "ashes are the end",
+    "bhasmānta"
+   ],
+   [
+    "शरीरम्",
+    "śarīram",
+    "body",
+    "śarīra"
+   ],
+   [
+    "ॐ",
+    "om",
+    "sacred utterance",
+    "om"
+   ],
+   [
+    "क्रतो",
+    "krato",
+    "O Will",
+    "kratu"
+   ],
+   [
+    "स्मर",
+    "smara",
+    "remember",
+    "√smṛ"
+   ],
+   [
+    "कृतम्",
+    "kṛtam",
+    "that which was done",
+    "kṛ"
+   ],
+   [
+    "स्मर",
+    "smara",
+    "remember",
+    "√smṛ"
+   ],
+   [
+    "क्रतो",
+    "krato",
+    "O Will",
+    "kratu"
+   ],
+   [
+    "स्मर",
+    "smara",
+    "remember",
+    "√smṛ"
+   ],
+   [
+    "कृतम्",
+    "kṛtam",
+    "that which was done",
+    "kṛ"
+   ],
+   [
+    "स्मर",
+    "smara",
+    "remember",
+    "√smṛ"
+   ]
+  ],
+  "tr": {
+   "text": "Let (my) vital air (prana) now attain the immortal Air (all-pervading Self); then let this body be reduced to ashes. Om, O mind, remember – remember that which has been done, O mind, remember – remember that which has been done.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.17.mp3",
+   "whole": [
+    277.9,
+    294.85
+   ]
+  },
+  "hasBhashya": true,
+  "order": 18
+ },
+ {
+  "id": "IU_18",
+  "ref": "18",
+  "section": "The eighteen mantras",
+  "sa": [
+   "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान् ।",
+   "युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम ॥१८॥"
+  ],
+  "iast": [
+   "agne naya supathā rāye asmān viśvāni deva vayunāni vidvān ।",
+   "yuyodhyasmajjuhurāṇameno bhūyiṣṭhāṃ te namauktiṃ vidhema ॥18॥"
+  ],
+  "alt": [
+   {
+    "text": "O god Agni, knowing all things that are manifested, lead us by the good path to the felicity; remove from us the devious attraction of sin. To thee completest speech of submission we would dispose.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 17, p. 10",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अग्ने",
+    "agne",
+    "O god Agni",
+    "agni"
+   ],
+   [
+    "विद्वान्",
+    "vidvān",
+    "knowing",
+    "vidvas"
+   ],
+   [
+    "विश्वानि",
+    "viśvāni",
+    "all things",
+    "viśva"
+   ],
+   [
+    "वयुनानि",
+    "vayunāni",
+    "that are manifested",
+    "vayuna"
+   ],
+   [
+    "नय",
+    "naya",
+    "lead",
+    "√nī"
+   ],
+   [
+    "अस्मान्",
+    "asmān",
+    "us",
+    "asma"
+   ],
+   [
+    "सुपथा",
+    "supathā",
+    "by the good path",
+    "path"
+   ],
+   [
+    "राये",
+    "rāye",
+    "to the felicity",
+    "rāya"
+   ],
+   [
+    "देव",
+    "deva",
+    "O god",
+    "deva"
+   ],
+   [
+    "युयोधि",
+    "yuyodhi",
+    "remove",
+    "√yu"
+   ],
+   [
+    "अस्मत्",
+    "asmat",
+    "from us",
+    "asmad"
+   ],
+   [
+    "जुहुराणम्",
+    "juhurāṇam",
+    "the devious attraction",
+    "juhura"
+   ],
+   [
+    "एनः",
+    "enaḥ",
+    "of sin",
+    "enas"
+   ],
+   [
+    "ते",
+    "te",
+    "to thee",
+    "tva"
+   ],
+   [
+    "भूयिष्ठाम्",
+    "bhūyiṣṭhām",
+    "completest",
+    "bhūyiṣṭha"
+   ],
+   [
+    "नमः",
+    "namaḥ",
+    "speech of submission",
+    "namas"
+   ],
+   [
+    "उक्तिम्",
+    "uktim",
+    "speech",
+    "ukti"
+   ],
+   [
+    "विधेम",
+    "vidhema",
+    "we would dispose",
+    "√dhā"
+   ]
+  ],
+  "tr": {
+   "text": "O Fire, O Deva, knower of all our actions or all our knowledge, lead us by the good path for enjoying the fruits of actions. Liberate us from our deceitful sins. We offer thee ever more our words of adoration.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Isopanisad/1.18.mp3",
+   "whole": [
+    294.85,
+    316.81
+   ]
+  },
+  "hasBhashya": true,
+  "order": 19
+ }
+]

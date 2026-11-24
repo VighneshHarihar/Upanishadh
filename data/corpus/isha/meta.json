@@ -1,0 +1,34 @@
+{
+  "id": "isha",
+  "abbrev": "IU",
+  "sa": "ईशोपनिषद्",
+  "iast": "Īśā",
+  "en": "Isha Upanishad",
+  "veda": "Śukla Yajurveda",
+  "levels": [
+    "mantra"
+  ],
+  "scope": "complete",
+  "expect": 18,
+  "order": 1,
+  "tagline": "The Lord in all things; enjoy by letting go; the golden lid over the face of truth.",
+  "ingest": {
+    "org": "isha",
+    "pdf": {
+      "start": "^Isavasya Upanishad$",
+      "end": "Here ends the Isavasyopanishad",
+      "marker": "^(\\d{1,2})\\.\\s+(.*)$",
+      "ref": [
+        "$1"
+      ],
+      "text": 2
+    },
+    "bhashya": {
+      "book": "ishavasya-bhashya-by-sitarama",
+      "translator": "S. Sitarama Sastri",
+      "edition": "Madras, 1905",
+      "crawl": true
+    },
+    "shanti": "Pūrṇam adaḥ"
+  }
+}

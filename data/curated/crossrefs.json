@@ -1,0 +1,108 @@
+{
+ "crossrefs": [
+  {
+   "a": "KaU_1.2.5",
+   "b": "MuU_1.2.8",
+   "kind": "identical",
+   "note": "The 'blind leading the blind' verse appears almost word for word in both Upanishads."
+  },
+  {
+   "a": "KaU_1.2.23",
+   "b": "MuU_3.2.3",
+   "kind": "identical",
+   "note": "'This Self is not attained by discourse, nor by intellect, nor by much learning.'"
+  },
+  {
+   "a": "KaU_2.2.15",
+   "b": "MuU_2.2.10",
+   "kind": "identical",
+   "note": "'There the sun does not shine, nor the moon and stars.'"
+  },
+  {
+   "a": "KaU_1.2.18",
+   "b": "BG_2.20",
+   "kind": "parallel",
+   "note": "'It is not born, nor does it die.' The Gītā reuses the Kaṭha's verse almost entirely."
+  },
+  {
+   "a": "KaU_1.2.19",
+   "b": "BG_2.19",
+   "kind": "parallel",
+   "note": "'If the slayer thinks he slays…' Both close with the same line: it neither slays nor is slain."
+  },
+  {
+   "a": "KaU_1.2.7",
+   "b": "BG_2.29",
+   "kind": "echo",
+   "note": "Both speak of the Self as a 'wonder': wondrous the one who teaches it, wondrous the one who sees it."
+  },
+  {
+   "a": "KaU_1.2.15",
+   "b": "BG_8.11",
+   "kind": "echo",
+   "note": "The goal 'that all the Vedas declare' (Kaṭha) and 'that the knowers of the Veda call imperishable' (Gītā)."
+  },
+  {
+   "a": "KaU_2.3.1",
+   "b": "BG_15.1",
+   "kind": "echo",
+   "note": "The same image, in different words: the eternal aśvattha tree with its roots above and branches below."
+  },
+  {
+   "a": "MuU_3.1.1",
+   "b": "RV_1.164.20",
+   "kind": "identical",
+   "note": "The two birds on one tree come from the Ṛgveda's riddle hymn of Dīrghatamas."
+  },
+  {
+   "a": "SvU_4.6",
+   "b": "MuU_3.1.1",
+   "kind": "identical",
+   "note": "The two birds on one tree, in both the Śvetāśvatara and the Muṇḍaka."
+  },
+  {
+   "a": "SvU_4.7",
+   "b": "MuU_3.1.2",
+   "kind": "identical",
+   "note": "The bird that grieves until it sees the other, the Lord."
+  },
+  {
+   "a": "SvU_6.14",
+   "b": "KaU_2.2.15",
+   "kind": "identical",
+   "note": "‘There the sun does not shine, nor moon nor stars.’"
+  },
+  {
+   "a": "SvU_3.20",
+   "b": "KaU_1.2.20",
+   "kind": "parallel",
+   "note": "‘Smaller than the small, greater than the great.’"
+  },
+  {
+   "a": "IU_15",
+   "b": "BU_5.15.1",
+   "kind": "parallel",
+   "note": "The golden lid over the face of truth: the Īśā's closing verses also close the Bṛhadāraṇyaka's fifth chapter."
+  },
+  {
+   "a": "SvU_3.16",
+   "b": "BG_13.14",
+   "kind": "parallel",
+   "note": "‘With hands and feet everywhere’: the Gītā takes up the Śvetāśvatara's verse."
+  },
+  {
+   "a": "SvU_3.8",
+   "b": "BG_8.9",
+   "kind": "echo",
+   "note": "‘Sun-coloured, beyond the darkness’: the same image of the Person in the Gītā.",
+   "kwA": "ādityavarṇaṃ"
+  },
+  {
+   "a": "KaU_1.3.10",
+   "b": "BG_3.42",
+   "kind": "echo",
+   "note": "The senses, the mind, the intellect and beyond: the Kaṭha's ladder in the Gītā.",
+   "kwA": "indriyebhyaḥ"
+  }
+ ]
+}

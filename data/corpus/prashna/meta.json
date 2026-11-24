@@ -1,0 +1,36 @@
+{
+  "id": "prashna",
+  "abbrev": "PU",
+  "sa": "प्रश्नोपनिषद्",
+  "iast": "Praśna",
+  "en": "Prashna Upanishad",
+  "veda": "Atharvaveda",
+  "levels": [
+    "praśna",
+    "mantra"
+  ],
+  "scope": "complete",
+  "order": 4,
+  "tagline": "Six seekers, six questions on life, breath, sleep, OM and the person of sixteen parts.",
+  "ingest": {
+    "org": "prashna",
+    "pdf": {
+      "start": "^Prasna Upanishad$",
+      "end": "Here ends the Prasnopanishad",
+      "marker": "^([IVX]+)-(\\d{1,2})[:.]\\s*(.*)$",
+      "ref": [
+        "R$1",
+        "$2"
+      ],
+      "text": 3
+    },
+    "bhashya": {
+      "book": "prashna-upanishad-shankara-bhashya",
+      "translator": "S. Sitarama Sastri",
+      "edition": "Madras, 1898–1905",
+      "crawl": true
+    },
+    "shanti": "Bhadraṃ karṇebhiḥ"
+  },
+  "expect": 67
+}

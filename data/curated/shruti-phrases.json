@@ -1,0 +1,601 @@
+{
+  "_about": "Famous śruti statements as Śaṅkara quotes them in the translated commentaries (English or transliterated Sanskrit). When a commentary on one mantra quotes one of these, the build adds a CITES link (basis: shankara) from the commented mantra to the quoted one. Explicit numeric references in the commentaries are parsed as well.",
+  "phrases": [
+    {
+      "verse": "ChU_6.8.7",
+      "label": "“That thou art”",
+      "match": [
+        "that thou art",
+        "thou art that",
+        "tat tvam asi",
+        "tattvamasi"
+      ]
+    },
+    {
+      "verse": "BU_1.4.10",
+      "label": "“I am Brahman”",
+      "match": [
+        "i am brahman",
+        "aham brahmasmi",
+        "ahaṃ brahmāsmi",
+        "aham brahma asmi"
+      ]
+    },
+    {
+      "verse": "BU_2.3.6",
+      "label": "“Not this, not this”",
+      "match": [
+        "not this, not this",
+        "neti, neti",
+        "neti neti",
+        "not so, not so",
+        "not this, not that"
+      ]
+    },
+    {
+      "verse": "ChU_3.14.1",
+      "label": "“All this is Brahman”",
+      "match": [
+        "all this is brahman",
+        "sarvam khalv idam brahma",
+        "sarvaṃ khalvidaṃ brahma",
+        "sarvam khalvidam brahma"
+      ]
+    },
+    {
+      "verse": "ChU_6.2.1",
+      "label": "“One only, without a second”",
+      "match": [
+        "one only without a second",
+        "one only, without a second",
+        "ekam evadvitiyam",
+        "ekamevādvitīyam",
+        "one without a second"
+      ]
+    },
+    {
+      "verse": "MuU_3.2.9",
+      "label": "“The knower of Brahman becomes Brahman”",
+      "match": [
+        "knower of brahman becomes brahman",
+        "knows brahman becomes brahman",
+        "brahmavid brahmaiva",
+        "brahma veda brahmaiva"
+      ]
+    },
+    {
+      "verse": "TU_2.1",
+      "label": "“Brahman is truth, knowledge, infinite”",
+      "match": [
+        "truth, knowledge, infinite",
+        "real, knowledge and infinite",
+        "satyam jnanam anantam",
+        "satyaṃ jñānam anantaṃ",
+        "existence, knowledge, infinite"
+      ]
+    },
+    {
+      "verse": "AiU_3.1.3",
+      "label": "“Consciousness is Brahman”",
+      "match": [
+        "consciousness is brahman",
+        "prajnanam brahma",
+        "prajñānaṃ brahma"
+      ]
+    },
+    {
+      "verse": "MaU_2",
+      "label": "“This Self is Brahman”",
+      "match": [
+        "this self is brahman",
+        "ayam atma brahma",
+        "ayamātmā brahma"
+      ]
+    },
+    {
+      "verse": "MuU_2.2.8",
+      "label": "“The knot of the heart is cut”",
+      "match": [
+        "knot of the heart",
+        "bhidyate hridayagranthi",
+        "bhidyate hṛdayagranthiḥ"
+      ]
+    },
+    {
+      "verse": "TU_2.4",
+      "label": "“From which words turn back”",
+      "match": [
+        "words turn back",
+        "speech turns back",
+        "yato vacho nivartante",
+        "yato vāco nivartante",
+        "whence words return"
+      ]
+    },
+    {
+      "verse": "ChU_7.23.1",
+      "label": "“The infinite is joy”",
+      "match": [
+        "the infinite is bliss",
+        "the infinite is happiness",
+        "bhuma vai sukham",
+        "bhūmā vai sukham"
+      ]
+    },
+    {
+      "verse": "KaU_1.2.18",
+      "label": "“The knowing Self is not born, nor dies”",
+      "match": [
+        "is not born, nor dies",
+        "not born nor does it die",
+        "na jayate mriyate va",
+        "na jāyate mriyate vā"
+      ]
+    },
+    {
+      "verse": "KaU_1.2.23",
+      "label": "“This Self is not attained by instruction”",
+      "match": [
+        "not to be attained by the study of the vedas",
+        "nayam atma pravachanena",
+        "nāyamātmā pravacanena",
+        "not attained by instruction"
+      ]
+    },
+    {
+      "verse": "MuU_3.1.1",
+      "label": "“Two birds”",
+      "match": [
+        "two birds",
+        "dva suparna",
+        "dvā suparṇā"
+      ]
+    },
+    {
+      "verse": "BU_1.3.28",
+      "label": "“Lead me from the unreal to the real”",
+      "match": [
+        "from the unreal lead me",
+        "lead me from the unreal",
+        "asato ma sad gamaya",
+        "asato mā sadgamaya"
+      ]
+    },
+    {
+      "verse": "ChU_6.1.3",
+      "label": "“By which the unheard becomes heard”",
+      "match": [
+        "unheard becomes heard",
+        "the unheard is heard",
+        "yenasrutam srutam bhavati"
+      ]
+    },
+    {
+      "verse": "KaU_2.1.10",
+      "label": "“From death to death goes he who sees difference”",
+      "match": [
+        "from death to death",
+        "mrityoh sa mrityum",
+        "mṛtyoḥ sa mṛtyum"
+      ]
+    },
+    {
+      "verse": "KeU_1.2",
+      "label": "“The ear of the ear, the mind of the mind”",
+      "match": [
+        "ear of the ear",
+        "eye of the eye",
+        "srotrasya srotram"
+      ]
+    },
+    {
+      "verse": "KeU_2.3",
+      "label": "“It is known to him to whom it is unknown”",
+      "match": [
+        "to whom it is not known",
+        "unknown to those who know",
+        "avijnatam vijanatam"
+      ]
+    },
+    {
+      "verse": "IU_1",
+      "label": "“All this is to be covered by the Lord”",
+      "match": [
+        "isavasyam",
+        "īśāvāsyam",
+        "covered by the lord",
+        "enveloped by the lord"
+      ]
+    },
+    {
+      "verse": "IU_15",
+      "label": "“The face of truth is covered by a golden lid”",
+      "match": [
+        "golden vessel",
+        "golden disc",
+        "hiranmayena patrena",
+        "face of truth is covered"
+      ]
+    },
+    {
+      "verse": "IU_6",
+      "label": "“Who sees all beings in the Self”",
+      "match": [
+        "sees all beings in the self",
+        "all beings in the self",
+        "sarvani bhutani atmanyevanupasyati"
+      ]
+    },
+    {
+      "verse": "TU_3.2",
+      "label": "“Food is Brahman”",
+      "match": [
+        "food is brahman",
+        "annam brahma"
+      ]
+    },
+    {
+      "verse": "TU_3.6",
+      "label": "“Bliss is Brahman”",
+      "match": [
+        "bliss is brahman",
+        "anando brahma",
+        "ānando brahma"
+      ]
+    },
+    {
+      "verse": "MuU_3.2.8",
+      "label": "“As rivers flowing into the sea”",
+      "match": [
+        "as rivers flowing",
+        "as the flowing rivers",
+        "yatha nadyah syandamanah"
+      ]
+    },
+    {
+      "verse": "BU_3.8.9",
+      "label": "“Under the mighty rule of this Imperishable”",
+      "match": [
+        "command of this imperishable",
+        "rule of this imperishable",
+        "etasya va aksharasya prasasane"
+      ]
+    },
+    {
+      "verse": "BU_3.4.2",
+      "label": "“You cannot see the seer of seeing”",
+      "match": [
+        "seer of seeing",
+        "na drishter drashtaram",
+        "na dṛṣṭer draṣṭāraṃ"
+      ]
+    },
+    {
+      "verse": "BU_2.4.14",
+      "label": "“When all has become the Self, whom should one see?”",
+      "match": [
+        "all has become the self",
+        "everything has become the self",
+        "sarvam atmaivabhut"
+      ]
+    },
+    {
+      "verse": "BU_2.4.5",
+      "label": "“The Self is to be seen, heard, reflected on”",
+      "match": [
+        "to be seen, heard",
+        "atma va are drashtavyah",
+        "ātmā vā are draṣṭavyaḥ",
+        "should be seen, heard"
+      ]
+    },
+    {
+      "verse": "BU_3.7.23",
+      "label": "“The unseen seer”",
+      "match": [
+        "unseen seer",
+        "adrishto drashta",
+        "adṛṣṭo draṣṭā"
+      ]
+    },
+    {
+      "verse": "TU_2.9",
+      "label": "“Knowing the bliss of Brahman, one fears nothing”",
+      "match": [
+        "bliss of brahman",
+        "anandam brahmano vidvan",
+        "fears nothing"
+      ]
+    },
+    {
+      "verse": "KaU_1.3.14",
+      "label": "“Arise, awake”",
+      "match": [
+        "arise, awake",
+        "uttishthata jagrata",
+        "uttiṣṭhata jāgrata"
+      ]
+    },
+    {
+      "verse": "KaU_2.1.12",
+      "label": "“The Person the size of a thumb”",
+      "match": [
+        "size of a thumb",
+        "angushthamatrah",
+        "aṅguṣṭhamātraḥ"
+      ]
+    },
+    {
+      "verse": "MuU_2.2.4",
+      "label": "“OM is the bow”",
+      "match": [
+        "om is the bow",
+        "pranavo dhanuh",
+        "praṇavo dhanuḥ"
+      ]
+    },
+    {
+      "verse": "MuU_3.1.6",
+      "label": "“Truth alone triumphs”",
+      "match": [
+        "truth alone triumphs",
+        "satyameva jayate",
+        "satyam eva jayate"
+      ]
+    },
+    {
+      "verse": "MuU_1.1.4",
+      "label": "“Two kinds of knowledge, the higher and the lower”",
+      "match": [
+        "higher and the lower knowledge",
+        "para and apara",
+        "the higher and the lower"
+      ]
+    },
+    {
+      "verse": "BU_4.4.22",
+      "label": "“This great unborn Self”",
+      "match": [
+        "great unborn self",
+        "sa va esha mahan aja atma",
+        "mahān aja ātmā"
+      ]
+    },
+    {
+      "verse": "ChU_8.7.1",
+      "label": "“The Self free from evil”",
+      "match": [
+        "free from sin, free from old age",
+        "apahatapapma",
+        "apahatapāpmā"
+      ]
+    },
+    {
+      "verse": "SvU_6.11",
+      "label": "“The one God hidden in all beings”",
+      "match": [
+        "one god hidden in all beings",
+        "eko devah sarvabhuteshu gudhah",
+        "eko devaḥ sarvabhūteṣu gūḍhaḥ"
+      ]
+    },
+    {
+      "verse": "ChU_7.1.3",
+      "label": "“The knower of the Self crosses grief”",
+      "match": [
+        "knower of the atman crosses grief",
+        "knower of the self crosses",
+        "tarati sokam atmavit",
+        "tarati śokam ātmavit"
+      ]
+    },
+    {
+      "verse": "ChU_6.1.4",
+      "label": "“A modification is a name, a matter of words”",
+      "match": [
+        "mere matter of speech",
+        "vacharambhanam",
+        "vācārambhaṇaṃ",
+        "modification is only a name",
+        "a modification is a mere"
+      ]
+    },
+    {
+      "verse": "BU_3.8.8",
+      "label": "“Not gross, not subtle”",
+      "match": [
+        "not gross, not subtle",
+        "asthulam ananu",
+        "asthūlamanaṇu",
+        "neither gross nor minute"
+      ]
+    },
+    {
+      "verse": "BU_4.4.6",
+      "label": "“His breaths do not depart”",
+      "match": [
+        "pranas do not go out",
+        "pranas do not depart",
+        "na tasya prana utkramanti",
+        "na tasya prāṇā utkrāmanti"
+      ]
+    },
+    {
+      "verse": "KaU_2.2.7",
+      "label": "“According to their deeds and knowledge”",
+      "match": [
+        "according to their knowledge",
+        "yathakarma yathasrutam",
+        "yathākarma yathāśrutam"
+      ]
+    },
+    {
+      "verse": "ChU_7.25.1",
+      "label": "“I alone am all this”",
+      "match": [
+        "i alone am all this",
+        "aham evedam sarvam",
+        "ahamevedaṃ sarvam"
+      ]
+    },
+    {
+      "verse": "KaU_2.2.10",
+      "label": "“As the one wind entering the world”",
+      "match": [
+        "as wind though one",
+        "as the one air",
+        "vayur yathaiko",
+        "vāyuryathaiko"
+      ]
+    },
+    {
+      "verse": "KaU_1.3.9",
+      "label": "“That highest place of Viṣṇu”",
+      "match": [
+        "highest place of vishnu",
+        "vishnu pada",
+        "tad vishnoh paramam padam",
+        "tadviṣṇoḥ paramaṃ padam"
+      ]
+    },
+    {
+      "verse": "KaU_1.3.12",
+      "label": "“The Self hidden in all beings”",
+      "match": [
+        "concealed in all living beings",
+        "hidden in all beings",
+        "esha sarveshu bhuteshu gudhotma",
+        "eṣa sarveṣu bhūteṣu gūḍhotmā",
+        "by subtle in-tellect",
+        "by subtle intellect"
+      ]
+    },
+    {
+      "verse": "KeU_2.4",
+      "label": "“Known in every state of awareness”",
+      "match": [
+        "pratibodhaviditam",
+        "pratibodhaviditaṃ"
+      ]
+    },
+    {
+      "verse": "KeU_2.2",
+      "label": "“I do not think I know it well”",
+      "match": [
+        "i know brahman well",
+        "naham manye suvedeti",
+        "nāhaṃ manye suvedeti"
+      ]
+    },
+    {
+      "verse": "IU_1",
+      "label": "“Whose is wealth?”",
+      "match": [
+        "whose is wealth",
+        "kasya svid dhanam",
+        "kasyasviddhanam"
+      ]
+    },
+    {
+      "verse": "KaU_2.2.6",
+      "label": "“I shall tell you this secret Brahman”",
+      "match": [
+        "explain the secret brahman",
+        "the secret, eternal brahman",
+        "guhyam brahma sanatanam",
+        "guhyaṃ brahma sanātanam"
+      ]
+    },
+    {
+      "verse": "BU_4.4.7",
+      "label": "“He attains Brahman here”",
+      "match": [
+        "he attains brahman here",
+        "atra brahma samasnute",
+        "atra brahma samaśnute"
+      ]
+    },
+    {
+      "verse": "BU_4.4.12",
+      "label": "“If a person knows the Self as ‘I am this’”",
+      "match": [
+        "atmanam ced vijaniyat",
+        "ātmānaṃ ced vijānīyāt",
+        "if a man knows the self"
+      ]
+    },
+    {
+      "verse": "MuU_2.2.9",
+      "label": "“His deeds are exhausted when he sees the Supreme”",
+      "match": [
+        "his karmas are exhausted",
+        "kshiyante chasya karmani",
+        "kṣīyante cāsya karmāṇi"
+      ]
+    },
+    {
+      "verse": "ChU_8.12.1",
+      "label": "“This body is mortal, held by death”",
+      "match": [
+        "this body is mortal",
+        "martyam va idam sariram",
+        "martyaṃ vā idaṃ śarīram"
+      ]
+    }
+  ],
+  "abbreviations": {
+    "Bṛhadāraṇyaka": "BU",
+    "Brihadaranyaka": "BU",
+    "Bṛh": "BU",
+    "Bri": "BU",
+    "Br": "BU",
+    "Chāndogya": "ChU",
+    "Chandogya": "ChU",
+    "Chā": "ChU",
+    "Chh": "ChU",
+    "Cha": "ChU",
+    "Taittirīya": "TU",
+    "Taittiriya": "TU",
+    "Taitti": "TU",
+    "Tait": "TU",
+    "Tai": "TU",
+    "Muṇḍaka": "MuU",
+    "Mundaka": "MuU",
+    "Mund": "MuU",
+    "Mu": "MuU",
+    "Kaṭha": "KaU",
+    "Katha": "KaU",
+    "Ka": "KaU",
+    "Īśā": "IU",
+    "Isa": "IU",
+    "Isha": "IU",
+    "Kena": "KeU",
+    "Ke": "KeU",
+    "Praśna": "PU",
+    "Prasna": "PU",
+    "Pra": "PU",
+    "Māṇḍūkya": "MaU",
+    "Mandukya": "MaU",
+    "Mand": "MaU",
+    "Aitareya": "AiU",
+    "Ait": "AiU",
+    "Śvetāśvatara": "SvU",
+    "Svetasvatara": "SvU",
+    "Svet": "SvU",
+    "Ch": "ChU",
+    "Chān": "ChU",
+    "Ai": "AiU",
+    "Pr": "PU",
+    "Sv": "SvU",
+    "Śve": "SvU",
+    "Śvet": "SvU",
+    "Kau": "KauU",
+    "Kauṣ": "KauU",
+    "Kaush": "KauU",
+    "Bṛhadā": "BU",
+    "Mai": "MaiU",
+    "Maitri": "MaiU",
+    "Maitrī": "MaiU",
+    "Mā": "MaU"
+  }
+}

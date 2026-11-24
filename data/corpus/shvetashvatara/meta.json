@@ -1,0 +1,46 @@
+{
+  "id": "shvetashvatara",
+  "abbrev": "SvU",
+  "sa": "श्वेताश्वतरोपनिषद्",
+  "iast": "Śvetāśvatara",
+  "en": "Shvetashvatara Upanishad",
+  "veda": "Kṛṣṇa Yajurveda",
+  "levels": [
+    "adhyāya",
+    "mantra"
+  ],
+  "scope": "complete",
+  "expect": 113,
+  "order": 11,
+  "tagline": "What is the cause? The one God hidden in all beings, the wheel of Brahman, the two birds, and grace.",
+  "ingest": {
+    "org": "shvetashvatara",
+    "shanti": "Saha nāv avatu",
+    "pdf": {
+      "start": "^Svetasvatara Upanishad$",
+      "end": "Here ends the Svetasvataropanishad",
+      "marker": "^([IVX]+)-(\\d{1,2}(?:-\\d{1,2})?)[:.]\\s*(.*)$",
+      "ref": [
+        "R$1",
+        "$2"
+      ],
+      "text": 3
+    },
+    "bhashya": {
+      "ocr": "gambhirananda-shvetashvatara",
+      "author": "Śaṅkara (attributed)",
+      "translator": "Swami Gambhirananda",
+      "edition": "Advaita Ashrama",
+      "note": "This commentary is traditionally attributed to Śaṅkara; many scholars hold it to be by a later Advaitin."
+    }
+  },
+  "aliases": [
+    "Svetasvatara",
+    "Shvetashvatara Upanishad",
+    "Svetasvatara Upanishad",
+    "Śvetāśvataropaniṣad",
+    "श्वेताश्वतर",
+    "ŚvU",
+    "SU"
+  ]
+}

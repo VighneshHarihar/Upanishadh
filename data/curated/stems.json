@@ -1,0 +1,736 @@
+{
+  "_about": "Key Sanskrit stems that link passages across all 13 Upanishads. A passage carries a stem when its word-by-word analysis has one of the stem's lemmas, or (for passages without an analysis) when its IAST matches the pattern (lower-case, diacritics kept). Every other word is still clickable through the full lemma index.",
+  "stems": [
+    {
+      "id": "atman",
+      "iast": "ātman",
+      "sa": "आत्मन्",
+      "en": "the Self",
+      "lemmas": [
+        "ātman"
+      ],
+      "re": "ātm"
+    },
+    {
+      "id": "brahman",
+      "iast": "brahman",
+      "sa": "ब्रह्मन्",
+      "en": "Brahman, the Real",
+      "lemmas": [
+        "brahman",
+        "brahma"
+      ],
+      "re": "brahm"
+    },
+    {
+      "id": "prana",
+      "iast": "prāṇa",
+      "sa": "प्राण",
+      "en": "breath, life-force",
+      "lemmas": [
+        "prāṇa"
+      ],
+      "re": "prāṇ"
+    },
+    {
+      "id": "satya",
+      "iast": "satya",
+      "sa": "सत्य",
+      "en": "truth, the real",
+      "lemmas": [
+        "satya"
+      ],
+      "re": "saty"
+    },
+    {
+      "id": "vidya",
+      "iast": "vidyā",
+      "sa": "विद्या",
+      "en": "knowledge",
+      "lemmas": [
+        "vidyā"
+      ],
+      "re": "(?<!a)vidy"
+    },
+    {
+      "id": "avidya",
+      "iast": "avidyā",
+      "sa": "अविद्या",
+      "en": "ignorance",
+      "lemmas": [
+        "avidyā"
+      ],
+      "re": "avidy"
+    },
+    {
+      "id": "ananda",
+      "iast": "ānanda",
+      "sa": "आनन्द",
+      "en": "bliss",
+      "lemmas": [
+        "ānanda"
+      ],
+      "re": "ānand"
+    },
+    {
+      "id": "manas",
+      "iast": "manas",
+      "sa": "मनस्",
+      "en": "mind",
+      "lemmas": [
+        "manas"
+      ],
+      "re": "\\bmana[sḥ]|\\bmano|manasā|manasi"
+    },
+    {
+      "id": "om",
+      "iast": "om",
+      "sa": "ॐ",
+      "en": "the syllable OM",
+      "lemmas": [
+        "om",
+        "oṃ",
+        "oṃkāra",
+        "praṇava"
+      ],
+      "re": "\\bo[mṃ]\\b|oṃkār|praṇav"
+    },
+    {
+      "id": "amrta",
+      "iast": "amṛta",
+      "sa": "अमृत",
+      "en": "deathless, immortal",
+      "lemmas": [
+        "amṛta",
+        "amṛtatva"
+      ],
+      "re": "amṛt"
+    },
+    {
+      "id": "mrtyu",
+      "iast": "mṛtyu",
+      "sa": "मृत्यु",
+      "en": "death",
+      "lemmas": [
+        "mṛtyu"
+      ],
+      "re": "mṛty"
+    },
+    {
+      "id": "karman",
+      "iast": "karman",
+      "sa": "कर्मन्",
+      "en": "action, ritual work",
+      "lemmas": [
+        "karman"
+      ],
+      "re": "karm"
+    },
+    {
+      "id": "dharma",
+      "iast": "dharma",
+      "sa": "धर्म",
+      "en": "right, law, duty",
+      "lemmas": [
+        "dharma"
+      ],
+      "re": "dharm"
+    },
+    {
+      "id": "tapas",
+      "iast": "tapas",
+      "sa": "तपस्",
+      "en": "disciplined heat, austerity",
+      "lemmas": [
+        "tapas"
+      ],
+      "re": "\\btapa[sḥ]|\\btapo|tapasā"
+    },
+    {
+      "id": "shraddha",
+      "iast": "śraddhā",
+      "sa": "श्रद्धा",
+      "en": "trust, faith",
+      "lemmas": [
+        "śraddhā"
+      ],
+      "re": "śraddh"
+    },
+    {
+      "id": "akshara",
+      "iast": "akṣara",
+      "sa": "अक्षर",
+      "en": "the imperishable; syllable",
+      "lemmas": [
+        "akṣara"
+      ],
+      "re": "akṣar"
+    },
+    {
+      "id": "purusha",
+      "iast": "puruṣa",
+      "sa": "पुरुष",
+      "en": "person, the Person",
+      "lemmas": [
+        "puruṣa",
+        "pūruṣa"
+      ],
+      "re": "p[uū]ruṣ"
+    },
+    {
+      "id": "deva",
+      "iast": "deva",
+      "sa": "देव",
+      "en": "god, shining one",
+      "lemmas": [
+        "deva",
+        "devatā"
+      ],
+      "re": "\\bdev"
+    },
+    {
+      "id": "isha",
+      "iast": "īśa",
+      "sa": "ईश",
+      "en": "the Lord",
+      "lemmas": [
+        "īśa",
+        "īś",
+        "īśvara",
+        "īśāna",
+        "maheśvara"
+      ],
+      "re": "\\bīś|īśvar|maheśvar"
+    },
+    {
+      "id": "loka",
+      "iast": "loka",
+      "sa": "लोक",
+      "en": "world",
+      "lemmas": [
+        "loka"
+      ],
+      "re": "\\blok"
+    },
+    {
+      "id": "kama",
+      "iast": "kāma",
+      "sa": "काम",
+      "en": "desire",
+      "lemmas": [
+        "kāma"
+      ],
+      "re": "kām"
+    },
+    {
+      "id": "jnana",
+      "iast": "jñāna",
+      "sa": "ज्ञान",
+      "en": "knowing",
+      "lemmas": [
+        "jñāna",
+        "vijñāna",
+        "prajñāna"
+      ],
+      "re": "jñān"
+    },
+    {
+      "id": "buddhi",
+      "iast": "buddhi",
+      "sa": "बुद्धि",
+      "en": "intellect",
+      "lemmas": [
+        "buddhi"
+      ],
+      "re": "buddh"
+    },
+    {
+      "id": "indriya",
+      "iast": "indriya",
+      "sa": "इन्द्रिय",
+      "en": "sense, sense-power",
+      "lemmas": [
+        "indriya"
+      ],
+      "re": "indriy"
+    },
+    {
+      "id": "hrdaya",
+      "iast": "hṛdaya",
+      "sa": "हृदय",
+      "en": "heart",
+      "lemmas": [
+        "hṛdaya",
+        "hṛd"
+      ],
+      "re": "hṛd"
+    },
+    {
+      "id": "guha",
+      "iast": "guhā",
+      "sa": "गुहा",
+      "en": "cave, secret place",
+      "lemmas": [
+        "guhā"
+      ],
+      "re": "\\bguh[āa]"
+    },
+    {
+      "id": "anna",
+      "iast": "anna",
+      "sa": "अन्न",
+      "en": "food",
+      "lemmas": [
+        "anna"
+      ],
+      "re": "\\bann[aā]"
+    },
+    {
+      "id": "agni",
+      "iast": "agni",
+      "sa": "अग्नि",
+      "en": "fire",
+      "lemmas": [
+        "agni"
+      ],
+      "re": "\\bagn"
+    },
+    {
+      "id": "aditya",
+      "iast": "āditya",
+      "sa": "आदित्य",
+      "en": "the sun",
+      "lemmas": [
+        "āditya",
+        "sūrya",
+        "savitṛ"
+      ],
+      "re": "āditya|sūry|savit"
+    },
+    {
+      "id": "yoga",
+      "iast": "yoga",
+      "sa": "योग",
+      "en": "yoking, discipline",
+      "lemmas": [
+        "yoga"
+      ],
+      "re": "\\byog"
+    },
+    {
+      "id": "maya",
+      "iast": "māyā",
+      "sa": "माया",
+      "en": "power of appearance",
+      "lemmas": [
+        "māyā",
+        "māyin"
+      ],
+      "re": "\\bmāy"
+    },
+    {
+      "id": "guna",
+      "iast": "guṇa",
+      "sa": "गुण",
+      "en": "quality (of nature)",
+      "lemmas": [
+        "guṇa"
+      ],
+      "re": "guṇ"
+    },
+    {
+      "id": "vac",
+      "iast": "vāc",
+      "sa": "वाच्",
+      "en": "speech",
+      "lemmas": [
+        "vāc"
+      ],
+      "re": "\\bvāc|\\bvāk|\\bvāg"
+    },
+    {
+      "id": "caksus",
+      "iast": "cakṣus",
+      "sa": "चक्षुस्",
+      "en": "eye, sight",
+      "lemmas": [
+        "cakṣus"
+      ],
+      "re": "cakṣu"
+    },
+    {
+      "id": "shrotra",
+      "iast": "śrotra",
+      "sa": "श्रोत्र",
+      "en": "ear, hearing",
+      "lemmas": [
+        "śrotra"
+      ],
+      "re": "śrotr"
+    },
+    {
+      "id": "svapna",
+      "iast": "svapna",
+      "sa": "स्वप्न",
+      "en": "dream",
+      "lemmas": [
+        "svapna"
+      ],
+      "re": "svapn"
+    },
+    {
+      "id": "sushupta",
+      "iast": "suṣupta",
+      "sa": "सुषुप्त",
+      "en": "deep sleep",
+      "lemmas": [
+        "suṣupta",
+        "suṣupti"
+      ],
+      "re": "suṣupt"
+    },
+    {
+      "id": "turiya",
+      "iast": "turīya",
+      "sa": "तुरीय",
+      "en": "the Fourth",
+      "lemmas": [
+        "turīya",
+        "caturtha"
+      ],
+      "re": "turīy|caturth"
+    },
+    {
+      "id": "moksha",
+      "iast": "mokṣa",
+      "sa": "मोक्ष",
+      "en": "release, freedom",
+      "lemmas": [
+        "mokṣa",
+        "mukti",
+        "mukta",
+        "muc"
+      ],
+      "re": "mokṣ|\\bmukt|mucyat|vimuc"
+    },
+    {
+      "id": "bandha",
+      "iast": "bandha",
+      "sa": "बन्ध",
+      "en": "bondage",
+      "lemmas": [
+        "bandha"
+      ],
+      "re": "bandh"
+    },
+    {
+      "id": "shanti",
+      "iast": "śānti",
+      "sa": "शान्ति",
+      "en": "peace",
+      "lemmas": [
+        "śānti",
+        "śānta"
+      ],
+      "re": "śānt"
+    },
+    {
+      "id": "rudra",
+      "iast": "rudra",
+      "sa": "रुद्र",
+      "en": "Rudra, the Lord as fierce and kind",
+      "lemmas": [
+        "rudra"
+      ],
+      "re": "rudr"
+    },
+    {
+      "id": "jiva",
+      "iast": "jīva",
+      "sa": "जीव",
+      "en": "the living being",
+      "lemmas": [
+        "jīva"
+      ],
+      "re": "\\bjīv"
+    },
+    {
+      "id": "akasha",
+      "iast": "ākāśa",
+      "sa": "आकाश",
+      "en": "space",
+      "lemmas": [
+        "ākāśa"
+      ],
+      "re": "ākāś"
+    },
+    {
+      "id": "jyotis",
+      "iast": "jyotis",
+      "sa": "ज्योतिस्",
+      "en": "light",
+      "lemmas": [
+        "jyotis"
+      ],
+      "re": "jyoti"
+    },
+    {
+      "id": "shreyas",
+      "iast": "śreyas",
+      "sa": "श्रेयस्",
+      "en": "the good",
+      "lemmas": [
+        "śreyas"
+      ],
+      "re": "śrey"
+    },
+    {
+      "id": "preyas",
+      "iast": "preyas",
+      "sa": "प्रेयस्",
+      "en": "the pleasant",
+      "lemmas": [
+        "preyas"
+      ],
+      "re": "\\bprey"
+    },
+    {
+      "id": "rta",
+      "iast": "ṛta",
+      "sa": "ऋत",
+      "en": "cosmic order",
+      "lemmas": [
+        "ṛta"
+      ],
+      "re": "\\bṛt[aā]"
+    },
+    {
+      "id": "saman",
+      "iast": "sāman",
+      "sa": "सामन्",
+      "en": "chant (of the Sāmaveda)",
+      "lemmas": [
+        "sāman"
+      ],
+      "re": "\\bsām[aān]"
+    },
+    {
+      "id": "udgitha",
+      "iast": "udgītha",
+      "sa": "उद्गीथ",
+      "en": "the chanted OM, the Udgītha",
+      "lemmas": [
+        "udgītha"
+      ],
+      "re": "udgīth|hiṅkār|prastāv|pratihār|nidhan"
+    },
+    {
+      "id": "sarva",
+      "iast": "sarva",
+      "sa": "सर्व",
+      "en": "all, the whole",
+      "lemmas": [
+        "sarva"
+      ],
+      "re": "\\bsarv"
+    },
+    {
+      "id": "aham",
+      "iast": "aham",
+      "sa": "अहम्",
+      "en": "I",
+      "lemmas": [
+        "mad",
+        "aham"
+      ],
+      "re": "\\bah[aā][mṃ]|\\bahaṃ"
+    },
+    {
+      "id": "rupa",
+      "iast": "rūpa",
+      "sa": "रूप",
+      "en": "form",
+      "lemmas": [
+        "rūpa"
+      ],
+      "re": "rūp"
+    },
+    {
+      "id": "prthivi",
+      "iast": "pṛthivī",
+      "sa": "पृथिवी",
+      "en": "earth",
+      "lemmas": [
+        "pṛthivī"
+      ],
+      "re": "pṛthiv"
+    },
+    {
+      "id": "vid",
+      "iast": "√vid",
+      "sa": "विद्",
+      "en": "to know",
+      "lemmas": [
+        "√vid",
+        "vid"
+      ],
+      "re": "\\bved[aāo]?\\b|\\bveda|\\bvid[uv]|vijān|\\bvett"
+    },
+    {
+      "id": "madhu",
+      "iast": "madhu",
+      "sa": "मधु",
+      "en": "honey",
+      "lemmas": [
+        "madhu"
+      ],
+      "re": "madhu"
+    },
+    {
+      "id": "svaha",
+      "iast": "svāhā",
+      "sa": "स्वाहा",
+      "en": "the offering-call",
+      "lemmas": [
+        "svāhā",
+        "hu"
+      ],
+      "re": "svāh|juhu|\\bhom"
+    },
+    {
+      "id": "nama",
+      "iast": "nāman",
+      "sa": "नामन्",
+      "en": "name",
+      "lemmas": [
+        "nāman"
+      ],
+      "re": "\\bnām[aā]|nāmadhey"
+    },
+    {
+      "id": "shabda",
+      "iast": "śabda",
+      "sa": "शब्द",
+      "en": "sound",
+      "lemmas": [
+        "śabda"
+      ],
+      "re": "śabd|chabd"
+    },
+    {
+      "id": "vayu",
+      "iast": "vāyu",
+      "sa": "वायु",
+      "en": "wind, air",
+      "lemmas": [
+        "vāyu"
+      ],
+      "re": "vāy[uo]"
+    },
+    {
+      "id": "apas",
+      "iast": "āpas",
+      "sa": "आपस्",
+      "en": "the waters",
+      "lemmas": [
+        "ap",
+        "āpas"
+      ],
+      "re": "\\bāpa|\\bapāṃ|\\badbh|\\bapsu"
+    },
+    {
+      "id": "candra",
+      "iast": "candra",
+      "sa": "चन्द्र",
+      "en": "the moon",
+      "lemmas": [
+        "candra",
+        "candramas"
+      ],
+      "re": "candr"
+    },
+    {
+      "id": "putra",
+      "iast": "putra",
+      "sa": "पुत्र",
+      "en": "son",
+      "lemmas": [
+        "putra"
+      ],
+      "re": "putr"
+    },
+    {
+      "id": "suvarna",
+      "iast": "suvarṇa",
+      "sa": "सुवर्ण",
+      "en": "gold",
+      "lemmas": [
+        "suvarṇa",
+        "hiraṇya"
+      ],
+      "re": "suvarṇ|hiraṇ"
+    },
+    {
+      "id": "bhuta",
+      "iast": "bhūta",
+      "sa": "भूत",
+      "en": "being, element",
+      "lemmas": [
+        "bhūta"
+      ],
+      "re": "bhūt"
+    },
+    {
+      "id": "ratha",
+      "iast": "ratha",
+      "sa": "रथ",
+      "en": "chariot",
+      "lemmas": [
+        "ratha"
+      ],
+      "re": "\\brath"
+    },
+    {
+      "id": "dvara",
+      "iast": "dvāra",
+      "sa": "द्वार",
+      "en": "door",
+      "lemmas": [
+        "dvāra"
+      ],
+      "re": "dvār"
+    },
+    {
+      "id": "gayatri",
+      "iast": "gāyatrī",
+      "sa": "गायत्री",
+      "en": "the Gāyatrī",
+      "lemmas": [
+        "gāyatrī"
+      ],
+      "re": "gāyatr"
+    },
+    {
+      "id": "stuti",
+      "iast": "stuti",
+      "sa": "स्तुति",
+      "en": "praise-chant",
+      "lemmas": [
+        "stu",
+        "stoma",
+        "stobha"
+      ],
+      "re": "stoṣy|ṣṭoṣ|\\bstom|stobh|stotr|\\bstuv|stut"
+    },
+    {
+      "id": "kosha",
+      "iast": "kośa",
+      "sa": "कोश",
+      "en": "sheath, treasure-chest",
+      "lemmas": [
+        "kośa"
+      ],
+      "re": "\\bkoś"
+    }
+  ]
+}

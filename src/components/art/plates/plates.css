@@ -1,0 +1,237 @@
+/* ══ Living Plates ══════════════════════════════════════════════════════════════════════════════════════════════
+   Editorial diagrams printed on the page: flat hairline drawings in the site's ink, one accent (--gold), a double rule
+   frame. Every colour is a token from globals.css, so both themes follow. Each plate is a size container: below
+   ~560px of its own width it switches to its narrow drawing (labels are never left to collide). Strokes do not
+   scale with the drawing (1–1.25px at every size). Motion is eased in script and stilled by prefers-reduced-motion.
+   ═════════════════════════════════════════════════════════════════════════════════════════════════════════════ */
+
+.lp {
+  --lp-paper: color-mix(in srgb, var(--surface) 62%, var(--bg));
+  container-type: inline-size;
+  margin: 44px 0 0;
+  max-width: 780px;
+  color: var(--text);
+  font-family: var(--f-sans);
+}
+.lp-frame { position: relative; padding: 26px 28px 20px; border: 1px solid var(--line-2); border-radius: 3px; background: var(--lp-paper); }
+.lp-frame::before { content: ""; position: absolute; inset: 5px; border: 1px solid var(--line); border-radius: 1px; pointer-events: none; }
+
+/* ── head ─────────────────────────────────────────────────────────────────────────────────────────────────── */
+.lp-head { display: flex; flex-direction: column; gap: 6px; }
+.lp-eyebrow { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 14px; font-size: 10.5px; line-height: 1.5; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 650; color: var(--gold); }
+.lp-eyebrow-src { color: var(--text-3); letter-spacing: 0.1em; font-weight: 550; }
+.lp-title { font-family: var(--f-serif); font-size: 28px; font-weight: 500; letter-spacing: -0.012em; line-height: 1.1; color: var(--text); }
+
+/* ── controls ─────────────────────────────────────────────────────────────────────────────────────────────── */
+.lp-controls { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 18px; margin-top: 18px; }
+.lp-seg { display: inline-flex; padding: 2px; gap: 2px; border: 1px solid var(--line-2); border-radius: 999px; }
+.lp-seg button { display: inline-flex; align-items: baseline; gap: 6px; height: 34px; padding: 0 15px; border: 0; border-radius: 999px; background: transparent; color: var(--text-3); font: inherit; font-size: 13.5px; font-weight: 560; line-height: 34px; cursor: pointer; transition: color 160ms, background 160ms, box-shadow 160ms; }
+.lp-seg button:hover { color: var(--text); }
+.lp-seg button[aria-pressed="true"] { color: var(--text); background: color-mix(in srgb, var(--gold) 9%, transparent); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--gold) 55%, transparent); }
+.lp-seg-sub { font-family: var(--f-serif); font-style: italic; font-weight: 400; color: var(--text-2); }
+.lp-seg-ref { font-size: 11px; font-weight: 600; letter-spacing: 0.04em; color: var(--text-4); font-variant-numeric: tabular-nums; }
+.lp-seg button[aria-pressed="true"] .lp-seg-ref { color: var(--gold); }
+.lp-hint { font-size: 12px; color: var(--text-4); }
+.lp-btn { display: inline-flex; align-items: baseline; gap: 7px; height: 34px; padding: 0 15px; border: 1px solid color-mix(in srgb, var(--gold) 55%, transparent); border-radius: 999px; background: transparent; color: var(--text); font: inherit; font-size: 13.5px; font-weight: 560; line-height: 32px; cursor: pointer; transition: background 160ms, border-color 160ms; }
+.lp-btn:hover { background: color-mix(in srgb, var(--gold) 10%, transparent); border-color: var(--gold); }
+.lp-btn-sa { font-family: var(--f-serif); font-style: italic; font-weight: 400; color: var(--gold); }
+.lp button:focus-visible, .lp a:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+/* parts of a drawing show focus in the drawing itself: gold ink and an underlined name, not a box around it */
+.lp .lp-svg a:focus-visible { outline: none; }
+
+/* ── the drawing ──────────────────────────────────────────────────────────────────────────────────────────── */
+.lp-stage { margin-top: 18px; }
+.lp-svg { display: block; width: 100%; height: auto; overflow: visible; user-select: none; -webkit-user-select: none; }
+.lp-svg path, .lp-svg line, .lp-svg circle { vector-effect: non-scaling-stroke; }
+.lp-ink { fill: none; stroke: var(--text-2); stroke-width: 1.2; transition: stroke 200ms; }
+.lp-ink-2 { fill: none; stroke: var(--line-3); stroke-width: 1; transition: stroke 200ms; }
+.lp-ink-3 { fill: none; stroke: var(--line-2); stroke-width: 1; }
+.lp-guide { fill: none; stroke: var(--line-2); stroke-width: 1; }
+.lp-dash { stroke-dasharray: 2 5; }
+.lp-fill { fill: var(--lp-paper); }
+.lp-solid { fill: var(--text-2); transition: fill 200ms; }
+.lp-gold-line { fill: none; stroke: var(--gold); stroke-width: 1; }
+.lp-rein { fill: none; stroke: var(--text-3); stroke-width: 1; transition: stroke 200ms; }
+.lp-hit { fill: transparent; stroke: none; }
+.lp-hit-line { fill: none; stroke: transparent; stroke-width: 12; }
+.lp-leader { fill: none; stroke: var(--text-4); stroke-width: 1; transition: stroke 200ms; }
+.lp-leader-dot { fill: var(--text-3); }
+.lp-uline { stroke: var(--gold); stroke-width: 1.6; opacity: 0; }
+.lp-lt { font-family: var(--f-sans); font-size: 13.5px; font-weight: 640; letter-spacing: 0.14em; fill: var(--text); transition: fill 200ms; }
+.lp-ls { font-family: var(--f-serif); font-style: italic; font-size: 15px; fill: var(--text-3); letter-spacing: 0; }
+.lp-os { font-family: var(--f-serif); font-style: italic; font-size: 15px; fill: var(--text-2); }
+.lp-oe { font-style: normal; font-family: var(--f-sans); font-size: 12px; fill: var(--text-4); }
+.lp-road-label .lp-lt { fill: var(--text-3); }
+.lp-end { fill: none; stroke: var(--gold); stroke-width: 1; }
+.lp-end-dot { fill: var(--gold); }
+
+/* parts: hover, focus and the active reading all share one look (gold ink, underlined name) */
+.lp-part { cursor: pointer; outline: none; }
+.lp-part:focus { outline: none; }
+.lp-part[data-on="1"] .lp-ink, .lp-part[data-on="1"] .lp-rein, .lp-part[data-on="1"] .lp-leader { stroke: var(--gold); }
+.lp-part[data-on="1"] .lp-solid, .lp-part[data-on="1"] .lp-lt { fill: var(--gold); }
+.lp-part:focus-visible .lp-uline { opacity: 1; }
+.lp-part[data-on="1"] .lp-object .lp-ink { stroke: var(--gold); }
+.lp-road[data-on="1"] .lp-ink-2 { stroke: color-mix(in srgb, var(--gold) 70%, transparent); }
+
+/* the chariot: wide drawing, or the narrow one (the same plan turned to run up the page) */
+.lp-chariot-narrow { display: none; max-width: 420px; margin: 0 auto; }
+.lp-chariot-narrow .lp-lt { font-size: 11.5px; }
+.lp-chariot-narrow .lp-ls, .lp-chariot-narrow .lp-os { font-size: 13px; }
+.lp-chariot-narrow .lp-oe { font-size: 10.5px; }
+@container (max-width: 559px) {
+  .lp-chariot-wide { display: none; }
+  .lp-chariot-narrow { display: block; }
+}
+
+/* ── captions ─────────────────────────────────────────────────────────────────────────────────────────────── */
+.lp-cap { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); }
+/* every reading occupies one grid cell, so the plate keeps its height as the reader explores */
+.lp-stack { display: grid; }
+.lp-stack > * { grid-area: 1 / 1; min-width: 0; }
+.lp-cap-item { visibility: hidden; opacity: 0; transition: opacity 260ms ease, visibility 0s linear 260ms; }
+.lp-cap-item[data-show="1"] { visibility: visible; opacity: 1; transition: opacity 260ms ease; }
+.lp-cap-item > * + * { margin-top: 8px; }
+.lp-cap-kicker { font-size: 10.5px; line-height: 1.6; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 650; color: var(--text-3); }
+.lp-ref { text-transform: none; letter-spacing: 0.05em; }
+.lp-cap-kicker i { font-family: var(--f-serif); font-size: 14px; font-weight: 400; letter-spacing: 0; text-transform: none; color: var(--text-2); }
+.lp-cap-title { font-family: var(--f-serif); font-size: 21px; font-weight: 500; line-height: 1.25; color: var(--text); }
+.lp-cap-title-en { font-style: italic; font-weight: 400; color: var(--text-3); }
+.lp-cap-sub { font-family: var(--f-serif); font-style: italic; font-size: 15px; color: var(--text-3); margin-top: 2px !important; }
+.lp-cap-tr { font-family: var(--f-serif); font-size: 16px; line-height: 1.62; color: var(--text); max-width: 64ch; }
+.lp-cap-then { font-family: var(--f-serif); font-size: 15px; line-height: 1.6; color: var(--text-2); max-width: 64ch; }
+.lp-cap-then-ref { font-family: var(--f-sans); font-size: 10.5px; letter-spacing: 0.12em; font-weight: 650; color: var(--text-3); margin-right: 6px; }
+.lp-cap-links { display: flex; flex-wrap: wrap; gap: 6px 18px; padding-top: 4px; }
+.lp-gloss { font-family: var(--f-serif); font-size: 15px; line-height: 1.62; color: var(--text-2); max-width: 64ch; }
+.lp-gloss-by { font-family: var(--f-sans); font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; font-weight: 650; color: var(--gold); margin-right: 8px; }
+.lp-sa { font-family: var(--f-deva); font-size: 21px; line-height: 1.75; color: var(--text); overflow-wrap: anywhere; }
+.lp-iast { font-family: var(--f-serif); font-style: italic; font-size: 15px; line-height: 1.5; color: var(--text-2); margin-top: 2px !important; overflow-wrap: anywhere; }
+.lp-deva-inline { font-family: var(--f-deva); font-size: 0.8em; color: var(--text-3); margin-left: 4px; }
+.lp-read { display: inline-flex; gap: 5px; font-size: 13px; font-weight: 560; color: var(--text-2); padding-bottom: 1px; border-bottom: 1px solid var(--line-3); transition: color 160ms, border-color 160ms; }
+.lp-read:hover { color: var(--text); border-color: var(--gold); }
+.lp-credit { margin-top: 16px !important; font-size: 11.5px; line-height: 1.5; color: var(--text-4); }
+.lp-credit a { text-decoration: underline; text-decoration-color: var(--line-3); text-underline-offset: 2px; }
+.lp-credit a:hover { color: var(--text-2); }
+
+/* drawing beside its reading (sheaths, states); stacked when narrow */
+.lp-split { display: grid; grid-template-columns: minmax(0, 360px) minmax(0, 1fr); gap: 32px; align-items: start; margin-top: 18px; }
+.lp-split-art { min-width: 0; }
+.lp-split-text { padding-top: 6px; }
+@container (max-width: 619px) {
+  .lp-split { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+  .lp-split-art { max-width: 360px; width: 100%; margin: 0 auto; }
+  .lp-split-text { padding-top: 16px; border-top: 1px solid var(--line); }
+}
+@container (max-width: 639px) {
+  .lp-frame { padding: 24px 22px 18px; }
+}
+@container (max-width: 459px) {
+  .lp-frame { padding: 22px 18px 18px; }
+  .lp .lp-band-name { font-size: 12px; }
+  .lp .lp-band-en { font-size: 13px; }
+  .lp-title { font-size: 24px; }
+  .lp-sa { font-size: 19px; }
+}
+
+/* ── II · the golden lid ──────────────────────────────────────────────────────────────────────────────────── */
+.lp-lid-body { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 28px; align-items: center; margin-top: 18px; }
+.lp-lid-art { display: flex; flex-direction: column; align-items: center; gap: 6px; min-width: 0; }
+.lp-lid-art .lp-hint { text-align: center; }
+.lp-lid-stage { --d: 184px; --k: 0; position: relative; width: calc(var(--d) * 2.1); height: calc(var(--d) * 1.36); max-width: 100%; flex: none; }
+.lp-lid-rays { position: absolute; left: 0; top: 0; width: calc(var(--d) * 1.36); height: calc(var(--d) * 1.36); overflow: visible; }
+.lp-lid-rays line { stroke: var(--line-2); stroke-width: 1; vector-effect: non-scaling-stroke; transition: stroke 900ms ease; }
+.lp-lid-rim { fill: none; stroke: var(--line-3); stroke-width: 1; vector-effect: non-scaling-stroke; transition: stroke 900ms ease; }
+.lp-lid-stage[data-open="1"] .lp-lid-rays line { stroke: color-mix(in srgb, var(--gold) 62%, transparent); }
+.lp-lid-stage[data-open="1"] .lp-lid-rim { stroke: var(--gold); }
+/* where the lid comes to rest when slid aside: a dashed hairline, so the empty room reads as intended */
+.lp-lid-rest { position: absolute; left: calc(var(--d) * 1.08); top: calc(var(--d) * 0.18); width: var(--d); height: var(--d); border-radius: 50%; border: 1px dashed var(--line-2); opacity: calc(1 - var(--k)); }
+.lp-lid-face { position: absolute; left: calc(var(--d) * 0.18); top: calc(var(--d) * 0.18); width: var(--d); height: var(--d); border-radius: 50%; display: grid; place-items: center; text-align: center; }
+.lp-lid-deva { display: flex; flex-direction: column; align-items: center; gap: 0; font-family: var(--f-deva); font-size: calc(var(--d) * 0.092); line-height: 1.55; color: var(--text); white-space: nowrap; }
+.lp-lid-disc {
+  position: absolute; left: calc(var(--d) * 0.18 - 2px); top: calc(var(--d) * 0.18 - 2px); width: calc(var(--d) + 4px); height: calc(var(--d) + 4px);
+  border-radius: 50%; cursor: grab; touch-action: pan-y;
+  transform: translateX(calc(var(--k) * var(--d) * 0.9));
+  transition: transform 1000ms cubic-bezier(0.22, 0.8, 0.24, 1);
+}
+.lp-lid-stage[data-drag="1"] .lp-lid-disc { transition: none; cursor: grabbing; }
+.lp-disc-svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.lp-disc-face { fill: color-mix(in srgb, var(--gold) 86%, var(--bg)); }
+.lp-disc-engrave { fill: none; stroke: color-mix(in srgb, var(--gold) 52%, var(--bg)); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.lp-disc-boss { fill: color-mix(in srgb, var(--gold) 52%, var(--bg)); }
+.lp-lid-text { min-width: 0; }
+.lp-lid-text > * + * { margin-top: 10px; }
+.lp-lid-iast { font-family: var(--f-serif); font-style: italic; font-size: 17px; line-height: 1.5; color: var(--text); overflow-wrap: anywhere; }
+.lp-lid-en { font-family: var(--f-serif); font-size: 16px; line-height: 1.6; color: var(--text-2); }
+.lp-lid-row { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; padding-top: 4px; }
+/* the full plate keeps the line veiled with its Devanagari until the lid moves */
+.lp-lid-line { opacity: 0.45; transition: opacity 900ms ease; }
+.lp-lid-line > * + * { margin-top: 8px; }
+.lp-lid-line[data-open="1"] { opacity: 1; }
+.lp-lid-prayer { padding-left: 14px; border-left: 1px solid var(--line-2); opacity: 0.38; transition: opacity 900ms ease, border-color 900ms ease; }
+.lp-lid-prayer[data-open="1"] { opacity: 1; border-left-color: var(--gold); }
+.lp-lid-prayer .lp-lid-iast-2 { font-size: 15px; color: var(--text-2); }
+.lp-lid-prayer .lp-lid-en { font-size: 15px; margin-top: 4px; }
+@container (max-width: 679px) {
+  .lp-lid-body { grid-template-columns: minmax(0, 1fr); justify-items: center; gap: 22px; }
+  .lp-lid-text { justify-self: stretch; }
+}
+@container (max-width: 459px) {
+  .lp-lid-stage { --d: min(150px, 41cqw); }
+}
+
+/* compact: the ornament in the /harness header, a museum label hung in the painting's sky (flat, no blur) */
+.lp-lid-compact { display: flex; align-items: center; gap: 14px; margin: 0; width: 520px; max-width: 100%; padding: 12px 18px 12px 10px; border: 1px solid var(--line-2); border-radius: 3px; background: color-mix(in srgb, var(--bg) 88%, transparent); color: var(--text); container-type: normal; }
+.lp-lid-compact .lp-lid-stage { --d: 84px; flex: none; }
+.lp-lid-compact .lp-lid-deva { font-size: 11.5px; line-height: 1.5; }
+.lp-lid-compact-text { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 4px; }
+.lp-lid-compact .lp-eyebrow { font-size: 10px; }
+.lp-lid-compact .lp-lid-iast { font-size: 14px; line-height: 1.4; }
+.lp-lid-compact .lp-lid-en { font-size: 13px; line-height: 1.45; }
+.lp-lid-compact .lp-lid-row { padding-top: 6px; gap: 8px 14px; }
+.lp-lid-compact .lp-btn { height: 30px; line-height: 28px; padding: 0 12px; font-size: 12.5px; }
+.lp-eyebrow-link { text-decoration: none; border-bottom: 1px solid var(--line-3); }
+.lp-eyebrow-link:hover { color: var(--text); border-color: var(--gold); }
+
+/* ── III · the five sheaths ───────────────────────────────────────────────────────────────────────────────── */
+.lp-band { cursor: pointer; outline: none; }
+.lp-band:focus { outline: none; }
+.lp-band-fill { fill: transparent; transition: fill 220ms; }
+.lp-band-hatch { opacity: 1; transition: opacity 220ms; }
+.lp-hatch { stroke: var(--line-2); stroke-width: 1; fill: none; }
+.lp-hatch-dot { fill: var(--line-3); }
+.lp-band-edge { fill: none; stroke: var(--line-3); stroke-width: 1; transition: stroke 220ms; }
+.lp-band-name { font-family: var(--f-sans); font-size: 10.5px; font-weight: 650; letter-spacing: 0.16em; fill: var(--text-2); paint-order: stroke; stroke: var(--lp-paper); stroke-width: 4px; stroke-linejoin: round; transition: fill 220ms; }
+.lp-band-en { font-family: var(--f-serif); font-style: italic; font-size: 11.5px; fill: var(--text-3); paint-order: stroke; stroke: var(--lp-paper); stroke-width: 4px; stroke-linejoin: round; }
+.lp-band[data-hover="1"] .lp-band-fill { fill: color-mix(in srgb, var(--gold) 5%, transparent); }
+.lp-band[data-hover="1"] .lp-band-name, .lp-band:focus-visible .lp-band-name { fill: var(--text); }
+.lp-band:focus-visible .lp-band-edge { stroke: var(--gold); stroke-dasharray: 3 3; }
+.lp-band[data-on="1"] .lp-band-fill { fill: color-mix(in srgb, var(--gold) 9%, transparent); }
+.lp-band[data-on="1"] .lp-band-edge { stroke: var(--gold); stroke-dasharray: none; }
+.lp-band[data-on="1"] .lp-band-name { fill: var(--gold); }
+.lp-band[data-on="1"] .lp-band-en { fill: var(--text-2); }
+.lp-core-ring { fill: var(--lp-paper); stroke: var(--gold); stroke-width: 1; }
+.lp-core-dot { fill: var(--gold); }
+.lp-core-label { font-family: var(--f-serif); font-style: italic; font-size: 11px; fill: var(--text-2); }
+
+/* ── IV · the four states ─────────────────────────────────────────────────────────────────────────────────── */
+.lp-dial-ring { fill: none; stroke: var(--line-3); stroke-width: 1; }
+.lp-dial-ring-gold { fill: none; stroke: var(--gold); stroke-width: 1.25; }
+.lp-tick { stroke: var(--text-4); stroke-width: 1; }
+.lp-tick-long { stroke: var(--text-3); }
+.lp-dial-mass { fill: color-mix(in srgb, var(--gold) 12%, transparent); stroke: color-mix(in srgb, var(--gold) 55%, transparent); stroke-width: 1; }
+.lp-station { cursor: pointer; }
+.lp-station-tick { stroke: var(--text-3); stroke-width: 1.2; transition: stroke 300ms; }
+.lp-station-letter { font-family: var(--f-deva); font-size: 25px; fill: var(--text-3); transition: fill 300ms; }
+.lp-station-empty { fill: none; stroke: var(--text-3); stroke-width: 1.2; transition: stroke 300ms; }
+.lp-station[data-on="1"] .lp-station-tick, .lp-station[data-on="1"] .lp-station-empty { stroke: var(--gold); }
+.lp-station[data-on="1"] .lp-station-letter { fill: var(--gold); }
+.lp-needle { stroke: var(--text-2); stroke-width: 1; }
+.lp-needle-tip { fill: var(--gold); }
+.lp-dial-centre { fill: var(--gold); }
+.lp-steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 6px; margin-top: 14px; }
+.lp-steps button { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1px; min-width: 0; height: 54px; padding: 4px 4px 5px; border: 1px solid var(--line-2); border-radius: 10px; background: transparent; color: var(--text-3); font: inherit; font-size: 12.5px; font-weight: 560; line-height: 1.2; cursor: pointer; transition: color 160ms, border-color 160ms, background 160ms; }
+.lp-steps button:hover { color: var(--text); border-color: var(--line-3); }
+.lp-steps button[aria-checked="true"] { color: var(--text); border-color: color-mix(in srgb, var(--gold) 55%, transparent); background: color-mix(in srgb, var(--gold) 9%, transparent); }
+.lp-step-letter { font-family: var(--f-deva); font-size: 18px; line-height: 1.25; font-weight: 400; color: var(--gold); }
+.lp-step-empty { display: block; width: 9px; height: 9px; margin: 6px 0 7px; border-radius: 50%; border: 1.25px solid var(--gold); }
+.lp-step-name { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

@@ -1,0 +1,106 @@
+{
+ "_about": "Three Vedānta readings of twelve landmark passages, side by side. These are editorial summaries of each school's standard reading, written for this site; they are not translations. Advaita follows Śaṅkara's commentary on the passage. Rāmānuja wrote no separate commentary on the Upaniṣads: his readings come from the Śrī Bhāṣya and the Vedārthasaṅgraha (and were carried into the Upaniṣads by Raṅgarāmānuja). Dvaita follows Madhva's commentaries on the ten Upaniṣads he explained.",
+ "schools": {
+  "advaita": { "label": "Advaita", "teacher": "Śaṅkara", "gloss": "non-dual: the self is Brahman" },
+  "vishishtadvaita": { "label": "Viśiṣṭādvaita", "teacher": "Rāmānuja", "gloss": "qualified non-dual: Brahman with souls and world as its body" },
+  "dvaita": { "label": "Dvaita", "teacher": "Madhva", "gloss": "dual: the Lord and souls eternally distinct" }
+ },
+ "passages": [
+  {
+   "verse": "ChU_6.8.7",
+   "kw": "tat tvam asi",
+   "theme": "“That you are”",
+   "advaita": { "text": "“That” is Being, the root of the world; “you” is Śvetaketu’s self. Set aside the body and mind that seem to divide them, and the two words point to one consciousness: an identity to be recognised, not a union to be produced.", "source": "Śaṅkara, commentary on ChU 6.8.7" },
+   "vishishtadvaita": { "text": "Both words name Brahman: “that” as the cause of the world, “you” as Brahman dwelling in Śvetaketu as his inner self, with the individual as its body. The sentence teaches one Brahman qualified by the soul, not a soul that is Brahman without remainder.", "source": "Rāmānuja, Vedārthasaṅgraha; Śrī Bhāṣya 1.1.1" },
+   "dvaita": { "text": "Madhva divides the words as “sa ātmā, atat tvam asi”: that is the Self, and you are not that. Read either way, the nine illustrations teach that the soul depends on the Lord and is never identical with him.", "source": "Madhva, commentary on the Chāndogya" }
+  },
+  {
+   "verse": "BU_1.4.10",
+   "kw": "brahmāsmi",
+   "theme": "“I am Brahman”",
+   "advaita": { "text": "In the beginning Brahman knew itself as “I am Brahman”, and so became all; whoever knows this becomes all. The knowledge removes an ignorance that made the self seem small; it adds nothing that was not already the case.", "source": "Śaṅkara, commentary on BU 1.4.10" },
+   "vishishtadvaita": { "text": "A word for the body extends to the self that ensouls it. So “I”, in its full reach, names Brahman, the inner self of the one who meditates, whose body the individual is. The meditation is on Brahman as one’s own indweller.", "source": "Rāmānuja, Śrī Bhāṣya 1.1.1; Vedārthasaṅgraha" },
+   "dvaita": { "text": "The words express the Lord’s own self-knowledge, or the seeker’s meditation on the Lord dwelling within; the individual knower remains distinct from and dependent on Brahman.", "source": "Madhva, commentary on the Bṛhadāraṇyaka" }
+  },
+  {
+   "verse": "AiU_3.1.3",
+   "kw": "prajñānaṃ brahma",
+   "theme": "“Consciousness is Brahman”",
+   "advaita": { "text": "Consciousness, the light by which seeing, hearing and thinking are known, is itself Brahman. Gods, elements and creatures are all “guided by prajñā”: one awareness, appearing through many forms.", "source": "Śaṅkara, commentary on AiU 3.1.3" },
+   "vishishtadvaita": { "text": "Brahman is knowledge in its very nature and also the possessor of knowledge. All beings are “guided by prajñā” because the all-knowing Brahman directs them from within.", "source": "Rāmānuja, Śrī Bhāṣya 1.1.1" },
+   "dvaita": { "text": "Prajñāna names the Lord, whose knowledge is supreme and complete. Souls have knowledge too, but limited and dependent on his.", "source": "Madhva, commentary on the Aitareya" }
+  },
+  {
+   "verse": "MaU_2",
+   "kw": "brahmāyamātmā",
+   "theme": "“This self is Brahman”",
+   "advaita": { "text": "Pointing to the self as “this”, the verse says this very self is Brahman, and then opens the analysis of its four quarters, which Gauḍapāda’s Kārikā develops into the teaching of non-origination.", "source": "Śaṅkara, commentary on the Māṇḍūkya and its Kārikā" },
+   "vishishtadvaita": { "text": "The self is Brahman in that Brahman is its inner self; the four quarters are Brahman as the inner controller of waking, dream, deep sleep, and as it is in itself.", "source": "Rāmānuja, Śrī Bhāṣya (on the inner controller)" },
+   "dvaita": { "text": "“This self” is the Lord within. In four forms (Viśva, Taijasa, Prājña and Turīya) he presides over the soul’s states; the soul is not those forms.", "source": "Madhva, commentary on the Māṇḍūkya" }
+  },
+  {
+   "verse": "MaU_7",
+   "kw": "nāntaḥprajñaṃ",
+   "theme": "The fourth (turīya)",
+   "advaita": { "text": "The fourth is not a fourth state but the self in which waking, dream and sleep appear and pass: unseen, beyond dealings, peaceful, non-dual. It is known by the negation of what it is not.", "source": "Śaṅkara, commentary on MaU 7 and the Kārikā" },
+   "vishishtadvaita": { "text": "The fourth is Brahman as it is in itself, untouched by the defects of the three states over which it rules as their inner controller.", "source": "Rāmānuja, Śrī Bhāṣya (on the inner controller)" },
+   "dvaita": { "text": "Turīya is the fourth form of the Lord, beyond the three he governs; the liberated soul approaches him there and remains distinct.", "source": "Madhva, commentary on the Māṇḍūkya" }
+  },
+  {
+   "verse": "IU_1",
+   "kw": "īśā vāsyam",
+   "theme": "Everything dwelt in by the Lord",
+   "advaita": { "text": "“Cover” the moving world with the Lord: see it as the Self, and so let it go. Protect yourself by that renunciation, and covet nothing.", "source": "Śaṅkara, commentary on IU 1" },
+   "vishishtadvaita": { "text": "Everything is pervaded and ruled by the Lord, its indweller. Enjoy what he gives, knowing it as his, without greed for what belongs to another.", "source": "Rāmānuja’s school (Vedāntadeśika, Īśāvāsya commentary)" },
+   "dvaita": { "text": "All this is inhabited and governed by Hari, the one independent being. Live on what he allots, and desire no one else’s wealth.", "source": "Madhva, commentary on the Īśāvāsya" }
+  },
+  {
+   "verse": "IU_15",
+   "kw": "hiraṇmayena pātreṇa",
+   "theme": "The golden lid",
+   "advaita": { "text": "At life’s end one who has meditated on Brahman with attributes asks the sun to draw back its golden lid of light, so that the truth behind it, the person in the sun, can be seen as oneself.", "source": "Śaṅkara, commentary on IU 15–16" },
+   "vishishtadvaita": { "text": "The devotee asks Pūṣan, the Lord abiding in the sun, to reveal his form; the closing “I am he” means that he is the inner self of the one who prays.", "source": "Rāmānuja’s school (Vedāntadeśika, Īśāvāsya commentary)" },
+   "dvaita": { "text": "A prayer to the Lord in the solar orb to show himself to his devotee: the seeker sees him by his grace, and does not become him.", "source": "Madhva, commentary on the Īśāvāsya" }
+  },
+  {
+   "verse": "KaU_1.2.2",
+   "kw": "śreyaśca",
+   "theme": "The good and the pleasant",
+   "advaita": { "text": "The wise choose the good over the pleasant. The good culminates in the knowledge of the Self, which alone ends ignorance and its sorrow.", "source": "Śaṅkara, commentary on KaU 1.2.2" },
+   "vishishtadvaita": { "text": "The good is the path of meditation and devotion that reaches Brahman; the pleasant is whatever binds one to wanting.", "source": "Rāmānuja, Śrī Bhāṣya (on the means: devoted meditation)" },
+   "dvaita": { "text": "The good is the discipline of knowledge and devotion that wins the Lord’s grace and, with it, liberation; the pleasant keeps the soul in rebirth.", "source": "Madhva, commentary on the Kaṭha" }
+  },
+  {
+   "verse": "KaU_1.3.3",
+   "kw": "rathinaṃ",
+   "theme": "The chariot",
+   "advaita": { "text": "The self is the rider only while joined to body, senses and mind; discernment holding the reins leads to Viṣṇu’s highest place (1.3.9), known as the Self. In the Brahma Sūtra, the “unmanifest” of this passage is the body of the image, not Sāṅkhya’s matter.", "source": "Śaṅkara, commentary on KaU 1.3.3–11; Brahma Sūtra 1.4.1" },
+   "vishishtadvaita": { "text": "The passenger is the individual self, the road’s end is Viṣṇu’s highest abode, and the whole image is a discipline for reaching it. Rāmānuja too reads the “unmanifest” as the subtle body of the simile.", "source": "Rāmānuja, Śrī Bhāṣya 1.4.1" },
+   "dvaita": { "text": "The rider is the soul, distinct from the Lord; mastery of the senses, granted by the Lord’s grace, brings the soul to Viṣṇu’s supreme abode.", "source": "Madhva, commentary on the Kaṭha" }
+  },
+  {
+   "verse": "MuU_3.1.1",
+   "kw": "dvā suparṇā",
+   "theme": "Two birds on one tree",
+   "advaita": { "text": "One bird, the individual identified with body and mind, eats the fruit; the other, the Lord, only watches. They differ by adjuncts alone: when the eater sees the other as its own glory, sorrow ends (3.1.2).", "source": "Śaṅkara, commentary on MuU 3.1.1–2" },
+   "vishishtadvaita": { "text": "Two selves, the soul and the supreme Self, live inseparably in one body. Seeing its inner controller, the soul is freed from grief and comes to a likeness with him.", "source": "Rāmānuja, Śrī Bhāṣya 1.3.7" },
+   "dvaita": { "text": "A central text for Dvaita: two eternally distinct beings, the soul that eats the fruit of its actions and the Lord who does not. Liberation keeps the difference.", "source": "Madhva, commentary on the Muṇḍaka" }
+  },
+  {
+   "verse": "BU_2.3.6",
+   "kw": "neti neti",
+   "theme": "“Not this, not this”",
+   "advaita": { "text": "The double negation removes every form just described, the formed and the formless, from Brahman as it is in itself. It denies the forms, not Brahman: what remains is the truth of truth.", "source": "Śaṅkara, commentary on BU 2.3.6; Brahma Sūtra 3.2.22" },
+   "vishishtadvaita": { "text": "“Not thus” denies only that Brahman is limited to the forms just mentioned; the text goes on to call it the truth of truth, rich in qualities. Brahma Sūtra 3.2.22: it denies the “so much”, then says more.", "source": "Rāmānuja, Śrī Bhāṣya 3.2.22" },
+   "dvaita": { "text": "The negation denies that Brahman can be fully grasped or exhausted by any description; it does not deny his infinite, real qualities.", "source": "Madhva, commentary on the Bṛhadāraṇyaka" }
+  },
+  {
+   "verse": "TU_2.1",
+   "kw": "satyaṃ jñānamanantaṃ brahma",
+   "theme": "“Truth, knowledge, the infinite”",
+   "advaita": { "text": "A definition, not a list of qualities: each word rules out what Brahman is not (the unreal, the insentient, the finite) and so points to its very nature.", "source": "Śaṅkara, commentary on TU 2.1" },
+   "vishishtadvaita": { "text": "The three words name real attributes of one Brahman. Words in apposition refer to one substance under several qualities; they do not reduce it to bare being.", "source": "Rāmānuja, Śrī Bhāṣya 1.1.1" },
+   "dvaita": { "text": "Brahman truly possesses truth, knowledge and endlessness, with infinite auspicious qualities in perfect measure.", "source": "Madhva, commentary on the Taittirīya" }
+  }
+ ]
+}

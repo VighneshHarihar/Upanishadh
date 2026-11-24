@@ -1,0 +1,11 @@
+/* Nāda: the chant player's string. Site tokens only; hairlines, no glow. */
+.nada { position: relative; display: block; height: 22px; margin: 1px 0 -5px; cursor: pointer; touch-action: none; border-radius: 3px; -webkit-tap-highlight-color: transparent; }
+.nada:focus { outline: none; }
+.nada:focus-visible { outline: 1px solid var(--gold); outline-offset: 1px; }
+.nada svg { display: block; width: 100%; height: 22px; overflow: visible; }
+.nada-rest { fill: none; stroke: var(--line-3); stroke-width: 1; vector-effect: non-scaling-stroke; stroke-linejoin: round; }
+.nada-played { fill: none; stroke: var(--gold); stroke-width: 1.35; vector-effect: non-scaling-stroke; stroke-linecap: round; stroke-linejoin: round; }
+.nada-bridge { stroke: var(--line-3); stroke-width: 1; vector-effect: non-scaling-stroke; }
+.nada-bead { fill: var(--gold); transition: r 120ms ease; }
+.nada:hover .nada-bead, .nada:focus-visible .nada-bead { r: 3px; }
+@media (prefers-reduced-motion: reduce) { .nada-bead { transition: none; } }

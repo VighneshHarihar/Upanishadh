@@ -1,0 +1,49 @@
+{
+  "corpora": {
+    "BG": {
+      "name": "GitaViśva",
+      "title": "Bhagavad Gītā",
+      "site": "gitaviswa",
+      "path": "/?view=darshana&node={id}",
+      "chapterVerses": [
+        47,
+        72,
+        43,
+        42,
+        29,
+        47,
+        30,
+        28,
+        34,
+        42,
+        55,
+        20,
+        35,
+        27,
+        20,
+        24,
+        28,
+        78
+      ]
+    },
+    "RV": {
+      "name": "VedAnvaya",
+      "title": "Ṛgveda",
+      "site": "vedanvaya",
+      "path": "/passage/RV%20{ref}"
+    },
+    "YV": {
+      "name": "VedAnvaya",
+      "title": "Śukla Yajurveda (Vājasaneyi Saṃhitā)",
+      "site": "vedanvaya",
+      "path": "/passage/YV%20{ref}"
+    },
+    "BS": {
+      "name": "Brahma Sūtra",
+      "title": "Brahma Sūtra",
+      "site": null,
+      "path": null
+    }
+  },
+  "_about": "External corpora. URLs are built at runtime from the base URLs in src/lib/config.ts (site) and the path template here."
+}

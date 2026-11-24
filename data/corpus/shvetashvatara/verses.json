@@ -1,0 +1,6626 @@
+[
+ {
+  "id": "SvU_0",
+  "ref": "0",
+  "section": "Śānti mantra · Saha nāv avatu",
+  "shanti": true,
+  "sa": [
+   "ॐ सह नाववतु । सह नौ भुनक्तु । सह वीर्यं करवावहै ।",
+   "तेजस्वि नावधीतमस्तु । मा विद्विषावहै ॥",
+   "ॐ शान्तिः शान्तिः शान्तिः ॥"
+  ],
+  "iast": [
+   "oṃ saha nāv avatu | saha nau bhunaktu | saha vīryaṃ karavāvahai |",
+   "tejasvi nāv adhītam astu | mā vidviṣāvahai ||",
+   "oṃ śāntiḥ śāntiḥ śāntiḥ"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Om! May Brahman protect us both together. May He nourish us both together. May we both work together, with great energy. May our study be vigorous and effective. May we not hate each other. Om! Peace ! Peace ! Peace !",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/shantimantra/2.wav",
+   "whole": [
+    0,
+    40.1
+   ]
+  },
+  "hasBhashya": false,
+  "order": 1
+ },
+ {
+  "id": "SvU_1.1",
+  "ref": "1.1",
+  "section": "Adhyāya 1",
+  "sa": [
+   "ओं ब्रह्मवादिनो वदन्ति ।",
+   "किंकारणं ब्रह्म कुतः स्म जाता जीवामः केन क्व च संप्रतिष्ठाः  ।",
+   "अधिष्ठिताः केन सुखेतरेषु वर्तामहे ब्रह्मविदो व्यवस्थाम् ॥"
+  ],
+  "iast": [
+   "oṃ brahmavādino vadanti ।",
+   "kiṃkāraṇaṃ brahma kutaḥ sma jātā jīvāmaḥ kena kva ca saṃpratiṣṭhāḥ  ।",
+   "adhiṣṭhitāḥ kena sukhetareṣu vartāmahe brahmavido vyavasthām ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "ब्रह्म",
+    "brahma",
+    "pious effusion or utterance",
+    "brahman"
+   ],
+   [
+    "वादिनः",
+    "vādinaḥ",
+    "saying",
+    "vādin"
+   ],
+   [
+    "वदन्ति",
+    "vadanti",
+    "to speak",
+    "vad"
+   ],
+   [
+    "किंकारणम्",
+    "kiṃkāraṇam",
+    "having what reason or cause?",
+    "kiṃkāraṇa"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "pious effusion or utterance",
+    "brahman"
+   ],
+   [
+    "कुतस्",
+    "kutas",
+    "from whom?",
+    "kutas"
+   ],
+   [
+    "स्म",
+    "sma",
+    "ever",
+    "sma"
+   ],
+   [
+    "जाताः",
+    "jātāḥ",
+    "to come into existence",
+    "jan"
+   ],
+   [
+    "जीवामः",
+    "jīvāmaḥ",
+    "to live",
+    "jīv"
+   ],
+   [
+    "केन",
+    "kena",
+    "why?",
+    "kena"
+   ],
+   [
+    "क्व",
+    "kva",
+    "where? in what place? whither?(sometimes connected with particles ﾮMDBOﾯ~ṝha)",
+    "kva"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "संप्रतिष्ठाः",
+    "saṃpratiṣṭhāḥ",
+    "perseverance",
+    "sampratiṣṭhā"
+   ],
+   [
+    "अधिष्ठिताः",
+    "adhiṣṭhitāḥ",
+    "to stand upon",
+    "adhiṣṭhā"
+   ],
+   [
+    "केन",
+    "kena",
+    "who?",
+    "ka"
+   ],
+   [
+    "सुखेतरेषु",
+    "sukhetareṣu",
+    "joys and sorrows",
+    "sukhetara"
+   ],
+   [
+    "वर्तामहे",
+    "vartāmahe",
+    "to turn",
+    "vṛt"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "pious effusion or utterance",
+    "brahman"
+   ],
+   [
+    "विदः",
+    "vidaḥ",
+    "knowing",
+    "vid"
+   ],
+   [
+    "व्यवस्थाम्",
+    "vyavasthām",
+    "respective difference",
+    "vyavasthā"
+   ]
+  ],
+  "tr": {
+   "text": "Students of Brahman (i.e. the Vedas) discuss (among themselves): What is the cause ? (Is it) Brahman ? Whence are we born ? Why do we live ? Where is our final rest ? Under whose orders are we, who know the Brahman, subjected to the law of happiness and misery ?",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.1.mp3",
+   "whole": [
+    14.08,
+    40.92
+   ]
+  },
+  "hasBhashya": true,
+  "order": 2
+ },
+ {
+  "id": "SvU_1.2",
+  "ref": "1.2",
+  "section": "Adhyāya 1",
+  "sa": [
+   "कालः स्वभावो नियतिर् यदृच्छा भूतानि योनिः पुरुषेति चिन्त्यम्  ।",
+   "संयोग एषां न त्व् आत्मभावाद् आत्मा ह्य् अनीशः सुखदुःखहेतोः ॥"
+  ],
+  "iast": [
+   "kālaḥ svabhāvo niyatir yadṛcchā bhūtāni yoniḥ puruṣeti cintyam  ।",
+   "saṃyoga eṣāṃ na tv ātmabhāvād ātmā hy anīśaḥ sukhaduḥkhahetoḥ ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "कालः",
+    "kālaḥ",
+    "time",
+    "kāla"
+   ],
+   [
+    "स्वभावः",
+    "svabhāvaḥ",
+    "native place",
+    "svabhāva"
+   ],
+   [
+    "नियतिः",
+    "niyatiḥ",
+    "the fixed order of things",
+    "niyati"
+   ],
+   [
+    "यदृच्छा",
+    "yadṛcchā",
+    "self-will",
+    "yadṛcchā"
+   ],
+   [
+    "भूतानि",
+    "bhūtāni",
+    "that which is or exists",
+    "bhūta"
+   ],
+   [
+    "योनिः",
+    "yoniḥ",
+    "the womb",
+    "yoni"
+   ],
+   [
+    "पुरुष",
+    "puruṣa",
+    "a man",
+    "puruṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "चिन्त्यम्",
+    "cintyam",
+    "to think",
+    "cintay"
+   ],
+   [
+    "संयोगः",
+    "saṃyogaḥ",
+    "conjunction",
+    "saṃyoga"
+   ],
+   [
+    "एषाम्",
+    "eṣām",
+    "this",
+    "idam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "तु",
+    "tu",
+    "do",
+    "tu"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "the breath",
+    "ātman"
+   ],
+   [
+    "भावात्",
+    "bhāvāt",
+    "becoming",
+    "bhāva"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "self",
+    "ātman"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अनीशः",
+    "anīśaḥ",
+    "one who has not a lord or superior",
+    "anīśa"
+   ],
+   [
+    "सुख",
+    "sukha",
+    "ease",
+    "sukha"
+   ],
+   [
+    "दुःख",
+    "duḥkha",
+    "uneasiness",
+    "duḥkha"
+   ],
+   [
+    "हेतोः",
+    "hetoḥ",
+    "motive",
+    "hetu"
+   ]
+  ],
+  "tr": {
+   "text": "Time, nature, law, chance, matter, energy, intelligence – neither these, nor combination of these, can bear examination because of their own birth, identity and the existence of the self. The self also is not a free agent, being under the sway of happiness and misery.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.2.mp3",
+   "whole": [
+    42.17,
+    61.03
+   ]
+  },
+  "hasBhashya": true,
+  "order": 3
+ },
+ {
+  "id": "SvU_1.3",
+  "ref": "1.3",
+  "section": "Adhyāya 1",
+  "sa": [
+   "ते ध्यानयोगानुगता अपश्यन् देवात्मशक्तिं स्वगुणैर् निगूढाम्  ।",
+   "यः कारणानि निखिलानि तानि कालात्मयुक्तान्य् अधितिष्ठत्य् एकः ॥"
+  ],
+  "iast": [
+   "te dhyānayogānugatā apaśyan devātmaśaktiṃ svaguṇair nigūḍhām  ।",
+   "yaḥ kāraṇāni nikhilāni tāni kālātmayuktāny adhitiṣṭhaty ekaḥ ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "ते",
+    "te",
+    "this",
+    "tad"
+   ],
+   [
+    "ध्यान",
+    "dhyāna",
+    "meditation",
+    "dhyāna"
+   ],
+   [
+    "योग",
+    "yoga",
+    "the act of yoking",
+    "yoga"
+   ],
+   [
+    "अनुगताः",
+    "anugatāḥ",
+    "to go after",
+    "anugam"
+   ],
+   [
+    "अपश्यन्",
+    "apaśyan",
+    "to see",
+    "paś"
+   ],
+   [
+    "देव",
+    "deva",
+    "a deity",
+    "deva"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "the breath",
+    "ātman"
+   ],
+   [
+    "शक्तिम्",
+    "śaktim",
+    "power",
+    "śakti"
+   ],
+   [
+    "स्व",
+    "sva",
+    "own",
+    "sva"
+   ],
+   [
+    "गुणैः",
+    "guṇaiḥ",
+    "a single thread or strand of a cord or twine",
+    "guṇa"
+   ],
+   [
+    "निगूढाम्",
+    "nigūḍhām",
+    "to cover",
+    "niguh"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "what",
+    "yad"
+   ],
+   [
+    "कारणानि",
+    "kāraṇāni",
+    "cause",
+    "kāraṇa"
+   ],
+   [
+    "निखिलानि",
+    "nikhilāni",
+    "complete",
+    "nikhila"
+   ],
+   [
+    "तानि",
+    "tāni",
+    "this",
+    "tad"
+   ],
+   [
+    "काल",
+    "kāla",
+    "time",
+    "kāla"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "the breath",
+    "ātman"
+   ],
+   [
+    "युक्तानि",
+    "yuktāni",
+    "to yoke or join or fasten or harness (horses or a chariot)",
+    "yuj"
+   ],
+   [
+    "अधितिष्ठति",
+    "adhitiṣṭhati",
+    "to stand upon",
+    "adhiṣṭhā"
+   ],
+   [
+    "एकः",
+    "ekaḥ",
+    "one",
+    "eka"
+   ]
+  ],
+  "tr": {
+   "text": "Practising the method of meditation, they realized that Being who is the God of religion, the Self of philosophy and the Energy of science; who exists as the self-luminous power in everyone; who is the source of the intellect, emotions and will; who is one without a second; who presides over all the causes enumerated above, beginning with time and ending with the individual soul; and who had been incomprehensible because of the limitations of their own intellect.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.3.mp3",
+   "whole": [
+    61.03,
+    80.33
+   ]
+  },
+  "hasBhashya": true,
+  "order": 4
+ },
+ {
+  "id": "SvU_1.4",
+  "ref": "1.4",
+  "section": "Adhyāya 1",
+  "sa": [
+   "तम् एकनेमिं त्रिवृतं षोडशान्तं शतार्धारं विंशतिप्रत्यराभिः  ।",
+   "अष्टकैः षड्भिर् विश्वरूपैकपाशं त्रिमार्गभेदं द्विनिमित्तैकमोहम् ॥"
+  ],
+  "iast": [
+   "tam ekanemiṃ trivṛtaṃ ṣoḍaśāntaṃ śatārdhāraṃ viṃśatipratyarābhiḥ  ।",
+   "aṣṭakaiḥ ṣaḍbhir viśvarūpaikapāśaṃ trimārgabhedaṃ dvinimittaikamoham ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "We think of Him as the universe resembling a wheel which has one felly with a triple tyre, sixteen extremities, fifty spokes, twenty counter-spokes and six sets of eight; which is driven along three different roads by means of a belt that is single yet manifold; and which each revolution gives rise to two.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.4.mp3",
+   "whole": [
+    80.33,
+    101.88
+   ]
+  },
+  "hasBhashya": true,
+  "order": 5
+ },
+ {
+  "id": "SvU_1.5",
+  "ref": "1.5",
+  "section": "Adhyāya 1",
+  "sa": [
+   "पञ्चस्रोतोऽम्बुं पञ्चयोन्युग्रवक्त्रां पञ्चप्राणोर्मिं पञ्चबुद्ध्यादिमूलां  ।",
+   "पञ्चावर्तां पञ्चदुःखौघवेगां पञ्चाशद्भेदां पञ्चपर्वाम् अधीमः ॥"
+  ],
+  "iast": [
+   "pañcasroto’mbuṃ pañcayonyugravaktrāṃ pañcaprāṇormiṃ pañcabuddhyādimūlāṃ  ।",
+   "pañcāvartāṃ pañcaduḥkhaughavegāṃ pañcāśadbhedāṃ pañcaparvām adhīmaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "We think of Him (in His manifestation as the universe) who is like a river that contains the waters of five streams; that has five big turnings due to five causes; that has the five Pranas for the waves, the mind – the basis of five-fold perception – for the source, and the five-fold misery for its rapids; and that has five whirlpools, five branches and innumerable aspects.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.5.mp3",
+   "whole": [
+    102.95,
+    125.14
+   ]
+  },
+  "hasBhashya": true,
+  "order": 6
+ },
+ {
+  "id": "SvU_1.6",
+  "ref": "1.6",
+  "section": "Adhyāya 1",
+  "sa": [
+   "सर्वाजीवे सर्वसंस्थे बृहन्ते तस्मिन् हंसो भ्राम्यते ब्रह्मचक्रे  ।",
+   "पृथग् आत्मानं प्रेरितारं च मत्वा जुष्टस् ततस् तेनामृतत्वम् एति ॥"
+  ],
+  "iast": [
+   "sarvājīve sarvasaṃsthe bṛhante tasmin haṃso bhrāmyate brahmacakre  ।",
+   "pṛthag ātmānaṃ preritāraṃ ca matvā juṣṭas tatas tenāmṛtatvam eti ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "In this infinite wheel of Brahman, in which everything lives and rests, the pilgrim soul is whirled about. Knowing the individual soul, hitherto regarded as separate, to be itself the Moving Force, and blessed by Him, it attains immortality.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.6.mp3",
+   "whole": [
+    125.14,
+    145.69
+   ]
+  },
+  "hasBhashya": true,
+  "order": 7
+ },
+ {
+  "id": "SvU_1.7",
+  "ref": "1.7",
+  "section": "Adhyāya 1",
+  "sa": [
+   "उद्गीतम् एतत् परमं तु ब्रह्म तस्मिंस् त्रयं स्वप्रतिष्ठाक्षरं च  ।",
+   "अत्रान्तरं ब्रह्मविदो विदित्वा लीना ब्रह्मणि तत्परा योनिमुक्ताः ॥"
+  ],
+  "iast": [
+   "udgītam etat paramaṃ tu brahma tasmiṃs trayaṃ svapratiṣṭhākṣaraṃ ca  ।",
+   "atrāntaraṃ brahmavido viditvā līnā brahmaṇi tatparā yonimuktāḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "This is expressly declared to be the Supreme Brahman. In that is the triad. It is the firm support, and it is the imperishable. Knowing the inner essence of this, the knowers of Veda become devoted to Brahman, merge themselves in It, and are released from birth.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.7.mp3",
+   "whole": [
+    145.69,
+    165.43
+   ]
+  },
+  "hasBhashya": true,
+  "order": 8
+ },
+ {
+  "id": "SvU_1.8",
+  "ref": "1.8",
+  "section": "Adhyāya 1",
+  "sa": [
+   "संयुक्तम् एतत् क्षरम् अक्षरं च व्यक्ताव्यक्तं भरते विश्वम् ईशः  ।",
+   "अनीशश् चात्मा बध्यते भोक्तृभावाज् ज्ञात्वा देवं मुच्यते सर्वपाशैः ॥"
+  ],
+  "iast": [
+   "saṃyuktam etat kṣaram akṣaraṃ ca vyaktāvyaktaṃ bharate viśvam īśaḥ  ।",
+   "anīśaś cātmā badhyate bhoktṛbhāvāj jñātvā devaṃ mucyate sarvapāśaiḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "The Lord supports this universe, which consists of a combination of the perishable and the imperishable, the manifest and the unmanifest. As long as the self does not know the Lord, it gets attached to worldly pleasures, and is bound; but when it knows Him, all fetters fall away from it.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.8.mp3",
+   "whole": [
+    165.43,
+    187.43
+   ]
+  },
+  "hasBhashya": true,
+  "order": 9
+ },
+ {
+  "id": "SvU_1.9",
+  "ref": "1.9",
+  "section": "Adhyāya 1",
+  "sa": [
+   "ज्ञाज्ञौ द्वाव् अजाव् ईशनीशाव् अजा ह्य् एका भोक्तृभोगार्थयुक्ता  ।",
+   "अनन्तश् चात्मा विश्वरूपो ह्य् अकर्ता त्रयं यदा विन्दते ब्रह्मम् एतत् ॥"
+  ],
+  "iast": [
+   "jñājñau dvāv ajāv īśanīśāv ajā hy ekā bhoktṛbhogārthayuktā  ।",
+   "anantaś cātmā viśvarūpo hy akartā trayaṃ yadā vindate brahmam etat ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "The conscious subject and the unconscious object, the master and the dependent, are both unborn. She, too, who is engaged in bringing about the relation of the enjoyer and the enjoyed (or between these two), is unborn. When all these three are realized as Brahman, the self becomes infinite, universal and free from the sense of agentship.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.9.mp3",
+   "whole": [
+    187.43,
+    208.67
+   ]
+  },
+  "hasBhashya": true,
+  "order": 10
+ },
+ {
+  "id": "SvU_1.10",
+  "ref": "1.10",
+  "section": "Adhyāya 1",
+  "sa": [
+   "क्षरं प्रधानम् अमृताक्षरं हरः क्षरात्मानाव् ईशते देव एकः  ।",
+   "तस्याभिध्यानाद् योजनात् तत्त्वभावाद् भूयश् चान्ते विश्वमायानिवृत्तिः ॥"
+  ],
+  "iast": [
+   "kṣaraṃ pradhānam amṛtākṣaraṃ haraḥ kṣarātmānāv īśate deva ekaḥ  ।",
+   "tasyābhidhyānād yojanāt tattvabhāvād bhūyaś cānte viśvamāyānivṛttiḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Matter is perishable, but God is imperishable and immortal. He, the only God, rules over the perishable matter and individual souls. By meditating on him, by uniting with Him, and by becoming one with Him, there is cessation of all illusion in the end.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.10.mp3",
+   "whole": [
+    208.67,
+    231.23
+   ]
+  },
+  "hasBhashya": true,
+  "order": 11
+ },
+ {
+  "id": "SvU_1.11",
+  "ref": "1.11",
+  "section": "Adhyāya 1",
+  "sa": [
+   "ज्ञात्वा देवं सर्वपाशापहानिः क्षीनैः क्लेशैर् जन्ममृत्युप्रहाणिः  ।",
+   "तस्याभिध्यानात् तृतीयं देहभेदे विश्वैश्वर्यं केवल आप्तकामः ॥"
+  ],
+  "iast": [
+   "jñātvā devaṃ sarvapāśāpahāniḥ kṣīnaiḥ kleśair janmamṛtyuprahāṇiḥ  ।",
+   "tasyābhidhyānāt tṛtīyaṃ dehabhede viśvaiśvaryaṃ kevala āptakāmaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "With the knowledge of God, all fetters fall off. With the waning of ignorance, birth and death cease. Going beyond the consciousness of the body by meditating on Him, one reaches the third state, viz., the universal lordship. All his desires are satisfied, and he becomes one without a second.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.11.mp3",
+   "whole": [
+    231.23,
+    253.8
+   ]
+  },
+  "hasBhashya": true,
+  "order": 12
+ },
+ {
+  "id": "SvU_1.12",
+  "ref": "1.12",
+  "section": "Adhyāya 1",
+  "sa": [
+   "एतज् ज्ञेयं नित्यम् एवात्मसंस्थं नातः परं वेदितव्यं हि किंचित्  ।",
+   "भोक्ता भोग्यं प्रेरितारं च मत्वा सर्वं प्रोक्तं त्रिविधं ब्रह्मम् एतत् ॥"
+  ],
+  "iast": [
+   "etaj jñeyaṃ nityam evātmasaṃsthaṃ nātaḥ paraṃ veditavyaṃ hi kiṃcit  ।",
+   "bhoktā bhogyaṃ preritāraṃ ca matvā sarvaṃ proktaṃ trividhaṃ brahmam etat ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "This is to be known as eternally existing in one’s own self. Indeed, there is nothing to be known beyond this. As a result of meditation the enjoyer, the enjoyed and the power which brings about the enjoyment – all are declared to be the three aspects of Brahman.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.12.mp3",
+   "whole": [
+    253.8,
+    274.98
+   ]
+  },
+  "hasBhashya": true,
+  "order": 13
+ },
+ {
+  "id": "SvU_1.13",
+  "ref": "1.13",
+  "section": "Adhyāya 1",
+  "sa": [
+   "वह्नेर् यथा योनिगतस्य मूर्तिर् न दृश्यते नैव च लिङ्गनाशः  ।",
+   "स भूय एवेन्धनयोनिगृह्यस् तद्वोभयं वै प्रणवेन देहे ॥"
+  ],
+  "iast": [
+   "vahner yathā yonigatasya mūrtir na dṛśyate naiva ca liṅganāśaḥ  ।",
+   "sa bhūya evendhanayonigṛhyas tadvobhayaṃ vai praṇavena dehe ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Fire is not perceived in its source, the fire-stick, till it is ignited by percussion. The subtle essence of fire, nevertheless, is not absent in the stick; for fire can be obtained from the source, the fire-stick, by striking again. (The state of the Atman before and after realization). By meditating on the Pranava, the Atman is perceived manifestly in the body, (but it was there in a latent state even before realization).",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.13.mp3",
+   "whole": [
+    274.98,
+    295.47
+   ]
+  },
+  "hasBhashya": true,
+  "order": 14
+ },
+ {
+  "id": "SvU_1.14",
+  "ref": "1.14",
+  "section": "Adhyāya 1",
+  "sa": [
+   "स्वदेहम् अरणिं कृत्वा प्रणवं चोत्तरारणिं  ।",
+   "ध्याननिर्मथनाभ्यासाद् देवं पश्येन् निगूढवत् ॥"
+  ],
+  "iast": [
+   "svadeham araṇiṃ kṛtvā praṇavaṃ cottarāraṇiṃ  ।",
+   "dhyānanirmathanābhyāsād devaṃ paśyen nigūḍhavat ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Making one’s own body the lower piece of wood, and the Pranava the upper piece of wood, and practising churning in the form of meditation, one should realize God as one would find out something hidden.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.14.mp3",
+   "whole": [
+    295.47,
+    311.94
+   ]
+  },
+  "hasBhashya": true,
+  "order": 15
+ },
+ {
+  "id": "SvU_1.15",
+  "ref": "1.15",
+  "section": "Adhyāya 1",
+  "sa": [
+   "तिलेषु तैलं दधनीव सर्पिर् आपः स्रोतःस्व् अरणीषु चाग्निः  ।",
+   "एवम् आत्मा आत्मनि गृह्यते ऽसौ सत्येनैनं तपसा यो ऽनुपश्यति ॥"
+  ],
+  "iast": [
+   "tileṣu tailaṃ dadhanīva sarpir āpaḥ srotaḥsv araṇīṣu cāgniḥ  ।",
+   "evam ātmā ātmani gṛhyate ’sau satyenainaṃ tapasā yo ’nupaśyati ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "As oil in sesame seeds, as butter in curds, as water in underground springs, as fire in wood, even so this Self is perceived in the self. He who, by means of truthfulness, self-control and concentration, looks again and again for this Self, which is all-pervading like butter contained in milk, and which is rooted in self-knowledge and meditation – he becomes that Supreme Brahman, the destroyer of ignorance.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)",
+   "joint": "1.15–16"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 16
+ },
+ {
+  "id": "SvU_1.16",
+  "ref": "1.16",
+  "section": "Adhyāya 1",
+  "sa": [
+   "सर्वव्यापिनम् आत्मानं क्षीरे सर्पिर् इवार्पितम्  ।",
+   "आत्मविद्यातपोमूलं तद् ब्रह्मोपनिषत्परं तद् ब्रह्मोपनिषत्परम् ॥"
+  ],
+  "iast": [
+   "sarvavyāpinam ātmānaṃ kṣīre sarpir ivārpitam  ।",
+   "ātmavidyātapomūlaṃ tad brahmopaniṣatparaṃ tad brahmopaniṣatparam ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "As oil in sesame seeds, as butter in curds, as water in underground springs, as fire in wood, even so this Self is perceived in the self. He who, by means of truthfulness, self-control and concentration, looks again and again for this Self, which is all-pervading like butter contained in milk, and which is rooted in self-knowledge and meditation – he becomes that Supreme Brahman, the destroyer of ignorance.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)",
+   "joint": "1.15–16"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.1.15.mp3",
+   "whole": [
+    331.36,
+    351.47
+   ]
+  },
+  "hasBhashya": true,
+  "order": 17
+ },
+ {
+  "id": "SvU_2.1",
+  "ref": "2.1",
+  "section": "Adhyāya 2",
+  "sa": [
+   "युञ्जानः प्रथमं मनस् तत्वाय सविता धियः  ।",
+   "अग्नेर् ज्योतिर् निचाय्य पृथिव्या अध्य् आभरत् ॥"
+  ],
+  "iast": [
+   "yuñjānaḥ prathamaṃ manas tatvāya savitā dhiyaḥ  ।",
+   "agner jyotir nicāyya pṛthivyā adhy ābharat ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "First harnessing the mind and the senses with a view to realizing the Truth, and then having found out the light of the fire, the Evolving Soul brought itself out of the earth.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.1.mp3",
+   "whole": [
+    354.55,
+    373.53
+   ]
+  },
+  "hasBhashya": true,
+  "order": 18
+ },
+ {
+  "id": "SvU_2.2",
+  "ref": "2.2",
+  "section": "Adhyāya 2",
+  "sa": [
+   "युक्तेन मनसा वयं देवस्य सवितुः सवे  ।",
+   "सुवर्गेयाय शक्त्या ॥"
+  ],
+  "iast": [
+   "yuktena manasā vayaṃ devasya savituḥ save  ।",
+   "suvargeyāya śaktyā ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "With our minds controlled so as to manifest the self-luminous Immanent Soul, we shall vigorously endeavour for the attainment of supreme bliss.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.2.mp3",
+   "whole": [
+    373.53,
+    386.1
+   ]
+  },
+  "hasBhashya": true,
+  "order": 19
+ },
+ {
+  "id": "SvU_2.3",
+  "ref": "2.3",
+  "section": "Adhyāya 2",
+  "sa": [
+   "युक्त्वाय मनसा देवान् सुवर् यतो धिया दिवं  ।",
+   "बृहज् ज्योतिः करिष्यतः सविता प्रसुवाति तान् ॥"
+  ],
+  "iast": [
+   "yuktvāya manasā devān suvar yato dhiyā divaṃ  ।",
+   "bṛhaj jyotiḥ kariṣyataḥ savitā prasuvāti tān ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Controlling the heaven-aspiring senses with the help of the mind and the intellect, the Immanent Soul so regenerates them as to enable them to manifest the self-luminous Infinite Light.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.3.mp3",
+   "whole": [
+    386.1,
+    402.88
+   ]
+  },
+  "hasBhashya": true,
+  "order": 20
+ },
+ {
+  "id": "SvU_2.4",
+  "ref": "2.4",
+  "section": "Adhyāya 2",
+  "sa": [
+   "युञ्जते मन उत युञ्जते धियो विप्रा विप्रस्य बृहतो विपश्चितः  ।",
+   "वि होत्रा दधे वयुनाविद् एक इन् मही देवस्य सवितुः परिष्टुतिः ॥"
+  ],
+  "iast": [
+   "yuñjate mana uta yuñjate dhiyo viprā viprasya bṛhato vipaścitaḥ  ।",
+   "vi hotrā dadhe vayunāvid eka in mahī devasya savituḥ pariṣṭutiḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Great is the glory of the Immanent Soul who is all-pervading, all-knowing, infinite and selfluminous. Only those rare few who know, undergo the necessary discipline and spiritual practices. The wise do, indeed, control the activities of the intellect, and practise meditation and concentration.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.4.mp3",
+   "whole": [
+    402.88,
+    424.19
+   ]
+  },
+  "hasBhashya": true,
+  "order": 21
+ },
+ {
+  "id": "SvU_2.5",
+  "ref": "2.5",
+  "section": "Adhyāya 2",
+  "sa": [
+   "युजे वां ब्रह्म पूर्व्यं नमोभिर् वि श्लोक एतु पथ्येव सूरेः  ।",
+   "शृण्वन्ति विश्वे अमृतस्य पुत्रा आ ये धामानि दिवियानि तस्थुः ॥"
+  ],
+  "iast": [
+   "yuje vāṃ brahma pūrvyaṃ namobhir vi śloka etu pathyeva sūreḥ  ।",
+   "śṛṇvanti viśve amṛtasya putrā ā ye dhāmāni diviyāni tasthuḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Following only in the footsteps of the wise, I merge you both in the ancient Brahman by continued meditation. May the Glorious One manifest Himself ! May the sons of Immortal Bliss hearken to me – even they who occupy celestial regions !",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.5.mp3",
+   "whole": [
+    425.19,
+    444.55
+   ]
+  },
+  "hasBhashya": true,
+  "order": 22
+ },
+ {
+  "id": "SvU_2.6",
+  "ref": "2.6",
+  "section": "Adhyāya 2",
+  "sa": [
+   "अग्निर् यत्राभिमथ्यते वायुर् यत्राधिरुध्यते  ।",
+   "सोमो यत्रातिरिच्यते तत्र संजायते मनः ॥"
+  ],
+  "iast": [
+   "agnir yatrābhimathyate vāyur yatrādhirudhyate  ।",
+   "somo yatrātiricyate tatra saṃjāyate manaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Where fire is churned out, where air is controlled, where Soma juice overflows – there the mind attains perfection.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.6.mp3",
+   "whole": [
+    444.55,
+    460.71
+   ]
+  },
+  "hasBhashya": true,
+  "order": 23
+ },
+ {
+  "id": "SvU_2.7",
+  "ref": "2.7",
+  "section": "Adhyāya 2",
+  "sa": [
+   "सवित्रा प्रसवेन जुषेत ब्रह्म पूर्व्यम्  ।",
+   "तत्र योनिं कृणवसे नहि ते पूर्तम् अक्षिपत् ॥"
+  ],
+  "iast": [
+   "savitrā prasavena juṣeta brahma pūrvyam  ।",
+   "tatra yoniṃ kṛṇavase nahi te pūrtam akṣipat ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Attaining whom thou destroyest the source and art no more troubled by the results of past actions – to that ancient Brahman be thou devoted through the Prime Cause, the Immanent Soul.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.7.mp3",
+   "whole": [
+    460.71,
+    473.34
+   ]
+  },
+  "hasBhashya": true,
+  "order": 24
+ },
+ {
+  "id": "SvU_2.8",
+  "ref": "2.8",
+  "section": "Adhyāya 2",
+  "sa": [
+   "त्रिरुन्नतं स्थाप्य समं शरीरं हृदीन्द्रियाणि मनसा संनिवेश्य  ।",
+   "ब्रह्मोडुपेन प्रतरेत विद्वान् स्रोतांसि सर्वाणि भयावहानि ॥"
+  ],
+  "iast": [
+   "trirunnataṃ sthāpya samaṃ śarīraṃ hṛdīndriyāṇi manasā saṃniveśya  ।",
+   "brahmoḍupena pratareta vidvān srotāṃsi sarvāṇi bhayāvahāni ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Placing the body in a straight posture, holding the chest, throat and head erect, and drawing the senses and the mind into the heart, the knowing one should cross over all the fearful currents by means of the raft of Brahman.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.8.mp3",
+   "whole": [
+    473.34,
+    494.39
+   ]
+  },
+  "hasBhashya": true,
+  "order": 25
+ },
+ {
+  "id": "SvU_2.9",
+  "ref": "2.9",
+  "section": "Adhyāya 2",
+  "sa": [
+   "प्राणान् प्रपीड्येह स युक्तचेष्टः क्षीने प्राणे नासिकयोच्छ्वसीत  ।",
+   "दुष्टाश्वयुक्तम् इव वाहम् एनं विद्वान् मनो धारयेताप्रमत्तः ॥"
+  ],
+  "iast": [
+   "prāṇān prapīḍyeha sa yuktaceṣṭaḥ kṣīne prāṇe nāsikayocchvasīta  ।",
+   "duṣṭāśvayuktam iva vāham enaṃ vidvān mano dhārayetāpramattaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Controlling the senses with an effort, and regulating the activities in the body, one should breathe out through the nostrils when the vital activities become gentle. Then the knowing one, without being in the least distracted, should keep his hold on the mind as on the reins attached to restive horses.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.9.mp3",
+   "whole": [
+    495.97,
+    518.97
+   ]
+  },
+  "hasBhashya": true,
+  "order": 26
+ },
+ {
+  "id": "SvU_2.10",
+  "ref": "2.10",
+  "section": "Adhyāya 2",
+  "sa": [
+   "समे शुचौ शर्करावह्निवालुका- विवर्जिते शब्दजलाश्रयादिभिः  ।",
+   "मनोऽनुकूले न तु चक्षुपीडने गुहानिवाताश्रयणे प्रयोजयेत् ॥"
+  ],
+  "iast": [
+   "same śucau śarkarāvahnivālukā- vivarjite śabdajalāśrayādibhiḥ  ।",
+   "mano’nukūle na tu cakṣupīḍane guhānivātāśrayaṇe prayojayet ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "One should perform one’s exercises in concentration, resorting to caves and such other pure places helpful to its practice – places where the ground is level without pebbles, and the scenery pleasing to the eyes; where there is no wind, dust, fire, dampness and disturbing noises.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.10.mp3",
+   "whole": [
+    518.66,
+    540.47
+   ]
+  },
+  "hasBhashya": true,
+  "order": 27
+ },
+ {
+  "id": "SvU_2.11",
+  "ref": "2.11",
+  "section": "Adhyāya 2",
+  "sa": [
+   "नीहारधूमार्कानलानिलानां खद्योतविद्युत्स्फटिकाशशीनाम्  ।",
+   "एतानि रूपाणि पुरःसराणि ब्रह्मण्य् अभिव्यक्तिकराणि योगे ॥"
+  ],
+  "iast": [
+   "nīhāradhūmārkānalānilānāṃ khadyotavidyutsphaṭikāśaśīnām  ।",
+   "etāni rūpāṇi puraḥsarāṇi brahmaṇy abhivyaktikarāṇi yoge ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Forms that appear like snow, smoke, sun, wind, fire, fire-fly, lightning, crystal and moon, precede the manifestation of Brahman in Yoga practice.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.11.mp3",
+   "whole": [
+    540.72,
+    561.96
+   ]
+  },
+  "hasBhashya": true,
+  "order": 28
+ },
+ {
+  "id": "SvU_2.12",
+  "ref": "2.12",
+  "section": "Adhyāya 2",
+  "sa": [
+   "पृथ्व्यप्तेजोऽनिलखे समुत्थिते पञ्चात्मके योगगुणे प्रवृत्ते  ।",
+   "न तस्य रोगो न जरा न मृत्युः प्राप्तस्य योगाग्निमयं शरीरम् ॥"
+  ],
+  "iast": [
+   "pṛthvyaptejo’nilakhe samutthite pañcātmake yogaguṇe pravṛtte  ।",
+   "na tasya rogo na jarā na mṛtyuḥ prāptasya yogāgnimayaṃ śarīram ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "When the fivefold perception of Yoga, arising from (concentrating the mind on) earth, water, light, air and ether, have appeared to the Yogin, then he has become possessed of a body made of the fire of Yoga, and he will not be touched by disease, old age or death.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.12.mp3",
+   "whole": [
+    562.34,
+    581.57
+   ]
+  },
+  "hasBhashya": false,
+  "order": 29
+ },
+ {
+  "id": "SvU_2.13",
+  "ref": "2.13",
+  "section": "Adhyāya 2",
+  "sa": [
+   "लघुत्वम् आरोग्यम् अलोलुपत्वं वर्णप्रसादः स्वरसौष्ठवं च  ।",
+   "गन्धः शुभो मूत्रपुरीषम् अल्पं योगप्रवृत्तिं प्रथमां वदन्ति ॥"
+  ],
+  "iast": [
+   "laghutvam ārogyam alolupatvaṃ varṇaprasādaḥ svarasauṣṭhavaṃ ca  ।",
+   "gandhaḥ śubho mūtrapurīṣam alpaṃ yogapravṛttiṃ prathamāṃ vadanti ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "It is said that the first signs of entering Yoga are lightness of body, health, thirstlessness of mind, clearness of complexion, a beautiful voice, an agreeable odour and scantiness excretions.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.13.mp3",
+   "whole": [
+    581.32,
+    601.31
+   ]
+  },
+  "hasBhashya": true,
+  "order": 30
+ },
+ {
+  "id": "SvU_2.14",
+  "ref": "2.14",
+  "section": "Adhyāya 2",
+  "sa": [
+   "यथैव बिम्बं मृदयोपलिप्तं तेजोमयं भ्राजते तत् सुधान्तम्  ।",
+   "तद् वात्मतत्त्वं प्रसमीक्ष्य देही एकः कृतार्थो भवते वीतशोकः ॥"
+  ],
+  "iast": [
+   "yathaiva bimbaṃ mṛdayopaliptaṃ tejomayaṃ bhrājate tat sudhāntam  ।",
+   "tad vātmatattvaṃ prasamīkṣya dehī ekaḥ kṛtārtho bhavate vītaśokaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Just as the same metal disc, which was stained by dust before, shines brilliantly when cleaned, so the embodied being, seeing the truth of Atman, realizes oneness, attains the goal and becomes sorrowless.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.14.mp3",
+   "whole": [
+    600.99,
+    621.98
+   ]
+  },
+  "hasBhashya": true,
+  "order": 31
+ },
+ {
+  "id": "SvU_2.15",
+  "ref": "2.15",
+  "section": "Adhyāya 2",
+  "sa": [
+   "यद् आत्मतत्त्वेन तु ब्रह्मतत्त्वं दीपोपमेनेह युक्तः प्रपश्येत्  ।",
+   "अजं ध्रुवं सर्वतत्त्वैर् विशुद्धं ज्ञात्वा देवं मुच्यते सर्वपाशैः ॥"
+  ],
+  "iast": [
+   "yad ātmatattvena tu brahmatattvaṃ dīpopameneha yuktaḥ prapaśyet  ।",
+   "ajaṃ dhruvaṃ sarvatattvair viśuddhaṃ jñātvā devaṃ mucyate sarvapāśaiḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "When the Yogin realizes the truth of Brahman, through the perception of the truth of Atman in this body as a self-luminous entity, then, knowing the Divinity as unborn, eternal and free from all the modifications of Prakriti, he is freed from all sins.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.15.mp3",
+   "whole": [
+    622.42,
+    642.47
+   ]
+  },
+  "hasBhashya": false,
+  "order": 32
+ },
+ {
+  "id": "SvU_2.16",
+  "ref": "2.16",
+  "section": "Adhyāya 2",
+  "sa": [
+   "एष ह देवः प्रदिशो ऽनु सर्वाः पूर्वो ह जातः स उ गर्भे अन्तः  ।",
+   "स एव जातः स जनिष्यमानः प्रत्यङ् जनास् तिष्ठति सर्वतोमुखः ॥"
+  ],
+  "iast": [
+   "eṣa ha devaḥ pradiśo ’nu sarvāḥ pūrvo ha jātaḥ sa u garbhe antaḥ  ।",
+   "sa eva jātaḥ sa janiṣyamānaḥ pratyaṅ janās tiṣṭhati sarvatomukhaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "This Divinity pervades all directions in their entirety. He is the first-born (Hiranyagarbha). He has entered into the womb. He alone is born, and is to be born in future. He is inside all persons as the Indwelling Self, facing all directions.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 33
+ },
+ {
+  "id": "SvU_2.17",
+  "ref": "2.17",
+  "section": "Adhyāya 2",
+  "sa": [
+   "यो देवो अग्नौ यो अप्सु यो विश्वं भुवनम् आविवेश  ।",
+   "य ओषधीषु यो वनस्पतीषु तस्मै देवाय नमो नमः ॥"
+  ],
+  "iast": [
+   "yo devo agnau yo apsu yo viśvaṃ bhuvanam āviveśa  ।",
+   "ya oṣadhīṣu yo vanaspatīṣu tasmai devāya namo namaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Salutations to that Divinity who is in the fire, who is in the water, who is in the plants, who is in the trees, who has pervaded the whole universe.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.2.17.mp3",
+   "whole": [
+    662.34,
+    680.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 34
+ },
+ {
+  "id": "SvU_3.1",
+  "ref": "3.1",
+  "section": "Adhyāya 3",
+  "sa": [
+   "य एको जालवान् ईशत ईशनीभिः सर्वांल् लोकान् ईशत ईशनीभिः  ।",
+   "य एवैक उद्भवे संभवे च य एतद् विदुर् अमृतास् ते भवन्ति ॥"
+  ],
+  "iast": [
+   "ya eko jālavān īśata īśanībhiḥ sarvāṃl lokān īśata īśanībhiḥ  ।",
+   "ya evaika udbhave saṃbhave ca ya etad vidur amṛtās te bhavanti ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "It is the self-same One who exists alone at the time of creation and dissolution of the universe, that assumes manifold powers and appears as the Divine Lord by virtue of His inscrutable power of Maya. He it is that protects all the worlds and controls all the various forces working therein. Those who realize this Being becomes immortal.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.1.mp3",
+   "whole": [
+    685.91,
+    706.46
+   ]
+  },
+  "hasBhashya": true,
+  "order": 35
+ },
+ {
+  "id": "SvU_3.2",
+  "ref": "3.2",
+  "section": "Adhyāya 3",
+  "sa": [
+   "एको हि रुद्रो न द्वितीयाय तस्थे य इमांल् लोकान् ईशत ईशनीभिः  ।",
+   "प्रत्यङ् जनास् तिष्ठति संचुकोचान्तकाले संसृज्य विश्वा भुवनानि गोपाः ॥"
+  ],
+  "iast": [
+   "eko hi rudro na dvitīyāya tasthe ya imāṃl lokān īśata īśanībhiḥ  ।",
+   "pratyaṅ janās tiṣṭhati saṃcukocāntakāle saṃsṛjya viśvā bhuvanāni gopāḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "He who protects and controls the worlds by His own powers, He – Rudra – is indeed one only. There is no one beside Him who can make Him the second. O men, He is present inside the hearts of all beings. After projecting and maintaining all the worlds, He finally withdraws them into Himself.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.2.mp3",
+   "whole": [
+    707.34,
+    729.34
+   ]
+  },
+  "hasBhashya": true,
+  "order": 36
+ },
+ {
+  "id": "SvU_3.3",
+  "ref": "3.3",
+  "section": "Adhyāya 3",
+  "sa": [
+   "विश्वतश्चक्षुर् उत विश्वतोमुखो विश्वतोबाहुर् उत विश्वतस्पात्  ।",
+   "सं बाहुभ्यां धमति सं पतत्रैर् द्यावाभूमी जनयन् देव एकः ॥"
+  ],
+  "iast": [
+   "viśvataścakṣur uta viśvatomukho viśvatobāhur uta viśvataspāt  ।",
+   "saṃ bāhubhyāṃ dhamati saṃ patatrair dyāvābhūmī janayan deva ekaḥ ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Though God, the creator of heaven and earth, is one only, yet Heaven is the real owner of all the eyes, faces, hands and feet in this universe. It is Heaven who inspires them all to do their respective duties in accordance with the knowledge, past actions and tendencies of the various beings (with whom they appear to be associated).",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.3.mp3",
+   "whole": [
+    729.52,
+    748.82
+   ]
+  },
+  "hasBhashya": true,
+  "order": 37
+ },
+ {
+  "id": "SvU_3.4",
+  "ref": "3.4",
+  "section": "Adhyāya 3",
+  "sa": [
+   "यो देवानां प्रभवश् चोद्भवश् च विश्वाधिपो रुद्रो महर्षिः  ।",
+   "हिरण्यगर्भं जनयामास पूर्वं स नो बुद्ध्या शुभया संयुनक्तु ॥"
+  ],
+  "iast": [
+   "yo devānāṃ prabhavaś codbhavaś ca viśvādhipo rudro maharṣiḥ  ।",
+   "hiraṇyagarbhaṃ janayāmāsa pūrvaṃ sa no buddhyā śubhayā saṃyunaktu ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "यः",
+    "yaḥ",
+    "what",
+    "yad"
+   ],
+   [
+    "देवानाम्",
+    "devānām",
+    "a deity",
+    "deva"
+   ],
+   [
+    "प्रभवः",
+    "prabhavaḥ",
+    "production",
+    "prabhava"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "उद्भवः",
+    "udbhavaḥ",
+    "existence",
+    "udbhava"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "विश्व",
+    "viśva",
+    "all",
+    "viśva"
+   ],
+   [
+    "अधिपः",
+    "adhipaḥ",
+    "a ruler",
+    "adhipa"
+   ],
+   [
+    "रुद्रः",
+    "rudraḥ",
+    "name of the god of tempests and father and ruler of the Rudras and Maruts",
+    "rudra"
+   ],
+   [
+    "महा",
+    "mahā",
+    "great",
+    "mahat"
+   ],
+   [
+    "ऋषिः",
+    "ṛṣiḥ",
+    "a singer of sacred hymns",
+    "ṛṣi"
+   ],
+   [
+    "हिरण्य",
+    "hiraṇya",
+    "gold",
+    "hiraṇya"
+   ],
+   [
+    "गर्भम्",
+    "garbham",
+    "the womb",
+    "garbha"
+   ],
+   [
+    "जनयामास",
+    "janayāmāsa",
+    "to generate",
+    "janay"
+   ],
+   [
+    "पूर्वम्",
+    "pūrvam",
+    "being before or in front fore",
+    "pūrva"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "this",
+    "tad"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "I",
+    "mad"
+   ],
+   [
+    "बुद्ध्या",
+    "buddhyā",
+    "the power of forming and retaining conceptions and general notions",
+    "buddhi"
+   ],
+   [
+    "शुभया",
+    "śubhayā",
+    "splendid",
+    "śubha"
+   ],
+   [
+    "संयुनक्तु",
+    "saṃyunaktu",
+    "to join or attach together",
+    "saṃyuj"
+   ]
+  ],
+  "tr": {
+   "text": "May Heaven, who created the gods and supports them; who is the origin also of the cosmic soul; who confers bliss and wisdom on the devotes, destroying their sins and sorrows, and punishing all breaches of law – may Heaven, the great seer and the lord of all, endow us with good thoughts.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.4.mp3",
+   "whole": [
+    748.88,
+    767.42
+   ]
+  },
+  "hasBhashya": true,
+  "order": 38
+ },
+ {
+  "id": "SvU_3.5",
+  "ref": "3.5",
+  "section": "Adhyāya 3",
+  "sa": [
+   "या ते रुद्र शिवा तनूर् अघोरापापकाशिनी  ।",
+   "तया नस् तनुवा शंतमया गिरिशन्ताभिचाकशीहि ॥"
+  ],
+  "iast": [
+   "yā te rudra śivā tanūr aghorāpāpakāśinī  ।",
+   "tayā nas tanuvā śaṃtamayā giriśantābhicākaśīhi ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "O Lord, who blesses all creatures by revealing the Vedas, deign to make us happy by Thy calm and blissful self, which roots out terror as well as sin.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.5.mp3",
+   "whole": [
+    769.44,
+    784.9
+   ]
+  },
+  "hasBhashya": true,
+  "order": 39
+ },
+ {
+  "id": "SvU_3.6",
+  "ref": "3.6",
+  "section": "Adhyāya 3",
+  "sa": [
+   "याम् इषुं गिरिशन्त हस्ते बिभर्ष्य् अस्तवे  ।",
+   "शिवां गिरित्र तां कुरु मा हिंसीः पुरुषं जगत् ॥"
+  ],
+  "iast": [
+   "yām iṣuṃ giriśanta haste bibharṣy astave  ।",
+   "śivāṃ giritra tāṃ kuru mā hiṃsīḥ puruṣaṃ jagat ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "O revealer of the Vedic truths, deign to make propitious that arrow which Thou holdest in Thy hand for shooting at somebody. O protector of devotees, do not destroy that benign personal form of Thine which has manifested as the universe.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.6.mp3",
+   "whole": [
+    786.15,
+    799.87
+   ]
+  },
+  "hasBhashya": true,
+  "order": 40
+ },
+ {
+  "id": "SvU_3.7",
+  "ref": "3.7",
+  "section": "Adhyāya 3",
+  "sa": [
+   "ततः परं ब्रह्म परं बृहन्तं यथानिकायं सर्वभूतेषु गूढं  ।",
+   "विश्वस्यैकं परिवेष्टितारम् ईशं तं ज्ञात्वामृता भवन्ति ॥"
+  ],
+  "iast": [
+   "tataḥ paraṃ brahma paraṃ bṛhantaṃ yathānikāyaṃ sarvabhūteṣu gūḍhaṃ  ।",
+   "viśvasyaikaṃ pariveṣṭitāram īśaṃ taṃ jñātvāmṛtā bhavanti ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Higher than this Personal Brahman is the infinite Supreme Brahman, who is concealed in all beings according to their bodies, and who, though remaining single, envelops the whole universe. Knowing him to be the Lord, one becomes immortal.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.7.mp3",
+   "whole": [
+    799.86,
+    819.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 41
+ },
+ {
+  "id": "SvU_3.8",
+  "ref": "3.8",
+  "section": "Adhyāya 3",
+  "sa": [
+   "वेदाहम् एतं पुरुषं महान्तम् आदित्यवर्णं तमसः परस्तात्  ।",
+   "तम् एव विदित्वाति मृत्युम् एति नान्यः पन्था विद्यते ऽयनाय ॥"
+  ],
+  "iast": [
+   "vedāham etaṃ puruṣaṃ mahāntam ādityavarṇaṃ tamasaḥ parastāt  ।",
+   "tam eva viditvāti mṛtyum eti nānyaḥ panthā vidyate ’yanāya ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "एतम्",
+    "etam",
+    "this",
+    "etad"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "महान्तम्",
+    "mahāntam",
+    "great",
+    "mahat"
+   ],
+   [
+    "आदित्य",
+    "āditya",
+    "sun (compound constituent)",
+    "āditya"
+   ],
+   [
+    "वर्णम्",
+    "varṇam",
+    "colour",
+    "varṇa"
+   ],
+   [
+    "तमसः",
+    "tamasaḥ",
+    "beyond darkness (with parastāt)",
+    "tamas"
+   ],
+   [
+    "परस्तात्",
+    "parastāt",
+    "beyond",
+    "parastāt"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "विदित्वा",
+    "viditvā",
+    "having known",
+    "vid"
+   ],
+   [
+    "मृत्युम्",
+    "mṛtyum",
+    "death",
+    "mṛtyu"
+   ],
+   [
+    "एति",
+    "eti",
+    "goes",
+    "i"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अन्यः",
+    "anyaḥ",
+    "other",
+    "anya"
+   ],
+   [
+    "पन्थाः",
+    "panthāḥ",
+    "path",
+    "pathin"
+   ],
+   [
+    "विद्यते",
+    "vidyate",
+    "exists",
+    "vid"
+   ],
+   [
+    "अयनाय",
+    "ayanāya",
+    "for going",
+    "ayana"
+   ]
+  ],
+  "tr": {
+   "text": "I have realized this Great Being who shines effulgent like the sun beyond all darkness. One passes beyond death only on realizing Him. There is no other way of escape from the circle of births and deaths.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.8.mp3",
+   "whole": [
+    820.35,
+    840.52
+   ]
+  },
+  "hasBhashya": true,
+  "order": 42
+ },
+ {
+  "id": "SvU_3.9",
+  "ref": "3.9",
+  "section": "Adhyāya 3",
+  "sa": [
+   "यस्मात् परं नापरम् अस्ति किंचिद् यस्मान् नाणीयो न ज्यायो ऽस्ति किंचित्  ।",
+   "वृक्ष इव स्तब्धो दिवि तिष्ठत्य् एकस् तेनेदं पूर्णं पुरुषेण सर्वम् ॥"
+  ],
+  "iast": [
+   "yasmāt paraṃ nāparam asti kiṃcid yasmān nāṇīyo na jyāyo ’sti kiṃcit  ।",
+   "vṛkṣa iva stabdho divi tiṣṭhaty ekas tenedaṃ pūrṇaṃ puruṣeṇa sarvam ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "यस्मात्",
+    "yasmāt",
+    "what",
+    "yad"
+   ],
+   [
+    "परम्",
+    "param",
+    "far",
+    "para"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अपरम्",
+    "aparam",
+    "the other",
+    "apara"
+   ],
+   [
+    "अस्ति",
+    "asti",
+    "to be",
+    "as"
+   ],
+   [
+    "किंचिद्",
+    "kiṃcid",
+    "someone",
+    "kaścit"
+   ],
+   [
+    "यस्मात्",
+    "yasmāt",
+    "what",
+    "yad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अणीयः",
+    "aṇīyaḥ",
+    "smaller",
+    "aṇīyas"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "ज्यायः",
+    "jyāyaḥ",
+    "superior",
+    "jyāyas"
+   ],
+   [
+    "अस्ति",
+    "asti",
+    "to be",
+    "as"
+   ],
+   [
+    "किंचिद्",
+    "kiṃcid",
+    "someone",
+    "kaścit"
+   ],
+   [
+    "वृक्षः",
+    "vṛkṣaḥ",
+    "a tree",
+    "vṛkṣa"
+   ],
+   [
+    "इव",
+    "iva",
+    "like",
+    "iva"
+   ],
+   [
+    "स्तब्धः",
+    "stabdhaḥ",
+    "to fix firmly",
+    "stambh"
+   ],
+   [
+    "दिवि",
+    "divi",
+    "the sky",
+    "div"
+   ],
+   [
+    "तिष्ठति",
+    "tiṣṭhati",
+    "to stand",
+    "sthā"
+   ],
+   [
+    "एकः",
+    "ekaḥ",
+    "one",
+    "eka"
+   ],
+   [
+    "तेन",
+    "tena",
+    "this",
+    "tad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "पूर्णम्",
+    "pūrṇam",
+    "to fill with air",
+    "pṛ"
+   ],
+   [
+    "पुरुषेण",
+    "puruṣeṇa",
+    "a man",
+    "puruṣa"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "whole",
+    "sarva"
+   ]
+  ],
+  "tr": {
+   "text": "There is naught higher than or different from Him; naught greater or more minute than Him. Rooted in His own glory He stands like a tree, one without a second and immovable. By that Being the whole universe is filled.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.9.mp3",
+   "whole": [
+    842.09,
+    861.64
+   ]
+  },
+  "hasBhashya": true,
+  "order": 43
+ },
+ {
+  "id": "SvU_3.10",
+  "ref": "3.10",
+  "section": "Adhyāya 3",
+  "sa": [
+   "ततो यद् उत्तरतरं यद् अरूपम् अनामयम्  ।",
+   "य एतद् विदुर् अमृतास् ते भवन्ति अथेतरे दुःखम् एवापियन्ति ॥"
+  ],
+  "iast": [
+   "tato yad uttarataraṃ yad arūpam anāmayam  ।",
+   "ya etad vidur amṛtās te bhavanti athetare duḥkham evāpiyanti ॥"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "That Being is far beyond this world, is formless and free from misery. They who know this become immortal. But all others have indeed to suffer misery alone.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.10.mp3",
+   "whole": [
+    862.27,
+    876.98
+   ]
+  },
+  "hasBhashya": true,
+  "order": 44
+ },
+ {
+  "id": "SvU_3.11",
+  "ref": "3.11",
+  "section": "Adhyāya 3",
+  "sa": [
+   "सर्वाननशिरोग्रीवः सर्वभूतगुहाशयः  ।",
+   "सर्वव्यापी स भगवांस् तस्मात् सर्वगतः शिवः ॥"
+  ],
+  "iast": [
+   "sarvānanaśirogrīvaḥ sarvabhūtaguhāśayaḥ  ।",
+   "sarvavyāpī sa bhagavāṃs tasmāt sarvagataḥ śivaḥ ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "आनन",
+    "ānana",
+    "the mouth",
+    "ānana"
+   ],
+   [
+    "शिरस्",
+    "śiras",
+    "the head",
+    "śiras"
+   ],
+   [
+    "ग्रीवः",
+    "grīvaḥ",
+    "the back part of the neck",
+    "grīvā"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "भूत",
+    "bhūta",
+    "that which is or exists",
+    "bhūta"
+   ],
+   [
+    "गुहा",
+    "guhā",
+    "a hiding-place",
+    "guhā"
+   ],
+   [
+    "आशयः",
+    "āśayaḥ",
+    "resting-place",
+    "āśaya"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "व्यापी",
+    "vyāpī",
+    "reaching through",
+    "vyāpin"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "this",
+    "tad"
+   ],
+   [
+    "भगवान्",
+    "bhagavān",
+    "possessing fortune",
+    "bhagavat"
+   ],
+   [
+    "तस्मात्",
+    "tasmāt",
+    "therefore",
+    "tasmāt"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "गतः",
+    "gataḥ",
+    "to go",
+    "gam"
+   ],
+   [
+    "शिवः",
+    "śivaḥ",
+    "happiness",
+    "śiva"
+   ]
+  ],
+  "tr": {
+   "text": "Therefore, that Divine Lord, being all-pervading, omnipresent and benevolent, dwells in the hearts of all beings, and makes use of all faces, heads and necks in this world.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 45
+ },
+ {
+  "id": "SvU_3.12",
+  "ref": "3.12",
+  "section": "Adhyāya 3",
+  "sa": [
+   "महान् प्रभुर् वै पुरुषः सत्त्वस्यैष प्रवर्तकः  ।",
+   "सुनिर्मलाम् इमां प्राप्तिम् ईशानो ज्योतिर् अव्ययः ॥"
+  ],
+  "iast": [
+   "mahān prabhur vai puruṣaḥ sattvasyaiṣa pravartakaḥ  ।",
+   "sunirmalām imāṃ prāptim īśāno jyotir avyayaḥ ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "महान्",
+    "mahān",
+    "great",
+    "mahat"
+   ],
+   [
+    "प्रभुः",
+    "prabhuḥ",
+    "excelling",
+    "prabhu"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "a man",
+    "puruṣa"
+   ],
+   [
+    "सत्त्वस्य",
+    "sattvasya",
+    "being",
+    "sattva"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this",
+    "etad"
+   ],
+   [
+    "प्रवर्तकः",
+    "pravartakaḥ",
+    "acting",
+    "pravartaka"
+   ],
+   [
+    "सु",
+    "su",
+    "",
+    "su"
+   ],
+   [
+    "निर्मलाम्",
+    "nirmalām",
+    "spotless",
+    "nirmala"
+   ],
+   [
+    "इमाम्",
+    "imām",
+    "this",
+    "idam"
+   ],
+   [
+    "प्राप्तिम्",
+    "prāptim",
+    "advent",
+    "prāpti"
+   ],
+   [
+    "ईशानः",
+    "īśānaḥ",
+    "to own",
+    "īś"
+   ],
+   [
+    "ज्योतिः",
+    "jyotiḥ",
+    "light",
+    "jyotis"
+   ],
+   [
+    "अव्ययः",
+    "avyayaḥ",
+    "not liable to change",
+    "avyaya"
+   ]
+  ],
+  "tr": {
+   "text": "This Self is indeed the mighty Lord. He is the imperishable (internal) light that controls everything. He guides the intellect of all beings so as to enable them to gain that extremely pure state (of Mukti).",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.12.mp3",
+   "whole": [
+    895.2,
+    912.24
+   ]
+  },
+  "hasBhashya": true,
+  "order": 46
+ },
+ {
+  "id": "SvU_3.13",
+  "ref": "3.13",
+  "section": "Adhyāya 3",
+  "sa": [
+   "अङ्गुष्ठमात्रः पुरुषो ऽन्तरात्मा सदा जनानां हृदये संनिविष्टः  ।",
+   "हृदा मनीषा मनसाभिकॢप्तो य एतद् विदुर् अमृतास् ते भवन्ति ॥"
+  ],
+  "iast": [
+   "aṅguṣṭhamātraḥ puruṣo ’ntarātmā sadā janānāṃ hṛdaye saṃniviṣṭaḥ  ।",
+   "hṛdā manīṣā manasābhikḷpto ya etad vidur amṛtās te bhavanti ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "अङ्गुष्ठ",
+    "aṅguṣṭha",
+    "the thumb",
+    "aṅguṣṭha"
+   ],
+   [
+    "मात्रः",
+    "mātraḥ",
+    "an element",
+    "mātra"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "a man",
+    "puruṣa"
+   ],
+   [
+    "अन्तरात्मा",
+    "antarātmā",
+    "the soul",
+    "antarātman"
+   ],
+   [
+    "सदा",
+    "sadā",
+    "always",
+    "sadā"
+   ],
+   [
+    "जनानाम्",
+    "janānām",
+    "living being",
+    "jana"
+   ],
+   [
+    "हृदये",
+    "hṛdaye",
+    "the heart (or region of the heart as the seat of feelings and sensations)",
+    "hṛdaya"
+   ],
+   [
+    "संनिविष्टः",
+    "saṃniviṣṭaḥ",
+    "to sit or settle down together with",
+    "saṃniviś"
+   ],
+   [
+    "हृदा",
+    "hṛdā",
+    "the heart (as the seat of feelings and emotions)",
+    "hṛd"
+   ],
+   [
+    "मनीषा",
+    "manīṣā",
+    "thought",
+    "manīṣā"
+   ],
+   [
+    "मनसा",
+    "manasā",
+    "mind (in its widest sense as applied to all the mental powers)",
+    "manas"
+   ],
+   [
+    "अभिकॢप्तः",
+    "abhikḷptaḥ",
+    "to be adequate to",
+    "abhikﾱp"
+   ],
+   [
+    "ये",
+    "ye",
+    "what",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "विदुः",
+    "viduḥ",
+    "to know",
+    "vid"
+   ],
+   [
+    "अमृताः",
+    "amṛtāḥ",
+    "not dead",
+    "amṛta"
+   ],
+   [
+    "ते",
+    "te",
+    "this",
+    "tad"
+   ],
+   [
+    "भवन्ति",
+    "bhavanti",
+    "to be",
+    "bhū"
+   ]
+  ],
+  "tr": {
+   "text": "Assuming a form of the size of a thumb, by virtue of intellect, emotion, imagination and will, the Infinite Being dwells in the hearts of creatures as their inner self. Those who realize this become immortal.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.13.mp3",
+   "whole": [
+    912.93,
+    932.1
+   ]
+  },
+  "hasBhashya": true,
+  "order": 47
+ },
+ {
+  "id": "SvU_3.14",
+  "ref": "3.14",
+  "section": "Adhyāya 3",
+  "sa": [
+   "सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्  ।",
+   "स भूमिं विश्वतो वृत्वा अत्यतिष्ठद् दशाङ्गुलम् ॥"
+  ],
+  "iast": [
+   "sahasraśīrṣā puruṣaḥ sahasrākṣaḥ sahasrapāt  ।",
+   "sa bhūmiṃ viśvato vṛtvā atyatiṣṭhad daśāṅgulam ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "सहस्र",
+    "sahasra",
+    "a thousandth",
+    "sahasra"
+   ],
+   [
+    "शीर्षा",
+    "śīrṣā",
+    "the head",
+    "śīrṣan"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "a man",
+    "puruṣa"
+   ],
+   [
+    "सहस्र",
+    "sahasra",
+    "a thousandth",
+    "sahasra"
+   ],
+   [
+    "अक्षः",
+    "akṣaḥ",
+    "the eye",
+    "akṣa"
+   ],
+   [
+    "सहस्र",
+    "sahasra",
+    "a thousandth",
+    "sahasra"
+   ],
+   [
+    "पाद्",
+    "pād",
+    "",
+    "pād"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "this",
+    "tad"
+   ],
+   [
+    "भूमिम्",
+    "bhūmim",
+    "earth",
+    "bhūmi"
+   ],
+   [
+    "विश्वतस्",
+    "viśvatas",
+    "from or on all sides",
+    "viśvatas"
+   ],
+   [
+    "वृत्वा",
+    "vṛtvā",
+    "to cover",
+    "vṛ"
+   ],
+   [
+    "अत्यतिष्ठत्",
+    "atyatiṣṭhat",
+    "to be at the head of",
+    "atiṣṭhā"
+   ],
+   [
+    "दश",
+    "daśa",
+    "ten",
+    "daśan"
+   ],
+   [
+    "अङ्गुलम्",
+    "aṅgulam",
+    "a finger",
+    "aṅgula"
+   ]
+  ],
+  "tr": {
+   "text": "That Infinite Being has a thousand heads, a thousand eyes and a thousand feet enveloping the whole universe on all sides. He exists beyond ten fingers.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.14.mp3",
+   "whole": [
+    932.03,
+    948.12
+   ]
+  },
+  "hasBhashya": true,
+  "order": 48
+ },
+ {
+  "id": "SvU_3.15",
+  "ref": "3.15",
+  "section": "Adhyāya 3",
+  "sa": [
+   "पुरुष एवेदं सर्वं यद् भूतं यच् च भव्यम्  ।",
+   "उतामृतत्वस्येशानो यद् अन्नेनातिरोहति ॥"
+  ],
+  "iast": [
+   "puruṣa evedaṃ sarvaṃ yad bhūtaṃ yac ca bhavyam  ।",
+   "utāmṛtatvasyeśāno yad annenātirohati ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "a man",
+    "puruṣa"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "whole",
+    "sarva"
+   ],
+   [
+    "यत्",
+    "yat",
+    "what",
+    "yad"
+   ],
+   [
+    "भूतम्",
+    "bhūtam",
+    "to be",
+    "bhū"
+   ],
+   [
+    "यत्",
+    "yat",
+    "what",
+    "yad"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "भव्यम्",
+    "bhavyam",
+    "to be",
+    "bhū"
+   ],
+   [
+    "उत",
+    "uta",
+    "and",
+    "uta"
+   ],
+   [
+    "अमृत",
+    "amṛta",
+    "not dead",
+    "amṛta"
+   ],
+   [
+    "त्वस्य",
+    "tvasya",
+    "(suffix creating abstract nouns)",
+    "tva"
+   ],
+   [
+    "ईशानः",
+    "īśānaḥ",
+    "to own",
+    "īś"
+   ],
+   [
+    "यत्",
+    "yat",
+    "as often",
+    "yat"
+   ],
+   [
+    "अन्नेन",
+    "annena",
+    "food or victuals",
+    "anna"
+   ],
+   [
+    "अतिरोहति",
+    "atirohati",
+    "to climb or ascend over",
+    "atiruh"
+   ]
+  ],
+  "tr": {
+   "text": "That which is, that which was, and that which is yet to be – all this is nothing but this Infinite Being. Though He grows beyond His own nature into the form of the objective universe, He still remains the lord of immortality.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.15.mp3",
+   "whole": [
+    947.81,
+    963.33
+   ]
+  },
+  "hasBhashya": true,
+  "order": 49
+ },
+ {
+  "id": "SvU_3.16",
+  "ref": "3.16",
+  "section": "Adhyāya 3",
+  "sa": [
+   "सर्वतःपाणिपादं तत् सर्वतोऽक्षिशिरोमुखं  ।",
+   "सर्वतःश्रुतिमल् लोके सर्वम् आवृत्य तिष्ठति ॥"
+  ],
+  "iast": [
+   "sarvataḥpāṇipādaṃ tat sarvato’kṣiśiromukhaṃ  ।",
+   "sarvataḥśrutimal loke sarvam āvṛtya tiṣṭhati ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "सर्वतस्",
+    "sarvatas",
+    "from all sides",
+    "sarvatas"
+   ],
+   [
+    "पाणि",
+    "pāṇi",
+    "the hand",
+    "pāṇi"
+   ],
+   [
+    "पादम्",
+    "pādam",
+    "the foot (of men and animals)",
+    "pāda"
+   ],
+   [
+    "तत्",
+    "tat",
+    "this",
+    "tad"
+   ],
+   [
+    "सर्वतस्",
+    "sarvatas",
+    "from all sides",
+    "sarvatas"
+   ],
+   [
+    "अक्षि",
+    "akṣi",
+    "the eye",
+    "akṣi"
+   ],
+   [
+    "शिरस्",
+    "śiras",
+    "the head",
+    "śiras"
+   ],
+   [
+    "मुखम्",
+    "mukham",
+    "the mouth",
+    "mukha"
+   ],
+   [
+    "सर्वतस्",
+    "sarvatas",
+    "from all sides",
+    "sarvatas"
+   ],
+   [
+    "श्रुतिमत्",
+    "śrutimat",
+    "having ears",
+    "śrutimat"
+   ],
+   [
+    "लोके",
+    "loke",
+    "free or open space",
+    "loka"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "whole",
+    "sarva"
+   ],
+   [
+    "आवृत्य",
+    "āvṛtya",
+    "to cover",
+    "āvṛ"
+   ],
+   [
+    "तिष्ठति",
+    "tiṣṭhati",
+    "to stand",
+    "sthā"
+   ]
+  ],
+  "tr": {
+   "text": "With hands and feet everywhere, with eyes, heads and mouths everywhere, with ears everywhere, That exists, pervading everything in the universe.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 50
+ },
+ {
+  "id": "SvU_3.17",
+  "ref": "3.17",
+  "section": "Adhyāya 3",
+  "sa": [
+   "सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितं  ।",
+   "सर्वस्य प्रभुम् ईशानं सर्वस्य शरणं सुहृत् ॥"
+  ],
+  "iast": [
+   "sarvendriyaguṇābhāsaṃ sarvendriyavivarjitaṃ  ।",
+   "sarvasya prabhum īśānaṃ sarvasya śaraṇaṃ suhṛt ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "इन्द्रिय",
+    "indriya",
+    "power",
+    "indriya"
+   ],
+   [
+    "गुण",
+    "guṇa",
+    "a single thread or strand of a cord or twine",
+    "guṇa"
+   ],
+   [
+    "आभासम्",
+    "ābhāsam",
+    "splendour",
+    "ābhāsa"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "इन्द्रिय",
+    "indriya",
+    "power",
+    "indriya"
+   ],
+   [
+    "विवर्जितम्",
+    "vivarjitam",
+    "to exclude",
+    "vivarjay"
+   ]
+  ],
+  "tr": {
+   "text": "They realize Him as shining by the functions of all the senses yet without the senses as the lord of all, the ruler of all, the refuge of all and the friend of all.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.17.mp3",
+   "whole": [
+    984.64,
+    998.66
+   ]
+  },
+  "hasBhashya": true,
+  "order": 51
+ },
+ {
+  "id": "SvU_3.18",
+  "ref": "3.18",
+  "section": "Adhyāya 3",
+  "sa": [
+   "नवद्वारे पुरे देही हंसो लेलायते बहिः  ।",
+   "वशी सर्वस्य लोकस्य स्थावरस्य चरस्य च ॥"
+  ],
+  "iast": [
+   "navadvāre pure dehī haṃso lelāyate bahiḥ  ।",
+   "vaśī sarvasya lokasya sthāvarasya carasya ca ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "नव",
+    "nava",
+    "9",
+    "navan"
+   ],
+   [
+    "द्वारे",
+    "dvāre",
+    "door",
+    "dvāra"
+   ],
+   [
+    "पुरे",
+    "pure",
+    "a town",
+    "pura"
+   ],
+   [
+    "देही",
+    "dehī",
+    "having a body",
+    "dehin"
+   ],
+   [
+    "हंसः",
+    "haṃsaḥ",
+    "a goose",
+    "haṃsa"
+   ],
+   [
+    "लेलायते",
+    "lelāyate",
+    "to twinkle",
+    "lelāy"
+   ],
+   [
+    "बहिस्",
+    "bahis",
+    "forth",
+    "bahis"
+   ],
+   [
+    "वशी",
+    "vaśī",
+    "having will or power",
+    "vaśin"
+   ],
+   [
+    "सर्वस्य",
+    "sarvasya",
+    "whole",
+    "sarva"
+   ],
+   [
+    "लोकस्य",
+    "lokasya",
+    "free or open space",
+    "loka"
+   ],
+   [
+    "स्थावरस्य",
+    "sthāvarasya",
+    "standing still",
+    "sthāvara"
+   ],
+   [
+    "चरस्य",
+    "carasya",
+    "moving",
+    "cara"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ]
+  ],
+  "tr": {
+   "text": "It is He who resides in the body, the city of nine gates. He is the soul that sports in the outside world. He is the master of the whole world, animate and inanimate.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.18.mp3",
+   "whole": [
+    1000.35,
+    1014.31
+   ]
+  },
+  "hasBhashya": true,
+  "order": 52
+ },
+ {
+  "id": "SvU_3.19",
+  "ref": "3.19",
+  "section": "Adhyāya 3",
+  "sa": [
+   "अपाणिपादो जवनो ग्रहीता पश्यत्य् अचक्षुः स शृणोत्य् अकर्णः  ।",
+   "स वेत्ति वेद्यं न च तस्यास्ति वेत्ता तम् आहुर् अग्र्यं पुरुषं महान्तम् ॥"
+  ],
+  "iast": [
+   "apāṇipādo javano grahītā paśyaty acakṣuḥ sa śṛṇoty akarṇaḥ  ।",
+   "sa vetti vedyaṃ na ca tasyāsti vettā tam āhur agryaṃ puruṣaṃ mahāntam ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "अ",
+    "a",
+    "",
+    "a"
+   ],
+   [
+    "पाणि",
+    "pāṇi",
+    "the hand",
+    "pāṇi"
+   ],
+   [
+    "पादः",
+    "pādaḥ",
+    "the foot (of men and animals)",
+    "pāda"
+   ],
+   [
+    "जवनः",
+    "javanaḥ",
+    "quick",
+    "javana"
+   ],
+   [
+    "ग्रहीता",
+    "grahītā",
+    "one who takes or seizes",
+    "grahītṛ"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "to see",
+    "paś"
+   ],
+   [
+    "अ",
+    "a",
+    "",
+    "a"
+   ],
+   [
+    "चक्षुः",
+    "cakṣuḥ",
+    "faculty of seeing",
+    "cakṣus"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "this",
+    "tad"
+   ],
+   [
+    "शृणोति",
+    "śṛṇoti",
+    "to hear",
+    "śru"
+   ],
+   [
+    "अ",
+    "a",
+    "",
+    "a"
+   ],
+   [
+    "कर्णः",
+    "karṇaḥ",
+    "ear",
+    "karṇa"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "this",
+    "tad"
+   ],
+   [
+    "वेत्ति",
+    "vetti",
+    "to know",
+    "vid"
+   ],
+   [
+    "वेद्यम्",
+    "vedyam",
+    "to know",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "this",
+    "tad"
+   ],
+   [
+    "अस्ति",
+    "asti",
+    "to be",
+    "as"
+   ],
+   [
+    "वेत्ता",
+    "vettā",
+    "ono who knows or feels or witnesses or experiences",
+    "vettṛ"
+   ],
+   [
+    "तम्",
+    "tam",
+    "this",
+    "tad"
+   ],
+   [
+    "आहुः",
+    "āhuḥ",
+    "to say",
+    "ah"
+   ],
+   [
+    "अग्र्यम्",
+    "agryam",
+    "foremost",
+    "agrya"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "a man",
+    "puruṣa"
+   ],
+   [
+    "महान्तम्",
+    "mahāntam",
+    "great",
+    "mahat"
+   ]
+  ],
+  "tr": {
+   "text": "Without hands and feet He goes fast and grasps; without eyes He sees; without ears He hears. He knows whatever is to be known, yet there is none who knows Him. They say He is the foremost, the great Infinite Being.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.19.mp3",
+   "whole": [
+    1014.75,
+    1034.29
+   ]
+  },
+  "hasBhashya": true,
+  "order": 53
+ },
+ {
+  "id": "SvU_3.20",
+  "ref": "3.20",
+  "section": "Adhyāya 3",
+  "sa": [
+   "अणोर् अणीयान् महतो महीयान् आत्मा गुहायां निहितो ऽस्य जन्तोः  ।",
+   "तम् अक्रतुं पश्यति वीतशोको धातुप्रसादान् महिमानम् ईशम् ॥"
+  ],
+  "iast": [
+   "aṇor aṇīyān mahato mahīyān ātmā guhāyāṃ nihito ’sya jantoḥ  ।",
+   "tam akratuṃ paśyati vītaśoko dhātuprasādān mahimānam īśam ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "अणोः",
+    "aṇoḥ",
+    "fine",
+    "aṇu"
+   ],
+   [
+    "अणीयान्",
+    "aṇīyān",
+    "smaller",
+    "aṇīyas"
+   ],
+   [
+    "महतः",
+    "mahataḥ",
+    "great",
+    "mahat"
+   ],
+   [
+    "महीयान्",
+    "mahīyān",
+    "greater",
+    "mahīyas"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "self",
+    "ātman"
+   ],
+   [
+    "गुहायाम्",
+    "guhāyām",
+    "a hiding-place",
+    "guhā"
+   ],
+   [
+    "निहितः",
+    "nihitaḥ",
+    "to put or lay down",
+    "nidhā"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "this",
+    "idam"
+   ],
+   [
+    "जन्तोः",
+    "jantoḥ",
+    "a child",
+    "jantu"
+   ],
+   [
+    "तम्",
+    "tam",
+    "this",
+    "tad"
+   ],
+   [
+    "अक्रतुम्",
+    "akratum",
+    "destitute of energy or power",
+    "akratu"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "to see",
+    "paś"
+   ],
+   [
+    "वीत",
+    "vīta",
+    "to pass through",
+    "vī"
+   ],
+   [
+    "शोकः",
+    "śokaḥ",
+    "flame",
+    "śoka"
+   ],
+   [
+    "धातुप्रसादान्",
+    "dhātuprasādān",
+    "establisher",
+    "dhātṛ"
+   ],
+   [
+    "महिमानम्",
+    "mahimānam",
+    "greatness",
+    "mahiman"
+   ],
+   [
+    "ईशम्",
+    "īśam",
+    "master",
+    "īśa"
+   ]
+  ],
+  "tr": {
+   "text": "Subtler than even the subtlest and greater than the greatest, the Atman is concealed in the heart of the creature. By the grace of the Creator, one becomes free from sorrows and desires, and then realizes Him as the great Lord.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.20.mp3",
+   "whole": [
+    1034.99,
+    1054.53
+   ]
+  },
+  "hasBhashya": true,
+  "order": 54
+ },
+ {
+  "id": "SvU_3.21",
+  "ref": "3.21",
+  "section": "Adhyāya 3",
+  "sa": [
+   "वेदाहम् एतम् अजरं पुराणं सर्वात्मानं सर्वगतं विभुत्वात्  ।",
+   "जन्मनिरोधं प्रवदन्ति यस्य ब्रह्मवादिनो हि प्रवदन्ति नित्यम् ॥"
+  ],
+  "iast": [
+   "vedāham etam ajaraṃ purāṇaṃ sarvātmānaṃ sarvagataṃ vibhutvāt  ।",
+   "janmanirodhaṃ pravadanti yasya brahmavādino hi pravadanti nityam ॥"
+  ],
+  "alt": [],
+  "words": [
+   [
+    "वेद",
+    "veda",
+    "to know",
+    "vid"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "एतम्",
+    "etam",
+    "this",
+    "etad"
+   ],
+   [
+    "अजरम्",
+    "ajaram",
+    "not subject to old age",
+    "ajara"
+   ],
+   [
+    "पुराणम्",
+    "purāṇam",
+    "ancient",
+    "purāṇa"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the breath",
+    "ātman"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "गतम्",
+    "gatam",
+    "to go",
+    "gam"
+   ],
+   [
+    "विभु",
+    "vibhu",
+    "bestowing richly",
+    "vibhu"
+   ],
+   [
+    "त्वात्",
+    "tvāt",
+    "(suffix creating abstract nouns)",
+    "tva"
+   ],
+   [
+    "जन्म",
+    "janma",
+    "birth",
+    "janman"
+   ],
+   [
+    "निरोधम्",
+    "nirodham",
+    "confinement",
+    "nirodha"
+   ],
+   [
+    "प्रवदन्ति",
+    "pravadanti",
+    "to speak out",
+    "pravad"
+   ],
+   [
+    "यस्य",
+    "yasya",
+    "what",
+    "yad"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "pious effusion or utterance",
+    "brahman"
+   ],
+   [
+    "वादिनः",
+    "vādinaḥ",
+    "saying",
+    "vādin"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "प्रवदन्ति",
+    "pravadanti",
+    "to speak out",
+    "pravad"
+   ],
+   [
+    "नित्यम्",
+    "nityam",
+    "innate",
+    "nitya"
+   ]
+  ],
+  "tr": {
+   "text": "I know this undecaying primeval Immanent Self of all, who is omnipresent because of His allpervasiveness, and whom the expounders of Brahman declare to be eternally free from birth.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.3.21.mp3",
+   "whole": [
+    1057.3,
+    1076.47
+   ]
+  },
+  "hasBhashya": true,
+  "order": 55
+ },
+ {
+  "id": "SvU_4.1",
+  "ref": "4.1",
+  "section": "Adhyāya 4",
+  "sa": [
+   "य एको ऽवर्णो बहुधा शक्तियोगाद् वर्णान् अनेकान् निहितार्थो दधाति  ।",
+   "वि चैति चान्ते विश्वम् आदौ स देवः स नो बुद्ध्या शुभया संयुनक्तु ॥"
+  ],
+  "iast": [
+   "ya eko ’varṇo bahudhā śaktiyogād varṇān anekān nihitārtho dadhāti  ।",
+   "vi caiti cānte viśvam ādau sa devaḥ sa no buddhyā śubhayā saṃyunaktu ॥"
+  ],
+  "alt": [
+   {
+    "text": "He who is one and without hue, but has ordained manifoldly many hues by the Yoga of his Force and holds within himself all objects, and in Him the universe dissolves in the end, that Godhead was in the beginning. May He yoke us with a good and bright understanding.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 235",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "May that Divine Being, who, though Himself colourless, gives rise to various colours in different ways with the help of His own power, for His own inscrutable purpose, and who dissolves the whole world in Himself in the end – may He endow us with good thoughts !",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.1.mp3",
+   "whole": [
+    1082.19,
+    1102.74
+   ]
+  },
+  "hasBhashya": true,
+  "order": 56
+ },
+ {
+  "id": "SvU_4.2",
+  "ref": "4.2",
+  "section": "Adhyāya 4",
+  "sa": [
+   "तद् एवाग्निस् तद् आदित्यस् तद् वायुस् तद् उ चन्द्रमाः  ।",
+   "तद् एव शुक्रं तद् ब्रह्म तद् आपस् तत् प्रजापतिः ॥"
+  ],
+  "iast": [
+   "tad evāgnis tad ādityas tad vāyus tad u candramāḥ  ।",
+   "tad eva śukraṃ tad brahma tad āpas tat prajāpatiḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "That alone is the fire and That the sun and That the wind and That too the moon; That is the Luminous, That the Brahman, That the waters, That the Father and Lord of creatures.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 235",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "That Itself is the fire, That is the sun, That is the air, That is the moon, That is also the starry firmament, That is the Brahman, That is the waters, That is Prajapati.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.2.mp3",
+   "whole": [
+    1103.24,
+    1118.2
+   ]
+  },
+  "hasBhashya": true,
+  "order": 57
+ },
+ {
+  "id": "SvU_4.3",
+  "ref": "4.3",
+  "section": "Adhyāya 4",
+  "sa": [
+   "त्वं स्त्री त्वं पुमान् असि त्वं कुमार उत वा कुमारी  ।",
+   "त्वं जीर्णो दण्डेन वञ्चसि त्वं जातो भवसि विश्वतोमुखः ॥"
+  ],
+  "iast": [
+   "tvaṃ strī tvaṃ pumān asi tvaṃ kumāra uta vā kumārī  ।",
+   "tvaṃ jīrṇo daṇḍena vañcasi tvaṃ jāto bhavasi viśvatomukhaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Thou art the woman and Thou the man; Thou art a boy and again a young virgin; Thou art yonder worn and aged man that walkest bent with thy staff. Lo, Thou becomest born and the world is full of thy faces.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 235",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Thou art the woman, Thou art the man, Thou art the youth and the maiden too. Thou art the old man who totters along, leaning on the staff. Thou art born with faces turned in all directions.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.3.mp3",
+   "whole": [
+    1119.14,
+    1135.8
+   ]
+  },
+  "hasBhashya": false,
+  "order": 58
+ },
+ {
+  "id": "SvU_4.4",
+  "ref": "4.4",
+  "section": "Adhyāya 4",
+  "sa": [
+   "नीलः पतङ्गो हरितो लोहिताक्षस् तडिद्गर्भ ऋतवः समुद्राः  ।",
+   "अनादिमांस् त्वं विभुत्वेन वर्तसे यतो जातानि भुवनानि विश्वा ॥"
+  ],
+  "iast": [
+   "nīlaḥ pataṅgo harito lohitākṣas taḍidgarbha ṛtavaḥ samudrāḥ  ।",
+   "anādimāṃs tvaṃ vibhutvena vartase yato jātāni bhuvanāni viśvā ॥"
+  ],
+  "alt": [
+   {
+    "text": "Thou art the blue bird and the green and the scarlet-eyed, the womb of lightning and the seasons and the oceans. Thou art that which is without beginning and thou movest with thy pervasive extension whence all the worlds are born.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 235, 236",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Thou art the dark blue butterfly, and the green parrot with red eyes. Thou art the thunder-cloud, the seasons and the oceans. Thou art without beginning, and beyond all time and space. Thou art He from whom all the worlds are born.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.4.mp3",
+   "whole": [
+    1136.24,
+    1155.85
+   ]
+  },
+  "hasBhashya": true,
+  "order": 59
+ },
+ {
+  "id": "SvU_4.5",
+  "ref": "4.5",
+  "section": "Adhyāya 4",
+  "sa": [
+   "अजाम् एकां लोहितशुक्लकृष्णां बह्वीः प्रजाः सृजमानां सरूपाः  ।",
+   "अजो ह्य् एको जुषमाणो ऽनुशेते जहात्य् एनां भुक्तभोगाम् अजो ऽन्यः ॥"
+  ],
+  "iast": [
+   "ajām ekāṃ lohitaśuklakṛṣṇāṃ bahvīḥ prajāḥ sṛjamānāṃ sarūpāḥ  ।",
+   "ajo hy eko juṣamāṇo ’nuśete jahāty enāṃ bhuktabhogām ajo ’nyaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "There is One, unborn, white and black and red, who is ever bringing forth many creatures with forms and her one unborn loves and cleaves to and lies with her; another unborn abandons, when all her enjoyments have been enjoyed.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 236",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अजाम्",
+    "ajām",
+    "name of Prakṛti",
+    "ajā"
+   ],
+   [
+    "एकाम्",
+    "ekām",
+    "one",
+    "eka"
+   ],
+   [
+    "लोहित",
+    "lohita",
+    "red",
+    "lohita"
+   ],
+   [
+    "शुक्ल",
+    "śukla",
+    "bright",
+    "śukla"
+   ],
+   [
+    "कृष्णाम्",
+    "kṛṣṇām",
+    "black",
+    "kṛṣṇa"
+   ],
+   [
+    "बह्वीः",
+    "bahvīḥ",
+    "much",
+    "bahu"
+   ],
+   [
+    "प्रजाः",
+    "prajāḥ",
+    "procreation",
+    "prajā"
+   ],
+   [
+    "सृजमानाम्",
+    "sṛjamānām",
+    "to let go or fly",
+    "sṛj"
+   ],
+   [
+    "सरूपाः",
+    "sarūpāḥ",
+    "having the same shape or form",
+    "sarūpa"
+   ],
+   [
+    "अजः",
+    "ajaḥ",
+    "name of the first uncreated being",
+    "aja"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एकः",
+    "ekaḥ",
+    "one",
+    "eka"
+   ],
+   [
+    "जुषमाणः",
+    "juṣamāṇaḥ",
+    "to be pleased or satisfied or favourable",
+    "juṣ"
+   ],
+   [
+    "अनुशेते",
+    "anuśete",
+    "to sleep with",
+    "anuśī"
+   ],
+   [
+    "जहाति",
+    "jahāti",
+    "to leave",
+    "hā"
+   ],
+   [
+    "एनाम्",
+    "enām",
+    "this",
+    "enad"
+   ],
+   [
+    "भुक्त",
+    "bhukta",
+    "to enjoy",
+    "bhuj"
+   ],
+   [
+    "भोगाम्",
+    "bhogām",
+    "enjoyment",
+    "bhoga"
+   ],
+   [
+    "अजः",
+    "ajaḥ",
+    "name of the first uncreated being",
+    "aja"
+   ],
+   [
+    "अन्यः",
+    "anyaḥ",
+    "other",
+    "anya"
+   ]
+  ],
+  "tr": {
+   "text": "There is a single Female of red, white and black colours, who is unoriginated, and who produces numerous offsprings resembling herself. By her side lies one unborn Male out of attachment for her, while another Male, also unoriginated, forsakes her after having enjoyed her.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.5.mp3",
+   "whole": [
+    1154.97,
+    1177.85
+   ]
+  },
+  "hasBhashya": true,
+  "order": 60
+ },
+ {
+  "id": "SvU_4.6",
+  "ref": "4.6",
+  "section": "Adhyāya 4",
+  "sa": [
+   "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते  ।",
+   "तयोर् अन्यः पिप्पलं स्वाद्व् अत्त्य् अनश्नन्न् अन्यो अभिचाकशीति ॥"
+  ],
+  "iast": [
+   "dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte  ।",
+   "tayor anyaḥ pippalaṃ svādv atty anaśnann anyo abhicākaśīti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Two winged birds cling about a common tree, comrades, yoke-fellows; and one eats the sweet fruit of the tree, the other eats not, but watches.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 236",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "द्वा",
+    "dvā",
+    "two",
+    "dvi"
+   ],
+   [
+    "सुपर्णा",
+    "suparṇā",
+    "birds",
+    "suparṇa"
+   ],
+   [
+    "सयुजा",
+    "sayujā",
+    "closely united",
+    "sayuj"
+   ],
+   [
+    "सखाया",
+    "sakhāyā",
+    "friends",
+    "sakhi"
+   ],
+   [
+    "समानम्",
+    "samānam",
+    "the same",
+    "samāna"
+   ],
+   [
+    "वृक्षम्",
+    "vṛkṣam",
+    "tree",
+    "vṛkṣa"
+   ],
+   [
+    "परिषस्वजाते",
+    "pariṣasvajāte",
+    "cling to",
+    "pariṣvaj"
+   ],
+   [
+    "तयोः",
+    "tayoḥ",
+    "of those two",
+    "tad"
+   ],
+   [
+    "अन्यः",
+    "anyaḥ",
+    "one",
+    "anya"
+   ],
+   [
+    "पिप्पलम्",
+    "pippalam",
+    "fig",
+    "pippala"
+   ],
+   [
+    "स्वादु",
+    "svādu",
+    "sweet",
+    "svādu"
+   ],
+   [
+    "अत्ति",
+    "atti",
+    "eats",
+    "ad"
+   ],
+   [
+    "अन्",
+    "an",
+    "not",
+    "an"
+   ],
+   [
+    "अश्नन्",
+    "aśnan",
+    "eating",
+    "aś"
+   ],
+   [
+    "अन्यः",
+    "anyaḥ",
+    "one",
+    "anya"
+   ],
+   [
+    "अभिचाकशीति",
+    "abhicākaśīti",
+    "looks on",
+    "abhicākaś"
+   ]
+  ],
+  "tr": {
+   "text": "Two birds of beautiful plumage, who are inseparable friends, reside on the self-same tree. Of these, one eats the fruits of the tree with relish while the other looks on without eating.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.6.mp3",
+   "whole": [
+    1177.97,
+    1196.14
+   ]
+  },
+  "hasBhashya": true,
+  "order": 61
+ },
+ {
+  "id": "SvU_4.7",
+  "ref": "4.7",
+  "section": "Adhyāya 4",
+  "sa": [
+   "समाने वृक्षे पुरुषो निमग्नो अनीशया शोचति मुह्यमानः  ।",
+   "जुष्टं यदा पश्यत्य् अन्यम् ईशं अस्य महिमानम् इति वीतशोकः ॥"
+  ],
+  "iast": [
+   "samāne vṛkṣe puruṣo nimagno anīśayā śocati muhyamānaḥ  ।",
+   "juṣṭaṃ yadā paśyaty anyam īśaṃ asya mahimānam iti vītaśokaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Soul upon a common tree is absorbed and because he is not lord, grieves and is bewildered; but when he sees and cleaves to that other who is the Lord, he knows that all is His greatness and his sorrow passes away from him.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 236",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "समाने",
+    "samāne",
+    "on the same",
+    "samāna"
+   ],
+   [
+    "वृक्षे",
+    "vṛkṣe",
+    "tree",
+    "vṛkṣa"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "person",
+    "puruṣa"
+   ],
+   [
+    "निमग्नः",
+    "nimagnaḥ",
+    "immersed",
+    "nimajj"
+   ],
+   [
+    "अनीशया",
+    "anīśayā",
+    "through powerlessness",
+    "anīśā"
+   ],
+   [
+    "शोचति",
+    "śocati",
+    "grieves",
+    "śuc"
+   ],
+   [
+    "मुह्यमानः",
+    "muhyamānaḥ",
+    "being bewildered",
+    "muh"
+   ],
+   [
+    "जुष्टम्",
+    "juṣṭam",
+    "cherished",
+    "juṣ"
+   ],
+   [
+    "यदा",
+    "yadā",
+    "when",
+    "yadā"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "dṛś"
+   ],
+   [
+    "अन्यम्",
+    "anyam",
+    "the other",
+    "anya"
+   ],
+   [
+    "ईशम्",
+    "īśam",
+    "Lord",
+    "īśa"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "his",
+    "idam"
+   ],
+   [
+    "महिमानम्",
+    "mahimānam",
+    "greatness",
+    "mahiman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "वीत",
+    "vīta",
+    "departed",
+    "vī"
+   ],
+   [
+    "शोकः",
+    "śokaḥ",
+    "sorrow (compound constituent)",
+    "śoka"
+   ]
+  ],
+  "tr": {
+   "text": "Sitting on the same tree the individual soul gets entangled and feels miserable, being deluded on account of his forgetting his divine nature. When he sees the other, the Lord of all, whom all devotees worship, and realizes that all greatness is His, then he is relieved of his misery.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.7.mp3",
+   "whole": [
+    1197.08,
+    1216
+   ]
+  },
+  "hasBhashya": true,
+  "order": 62
+ },
+ {
+  "id": "SvU_4.8",
+  "ref": "4.8",
+  "section": "Adhyāya 4",
+  "sa": [
+   "ऋचो अक्षरे परमे व्योमन् यस्मिन् देवा अधि विश्वे निषेधुः  ।",
+   "यस् तन् न वेद किम् ऋचा करिष्यति य इत् तद् विदुस् त इमे समासते ॥"
+  ],
+  "iast": [
+   "ṛco akṣare parame vyoman yasmin devā adhi viśve niṣedhuḥ  ।",
+   "yas tan na veda kim ṛcā kariṣyati ya it tad vidus ta ime samāsate ॥"
+  ],
+  "alt": [
+   {
+    "text": "In the highest immutable Heaven where all the gods have taken up their session, there are the verses of the Rigveda, and he who knows Him not, what shall he do with the Rik? They who know That, lo, it is they who thus are seated.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 236",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Of what avail are the Vedas to him who does not know that indestructible, highest Ethereal Being, in whom the gods and the Vedas reside ? Only those who know That are satisfied.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.8.mp3",
+   "whole": [
+    1216.57,
+    1235.61
+   ]
+  },
+  "hasBhashya": true,
+  "order": 63
+ },
+ {
+  "id": "SvU_4.9",
+  "ref": "4.9",
+  "section": "Adhyāya 4",
+  "sa": [
+   "छन्दांसि यज्ञाः क्रतवो व्रतानि भूतं भव्यं यच् च वेदा वदन्ति  ।",
+   "अस्मान् मायी सृजते विश्वम् एतत् तस्मिंश् चान्यो मायया संनिरुद्धः ॥"
+  ],
+  "iast": [
+   "chandāṃsi yajñāḥ kratavo vratāni bhūtaṃ bhavyaṃ yac ca vedā vadanti  ।",
+   "asmān māyī sṛjate viśvam etat tasmiṃś cānyo māyayā saṃniruddhaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Rhythms and sacrifices and ritual and vows, what has been and what is to be and what the Vedas declare, — the Master of Maya brings forth from that all this that is and there is another whom within it his Maya holds imprisoned.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 236, 237",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "The Lord of Maya projects the Vedas, sacrifices, spiritual practices, past and future, religious observances, all that the Vedas declare, and the whole world including ourselves. The other, again, is bound by Maya in this.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.9.mp3",
+   "whole": [
+    1244.85,
+    1265.65
+   ]
+  },
+  "hasBhashya": true,
+  "order": 64
+ },
+ {
+  "id": "SvU_4.10",
+  "ref": "4.10",
+  "section": "Adhyāya 4",
+  "sa": [
+   "मायां तु प्रकृतिं विद्यान् मायिनं तु महेश्वरं  ।",
+   "तस्यावयवभूतैस् तु व्याप्तं सर्वं इदं जगत् ॥"
+  ],
+  "iast": [
+   "māyāṃ tu prakṛtiṃ vidyān māyinaṃ tu maheśvaraṃ  ।",
+   "tasyāvayavabhūtais tu vyāptaṃ sarvaṃ idaṃ jagat ॥"
+  ],
+  "alt": [
+   {
+    "text": "Thou shalt know Maya to be Force of Nature and the Master of Maya to be the great Lord; this whole universe is occupied by His becomings that are His members.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 237",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "मायाम्",
+    "māyām",
+    "art",
+    "māyā"
+   ],
+   [
+    "तु",
+    "tu",
+    "do",
+    "tu"
+   ],
+   [
+    "प्रकृतिम्",
+    "prakṛtim",
+    "the original or natural form or condition of anything",
+    "prakṛti"
+   ],
+   [
+    "विद्यात्",
+    "vidyāt",
+    "to know",
+    "vid"
+   ],
+   [
+    "मायिनम्",
+    "māyinam",
+    "artful",
+    "māyin"
+   ],
+   [
+    "तु",
+    "tu",
+    "do",
+    "tu"
+   ],
+   [
+    "महेश्वरम्",
+    "maheśvaram",
+    "a great lord",
+    "maheśvara"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "this",
+    "tad"
+   ],
+   [
+    "अवयव",
+    "avayava",
+    "a limb",
+    "avayava"
+   ],
+   [
+    "भूतैः",
+    "bhūtaiḥ",
+    "to be",
+    "bhū"
+   ],
+   [
+    "तु",
+    "tu",
+    "do",
+    "tu"
+   ],
+   [
+    "व्याप्तम्",
+    "vyāptam",
+    "to reach or spread through",
+    "vyāp"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "whole",
+    "sarva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "जगत्",
+    "jagat",
+    "that which is alive",
+    "jagant"
+   ]
+  ],
+  "tr": {
+   "text": "Know then that Nature is Maya, and that the great God is the Lord of Maya. The whole world is filled with beings who form His parts.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.10.mp3",
+   "whole": [
+    1266.16,
+    1280.99
+   ]
+  },
+  "hasBhashya": true,
+  "order": 65
+ },
+ {
+  "id": "SvU_4.11",
+  "ref": "4.11",
+  "section": "Adhyāya 4",
+  "sa": [
+   "यो योनिं-योनिम् अधितिष्ठत्य् एको यस्मिन्न् इदं सं च वि चैति सर्वम्  ।",
+   "तम् ईशानं वरदं देवम् ईड्यं निचाय्येमां शान्तिम् अत्यन्तम् एति ॥"
+  ],
+  "iast": [
+   "yo yoniṃ-yonim adhitiṣṭhaty eko yasminn idaṃ saṃ ca vi caiti sarvam  ।",
+   "tam īśānaṃ varadaṃ devam īḍyaṃ nicāyyemāṃ śāntim atyantam eti ॥"
+  ],
+  "alt": [
+   {
+    "text": "He who being One enters every womb and in whom all this comes together and goes apart, the adorable Godhead who rules as lord and gives us our desirable boons, one having seen comes exceedingly unto this peace.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 237",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "One attains infinite peace on realizing that self-effulgent Adorable Lord, the bestower of blessings, who, though one, presides over all the various aspects of Prajapati, and in whom this universe dissolves, and in whom it appears in manifold forms.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.11.mp3",
+   "whole": [
+    1280.49,
+    1302.92
+   ]
+  },
+  "hasBhashya": true,
+  "order": 66
+ },
+ {
+  "id": "SvU_4.12",
+  "ref": "4.12",
+  "section": "Adhyāya 4",
+  "sa": [
+   "यो देवानां प्रभवश् चोद्भवश् च विश्वाधिको रुद्रो महर्षिः  ।",
+   "हिरण्यगर्भं पश्यत जायमानं स नो बुद्ध्या शुभया संयुनक्तु ॥"
+  ],
+  "iast": [
+   "yo devānāṃ prabhavaś codbhavaś ca viśvādhiko rudro maharṣiḥ  ।",
+   "hiraṇyagarbhaṃ paśyata jāyamānaṃ sa no buddhyā śubhayā saṃyunaktu ॥"
+  ],
+  "alt": [
+   {
+    "text": "He who is the coming to birth of the gods and the arising of their being, the master of the universe, the Violent One, the Great Seer and beheld Hiranyagarbha born, — may he yoke us with a bright and good understanding.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 237",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "May He, who created the gods and supports them; who witnessed the birth of the cosmic soul; who confers bliss and wisdom on the devoted, destroying their sins and sorrows, and punishing all breaches of law – may He, the great seer and the lord of all, endow us with good thoughts !",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.12.mp3",
+   "whole": [
+    1303.62,
+    1324.73
+   ]
+  },
+  "hasBhashya": true,
+  "order": 67
+ },
+ {
+  "id": "SvU_4.13",
+  "ref": "4.13",
+  "section": "Adhyāya 4",
+  "sa": [
+   "यो देवानाम् अधिपो यस्मिंल् लोका अधिश्रिताः  ।",
+   "य ईशे अस्य द्विपदश् चतुष्पदः कस्मै देवाय हविषा विधेम ॥"
+  ],
+  "iast": [
+   "yo devānām adhipo yasmiṃl lokā adhiśritāḥ  ।",
+   "ya īśe asya dvipadaś catuṣpadaḥ kasmai devāya haviṣā vidhema ॥"
+  ],
+  "alt": [
+   {
+    "text": "He who is the master of the gods, in whom the worlds are lodged and who rules over this two-footed and four-footed, to what god should we offer the worship of our oblation?",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 237",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यः",
+    "yaḥ",
+    "what",
+    "yad"
+   ],
+   [
+    "देवानाम्",
+    "devānām",
+    "a deity",
+    "deva"
+   ],
+   [
+    "अधिपः",
+    "adhipaḥ",
+    "a ruler",
+    "adhipa"
+   ],
+   [
+    "यस्मिन्",
+    "yasmin",
+    "what",
+    "yad"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "free or open space",
+    "loka"
+   ],
+   [
+    "अधिश्रिताः",
+    "adhiśritāḥ",
+    "to put in the fire",
+    "adhiśri"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "what",
+    "yad"
+   ],
+   [
+    "ईशे",
+    "īśe",
+    "to own",
+    "īś"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "this",
+    "idam"
+   ],
+   [
+    "द्विपदः",
+    "dvipadaḥ",
+    "biped",
+    "dvipad"
+   ],
+   [
+    "चतुष्पदः",
+    "catuṣpadaḥ",
+    "quadruped",
+    "catuṣpada"
+   ],
+   [
+    "कस्मै",
+    "kasmai",
+    "who?",
+    "ka"
+   ],
+   [
+    "देवाय",
+    "devāya",
+    "a deity",
+    "deva"
+   ],
+   [
+    "हविषा",
+    "haviṣā",
+    "an oblation or burnt offering",
+    "havis"
+   ],
+   [
+    "विधेम",
+    "vidhema",
+    "to worship",
+    "vidh"
+   ]
+  ],
+  "tr": {
+   "text": "Let us offer our worship with oblations to that blissful Divine Being who is the lord of the Devas, who governs the bipeds and the quadrupeds and in whom the worlds rest.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.13.mp3",
+   "whole": [
+    1325.68,
+    1343.15
+   ]
+  },
+  "hasBhashya": true,
+  "order": 68
+ },
+ {
+  "id": "SvU_4.14",
+  "ref": "4.14",
+  "section": "Adhyāya 4",
+  "sa": [
+   "सूक्ष्मातिसूक्ष्मं कलिलस्य मध्ये विश्वस्य स्रष्टारम् अनेकरूपं  ।",
+   "विश्वस्यैकं परिवेष्टितारं ज्ञात्वा शिवं शान्तिम् अत्यन्तम् एति ॥"
+  ],
+  "iast": [
+   "sūkṣmātisūkṣmaṃ kalilasya madhye viśvasya sraṣṭāram anekarūpaṃ  ।",
+   "viśvasyaikaṃ pariveṣṭitāraṃ jñātvā śivaṃ śāntim atyantam eti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Subtle beyond the subtle in the midst of the hurtling chaos, the creator of the universe who has many forms and being one encompasses all, knowing as the Benign, one comes exceedingly to the peace.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 237, 238",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "One attains infinite peace when one realizes that Blissful One who is subtler than the subtlest, who creates the world in the midst of chaos, who assumes various forms, and who is the only one that encompasses the universe.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.14.mp3",
+   "whole": [
+    1348.81,
+    1368.23
+   ]
+  },
+  "hasBhashya": true,
+  "order": 69
+ },
+ {
+  "id": "SvU_4.15",
+  "ref": "4.15",
+  "section": "Adhyāya 4",
+  "sa": [
+   "स एव काले भुवनस्य गोप्ता विश्वाधिपः सर्वभूतेषु गूढः  ।",
+   "यस्मिन् युक्ता ब्रह्मर्षयो देवताश् च तम् एवं ज्ञात्वा मृत्युपाशांश् छिनत्ति ॥"
+  ],
+  "iast": [
+   "sa eva kāle bhuvanasya goptā viśvādhipaḥ sarvabhūteṣu gūḍhaḥ  ।",
+   "yasmin yuktā brahmarṣayo devatāś ca tam evaṃ jñātvā mṛtyupāśāṃś chinatti ॥"
+  ],
+  "alt": [
+   {
+    "text": "He in Time is the guardian of the world of existence and the master of the universe secret in all existences, — in whom have union of Yoga the holy sages and the gods; thus knowing him one cuts asunder the snares of Death.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 238",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He alone is the protector of the world at the proper time. He is the lord of the universe hidden in all creatures. In Him the divine sages and the gods merge themselves. Realizing Him thus, one cuts asunder the fetters of death.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.15.mp3",
+   "whole": [
+    1369.05,
+    1389.22
+   ]
+  },
+  "hasBhashya": true,
+  "order": 70
+ },
+ {
+  "id": "SvU_4.16",
+  "ref": "4.16",
+  "section": "Adhyāya 4",
+  "sa": [
+   "घृतात् परं मण्डम् इवातिसूक्ष्मं ज्ञात्वा शिवं सर्वभूतेषु गूढं  ।",
+   "विश्वस्यैकं परिवेष्टितारं ज्ञात्वा देवं मुच्यते सर्वपाशैः ॥"
+  ],
+  "iast": [
+   "ghṛtāt paraṃ maṇḍam ivātisūkṣmaṃ jñātvā śivaṃ sarvabhūteṣu gūḍhaṃ  ।",
+   "viśvasyaikaṃ pariveṣṭitāraṃ jñātvā devaṃ mucyate sarvapāśaiḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Knowing him who is exceedingly subtle like the cream above the clarified butter, the Benign secret in all existences, knowing the God who being one encompasses all, one is released from every bondage.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 238",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "One is released from all fetters on realizing the Blissful One who encompasses the world, and who hides Himself in all beings in an extremely subtle form as the essence finer than ghee.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.16.mp3",
+   "whole": [
+    1392.55,
+    1412.66
+   ]
+  },
+  "hasBhashya": true,
+  "order": 71
+ },
+ {
+  "id": "SvU_4.17",
+  "ref": "4.17",
+  "section": "Adhyāya 4",
+  "sa": [
+   "एष देवो विश्वकर्मा महात्मा सदा जनानां हृदये संनिविष्टः  ।",
+   "हृदा मनीषा मनसाभिकॢप्तो य एतद् विदुर् अमृतास् ते भवन्ति ॥"
+  ],
+  "iast": [
+   "eṣa devo viśvakarmā mahātmā sadā janānāṃ hṛdaye saṃniviṣṭaḥ  ।",
+   "hṛdā manīṣā manasābhikḷpto ya etad vidur amṛtās te bhavanti ॥"
+  ],
+  "alt": [
+   {
+    "text": "This is the God, the mighty Soul, the Architect of all, seated for ever in the hearts of creatures and he is realised by the heart and the intellect and the mind; who know this, they become immortal.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 238",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "This Divinity, who created the universe and who pervades everything, always dwells in the hearts of creatures, being finitized by emotions, intellect, will and imagination. Those who realize this become immortal.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.17.mp3",
+   "whole": [
+    1415.3,
+    1433.34
+   ]
+  },
+  "hasBhashya": true,
+  "order": 72
+ },
+ {
+  "id": "SvU_4.18",
+  "ref": "4.18",
+  "section": "Adhyāya 4",
+  "sa": [
+   "यदातमस् तन् न दिवा न रात्रिर् न सन् न चासच् छिव एव केवलः  ।",
+   "तद् अक्षरं तत् सवितुर् वरेण्यं प्रज्ञा च तस्मात् प्रसृता पुराणी ॥"
+  ],
+  "iast": [
+   "yadātamas tan na divā na rātrir na san na cāsac chiva eva kevalaḥ  ।",
+   "tad akṣaraṃ tat savitur vareṇyaṃ prajñā ca tasmāt prasṛtā purāṇī ॥"
+  ],
+  "alt": [
+   {
+    "text": "When there is no darkness, that is neither day nor night, nor being nor non-being, it is the absolute Benign alone; That is the immutable, that the supreme light of the Creating Sun and from it the Wisdom went forth that is of old.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 238",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "When ignorance is dispelled, there is neither day nor night, neither being nor non-being. There is only that Auspicious One who is imperishable, and who is worthy of being adored by the creator. From Him has proceeded the ancient wisdom.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.18.mp3",
+   "whole": [
+    1433.91,
+    1452.32
+   ]
+  },
+  "hasBhashya": true,
+  "order": 73
+ },
+ {
+  "id": "SvU_4.19",
+  "ref": "4.19",
+  "section": "Adhyāya 4",
+  "sa": [
+   "नैनम् ऊर्ध्वं न तिर्यञ्चं न मध्ये परिजग्रभत्  ।",
+   "न तस्य प्रतिमा अस्ति यस्य नाम महद् यशः ॥"
+  ],
+  "iast": [
+   "nainam ūrdhvaṃ na tiryañcaṃ na madhye parijagrabhat  ।",
+   "na tasya pratimā asti yasya nāma mahad yaśaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Him one shall not seize as on high nor as one on a level plane nor in the middle; there is no image for him whose name is a mighty glory.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 239",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "No one can grasp Him above, or across, or in the middle. There is none equal to Him whose name is great glory.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.19.mp3",
+   "whole": [
+    1451.82,
+    1465.96
+   ]
+  },
+  "hasBhashya": true,
+  "order": 74
+ },
+ {
+  "id": "SvU_4.20",
+  "ref": "4.20",
+  "section": "Adhyāya 4",
+  "sa": [
+   "न संदृशे तिष्ठति रूपम् अस्य न चक्षुषा पश्यति कश्चनैनं  ।",
+   "हृदा हृदिस्थं मनसा य एनम् एवं विदुर् अमृतास् ते भवन्ति ॥"
+  ],
+  "iast": [
+   "na saṃdṛśe tiṣṭhati rūpam asya na cakṣuṣā paśyati kaścanainaṃ  ।",
+   "hṛdā hṛdisthaṃ manasā ya enam evaṃ vidur amṛtās te bhavanti ॥"
+  ],
+  "alt": [
+   {
+    "text": "The form of Him stands not within the vision and none beholdeth Him by the eye; but by the heart and the mind, for in the heart is His station; who thus know Him, they become immortal.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 239",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "संदृशे",
+    "saṃdṛśe",
+    "to see together or at the same time",
+    "saṃdṛś"
+   ],
+   [
+    "तिष्ठति",
+    "tiṣṭhati",
+    "to stand",
+    "sthā"
+   ],
+   [
+    "रूपम्",
+    "rūpam",
+    "any outward appearance or phenomenon or colour (often pl.)",
+    "rūpa"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "this",
+    "idam"
+   ]
+  ],
+  "tr": {
+   "text": "His form does not stand within the range of the senses. No one perceives Him with the eye. Those who know Him through the faculty of intuition as thus seated in their heart, become immortal.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.20.mp3",
+   "whole": [
+    1466.4,
+    1484.13
+   ]
+  },
+  "hasBhashya": true,
+  "order": 75
+ },
+ {
+  "id": "SvU_4.21",
+  "ref": "4.21",
+  "section": "Adhyāya 4",
+  "sa": [
+   "अजात इत्य् एवं कश्चिद् भीरुः प्रपद्यते  ।",
+   "रुद्र यत् दक्षिणं मुखम् तेन मां पाहि नित्यम् ॥"
+  ],
+  "iast": [
+   "ajāta ity evaṃ kaścid bhīruḥ prapadyate  ।",
+   "rudra yat dakṣiṇaṃ mukham tena māṃ pāhi nityam ॥"
+  ],
+  "alt": [
+   {
+    "text": "One here and there approaches him with awe thinking of him as the Unborn. O Violent One, that which is thy auspicious right-hand face, with that protect me ever.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 239",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Some, being afraid, approach Thee, thinking that Thou art the unborn. O Rudra, deign to protect me with that benevolent face of Thine.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.21.mp3",
+   "whole": [
+    1486.33,
+    1499.65
+   ]
+  },
+  "hasBhashya": true,
+  "order": 76
+ },
+ {
+  "id": "SvU_4.22",
+  "ref": "4.22",
+  "section": "Adhyāya 4",
+  "sa": [
+   "मा नस् तोके तनये मा न आयुषि मा नो गोषु मा नो अश्वेषु रीरिषः  ।",
+   "वीरान् मा नो रुद्र भामितो वधीर् हविष्मन्तः सदम् इत् त्वा हवामहे ॥"
+  ],
+  "iast": [
+   "mā nas toke tanaye mā na āyuṣi mā no goṣu mā no aśveṣu rīriṣaḥ  ।",
+   "vīrān mā no rudra bhāmito vadhīr haviṣmantaḥ sadam it tvā havāmahe ॥"
+  ],
+  "alt": [
+   {
+    "text": "Do no hurt to our son nor our grandson nor our life nor our cattle nor our horses. O Violent One, slay not in thy anger our heroes; ever to Thee with the oblation we call.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 239, 240",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Injure us not in respect of children, grand-children and life, nor in respect of cows and horses. Do not destroy our heroes in Thy anger, O Rudra. We invoke Thee always with offerings.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.4.22.mp3",
+   "whole": [
+    1499.53,
+    1522.66
+   ]
+  },
+  "hasBhashya": true,
+  "order": 77
+ },
+ {
+  "id": "SvU_5.1",
+  "ref": "5.1",
+  "section": "Adhyāya 5",
+  "sa": [
+   "द्वे अक्षरे ब्रह्मपरे त्व् अनन्ते विद्याविद्ये निहिते यत्र गूढे  ।",
+   "क्षरं त्व् अविद्या ह्य् अमृतं तु विद्या विद्याविद्ये ईशते यस् तु सो ऽन्यः ॥"
+  ],
+  "iast": [
+   "dve akṣare brahmapare tv anante vidyāvidye nihite yatra gūḍhe  ।",
+   "kṣaraṃ tv avidyā hy amṛtaṃ tu vidyā vidyāvidye īśate yas tu so ’nyaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Both of these in the Transcendent, the Knowledge & the Ignorance, yea both have their hidden being in the Eternal & Infinite Who dwelleth beyond Brahman of the Veda, & are set in it for ever. But of these Ignorance dieth and Knowledge liveth for ever; and He who is master of both is other than they.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 240",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Ignorance leads to the perishable. Wisdom leads to immortality. Entirely different from these is he, the imperishable, infinite, secret, Supreme Brahman, in whom exists wisdom as well as ignorance, and who governs them both.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.1.mp3",
+   "whole": [
+    1528.25,
+    1548.24
+   ]
+  },
+  "hasBhashya": true,
+  "order": 78
+ },
+ {
+  "id": "SvU_5.2",
+  "ref": "5.2",
+  "section": "Adhyāya 5",
+  "sa": [
+   "यो योनिं योनिम् अधितिष्ठत्य् एको विश्वानि रूपाणि योनीश् च सर्वाः  ।",
+   "ऋषिं प्रसूतं कपिलं यस् तम् अग्रे ज्ञानैर् बिभर्ति जायमानं च पश्येत् ॥"
+  ],
+  "iast": [
+   "yo yoniṃ yonim adhitiṣṭhaty eko viśvāni rūpāṇi yonīś ca sarvāḥ  ।",
+   "ṛṣiṃ prasūtaṃ kapilaṃ yas tam agre jñānair bibharti jāyamānaṃ ca paśyet ॥"
+  ],
+  "alt": [
+   {
+    "text": "He being One entereth upon womb & womb, yea upon all forms of being and upon all wombs of creatures. This was He that of old filled with many sorts of Knowledge Kapila, the seer, after his mother bore him; yea He saw Kapila shaping.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 240",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He alone presides over Nature in all aspect, and controls every form and every cause of production. He witnesses the birth of the first born seer of golden colour and nourishes him with wisdom.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.2.mp3",
+   "whole": [
+    1547.61,
+    1569.67
+   ]
+  },
+  "hasBhashya": true,
+  "order": 79
+ },
+ {
+  "id": "SvU_5.3",
+  "ref": "5.3",
+  "section": "Adhyāya 5",
+  "sa": [
+   "एकैकं जालं बहुधा विकुर्वन्न् अस्मिन् क्षेत्रे संहरत्य् एष देवः  ।",
+   "भूयः सृष्ट्वा पतयस् तथेशः सर्वाधिपत्यं कुरुते महात्मा ॥"
+  ],
+  "iast": [
+   "ekaikaṃ jālaṃ bahudhā vikurvann asmin kṣetre saṃharaty eṣa devaḥ  ।",
+   "bhūyaḥ sṛṣṭvā patayas tatheśaḥ sarvādhipatyaṃ kurute mahātmā ॥"
+  ],
+  "alt": [
+   {
+    "text": "God weaveth Him one net or He weaveth Him another and He maketh it of manifold meshes & casteth it abroad in this field of the body; then He draweth it in again. Also He created Yatis, great Seekers, & thus the Mighty Mind wieldeth the sceptre of His universal Lordship.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 240",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Differentiating each genus into its species, and each species into its members, the Supreme Being withdraws them once more into their own ground. Again, bringing forth the agents of creation, the Great Self holds sway over them all.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.3.mp3",
+   "whole": [
+    1569.67,
+    1589.91
+   ]
+  },
+  "hasBhashya": true,
+  "order": 80
+ },
+ {
+  "id": "SvU_5.4",
+  "ref": "5.4",
+  "section": "Adhyāya 5",
+  "sa": [
+   "सर्वा दिश ऊर्ध्वम् अधश् च तिर्यक् प्रकाशयन् भ्राजते यद् वानड्वान्  ।",
+   "एवं स देवो भगवान् वरेण्यो योनिस्वभावान् अधितिष्ठत्य् एकः ॥"
+  ],
+  "iast": [
+   "sarvā diśa ūrdhvam adhaś ca tiryak prakāśayan bhrājate yad vānaḍvān  ।",
+   "evaṃ sa devo bhagavān vareṇyo yonisvabhāvān adhitiṣṭhaty ekaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Sun riseth & driveth the world’s wain, then he blazeth illumining all the regions and above and below and the level grow one lustre, even so this glorious & shining God, being One, entereth upon & ruleth nature that clingeth to the womb, to each womb its nature.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 240",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Just as the sun shines lighting up all space above, below and across, even so does that one adorable God, the repository of all goodness and greatness, preside over everything that has the nature of a cause.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.4.mp3",
+   "whole": [
+    1589.91,
+    1609.33
+   ]
+  },
+  "hasBhashya": true,
+  "order": 81
+ },
+ {
+  "id": "SvU_5.5",
+  "ref": "5.5",
+  "section": "Adhyāya 5",
+  "sa": [
+   "यच् च स्वभावं पचति विश्वयोनिः पाच्यांश् च सर्वान् परिणामयेद् यः  ।",
+   "सर्वम् एतद् विश्वम् अधितिष्ठत्य् एको गुणांश् च सर्वान् विनियोजयेद् यः ॥"
+  ],
+  "iast": [
+   "yac ca svabhāvaṃ pacati viśvayoniḥ pācyāṃś ca sarvān pariṇāmayed yaḥ  ।",
+   "sarvam etad viśvam adhitiṣṭhaty eko guṇāṃś ca sarvān viniyojayed yaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "For He who is the Womb of the World bringeth each nature to its perfection and He matureth all those that are yet to be perfected. He indwelleth & presideth over all this His world and setteth all the modes of Nature to their workings.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 241",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He who is the one source of the world brings out everything out of His own Nature, and leads creatures to perfection according to their deserts, and endows each being with its distinguishing characteristic. Thus he presides over the whole universe.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.5.mp3",
+   "whole": [
+    1609.33,
+    1628.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 82
+ },
+ {
+  "id": "SvU_5.6",
+  "ref": "5.6",
+  "section": "Adhyāya 5",
+  "sa": [
+   "तद् वेदगुह्योपनिषत्सु गूढं तद् ब्रह्मा वेदते ब्रह्मयोनिं  ।",
+   "ये पूर्वं देवा ऋषयश् च तद् विदुस् ते तन्मया अमृता वै बभूवुः ॥"
+  ],
+  "iast": [
+   "tad vedaguhyopaniṣatsu gūḍhaṃ tad brahmā vedate brahmayoniṃ  ।",
+   "ye pūrvaṃ devā ṛṣayaś ca tad vidus te tanmayā amṛtā vai babhūvuḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "This is that secret mystery which is hidden in Upanishads; for the Upanishad is the secret of the Veda. This is that which Brahma knoweth for the Womb of the Eternal and the older Gods and the sages who knew of This, became This & were immortal.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 241",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He lies hidden in the Upanishads, which form the essence of the Vedas. Him the Hiranyagarbha knows as the source of Himself and the Vedas. Those gods and seers who realized Him in former days became identified with Him, and verily became immortal.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.6.mp3",
+   "whole": [
+    1628.75,
+    1647.48
+   ]
+  },
+  "hasBhashya": true,
+  "order": 83
+ },
+ {
+  "id": "SvU_5.7",
+  "ref": "5.7",
+  "section": "Adhyāya 5",
+  "sa": [
+   "गुणान्वयो यः फलकर्मकर्ता कृतस्य तस्यैव स चोपभोक्ता  ।",
+   "स विश्वरूपस् त्रिगुणस् त्रिवर्त्मा प्राणाधिपः संचरति स्वकर्मभिः ॥"
+  ],
+  "iast": [
+   "guṇānvayo yaḥ phalakarmakartā kṛtasya tasyaiva sa copabhoktā  ।",
+   "sa viśvarūpas triguṇas trivartmā prāṇādhipaḥ saṃcarati svakarmabhiḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "There is One who maketh works and their fruits to them, for the moods of Nature cleave to Him; this is He that enjoyeth the works He hath done; and the World is His body and He hath three modes of His natures & the roads of His travel are likewise three. Lo, the Master of Life, by the momentum of His own works He moveth in the centuries.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 241",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Only he who gets attached to the pleasurable qualities of things does work for the sake of its fruits, and enjoys the fruits of his own deeds. Though really the master of the senses, he becomes bound by the three Gunas, and assuming various forms, wanders about through the three paths as a result of his own deeds.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.7.mp3",
+   "whole": [
+    1647.48,
+    1666.15
+   ]
+  },
+  "hasBhashya": true,
+  "order": 84
+ },
+ {
+  "id": "SvU_5.8",
+  "ref": "5.8",
+  "section": "Adhyāya 5",
+  "sa": [
+   "अङ्गुष्ठमात्रो रवितुल्यरूपः संकल्पाहंकारसमन्वितो यः  ।",
+   "बुद्धेर् गुणेनात्मगुणेन चैव आराग्रमात्रो ह्य् अवरो ऽपि दृष्टः ॥"
+  ],
+  "iast": [
+   "aṅguṣṭhamātro ravitulyarūpaḥ saṃkalpāhaṃkārasamanvito yaḥ  ।",
+   "buddher guṇenātmaguṇena caiva ārāgramātro hy avaro ’pi dṛṣṭaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "His size is as the size of a man’s thumb but His aspect as the Sun in its glory; and He hath Volition and He hath Personality; but there is another whom we see by virtue of the Understanding & by virtue of the Spirit for the point of a cobbler’s awl is not finer to vision.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 241",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Subtle as the point of a goad, and pure, effulgent and infinite like the sun, He alone is seen assuming as another the size of a thumb on account of the finiteness of the heart (in which He appears), and associating Himself with egoism and Sankalpa on account of the limitations of the intellect.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.8.mp3",
+   "whole": [
+    1666.15,
+    1685.13
+   ]
+  },
+  "hasBhashya": true,
+  "order": 85
+ },
+ {
+  "id": "SvU_5.9",
+  "ref": "5.9",
+  "section": "Adhyāya 5",
+  "sa": [
+   "वालाग्रशतभागस्य शतधा कल्पितस्य च  ।",
+   "भागो जीवः स विज्ञेयः स चानन्त्याय कल्पते ॥"
+  ],
+  "iast": [
+   "vālāgraśatabhāgasya śatadhā kalpitasya ca  ।",
+   "bhāgo jīvaḥ sa vijñeyaḥ sa cānantyāya kalpate ॥"
+  ],
+  "alt": [
+   {
+    "text": "Take thou the hundredth part of the point of a hair, divide it into a hundred parts again; then as is a part of this hundredth part of a hundredth, such shalt thou find this Spirit in man, if thou seek to separate Him; yet ’tis this in thee that availeth towards Infinity.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 242",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "That individual soul is as subtle as a hairpoint divided and sub-divided hundreds of times. Yet he is potentially infinite. He has to be known.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.9.mp3",
+   "whole": [
+    1685.13,
+    1700.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 86
+ },
+ {
+  "id": "SvU_5.10",
+  "ref": "5.10",
+  "section": "Adhyāya 5",
+  "sa": [
+   "नैव स्त्री न पुमान् एष न चैवायं नपुंसकः  ।",
+   "यद् यच् छरीरम् आदत्ते तेन तेन स युज्यते ॥"
+  ],
+  "iast": [
+   "naiva strī na pumān eṣa na caivāyaṃ napuṃsakaḥ  ।",
+   "yad yac charīram ādatte tena tena sa yujyate ॥"
+  ],
+  "alt": [
+   {
+    "text": "Not woman is He, nor man either, nor yet sexless; but whatsoever body He take, that confineth & preserveth Him.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 242",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "स्त्री",
+    "strī",
+    "a woman",
+    "strī"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "पुमान्",
+    "pumān",
+    "a man",
+    "puṃs"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this",
+    "etad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "नपुंसकः",
+    "napuṃsakaḥ",
+    "neither male nor female",
+    "napuṃsaka"
+   ],
+   [
+    "यत्",
+    "yat",
+    "what",
+    "yad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "what",
+    "yad"
+   ],
+   [
+    "शरीरम्",
+    "śarīram",
+    "the body",
+    "śarīra"
+   ],
+   [
+    "आदत्ते",
+    "ādatte",
+    "to take",
+    "ādā"
+   ],
+   [
+    "तेन",
+    "tena",
+    "this",
+    "tad"
+   ],
+   [
+    "तेन",
+    "tena",
+    "this",
+    "tad"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "this",
+    "tad"
+   ],
+   [
+    "युज्यते",
+    "yujyate",
+    "to yoke or join or fasten or harness (horses or a chariot)",
+    "yuj"
+   ]
+  ],
+  "tr": {
+   "text": "He is neither female, nor male, nor neuter. Whatever body he assumes, he becomes identified with that.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.10.mp3",
+   "whole": [
+    1700.84,
+    1715.99
+   ]
+  },
+  "hasBhashya": true,
+  "order": 87
+ },
+ {
+  "id": "SvU_5.11",
+  "ref": "5.11",
+  "section": "Adhyāya 5",
+  "sa": [
+   "संकल्पनस्पर्शनदृष्टिमोहैर् ग्रासाम्बुवृष्ट्या चात्मविवृद्धिजन्म  ।",
+   "कर्मानुगान्य् अनुक्रमेन देही स्थानेषु रूपाण्य् अभिसंप्रपद्यते ॥"
+  ],
+  "iast": [
+   "saṃkalpanasparśanadṛṣṭimohair grāsāmbuvṛṣṭyā cātmavivṛddhijanma  ।",
+   "karmānugāny anukramena dehī sthāneṣu rūpāṇy abhisaṃprapadyate ॥"
+  ],
+  "alt": [
+   {
+    "text": "As body is born and groweth by food and drink and plenty, so also the Spirit in body progressively attaineth to successive forms in their fit places — by the allurements of sight, by the witcheries of touch, by the magic of volition, for according to his works he progresseth and his forms shape themselves to his works.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 242",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "By desire, contact, sight and delusion, the embodied soul assumes successively various forms in various places according to his deeds, just as the body grows nourished by showers of food and drink.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.11.mp3",
+   "whole": [
+    1715.99,
+    1737.23
+   ]
+  },
+  "hasBhashya": true,
+  "order": 88
+ },
+ {
+  "id": "SvU_5.12",
+  "ref": "5.12",
+  "section": "Adhyāya 5",
+  "sa": [
+   "स्थूलानि सूक्ष्माणि बहूनि चैव रूपाणि देही स्वगुणैर् वृणोति  ।",
+   "क्रियागुणैर् आत्मगुणैश् च तेषां संयोगहेतुर् अपरो ऽपि दृष्टः ॥"
+  ],
+  "iast": [
+   "sthūlāni sūkṣmāṇi bahūni caiva rūpāṇi dehī svaguṇair vṛṇoti  ।",
+   "kriyāguṇair ātmaguṇaiś ca teṣāṃ saṃyogahetur aparo ’pi dṛṣṭaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Forms gross and forms subtle, forms many, — the Spirit in body evolveth them all by his own nature in its working; by the law of action of his works & the law of action of the Spirit in man, by these he evolveth them. But there is Another in Whom we behold Cause whereby all these meet together.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 242",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "The embodied self chooses many forms, gross and subtle, based on the qualities belonging to himself, to the actions, and to the mind. The cause of their combination is found to be still another.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.12.mp3",
+   "whole": [
+    1738.68,
+    1758.67
+   ]
+  },
+  "hasBhashya": true,
+  "order": 89
+ },
+ {
+  "id": "SvU_5.13",
+  "ref": "5.13",
+  "section": "Adhyāya 5",
+  "sa": [
+   "अनाद्यनन्तं कलिलस्य मध्ये विश्वस्य स्रष्टारम् अनेकरूपं  ।",
+   "विश्वस्यैकं परिवेष्टितारं ज्ञात्वा देवं मुच्यते सर्वपाशैः ॥"
+  ],
+  "iast": [
+   "anādyanantaṃ kalilasya madhye viśvasya sraṣṭāram anekarūpaṃ  ।",
+   "viśvasyaikaṃ pariveṣṭitāraṃ jñātvā devaṃ mucyate sarvapāśaiḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Without beginning, without end in the welter and the chaos, who createth the world by taking many figures & as the One girdeth & encompasseth it. He is the Lord & if thou know Him thou shalt break free from all kinds of bondage.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 242, 243",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Realizing Him who is without beginning or end, who creates the cosmos in the midst of chaos, who assumes many forms, and who alone envelops everything, one becomes free from all fetters.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.13.mp3",
+   "whole": [
+    1758.54,
+    1776.2
+   ]
+  },
+  "hasBhashya": true,
+  "order": 90
+ },
+ {
+  "id": "SvU_5.14",
+  "ref": "5.14",
+  "section": "Adhyāya 5",
+  "sa": [
+   "भावग्राह्यम् अनीडाख्यं भावाभावकरं शिवं  ।",
+   "कलासर्गकरं देवं ये विदुस् ते जहुस् तनुम् ॥"
+  ],
+  "iast": [
+   "bhāvagrāhyam anīḍākhyaṃ bhāvābhāvakaraṃ śivaṃ  ।",
+   "kalāsargakaraṃ devaṃ ye vidus te jahus tanum ॥"
+  ],
+  "alt": [
+   {
+    "text": "Shiva the Master of all becomings and not-becomings and from Him this whole creation floweth and it is only one part of Shiva; but He is not named after any nest of the wingèd Spirit, and the heart alone can apprehend Him. They who know Shiva, the Blessed One, abandon body for ever.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 243, 244",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "That Supreme Divinity who created both Life and Matter, who is the source of all arts and sciences, who can be intuited by a pure and devoted mind – realizing Him, the blissful the incorporeal and the nameless, one is freed from further embodiment.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.5.14.mp3",
+   "whole": [
+    1776.08,
+    1791.85
+   ]
+  },
+  "hasBhashya": true,
+  "order": 91
+ },
+ {
+  "id": "SvU_6.1",
+  "ref": "6.1",
+  "section": "Adhyāya 6",
+  "sa": [
+   "स्वभावम् एके कवयो वदन्ति कालं तथान्ये परिमुह्यमानाः  ।",
+   "देवस्यैष महिमा तु लोके येनेदं भ्राम्यते ब्रह्मचक्रम् ॥"
+  ],
+  "iast": [
+   "svabhāvam eke kavayo vadanti kālaṃ tathānye parimuhyamānāḥ  ।",
+   "devasyaiṣa mahimā tu loke yenedaṃ bhrāmyate brahmacakram ॥"
+  ],
+  "alt": [
+   {
+    "text": "’Tis Nature and Self-existence, say one school of the Seers. Nay, ’tis Time, say another; both are deceived and bewildered. ’Tis the Majesty of the Lord in the world of His creatures whereby the Wheel of the Eternal whirleth about continually.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 244",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Some deluded thinkers speak of Nature, and others of time, as the force that revolves this wheel of Brahman. But really all this is only the glory of God manifested in the world.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.1.mp3",
+   "whole": [
+    1797.26,
+    1817.49
+   ]
+  },
+  "hasBhashya": true,
+  "order": 92
+ },
+ {
+  "id": "SvU_6.2",
+  "ref": "6.2",
+  "section": "Adhyāya 6",
+  "sa": [
+   "येनावृतं नित्यम् इदं हि सर्वं ज्ञः कालकालो गुणी सर्वविद्यः  ।",
+   "तेनेशितं कर्म विवर्तते ह पृथिव्याप्तेजोऽनिलखानि चिन्त्यम् ॥"
+  ],
+  "iast": [
+   "yenāvṛtaṃ nityam idaṃ hi sarvaṃ jñaḥ kālakālo guṇī sarvavidyaḥ  ।",
+   "teneśitaṃ karma vivartate ha pṛthivyāptejo’nilakhāni cintyam ॥"
+  ],
+  "alt": [
+   {
+    "text": "He envelopeth this whole Universe with Himself for ever, He that knoweth, Maker of Time, & the Modes of Nature dwell in Him; yea, all things He discerneth and by His governance the Law of Works revolveth in its cycle. Earth, water, fire, air, ether, of these thou shalt consider (as the substance wherein it turneth).",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 244",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "It should be known that energy assumes various forms such as earth, water, light, air and ether at the command of Him who is the master of Gunas and the maker of time, who is omniscient, who is Pure consciousness itself, and by whom all this is ever enveloped.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.2.mp3",
+   "whole": [
+    1817.68,
+    1837.67
+   ]
+  },
+  "hasBhashya": true,
+  "order": 93
+ },
+ {
+  "id": "SvU_6.3",
+  "ref": "6.3",
+  "section": "Adhyāya 6",
+  "sa": [
+   "तत् कर्म कृत्वा विनिवर्त्य भूयस् तत्त्वस्य तत्त्वेन समेत्य योगम्  ।",
+   "एकेन द्वाभ्यां त्रिभिर् अष्टभिर् वा कालेन चैवात्मगुणैश् च सूक्ष्मैः ॥"
+  ],
+  "iast": [
+   "tat karma kṛtvā vinivartya bhūyas tattvasya tattvena sametya yogam  ।",
+   "ekena dvābhyāṃ tribhir aṣṭabhir vā kālena caivātmaguṇaiś ca sūkṣmaiḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Lord doeth works and resteth again from His works, one or two or three or eight He yoketh Himself with the Principle of things in their essence & with Time He yoketh Himself and with Self in its subtle workings.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 244",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "After setting the creation in motion and withdrawing Himself from it, He unites the principle of Spirit with the principle of Matter – with one, with two, with three and with eight – through the mere instrumentality of time and their own inherent properties.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 94
+ },
+ {
+  "id": "SvU_6.4",
+  "ref": "6.4",
+  "section": "Adhyāya 6",
+  "sa": [
+   "आरभ्य कर्माणि गुणान्वितानि भावांश् च सर्वान् विनियोजयेद् यः  ।",
+   "तेषाम् अभावे कृतकर्मनाशः कर्मक्षये याति स तत्त्वतो ऽन्यः ॥"
+  ],
+  "iast": [
+   "ārabhya karmāṇi guṇānvitāni bhāvāṃś ca sarvān viniyojayed yaḥ  ।",
+   "teṣām abhāve kṛtakarmanāśaḥ karmakṣaye yāti sa tattvato ’nyaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "So He beginneth works, that are subject to the modes of Nature, and setteth all existences to their workings: & when these things are not, thereby cometh annihilation of work that hath been done; and with the perishing of work, He departeth out of them; for in His final truth He is other than they.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 244",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He gives the start to the creation associated with the three Gunas of Nature, and others all things. Again, in the absence of the Gunas, He destroys all created objects, and after destruction, remains aloof in His essence.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.4.mp3",
+   "whole": [
+    1856.65,
+    1875.7
+   ]
+  },
+  "hasBhashya": true,
+  "order": 95
+ },
+ {
+  "id": "SvU_6.5",
+  "ref": "6.5",
+  "section": "Adhyāya 6",
+  "sa": [
+   "आदिः स संयोगनिमित्तहेतुः परस् त्रिकालाद् अकलो ऽपि दृष्टः  ।",
+   "तं विश्वरूपं भवभूतम् ईड्यं देवं स्वचित्तस्थम् उपास्य पूर्वम् ॥"
+  ],
+  "iast": [
+   "ādiḥ sa saṃyoganimittahetuḥ paras trikālād akalo ’pi dṛṣṭaḥ  ।",
+   "taṃ viśvarūpaṃ bhavabhūtam īḍyaṃ devaṃ svacittastham upāsya pūrvam ॥"
+  ],
+  "alt": [
+   {
+    "text": "Lo we have beheld Him & He is the Beginning and the Cause of all Causes whereby these elements meet together & form ariseth; the past, the present and the future are this side of Him and Time hath no part in Him. Let us worship the Ancient of Days in our own hearts who sitteth. Let us wait upon God who must be adored, for the world is His shape and the Universe is but His becoming.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 245",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "By previously meditating as seated in one’s own heart, on that Adorable Being who appears as the universe, and who is the true source of all creatures, He can be perceived even though He is the primeval cause of the union (of Spirit with Matter), as well as the partless entity transcending the three divisions of time.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.5.mp3",
+   "whole": [
+    1875.38,
+    1895.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 96
+ },
+ {
+  "id": "SvU_6.6",
+  "ref": "6.6",
+  "section": "Adhyāya 6",
+  "sa": [
+   "स वृक्षकालाकृतिभिः परो ऽन्यो यस्मात् प्रपञ्चः परिवर्तते ऽयं  ।",
+   "धर्मावहं पापनुदं भगेशं ज्ञात्वात्मस्थम् अमृतं विश्वधाम ॥"
+  ],
+  "iast": [
+   "sa vṛkṣakālākṛtibhiḥ paro ’nyo yasmāt prapañcaḥ parivartate ’yaṃ  ।",
+   "dharmāvahaṃ pāpanudaṃ bhageśaṃ jñātvātmastham amṛtaṃ viśvadhāma ॥"
+  ],
+  "alt": [
+   {
+    "text": "Time & Form and the Tree of Things, none of these is He for He is more than they & it is from Him that this Cosmos beginneth. We will know this Master of grace & glory for He cometh to us carrying righteousness in His hand & He driveth Sin from its strong places. We will know Him for He is in our Self & immortal & the World’s foundation.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 245",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Knowing Him who is the origin and dissolution of the universe – the source of all virtue, the destroyer of all sins, the master of all good qualities, the immortal, and the abode of the universe – as seated in one’s own self, He is perceived as different from, and transcending, the tree of Samsara as well as time and form.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.6.mp3",
+   "whole": [
+    1895.75,
+    1915.36
+   ]
+  },
+  "hasBhashya": true,
+  "order": 97
+ },
+ {
+  "id": "SvU_6.7",
+  "ref": "6.7",
+  "section": "Adhyāya 6",
+  "sa": [
+   "तम् ईश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतं  ।",
+   "पतिं पतीनां परमं परस्ताद् विदाम देवं भुवनेशम् ईड्यम् ॥"
+  ],
+  "iast": [
+   "tam īśvarāṇāṃ paramaṃ maheśvaraṃ taṃ devatānāṃ paramaṃ ca daivataṃ  ।",
+   "patiṃ patīnāṃ paramaṃ parastād vidāma devaṃ bhuvaneśam īḍyam ॥"
+  ],
+  "alt": [
+   {
+    "text": "We will know this Mightiest one who is far above all the mighty — this summit of the gods & their godhead, King of Kings and Lord of Lords, who towereth high above all summits & greatnesses. Let us learn of God for He is this World’s Master & all shall adore Him.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 245",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "May we realize Him – the transcendent and adorable master of the universe – who is the supreme lord over all the lords, the supreme God above all the gods, and the supreme ruler over all the rulers.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.7.mp3",
+   "whole": [
+    1915.36,
+    1934.71
+   ]
+  },
+  "hasBhashya": true,
+  "order": 98
+ },
+ {
+  "id": "SvU_6.8",
+  "ref": "6.8",
+  "section": "Adhyāya 6",
+  "sa": [
+   "न तस्य कार्यं करणं च विद्यते न तत्समश् चाभ्यधिकश् च दृश्यते  ।",
+   "परास्य शक्तिर् विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च ॥"
+  ],
+  "iast": [
+   "na tasya kāryaṃ karaṇaṃ ca vidyate na tatsamaś cābhyadhikaś ca dṛśyate  ।",
+   "parāsya śaktir vividhaiva śrūyate svābhāvikī jñānabalakriyā ca ॥"
+  ],
+  "alt": [
+   {
+    "text": "God needeth not to do anything neither hath He any organ of doing; there is none greater than He nor do we see any that is His equal — for His power is far over all, only men hear of it under a thousand names & various fashions. Lo the strength of Him and the works of Him and His Knowledge, they are self-efficient & their own cause & nature.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 245, 246",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "this",
+    "tad"
+   ],
+   [
+    "कार्यम्",
+    "kāryam",
+    "work or business to be done",
+    "kārya"
+   ],
+   [
+    "करणम्",
+    "karaṇam",
+    "act of making",
+    "karaṇa"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "विद्यते",
+    "vidyate",
+    "to know",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "तद्",
+    "tad",
+    "this",
+    "tad"
+   ],
+   [
+    "समः",
+    "samaḥ",
+    "even",
+    "sama"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अभ्यधिकः",
+    "abhyadhikaḥ",
+    "surpassing",
+    "abhyadhika"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "दृश्यते",
+    "dṛśyate",
+    "to behold",
+    "dṛś"
+   ],
+   [
+    "परा",
+    "parā",
+    "far",
+    "para"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "this",
+    "idam"
+   ],
+   [
+    "शक्तिः",
+    "śaktiḥ",
+    "power",
+    "śakti"
+   ],
+   [
+    "विविधा",
+    "vividhā",
+    "of various sorts",
+    "vividha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "श्रूयते",
+    "śrūyate",
+    "to hear",
+    "śru"
+   ],
+   [
+    "स्वाभाविका",
+    "svābhāvikā",
+    "belonging to or arising from one's own nature",
+    "svābhāvika"
+   ],
+   [
+    "ज्ञान",
+    "jñāna",
+    "knowing",
+    "jñāna"
+   ],
+   [
+    "बल",
+    "bala",
+    "power",
+    "bala"
+   ],
+   [
+    "क्रिया",
+    "kriyā",
+    "doing",
+    "kriyā"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ]
+  ],
+  "tr": {
+   "text": "His has nothing to achieve for Himself, nor has He any organ of action. No one is seen equal or superior to Him. His great power alone is described in the Vedas to be of various kinds, and His knowledge, strength and action are described as inherent in Him.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.8.mp3",
+   "whole": [
+    1934.71,
+    1955.27
+   ]
+  },
+  "hasBhashya": true,
+  "order": 99
+ },
+ {
+  "id": "SvU_6.9",
+  "ref": "6.9",
+  "section": "Adhyāya 6",
+  "sa": [
+   "न तस्य कश्चित् पतिर् अस्ति लोके न चेशिता नैव च तस्य लिङ्गं  ।",
+   "स कारणं करणाधिपाधिपो न चास्य कश्चिज् जनिता न चाधिपः ॥"
+  ],
+  "iast": [
+   "na tasya kaścit patir asti loke na ceśitā naiva ca tasya liṅgaṃ  ।",
+   "sa kāraṇaṃ karaṇādhipādhipo na cāsya kaścij janitā na cādhipaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "He hath no master in all this world, there is none that shall rule over Him. Nor feature nor distinction hath He; for He is begetting cause and sovran over the lords of these natural organs, but Himself hath no begetter neither any sovran.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 246",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "No one in the world is His master, nor has anybody any control over Him. There is no sign by which He can be inferred. He is the cause of all, and the ruler of individual souls. He has no parent, nor is there any one who is His lord.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.9.mp3",
+   "whole": [
+    1955.71,
+    1974.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 100
+ },
+ {
+  "id": "SvU_6.10",
+  "ref": "6.10",
+  "section": "Adhyāya 6",
+  "sa": [
+   "यस् तन्तुनाभ इव तन्तुभिः प्रधानजैः स्वभावतः  ।",
+   "देव एकः स्वम् आवृणोति स नो दधाद् ब्रह्माप्ययम् ॥"
+  ],
+  "iast": [
+   "yas tantunābha iva tantubhiḥ pradhānajaiḥ svabhāvataḥ  ।",
+   "deva ekaḥ svam āvṛṇoti sa no dadhād brahmāpyayam ॥"
+  ],
+  "alt": [
+   {
+    "text": "Even as is the spider that out of himself fashioneth his own web, so is God One & nought else existeth but by his own nature covereth Himself up in the threads He hath spun out of primal matter. May the One God ordain unto us departure into His Eternal.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 246",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "May the Supreme Being, who spontaneously covers Himself with the products of Nature, just as a spider does with the threads drawn from its own navel, grant us absorption in Brahman !",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.10.mp3",
+   "whole": [
+    1974.31,
+    1991.47
+   ]
+  },
+  "hasBhashya": true,
+  "order": 101
+ },
+ {
+  "id": "SvU_6.11",
+  "ref": "6.11",
+  "section": "Adhyāya 6",
+  "sa": [
+   "एको देवः सर्वभूतेषु गूढः सर्वव्यापी सर्वभूतान्तरात्मा  ।",
+   "कर्माध्यक्षः सर्वभूताधिवासः साक्षी चेता केवलो निर्गुणश् च ॥"
+  ],
+  "iast": [
+   "eko devaḥ sarvabhūteṣu gūḍhaḥ sarvavyāpī sarvabhūtāntarātmā  ।",
+   "karmādhyakṣaḥ sarvabhūtādhivāsaḥ sākṣī cetā kevalo nirguṇaś ca ॥"
+  ],
+  "alt": [
+   {
+    "text": "One God who alone is & He lurketh hidden in every creature for He pervadeth and is the inmost Self of all beings, He presideth over all work and is the home of all things living. He is the Mighty Witness who relateth thought with thought and again He is the Absolute in whom mood is not nor any attribute.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 246",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एकः",
+    "ekaḥ",
+    "one",
+    "eka"
+   ],
+   [
+    "देवः",
+    "devaḥ",
+    "a deity",
+    "deva"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "भूतेषु",
+    "bhūteṣu",
+    "that which is or exists",
+    "bhūta"
+   ],
+   [
+    "गूढः",
+    "gūḍhaḥ",
+    "to cover",
+    "guh"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "व्यापी",
+    "vyāpī",
+    "reaching through",
+    "vyāpin"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "भूत",
+    "bhūta",
+    "that which is or exists",
+    "bhūta"
+   ],
+   [
+    "अन्तरात्मा",
+    "antarātmā",
+    "the soul",
+    "antarātman"
+   ],
+   [
+    "कर्म",
+    "karma",
+    "act",
+    "karman"
+   ],
+   [
+    "अध्यक्षः",
+    "adhyakṣaḥ",
+    "an eye-witness",
+    "adhyakṣa"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "whole",
+    "sarva"
+   ],
+   [
+    "भूत",
+    "bhūta",
+    "that which is or exists",
+    "bhūta"
+   ],
+   [
+    "अधिवासः",
+    "adhivāsaḥ",
+    "an inhabitant",
+    "adhivāsa"
+   ],
+   [
+    "साक्षी",
+    "sākṣī",
+    "seeing with the eyes",
+    "sākṣin"
+   ],
+   [
+    "चेता",
+    "cetā",
+    "an observer",
+    "cetṛ"
+   ],
+   [
+    "केवलः",
+    "kevalaḥ",
+    "alone",
+    "kevala"
+   ],
+   [
+    "निर्गुणः",
+    "nirguṇaḥ",
+    "having no qualities",
+    "nirguṇa"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ]
+  ],
+  "tr": {
+   "text": "God, who is one only, is hidden in all beings. He is all-pervading, and is the inner self of all creatures. He presides over all actions, and all beings reside in Him. He is the witness, and He is the Pure Consciousness free from the three Gunas of Nature.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.11.mp3",
+   "whole": [
+    1992.04,
+    2013.34
+   ]
+  },
+  "hasBhashya": true,
+  "order": 102
+ },
+ {
+  "id": "SvU_6.12",
+  "ref": "6.12",
+  "section": "Adhyāya 6",
+  "sa": [
+   "एको वशी निष्क्रियाणां बहूणाम् एकं बीजं बहुधा यः करोति  ।",
+   "तम् आत्मस्थं ये ऽनुपश्यन्ति धीरास् तेषां सुखं शाश्वतं नेतरेषां ॥"
+  ],
+  "iast": [
+   "eko vaśī niṣkriyāṇāṃ bahūṇām ekaṃ bījaṃ bahudhā yaḥ karoti  ।",
+   "tam ātmasthaṃ ye ’nupaśyanti dhīrās teṣāṃ sukhaṃ śāśvataṃ netareṣāṃ ॥"
+  ],
+  "alt": [
+   {
+    "text": "One God & alone He controlleth the many who have themselves no separate work nor purpose; and He developeth one seed into many kinds of creatures; the strong-hearted behold God in their own Self, therefore for them is everlasting bliss and not for others.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 246",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एकः",
+    "ekaḥ",
+    "one",
+    "eka"
+   ],
+   [
+    "वशी",
+    "vaśī",
+    "having will or power",
+    "vaśin"
+   ],
+   [
+    "निष्क्रियाणाम्",
+    "niṣkriyāṇām",
+    "unt￤tig",
+    "niṣkriya"
+   ],
+   [
+    "बहूनाम्",
+    "bahūnām",
+    "much",
+    "bahu"
+   ],
+   [
+    "एकम्",
+    "ekam",
+    "one",
+    "eka"
+   ],
+   [
+    "बीजम्",
+    "bījam",
+    "seed (of plants)",
+    "bīja"
+   ],
+   [
+    "बहुधा",
+    "bahudhā",
+    "in many ways or parts or forms or directions",
+    "bahudhā"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "what",
+    "yad"
+   ],
+   [
+    "करोति",
+    "karoti",
+    "to make like or similar",
+    "kṛ"
+   ],
+   [
+    "तम्",
+    "tam",
+    "this",
+    "tad"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "the breath",
+    "ātman"
+   ],
+   [
+    "स्थम्",
+    "stham",
+    "standing",
+    "stha"
+   ],
+   [
+    "ये",
+    "ye",
+    "what",
+    "yad"
+   ],
+   [
+    "अनुपश्यन्ति",
+    "anupaśyanti",
+    "to look at",
+    "anupaś"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "intelligent",
+    "dhīra"
+   ],
+   [
+    "तेषाम्",
+    "teṣām",
+    "this",
+    "tad"
+   ],
+   [
+    "सुखम्",
+    "sukham",
+    "ease",
+    "sukha"
+   ],
+   [
+    "शाश्वतम्",
+    "śāśvatam",
+    "eternal",
+    "śāśvata"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "इतरेषाम्",
+    "itareṣām",
+    "the other (of two)",
+    "itara"
+   ]
+  ],
+  "tr": {
+   "text": "Those wise men, who ever feel in their own hearts the presence of Him who is the one ruler of the inactive many, and who makes the one seed manifold – to them belongs eternal happiness, and to none else.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.12.mp3",
+   "whole": [
+    2014.41,
+    2035.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 103
+ },
+ {
+  "id": "SvU_6.13",
+  "ref": "6.13",
+  "section": "Adhyāya 6",
+  "sa": [
+   "नित्यो नित्यानां चेतनश् चेतनानाम् एको बहूनां यो विदधाति कामान्  ।",
+   "तत् कारणं सांख्ययोगाधिगम्यं ज्ञात्वा देवं मुच्यते सर्वपाशैः ॥"
+  ],
+  "iast": [
+   "nityo nityānāṃ cetanaś cetanānām eko bahūnāṃ yo vidadhāti kāmān  ।",
+   "tat kāraṇaṃ sāṃkhyayogādhigamyaṃ jñātvā devaṃ mucyate sarvapāśaiḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "One Eternal of all these that pass & are not, One conscious in all consciousnesses; He being One ordereth the desires of many; He alone is the great Source to which Sankhya and Yoga bring us. If thou know God thou shalt break free from every sort of bondage.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 247",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He is the eternal among the eternal and the intelligent among all that are intelligent. Though one, He grants the desires of the many. One is released from all fetters on realizing Him, the cause of all, who is comprehensible through philosophy and religious discipline.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.13.mp3",
+   "whole": [
+    2037.41,
+    2059.04
+   ]
+  },
+  "hasBhashya": true,
+  "order": 104
+ },
+ {
+  "id": "SvU_6.14",
+  "ref": "6.14",
+  "section": "Adhyāya 6",
+  "sa": [
+   "न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतो ऽयम् अग्निः  ।",
+   "तम् एव भान्तम् अनुभाति सर्वं तस्य भासा सर्वम् इदं विभाति ॥"
+  ],
+  "iast": [
+   "na tatra sūryo bhāti na candratārakaṃ nemā vidyuto bhānti kuto ’yam agniḥ  ।",
+   "tam eva bhāntam anubhāti sarvaṃ tasya bhāsā sarvam idaṃ vibhāti ॥"
+  ],
+  "alt": [
+   {
+    "text": "There the sun cannot shine and the moon has no splendour; the stars are blind; there our lightnings flash not neither any earthly fire; all that is bright is but the shadow of His brightness and by His shining all this shineth.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 247",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "The sun does not shine there; neither the moon, nor the stars. There these lightnings shine not – how then this fire ? Because He shines, everything shines after Him. By His light all this shines.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.14.mp3",
+   "whole": [
+    2059.66,
+    2079.34
+   ]
+  },
+  "hasBhashya": true,
+  "order": 105
+ },
+ {
+  "id": "SvU_6.15",
+  "ref": "6.15",
+  "section": "Adhyāya 6",
+  "sa": [
+   "एको हंसो भुवनस्यास्य मध्ये स एवाग्निः सलिले संनिविष्टः  ।",
+   "तम् एव विदित्वाति मृत्युम् एति नान्यः पन्था विद्यते ऽयनाय ॥"
+  ],
+  "iast": [
+   "eko haṃso bhuvanasyāsya madhye sa evāgniḥ salile saṃniviṣṭaḥ  ।",
+   "tam eva viditvāti mṛtyum eti nānyaḥ panthā vidyate ’yanāya ॥"
+  ],
+  "alt": [
+   {
+    "text": "One Swan of Being in the heart of all this Universe & He is Fire that lieth deep in the heart of water. By Knowledge of Him, the soul passeth beyond the pursuit of Death and there is no other road for the great passage.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 247",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "The one destroyer of ignorance in the midst of this universe, He alone is the fire which is stationed in water. Realizing Him alone one overcomes death. There is no other path for emancipation.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.15.mp3",
+   "whole": [
+    2080.03,
+    2099.01
+   ]
+  },
+  "hasBhashya": true,
+  "order": 106
+ },
+ {
+  "id": "SvU_6.16",
+  "ref": "6.16",
+  "section": "Adhyāya 6",
+  "sa": [
+   "स विश्वकृद् विश्वविद् आत्मयोनिर् ज्ञः कालकालो गुणी सर्वविद्यः  ।",
+   "प्रधानक्षेत्रज्ञपतिर् गुणेशः संसारमोक्षस्थितिबन्धहेतुः ॥"
+  ],
+  "iast": [
+   "sa viśvakṛd viśvavid ātmayonir jñaḥ kālakālo guṇī sarvavidyaḥ  ।",
+   "pradhānakṣetrajñapatir guṇeśaḥ saṃsāramokṣasthitibandhahetuḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "He hath made all and knoweth all; for He is the womb out of which Self ariseth, & being possessed of the Nature Moods He becometh Time’s Maker and discerneth all things. And Matter is subject to Him & the Spirit in Man that cogniseth His field of matter & the modes of Nature are His servants. He therefore is the cause of this coming into phenomena & of the release from phenomena — & because of Him is their endurance & because of Him is their bondage.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 247",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He is the creator of everything as well as the knower of everything. He is His own source, He is all-knowing, and He is the destroyer of time. He is the repository of all good qualities, and the master of all sciences. He is the controller of Matter and Spirit, and the lord of the Gunas. He is the cause of liberation from the cycle of birth and death, and of bondage which results in its continuance.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.16.mp3",
+   "whole": [
+    2098.82,
+    2119.31
+   ]
+  },
+  "hasBhashya": true,
+  "order": 107
+ },
+ {
+  "id": "SvU_6.17",
+  "ref": "6.17",
+  "section": "Adhyāya 6",
+  "sa": [
+   "स तन्मयो ह्य् अमृत ईशसंस्थो ज्ञः सर्वगो भुवनस्यास्य गोप्ता  ।",
+   "स ईशे अस्य जगतो नित्यम् एव नान्यो हेतुर् विद्यत ईशनाय ॥"
+  ],
+  "iast": [
+   "sa tanmayo hy amṛta īśasaṃstho jñaḥ sarvago bhuvanasyāsya goptā  ।",
+   "sa īśe asya jagato nityam eva nānyo hetur vidyata īśanāya ॥"
+  ],
+  "alt": [
+   {
+    "text": "Lo He is Immortal because He is utter existence; but He houseth Himself in the Lord & is the Knower, the Omnipresent that standeth on guard over this His universe, yea He ruleth all this moving world for ever and for ever, and there is no other source of lordship and kingliness.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 248",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He is the soul of the universe, He is immortal, and His is the rulership. He is the all knowing, the all-pervading, the protector of the universe, the eternal ruler. None else is there efficient to govern the world eternally.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.17.mp3",
+   "whole": [
+    2120.51,
+    2139.3
+   ]
+  },
+  "hasBhashya": false,
+  "order": 108
+ },
+ {
+  "id": "SvU_6.18",
+  "ref": "6.18",
+  "section": "Adhyāya 6",
+  "sa": [
+   "यो ब्रह्माणं विदधाति पूर्वं यो वै वेदांश् च प्रहिणोति तस्मै  ।",
+   "तं ह देवम् आत्मबुद्धिप्रकाशं मुमुक्षुर् वै शरणम् अहं प्रपद्ये ॥"
+  ],
+  "iast": [
+   "yo brahmāṇaṃ vidadhāti pūrvaṃ yo vai vedāṃś ca prahiṇoti tasmai  ।",
+   "taṃ ha devam ātmabuddhiprakāśaṃ mumukṣur vai śaraṇam ahaṃ prapadye ॥"
+  ],
+  "alt": [
+   {
+    "text": "He ordained Brahma the Creator from of old and sent forth unto him the Veda, I will hasten unto God who standeth self-revealed in the Spirit & in the Understanding. I will take refuge in the Lord for my salvation;",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 248",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He who at the beginning of creation projected Brahma (Universal Consciousness), who delivered the Vedas unto him, who constitutes the supreme bridge of immortality, who is the partless, free from actions, tranquil, faultless, taintless and resembles the fire that has consumed its fuel – seeking liberation I go for refuge to that Effulgent One, whose light turns the understanding towards the Atman.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)",
+   "joint": "6.18–19"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.18.mp3",
+   "whole": [
+    2142.31,
+    2161.24
+   ]
+  },
+  "hasBhashya": true,
+  "order": 109
+ },
+ {
+  "id": "SvU_6.19",
+  "ref": "6.19",
+  "section": "Adhyāya 6",
+  "sa": [
+   "निष्कलं निष्क्रियं शान्तं निरवद्यं निरञ्जनम्  ।",
+   "अमृतस्य परं सेतुं दग्धेन्धनम् इवानलम् ॥"
+  ],
+  "iast": [
+   "niṣkalaṃ niṣkriyaṃ śāntaṃ niravadyaṃ nirañjanam  ।",
+   "amṛtasya paraṃ setuṃ dagdhendhanam ivānalam ॥"
+  ],
+  "alt": [
+   {
+    "text": "Who hath neither parts nor works for He is utterly tranquil, faultless, stainless, therefore He is the one great bridge that carrieth us over to Immortality, even as when a fire hath burnt all its fuel.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 248",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "He who at the beginning of creation projected Brahma (Universal Consciousness), who delivered the Vedas unto him, who constitutes the supreme bridge of immortality, who is the partless, free from actions, tranquil, faultless, taintless and resembles the fire that has consumed its fuel – seeking liberation I go for refuge to that Effulgent One, whose light turns the understanding towards the Atman.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)",
+   "joint": "6.18–19"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 110
+ },
+ {
+  "id": "SvU_6.20",
+  "ref": "6.20",
+  "section": "Adhyāya 6",
+  "sa": [
+   "यदा चर्मवद् आकाशं वेष्टयिष्यन्ति मानवाः  ।",
+   "तदा देवम् अविज्ञाय दुःखस्यान्तो भविष्यति ॥"
+  ],
+  "iast": [
+   "yadā carmavad ākāśaṃ veṣṭayiṣyanti mānavāḥ  ।",
+   "tadā devam avijñāya duḥkhasyānto bhaviṣyati ॥"
+  ],
+  "alt": [
+   {
+    "text": "When the sons of men shall fold up ether like a skin and wrap the heavens round them like a garment, then alone without knowledge of the Lord our God shall the misery of the World have an ending.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 248",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Only when men shall roll up the sky like a skin, will there be an end of misery for them without realizing God.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.19.mp3",
+   "whole": [
+    2173.93,
+    2189.89
+   ]
+  },
+  "hasBhashya": true,
+  "order": 111
+ },
+ {
+  "id": "SvU_6.21",
+  "ref": "6.21",
+  "section": "Adhyāya 6",
+  "sa": [
+   "तपःप्रभावाद् देवप्रसादात् ब्रह्म ह श्वेताश्वतरो ऽथ विद्वान्  ।",
+   "अत्याश्रमिभ्यः परमं पवित्रं प्रोवाच सम्यग् ऋषिसङ्घजुष्टम् ॥"
+  ],
+  "iast": [
+   "tapaḥprabhāvād devaprasādāt brahma ha śvetāśvataro ’tha vidvān  ।",
+   "atyāśramibhyaḥ paramaṃ pavitraṃ provāca samyag ṛṣisaṅghajuṣṭam ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the might of his devotion & the grace of God in his being Svetasvatara hereafter knew the Eternal & he came to the renouncers of the worldly life and truly declared unto them the Most High & Pure God, to whom the companies of seers resort for ever.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, pp. 248, 249",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "Himself realizing Brahman by the power of self-control and concentration of mind, as well as by the grace of God, the sage Svetasvatara expounded well to the highest order of Sannyasins, the truth of that supremely holy Brahman resorted to by all the seers.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.20.mp3",
+   "whole": [
+    2189.77,
+    2208.44
+   ]
+  },
+  "hasBhashya": true,
+  "order": 112
+ },
+ {
+  "id": "SvU_6.22",
+  "ref": "6.22",
+  "section": "Adhyāya 6",
+  "sa": [
+   "वेदान्ते परमं गुह्यं पुराकल्पे प्रचोदितम्  ।",
+   "नाप्रशान्ताय दातव्यं नापुत्रायाशिष्याय वा पुनः ॥"
+  ],
+  "iast": [
+   "vedānte paramaṃ guhyaṃ purākalpe pracoditam  ।",
+   "nāpraśāntāya dātavyaṃ nāputrāyāśiṣyāya vā punaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "This is the great secret of the Vedanta which was declared in former times, not on hearts untranquilled to be squandered nor men sonless nor on one who hath no disciples.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 249",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [],
+  "tr": {
+   "text": "This highest mysticism, expounded in the Vedanta in a former age, should not be taught to one whose passions have not been subdued, nor to one who is not a worthy son, nor to an unworthy disciple.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.21.mp3",
+   "whole": [
+    2208.5,
+    2225.15
+   ]
+  },
+  "hasBhashya": true,
+  "order": 113
+ },
+ {
+  "id": "SvU_6.23",
+  "ref": "6.23",
+  "section": "Adhyāya 6",
+  "sa": [
+   "यस्य देवे परा भक्तिर् यथा देवे तथा गुरौ  ।",
+   "तस्यैते कथिता ह्य् अर्थाः प्रकाशन्ते महात्मनः प्रकाशन्ते महात्मनः ॥"
+  ],
+  "iast": [
+   "yasya deve parā bhaktir yathā deve tathā gurau  ।",
+   "tasyaite kathitā hy arthāḥ prakāśante mahātmanaḥ prakāśante mahātmanaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "But whosoever hath supreme love & adoration for the Lord and as for the Lord, so likewise for the Master, to that Mighty Soul these great matters when they are told become clear of themselves, yea to the Great Soul of him they are manifest.",
+    "by": "Sri Aurobindo",
+    "cite": "CWSA 18, p. 249",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यस्य",
+    "yasya",
+    "whose",
+    "yad"
+   ],
+   [
+    "देवे",
+    "deve",
+    "toward God",
+    "deva"
+   ],
+   [
+    "परा",
+    "parā",
+    "supreme",
+    "para"
+   ],
+   [
+    "भक्तिः",
+    "bhaktiḥ",
+    "devotion",
+    "bhakti"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "देवे",
+    "deve",
+    "toward God",
+    "deva"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "so",
+    "tathā"
+   ],
+   [
+    "गुरौ",
+    "gurau",
+    "toward the teacher",
+    "guru"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "for him",
+    "tad"
+   ],
+   [
+    "एते",
+    "ete",
+    "these",
+    "etad"
+   ],
+   [
+    "कथिताः",
+    "kathitāḥ",
+    "spoken",
+    "kathay"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अर्थाः",
+    "arthāḥ",
+    "meanings",
+    "artha"
+   ],
+   [
+    "प्रकाशन्ते",
+    "prakāśante",
+    "shine forth",
+    "prakāś"
+   ],
+   [
+    "महात्मनः",
+    "mahātmanaḥ",
+    "for the great-souled one",
+    "mahātman"
+   ]
+  ],
+  "tr": {
+   "text": "These truths, when taught, shine forth only in that high-souled one who has supreme devotion to God, and an equal degree of devotion to the spiritual teacher. They shine forth in that high-souled one only.",
+   "by": "Swami Tyagisananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Svetasvataropanisad/9.6.22.mp3",
+   "whole": [
+    2225.09,
+    2244.64
+   ]
+  },
+  "hasBhashya": true,
+  "order": 114
+ }
+]

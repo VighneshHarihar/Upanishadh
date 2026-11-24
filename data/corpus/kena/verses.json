@@ -1,0 +1,4946 @@
+[
+ {
+  "id": "KeU_0",
+  "ref": "0",
+  "section": "Śānti mantra · Āpyāyantu",
+  "shanti": true,
+  "sa": [
+   "ॐ आप्यायन्तु ममाङ्गानि वाक्प्राणश्चक्षुः श्रोत्रमथो बलमिन्द्रियाणि च सर्वाणि ।",
+   "सर्वं ब्रह्मौपनिषदं माऽहं ब्रह्म निराकुर्यां मा मा ब्रह्म निराकरोदनिराकरणमस्त्वनिराकरणं मेऽस्तु ।",
+   "तदात्मनि निरते य उपनिषत्सु धर्मास्ते मयि सन्तु ते मयि सन्तु ॥",
+   "ॐ शान्तिः शान्तिः शान्तिः ॥"
+  ],
+  "iast": [
+   "oṃ āpyāyantu mamāṅgāni vāk prāṇaś cakṣuḥ śrotram atho balam indriyāṇi ca sarvāṇi",
+   "sarvaṃ brahmaupaniṣadaṃ mā'haṃ brahma nirākuryāṃ mā mā brahma nirākarod anirākaraṇam astv anirākaraṇaṃ me'stu",
+   "tad ātmani nirate ya upaniṣatsu dharmās te mayi santu te mayi santu",
+   "oṃ śāntiḥ śāntiḥ śāntiḥ"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Om ! May my limbs, speech, vital air, eyes, ears, strength, And all the senses be fully developed. All that is revealed by the Upanishads is Brahman. May I never deny Brahman: May Brahman never disown me. Let there be no repudiation (from Brahman); Let there be no infidelity from my side. May all the Dharmas extolled by the Upanishads shine in me Who am intent on knowing the Self. May they shine in me ! Om ! Peace ! Peace ! Peace !",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/shantimantra/1.wav",
+   "whole": [
+    0,
+    70.9
+   ]
+  },
+  "hasBhashya": false,
+  "order": 1
+ },
+ {
+  "id": "KeU_1.1",
+  "ref": "1.1",
+  "section": "First Part",
+  "sa": [
+   "केनेषितं पतति प्रेषितं मनः केन प्राणः प्रथमः प्रैति युक्तः ।",
+   "केनेषितां वाचमिमां वदन्ति चक्षुः श्रोत्रं क उ देवो युनक्ति ॥"
+  ],
+  "iast": [
+   "keneṣitaṃ patati preṣitaṃ manaḥ kena prāṇaḥ prathamaḥ praiti yuktaḥ ।",
+   "keneṣitāṃ vācamimāṃ vadanti cakṣuḥ śrotraṃ ka u devo yunakti ॥"
+  ],
+  "alt": [
+   {
+    "text": "By whom missioned falls the mind shot to its mark? By whom yoked moves the first life-breath forward on its paths? By whom impelled is this word that men speak? What god set eye and ear to their workings?",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 5",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "केन",
+    "kena",
+    "by whom",
+    "ka"
+   ],
+   [
+    "इषितम्",
+    "iṣitam",
+    "impelled",
+    "iṣ"
+   ],
+   [
+    "पतति",
+    "patati",
+    "falls",
+    "pat"
+   ],
+   [
+    "प्रेषितम्",
+    "preṣitam",
+    "sent forth",
+    "preṣ"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "केन",
+    "kena",
+    "by whom",
+    "ka"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "प्रथमः",
+    "prathamaḥ",
+    "first",
+    "prathama"
+   ],
+   [
+    "प्रैति",
+    "praiti",
+    "goes forward",
+    "pre"
+   ],
+   [
+    "युक्तः",
+    "yuktaḥ",
+    "yoked",
+    "yuj"
+   ],
+   [
+    "केन",
+    "kena",
+    "by whom",
+    "ka"
+   ],
+   [
+    "इषिताम्",
+    "iṣitām",
+    "impelled",
+    "iṣ"
+   ],
+   [
+    "वाचम्",
+    "vācam",
+    "speech",
+    "vāc"
+   ],
+   [
+    "इमाम्",
+    "imām",
+    "this",
+    "idam"
+   ],
+   [
+    "वदन्ति",
+    "vadanti",
+    "they speak",
+    "vad"
+   ],
+   [
+    "चक्षुः",
+    "cakṣuḥ",
+    "sight",
+    "cakṣus"
+   ],
+   [
+    "श्रोत्रम्",
+    "śrotram",
+    "hearing",
+    "śrotra"
+   ],
+   [
+    "कः",
+    "kaḥ",
+    "who?",
+    "ka"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "देवः",
+    "devaḥ",
+    "god",
+    "deva"
+   ],
+   [
+    "युनक्ति",
+    "yunakti",
+    "yokes",
+    "yuj"
+   ]
+  ],
+  "tr": {
+   "text": "Wished by whom is the mind directed to fall (on its objects)? Directed by whom does the foremost vital air move? By whom is wished this speech which the people utter? Who is the radiant being that unites the eye and the ear (with their objects)?",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.1.mp3",
+   "whole": [
+    5.99,
+    25.58
+   ]
+  },
+  "hasBhashya": true,
+  "order": 2
+ },
+ {
+  "id": "KeU_1.2",
+  "ref": "1.2",
+  "section": "First Part",
+  "sa": [
+   "श्रोत्रस्य श्रोत्रं मनसो मनो यद् वाचो ह वाचं स उ प्राणस्य प्राणः ।",
+   "चक्षुषश्चक्षुरतिमुच्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥"
+  ],
+  "iast": [
+   "śrotrasya śrotraṃ manaso mano yad vāco ha vācaṃ sa u prāṇasya prāṇaḥ ।",
+   "cakṣuṣaścakṣuratimucya dhīrāḥ pretyāsmāllokādamṛtā bhavanti ॥"
+  ],
+  "alt": [
+   {
+    "text": "That which is hearing of our hearing, mind of our mind, speech of our speech, that too is life of our life-breath and sight of our sight. The wise are released beyond and they pass from this world and become immortal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 5",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "श्रोत्रस्य",
+    "śrotrasya",
+    "of hearing",
+    "śrotra"
+   ],
+   [
+    "श्रोत्रम्",
+    "śrotram",
+    "hearing",
+    "śrotra"
+   ],
+   [
+    "मनसः",
+    "manasaḥ",
+    "of mind",
+    "manas"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "वाचः",
+    "vācaḥ",
+    "of speech",
+    "vāc"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वाचम्",
+    "vācam",
+    "speech",
+    "vāc"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "प्राणस्य",
+    "prāṇasya",
+    "of life-breath",
+    "prāṇa"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "चक्षुषः",
+    "cakṣuṣaḥ",
+    "of sight",
+    "cakṣus"
+   ],
+   [
+    "चक्षुः",
+    "cakṣuḥ",
+    "sight",
+    "cakṣus"
+   ],
+   [
+    "अतिमुच्य",
+    "atimucya",
+    "having gone beyond",
+    "atimuc"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "the discerning",
+    "dhīra"
+   ],
+   [
+    "प्रेत्य",
+    "pretya",
+    "having departed",
+    "pre"
+   ],
+   [
+    "अस्मात्",
+    "asmāt",
+    "from this",
+    "idam"
+   ],
+   [
+    "लोकात्",
+    "lokāt",
+    "from the world",
+    "loka"
+   ],
+   [
+    "अमृताः",
+    "amṛtāḥ",
+    "immortal",
+    "amṛta"
+   ],
+   [
+    "भवन्ति",
+    "bhavanti",
+    "they become",
+    "bhū"
+   ]
+  ],
+  "tr": {
+   "text": "Because He is the ear of the ear, the mind of the mind, the speech of speech, the vital air of the vital air, and the eye of the eye, the wise, freeing themselves (from the identity with the senses) and renouncing the world, become immortal.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.2.mp3",
+   "whole": [
+    26.39,
+    45.53
+   ]
+  },
+  "hasBhashya": true,
+  "order": 3
+ },
+ {
+  "id": "KeU_1.3",
+  "ref": "1.3",
+  "section": "First Part",
+  "sa": [
+   "न तत्र चक्षुर्गच्छति न वाग् गच्छति नो मनः ।",
+   "न विद्मो न विजानीमो यथैतदनुशिष्यात् ।",
+   "अन्यदेव तद्विदितादथो अविदितादधि ।",
+   "इति शुश्रुम पूर्वेषां ये नस्तद् व्याचचक्षिरे ॥"
+  ],
+  "iast": [
+   "na tatra cakṣurgacchati na vāg gacchati no manaḥ ।",
+   "na vidmo na vijānīmo yathaitadanuśiṣyāt ।",
+   "anyadeva tadviditādatho aviditādadhi ।",
+   "iti śuśruma pūrveṣāṃ ye nastad vyācacakṣire ॥"
+  ],
+  "alt": [
+   {
+    "text": "There sight travels not, nor speech, nor the mind. We know It not nor can distinguish how one should teach of It: for It is other than the known; It is there above the unknown. It is so we have heard from men of old who declared That to our understanding.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 5",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "तत्र",
+    "tatra",
+    "there",
+    "tatra"
+   ],
+   [
+    "चक्षुः",
+    "cakṣuḥ",
+    "sight",
+    "cakṣus"
+   ],
+   [
+    "गच्छति",
+    "gacchati",
+    "goes",
+    "gam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "वाच्",
+    "vāc",
+    "speech",
+    "vāc"
+   ],
+   [
+    "गच्छति",
+    "gacchati",
+    "goes",
+    "gam"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "विद्मः",
+    "vidmaḥ",
+    "we know",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "विजानीमः",
+    "vijānīmaḥ",
+    "we discern",
+    "vijñā"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "how",
+    "yathā"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "अनुशिष्यात्",
+    "anuśiṣyāt",
+    "one might teach",
+    "anuśās"
+   ],
+   [
+    "अन्यत्",
+    "anyat",
+    "other",
+    "anya"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "विदितात्",
+    "viditāt",
+    "than the known",
+    "vid"
+   ],
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "विदितात्",
+    "viditāt",
+    "than the known",
+    "vid"
+   ],
+   [
+    "अधि",
+    "adhi",
+    "above",
+    "adhi"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "शुश्रुम",
+    "śuśruma",
+    "we have heard",
+    "śru"
+   ],
+   [
+    "पूर्वेषाम्",
+    "pūrveṣām",
+    "from the earlier teachers",
+    "pūrva"
+   ],
+   [
+    "ये",
+    "ye",
+    "those who",
+    "yad"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "to us",
+    "mad"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "व्याचचक्षिरे",
+    "vyācacakṣire",
+    "explained",
+    "vyācakṣ"
+   ]
+  ],
+  "tr": {
+   "text": "The eye does not reach there, nor speech, nor mind, nor do we know (Its mature). Therefore we don’t know how to impart instruction (about It). Distinct indeed is That from the known and distinct from the unknown. Thus have we heard from the ancients who expounded It to us.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.3.mp3",
+   "whole": [
+    45.9,
+    70.87
+   ]
+  },
+  "hasBhashya": true,
+  "order": 4
+ },
+ {
+  "id": "KeU_1.4",
+  "ref": "1.4",
+  "section": "First Part",
+  "sa": [
+   "यद्वाचानभ्युदितं येन वागभ्युद्यते ।",
+   "तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥"
+  ],
+  "iast": [
+   "yadvācānabhyuditaṃ yena vāgabhyudyate ।",
+   "tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ॥"
+  ],
+  "alt": [
+   {
+    "text": "That which is unexpressed by the word, that by which the word is expressed, know That to be the Brahman and not this which men follow after here.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 5–6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "वाचा",
+    "vācā",
+    "by speech",
+    "vāc"
+   ],
+   [
+    "अन्",
+    "an",
+    "not",
+    "an"
+   ],
+   [
+    "अभ्युदितम्",
+    "abhyuditam",
+    "expressed",
+    "abhivad"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "वाच्",
+    "vāc",
+    "speech",
+    "vāc"
+   ],
+   [
+    "अभ्युद्यते",
+    "abhyudyate",
+    "is expressed",
+    "abhivad"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "you",
+    "tvad"
+   ],
+   [
+    "विद्धि",
+    "viddhi",
+    "know!",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "they worship",
+    "upās"
+   ]
+  ],
+  "tr": {
+   "text": "That which is not uttered by speech, that by which the word is expressed, know That alone to be Brahman, and not this (non-Brahman) which is being worshiped.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.4.mp3",
+   "whole": [
+    71.72,
+    85.56
+   ]
+  },
+  "hasBhashya": true,
+  "order": 5
+ },
+ {
+  "id": "KeU_1.5",
+  "ref": "1.5",
+  "section": "First Part",
+  "sa": [
+   "यन्मनसा न मनुते येनाहुर्मनो मतम् ।",
+   "तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥"
+  ],
+  "iast": [
+   "yanmanasā na manute yenāhurmano matam ।",
+   "tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ॥"
+  ],
+  "alt": [
+   {
+    "text": "That which thinks not by the mind, that by which the mind is thought, know That to be the Brahman and not this which men follow after here.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "मनसा",
+    "manasā",
+    "by the mind",
+    "manas"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "मनुते",
+    "manute",
+    "thinks",
+    "man"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "आहुः",
+    "āhuḥ",
+    "they say",
+    "ah"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "मतम्",
+    "matam",
+    "thought",
+    "man"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "you",
+    "tvad"
+   ],
+   [
+    "विद्धि",
+    "viddhi",
+    "know!",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "they worship",
+    "upās"
+   ]
+  ],
+  "tr": {
+   "text": "That which one does not think with the mind, that by which, they say, the mind is thought, know That alone to be Brahman, and not this (non-Brahman) which is being worshiped.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.5.mp3",
+   "whole": [
+    86.09,
+    99.04
+   ]
+  },
+  "hasBhashya": true,
+  "order": 6
+ },
+ {
+  "id": "KeU_1.6",
+  "ref": "1.6",
+  "section": "First Part",
+  "sa": [
+   "यच्चक्षुषा न पश्यति येन चक्षूंषि पश्यति ।",
+   "तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥"
+  ],
+  "iast": [
+   "yaccakṣuṣā na paśyati yena cakṣūṃṣi paśyati ।",
+   "tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ॥"
+  ],
+  "alt": [
+   {
+    "text": "That which sees not with the eye, that by which one sees the eye's seeings, know That to be the Brahman and not this which men follow after here.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "चक्षुषा",
+    "cakṣuṣā",
+    "by the eye",
+    "cakṣus"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "paś"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "चक्षूंषि",
+    "cakṣūṃṣi",
+    "eyes",
+    "cakṣus"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "paś"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "you",
+    "tvad"
+   ],
+   [
+    "विद्धि",
+    "viddhi",
+    "know!",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "they worship",
+    "upās"
+   ]
+  ],
+  "tr": {
+   "text": "That which man does not see with the eye, that by which man sees the activities of the eye, know That alone to be Brahman, and not this (non-Brahman) which is being worshiped.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 7
+ },
+ {
+  "id": "KeU_1.7",
+  "ref": "1.7",
+  "section": "First Part",
+  "sa": [
+   "यच्छ्रोत्रेण न शृणोति येन श्रोत्रमिदं श्रुतम् ।",
+   "तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥"
+  ],
+  "iast": [
+   "yacchrotreṇa na śṛṇoti yena śrotramidaṃ śrutam ।",
+   "tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ॥"
+  ],
+  "alt": [
+   {
+    "text": "That which hears not with the ear, that by which the ear's hearing is heard, know That to be the Brahman and not this which men follow after here.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "श्रोत्रेण",
+    "śrotreṇa",
+    "by the ear",
+    "śrotra"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "शृणोति",
+    "śṛṇoti",
+    "hears",
+    "śru"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "श्रोत्रम्",
+    "śrotram",
+    "hearing",
+    "śrotra"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "श्रुतम्",
+    "śrutam",
+    "heard",
+    "śru"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "you",
+    "tvad"
+   ],
+   [
+    "विद्धि",
+    "viddhi",
+    "know!",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "they worship",
+    "upās"
+   ]
+  ],
+  "tr": {
+   "text": "That which man does not hear with the ear, that by which man hears the ear’s hearing, know That alone to be Brahman, and not this (non-Brahman) which is being worshiped.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.7.mp3",
+   "whole": [
+    99.85,
+    113.65
+   ]
+  },
+  "hasBhashya": true,
+  "order": 8
+ },
+ {
+  "id": "KeU_1.8",
+  "ref": "1.8",
+  "section": "First Part",
+  "sa": [
+   "यत्प्राणेन न प्राणिति येन प्राणः प्रणीयते ।",
+   "तदेव ब्रह्म त्वं विद्धि नेदं यदिदमुपासते ॥"
+  ],
+  "iast": [
+   "yatprāṇena na prāṇiti yena prāṇaḥ praṇīyate ।",
+   "tadeva brahma tvaṃ viddhi nedaṃ yadidamupāsate ॥"
+  ],
+  "alt": [
+   {
+    "text": "That which breathes not with the breath, that by which the life-breath is led forward in its paths, know That to be the Brahman and not this which men follow after here.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 6",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "प्राणेन",
+    "prāṇena",
+    "by the life-breath",
+    "prāṇa"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "प्राणिति",
+    "prāṇiti",
+    "breathes",
+    "prāṇ"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "प्रणीयते",
+    "praṇīyate",
+    "is led forward",
+    "praṇī"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "you",
+    "tvad"
+   ],
+   [
+    "विद्धि",
+    "viddhi",
+    "know!",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "they worship",
+    "upās"
+   ]
+  ],
+  "tr": {
+   "text": "That which man does not smell with the organ of smell, that by which the organ of smell is attracted towards its objects, know That alone to be Brahman, and not this (non-Brahman) which is being worshiped.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.1.8.mp3",
+   "whole": [
+    113.65,
+    127.65
+   ]
+  },
+  "hasBhashya": true,
+  "order": 9
+ },
+ {
+  "id": "KeU_2.1",
+  "ref": "2.1",
+  "section": "Second Part",
+  "sa": [
+   "यदि मन्यसे सुवेदेति दभ्रमेवापि नूनं त्वं वेत्थ ब्रह्मणो रूपम् ।",
+   "यदस्य त्वं यदस्य देवेष्वथ नु मीमांस्यमेव ते मन्ये विदितम् ॥"
+  ],
+  "iast": [
+   "yadi manyase suvedeti dabhramevāpi nūnaṃ tvaṃ vettha brahmaṇo rūpam ।",
+   "yadasya tvaṃ yadasya deveṣvatha nu mīmāṃsyameva te manye viditam ॥"
+  ],
+  "alt": [
+   {
+    "text": "If thou thinkest that thou knowest It well, little indeed dost thou know the form of the Brahman. That of It which is thou, that of It which is in the gods, this thou hast to think out. I think It known.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 7",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "मन्यसे",
+    "manyase",
+    "you think",
+    "man"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "दभ्रम्",
+    "dabhram",
+    "little",
+    "dahra"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अपि",
+    "api",
+    "also",
+    "api"
+   ],
+   [
+    "नूनम्",
+    "nūnam",
+    "indeed",
+    "nūnam"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "you",
+    "tvad"
+   ],
+   [
+    "वेत्थ",
+    "vettha",
+    "you know",
+    "vid"
+   ],
+   [
+    "ब्रह्मणः",
+    "brahmaṇaḥ",
+    "of Brahman",
+    "brahman"
+   ],
+   [
+    "रूपम्",
+    "rūpam",
+    "form",
+    "rūpa"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "idam"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "you",
+    "tvad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "idam"
+   ],
+   [
+    "देवेषु",
+    "deveṣu",
+    "among the gods",
+    "deva"
+   ],
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "नु",
+    "nu",
+    "now",
+    "nu"
+   ],
+   [
+    "मीमांस्यम्",
+    "mīmāṃsyam",
+    "to be inquired into",
+    "mīmāṃs"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tvad"
+   ],
+   [
+    "मन्ये",
+    "manye",
+    "I think",
+    "man"
+   ],
+   [
+    "विदितम्",
+    "viditam",
+    "known",
+    "vid"
+   ]
+  ],
+  "tr": {
+   "text": "If you think, ‘I know Brahman rightly’, you have known but little of Brahman’s (true) nature. What you know of His form and what form you know among the gods (too is but little). Therefore Brahman is still to be inquired into by you. I think Brahman is known to me.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.1.mp3",
+   "whole": [
+    128.62,
+    148.17
+   ]
+  },
+  "hasBhashya": true,
+  "order": 10
+ },
+ {
+  "id": "KeU_2.2",
+  "ref": "2.2",
+  "section": "Second Part",
+  "sa": [
+   "नाहं मन्ये सुवेदेति नो न वेदेति वेद च ।",
+   "यो नस्तद्वेद तद्वेद नो न वेदेति वेद च ॥"
+  ],
+  "iast": [
+   "nāhaṃ manye suvedeti no na vedeti veda ca ।",
+   "yo nastadveda tadveda no na vedeti veda ca ॥"
+  ],
+  "alt": [
+   {
+    "text": "I think not that I know It well and yet I know that It is not unknown to me. He of us who knows It, knows That; he knows that It is not unknown to him.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 7",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "मन्ये",
+    "manye",
+    "I think",
+    "man"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yad"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "to us",
+    "mad"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ]
+  ],
+  "tr": {
+   "text": "I think not I know Brahman rightly, nor do I think It is unknown. I know (and I do not know also). He among us who knows that knows It (Brahman); not that It is not known nor that It is known.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.2.mp3",
+   "whole": [
+    149.51,
+    164.08
+   ]
+  },
+  "hasBhashya": true,
+  "order": 11
+ },
+ {
+  "id": "KeU_2.3",
+  "ref": "2.3",
+  "section": "Second Part",
+  "sa": [
+   "यस्यामतं तस्य मतं मतं यस्य न वेद सः ।",
+   "अविज्ञातं विजानतां विज्ञातमविजानताम् ॥"
+  ],
+  "iast": [
+   "yasyāmataṃ tasya mataṃ mataṃ yasya na veda saḥ ।",
+   "avijñātaṃ vijānatāṃ vijñātamavijānatām ॥"
+  ],
+  "alt": [
+   {
+    "text": "He by whom It is not thought out, has the thought of It; he by whom It is thought out, knows It not. It is unknown to the discernment of those who discern of It, by those who seek not to discern of It, It is discerned.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 7",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यस्य",
+    "yasya",
+    "whose",
+    "yad"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "मतम्",
+    "matam",
+    "thought",
+    "man"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tad"
+   ],
+   [
+    "मतम्",
+    "matam",
+    "thought",
+    "man"
+   ],
+   [
+    "मतम्",
+    "matam",
+    "thought",
+    "man"
+   ],
+   [
+    "यस्य",
+    "yasya",
+    "whose",
+    "yad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "विज्ञातम्",
+    "vijñātam",
+    "known",
+    "vijñā"
+   ],
+   [
+    "विजानताम्",
+    "vijānatām",
+    "of those who know",
+    "vijñā"
+   ],
+   [
+    "विज्ञातम्",
+    "vijñātam",
+    "known",
+    "vijñā"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "विजानताम्",
+    "vijānatām",
+    "of those who know",
+    "vijñā"
+   ]
+  ],
+  "tr": {
+   "text": "It is known to him to whom It is unknown; he to whom It is known does not know It. It is unknown to those who know, and known to those who know not.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.3.mp3",
+   "whole": [
+    163.96,
+    177.72
+   ]
+  },
+  "hasBhashya": true,
+  "order": 12
+ },
+ {
+  "id": "KeU_2.4",
+  "ref": "2.4",
+  "section": "Second Part",
+  "sa": [
+   "प्रतिबोधविदितं मतममृतत्वं हि विन्दते ।",
+   "आत्मना विन्दते वीर्यं विद्यया विन्दतेऽमृतम् ॥"
+  ],
+  "iast": [
+   "pratibodhaviditaṃ matamamṛtatvaṃ hi vindate ।",
+   "ātmanā vindate vīryaṃ vidyayā vindate’mṛtam ॥"
+  ],
+  "alt": [
+   {
+    "text": "When It is known by perception that reflects It, then one has the thought of It, for one finds immortality; by the self one finds the force to attain and by the knowledge one finds immortality.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 7",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्रतिबोध",
+    "pratibodha",
+    "perception",
+    "pratibodha"
+   ],
+   [
+    "विदितम्",
+    "viditam",
+    "known",
+    "vid"
+   ],
+   [
+    "मतम्",
+    "matam",
+    "thought",
+    "man"
+   ],
+   [
+    "अमृत",
+    "amṛta",
+    "immortal",
+    "amṛta"
+   ],
+   [
+    "त्वम्",
+    "tvam",
+    "-ness",
+    "tva"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "विन्दते",
+    "vindate",
+    "finds",
+    "vid"
+   ],
+   [
+    "आत्मना",
+    "ātmanā",
+    "by the self",
+    "ātman"
+   ],
+   [
+    "विन्दते",
+    "vindate",
+    "finds",
+    "vid"
+   ],
+   [
+    "वीर्यम्",
+    "vīryam",
+    "strength",
+    "vīrya"
+   ],
+   [
+    "विद्यया",
+    "vidyayā",
+    "by knowledge",
+    "vidyā"
+   ],
+   [
+    "विन्दते",
+    "vindate",
+    "finds",
+    "vid"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "immortality",
+    "amṛta"
+   ]
+  ],
+  "tr": {
+   "text": "When Brahman is known as the inner Self (of cognition) in every state of consciousness, It is known in reality, because one thus attains immortality. Through one’s own Self is attained strength and through knowledge is attained immortality.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.4.mp3",
+   "whole": [
+    177.72,
+    191.68
+   ]
+  },
+  "hasBhashya": true,
+  "order": 13
+ },
+ {
+  "id": "KeU_2.5",
+  "ref": "2.5",
+  "section": "Second Part",
+  "sa": [
+   "इह चेदवेदीदथ सत्यमस्ति न चेदिहावेदीन्महती विनष्टिः ।",
+   "भूतेषु भूतेषु विचित्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥"
+  ],
+  "iast": [
+   "iha cedavedīdatha satyamasti na cedihāvedīnmahatī vinaṣṭiḥ ।",
+   "bhūteṣu bhūteṣu vicitya dhīrāḥ pretyāsmāllokādamṛtā bhavanti ॥"
+  ],
+  "alt": [
+   {
+    "text": "If here one comes to that knowledge, then one truly is; if here one comes not to the knowledge, then great is the perdition. The wise distinguish That in all kinds of becomings and they pass forward from this world and become immortal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 7–8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "चेद्",
+    "ced",
+    "if",
+    "ced"
+   ],
+   [
+    "अवेदीत्",
+    "avedīt",
+    "has known",
+    "vid"
+   ],
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "अस्ति",
+    "asti",
+    "is",
+    "as"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "चेद्",
+    "ced",
+    "if",
+    "ced"
+   ],
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "अवेदीत्",
+    "avedīt",
+    "has known",
+    "vid"
+   ],
+   [
+    "महती",
+    "mahatī",
+    "great",
+    "mahat"
+   ],
+   [
+    "विनष्टिः",
+    "vinaṣṭiḥ",
+    "loss",
+    "vinaṣṭi"
+   ],
+   [
+    "भूतेषु",
+    "bhūteṣu",
+    "among beings",
+    "bhūta"
+   ],
+   [
+    "भूतेषु",
+    "bhūteṣu",
+    "among beings",
+    "bhūta"
+   ],
+   [
+    "विचित्य",
+    "vicitya",
+    "having discerned",
+    "vivic"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "the discerning",
+    "dhīra"
+   ],
+   [
+    "प्रेत्य",
+    "pretya",
+    "having departed",
+    "pre"
+   ],
+   [
+    "अस्मात्",
+    "asmāt",
+    "from this",
+    "idam"
+   ],
+   [
+    "लोकात्",
+    "lokāt",
+    "from the world",
+    "loka"
+   ],
+   [
+    "अमृताः",
+    "amṛtāḥ",
+    "immortal",
+    "amṛta"
+   ],
+   [
+    "भवन्ति",
+    "bhavanti",
+    "they become",
+    "bhū"
+   ]
+  ],
+  "tr": {
+   "text": "Here if one has realized, then there is accomplishment. Here if one has not realized, then there is utter ruin. Having realized Brahman in all beings, and having withdrawn from this world, the wise become immortal.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.2.5.mp3",
+   "whole": [
+    191.68,
+    212.08
+   ]
+  },
+  "hasBhashya": true,
+  "order": 14
+ },
+ {
+  "id": "KeU_3.1",
+  "ref": "3.1",
+  "section": "Third Part",
+  "sa": [
+   "ब्रह्म ह देवेभ्यो विजिग्ये तस्य ह ब्रह्मणो विजये देवा अमहीयन्त ।",
+   "त ऐक्षन्तास्माकमेवायं विजयोऽस्माकमेवायं महिमेति ॥"
+  ],
+  "iast": [
+   "brahma ha devebhyo vijigye tasya ha brahmaṇo vijaye devā amahīyanta ।",
+   "ta aikṣantāsmākamevāyaṃ vijayo’smākamevāyaṃ mahimeti ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Eternal conquered for the gods and in the victory of the Eternal the gods grew to greatness. They saw, “Ours the victory, ours the greatness.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "देवेभ्यः",
+    "devebhyaḥ",
+    "for the gods",
+    "deva"
+   ],
+   [
+    "विजिग्ये",
+    "vijigye",
+    "won the victory",
+    "viji"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tad"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "ब्रह्मणः",
+    "brahmaṇaḥ",
+    "of Brahman",
+    "brahman"
+   ],
+   [
+    "विजये",
+    "vijaye",
+    "in the victory",
+    "vijaya"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "deva"
+   ],
+   [
+    "अमहीयन्त",
+    "amahīyanta",
+    "exulted",
+    "mahīy"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "ऐक्षन्त",
+    "aikṣanta",
+    "they considered",
+    "īkṣ"
+   ],
+   [
+    "अस्माकम्",
+    "asmākam",
+    "ours",
+    "mad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "विजयः",
+    "vijayaḥ",
+    "victory",
+    "vijaya"
+   ],
+   [
+    "अस्माकम्",
+    "asmākam",
+    "ours",
+    "mad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "महिमा",
+    "mahimā",
+    "greatness",
+    "mahiman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "It is well-known that Brahman indeed achieved victory for the gods. But in that victory which was Brahman’s the gods reveled in joy.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.1.mp3",
+   "whole": [
+    213.05,
+    233.13
+   ]
+  },
+  "hasBhashya": true,
+  "order": 15
+ },
+ {
+  "id": "KeU_3.2",
+  "ref": "3.2",
+  "section": "Third Part",
+  "sa": [
+   "तद्धैषां विजज्ञौ तेभ्यो ह प्रादुर्बभूव तन्न व्यजानत किमिदं यक्षमिति ॥"
+  ],
+  "iast": [
+   "taddhaiṣāṃ vijajñau tebhyo ha prādurbabhūva tanna vyajānata kimidaṃ yakṣamiti ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Eternal knew their thought and appeared before them; and they knew not what was this mighty Daemon.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एषाम्",
+    "eṣām",
+    "of these",
+    "idam"
+   ],
+   [
+    "विजज्ञौ",
+    "vijajñau",
+    "knew",
+    "vijñā"
+   ],
+   [
+    "तेभ्यः",
+    "tebhyaḥ",
+    "to them",
+    "tad"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "प्रादुर्बभूव",
+    "prādurbabhūva",
+    "appeared",
+    "prādurbhū"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "व्यजानत",
+    "vyajānata",
+    "recognised",
+    "vijñā"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "ka"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "यक्षम्",
+    "yakṣam",
+    "the mysterious being (Daemon in CWSA)",
+    "yakṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "They thought, “Ours alone is this victory, ours alone is this glory”. Brahman knew this their pride and appeared before them, but they knew not who this Yaksha (worshipful Being) was.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.2.mp3",
+   "whole": [
+    233.49,
+    245.71
+   ]
+  },
+  "hasBhashya": true,
+  "order": 16
+ },
+ {
+  "id": "KeU_3.3",
+  "ref": "3.3",
+  "section": "Third Part",
+  "sa": [
+   "तेऽग्निमब्रुवन्जातवेद एतद्विजानीहि किमेतद्यक्षमिति तथेति ॥"
+  ],
+  "iast": [
+   "te’gnimabruvanjātaveda etadvijānīhi kimetadyakṣamiti tatheti ॥"
+  ],
+  "alt": [
+   {
+    "text": "They said to Agni, 'O thou that knowest all things born, learn of this thing, what may be this mighty Daemon,' and he said, 'So be it.'",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "अग्निम्",
+    "agnim",
+    "Agni",
+    "agni"
+   ],
+   [
+    "अब्रुवन्",
+    "abruvan",
+    "they said",
+    "brū"
+   ],
+   [
+    "जातवेदः",
+    "jātavedaḥ",
+    "O Jātavedas",
+    "jātavedas"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "विजानीहि",
+    "vijānīhi",
+    "find out",
+    "vijñā"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "ka"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "यक्षम्",
+    "yakṣam",
+    "the mysterious being (Daemon in CWSA)",
+    "yakṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "so",
+    "tathā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "They said to Agni: “O Jataveda, know thou this as to who this Yaksha is”. (He said:) “So be it.”",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.3.mp3",
+   "whole": [
+    247.09,
+    258.5
+   ]
+  },
+  "hasBhashya": true,
+  "order": 17
+ },
+ {
+  "id": "KeU_3.4",
+  "ref": "3.4",
+  "section": "Third Part",
+  "sa": [
+   "तदभ्यद्रवत् तमभ्यवदत् कोऽसीत्यग्निर्वा अहमस्मीत्यब्रवीज्जातवेदा वा अहमस्मीति ॥"
+  ],
+  "iast": [
+   "tadabhyadravat tamabhyavadat ko’sītyagnirvā ahamasmītyabravījjātavedā vā ahamasmīti ॥"
+  ],
+  "alt": [
+   {
+    "text": "He rushed towards the Eternal and It said to him, “Who art thou?” “I am Agni,” he said, “I am he that knows all things born.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अभ्यद्रवत्",
+    "abhyadravat",
+    "ran towards",
+    "abhidru"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "अभ्यवदत्",
+    "abhyavadat",
+    "addressed",
+    "abhivad"
+   ],
+   [
+    "कः",
+    "kaḥ",
+    "who?",
+    "ka"
+   ],
+   [
+    "असि",
+    "asi",
+    "you are",
+    "as"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अग्निः",
+    "agniḥ",
+    "Agni",
+    "agni"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "अस्मि",
+    "asmi",
+    "I am",
+    "as"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अब्रवीत्",
+    "abravīt",
+    "said",
+    "brū"
+   ],
+   [
+    "जातवेदाः",
+    "jātavedāḥ",
+    "Jātavedas (a name of Agni)",
+    "jātavedas"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "अस्मि",
+    "asmi",
+    "I am",
+    "as"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Agni approached It. It asked him, “Who art thou?” He replied, “I am Agni or I am Jataveda”.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.4.mp3",
+   "whole": [
+    259.07,
+    274
+   ]
+  },
+  "hasBhashya": true,
+  "order": 18
+ },
+ {
+  "id": "KeU_3.5",
+  "ref": "3.5",
+  "section": "Third Part",
+  "sa": [
+   "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वं दहेयं यदिदं पृथिव्यामिति ॥"
+  ],
+  "iast": [
+   "tasmiṃstvayi kiṃ vīryamityapīdaṃ sarvaṃ daheyaṃ yadidaṃ pṛthivyāmiti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Since such thou art, what is the force in thee? Even all this I could burn, all that is upon the earth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 8",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मिन्",
+    "tasmin",
+    "in that",
+    "tad"
+   ],
+   [
+    "त्वयि",
+    "tvayi",
+    "in you",
+    "tvad"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "ka"
+   ],
+   [
+    "वीर्यम्",
+    "vīryam",
+    "strength",
+    "vīrya"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अपि",
+    "api",
+    "also",
+    "api"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "दहेयम्",
+    "daheyam",
+    "I could burn",
+    "dah"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "पृथिव्याम्",
+    "pṛthivyām",
+    "on the earth",
+    "pṛthivī"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "(It said:) “What is the power in thee, such as thou art?” (Agni said:) “I can burn all this that is upon the earth.”",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.5.mp3",
+   "whole": [
+    275.5,
+    286.47
+   ]
+  },
+  "hasBhashya": false,
+  "order": 19
+ },
+ {
+  "id": "KeU_3.6",
+  "ref": "3.6",
+  "section": "Third Part",
+  "sa": [
+   "तस्मै तृणं निदधावेतद्दहेति तदुपप्रेयाय सर्वजवेन तन्न शशाक दग्धुं",
+   "स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥"
+  ],
+  "iast": [
+   "tasmai tṛṇaṃ nidadhāvetaddaheti tadupapreyāya sarvajavena tanna śaśāka dagdhuṃ",
+   "sa tata eva nivavṛte naitadaśakaṃ vijñātuṃ yadetadyakṣamiti ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Eternal set before him a blade of grass; “This burn;” and he made towards it with all his speed, but could not burn it. There he ceased, and turned back; “I could not know of It, what might be this mighty Daemon.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मै",
+    "tasmai",
+    "for him",
+    "tad"
+   ],
+   [
+    "तृणम्",
+    "tṛṇam",
+    "a blade of grass",
+    "tṛṇa"
+   ],
+   [
+    "निदधौ",
+    "nidadhau",
+    "placed",
+    "nidhā"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "दह",
+    "daha",
+    "burn!",
+    "dah"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "उपप्रेयाय",
+    "upapreyāya",
+    "approached",
+    "upapre"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all",
+    "sarva"
+   ],
+   [
+    "जवेन",
+    "javena",
+    "with speed",
+    "java"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "शशाक",
+    "śaśāka",
+    "was able",
+    "śak"
+   ],
+   [
+    "दग्धुम्",
+    "dagdhum",
+    "to burn",
+    "dah"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "ततस्",
+    "tatas",
+    "then",
+    "tatas"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "निववृते",
+    "nivavṛte",
+    "returned",
+    "nivṛt"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "enad"
+   ],
+   [
+    "अशकम्",
+    "aśakam",
+    "I was able",
+    "śak"
+   ],
+   [
+    "विज्ञातुम्",
+    "vijñātum",
+    "to know",
+    "vijñā"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "यक्षम्",
+    "yakṣam",
+    "the mysterious being (Daemon in CWSA)",
+    "yakṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "For him (It) placed there a blade of grass and said: “Burn this”. (Agni) went near it in all haste, but he could not burn it. He returned from there (and said:) “I am unable to understand who that Yaksha is”.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.6.mp3",
+   "whole": [
+    286.92,
+    307.68
+   ]
+  },
+  "hasBhashya": false,
+  "order": 20
+ },
+ {
+  "id": "KeU_3.7",
+  "ref": "3.7",
+  "section": "Third Part",
+  "sa": [
+   "अथ वायुमब्रुवन् वायवेतद्विजानीहि किमेतद्यक्षमिति तथेति ॥"
+  ],
+  "iast": [
+   "atha vāyumabruvan vāyavetadvijānīhi kimetadyakṣamiti tatheti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Then they said to Vayu, 'O Vayu, this discern, what is this mighty Daemon.' He said, 'So be it.'",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "वायुम्",
+    "vāyum",
+    "Vāyu",
+    "vāyu"
+   ],
+   [
+    "अब्रुवन्",
+    "abruvan",
+    "they said",
+    "brū"
+   ],
+   [
+    "वायो",
+    "vāyo",
+    "O Vāyu",
+    "vāyu"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "विजानीहि",
+    "vijānīhi",
+    "find out",
+    "vijñā"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "ka"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "यक्षम्",
+    "yakṣam",
+    "the mysterious being (Daemon in CWSA)",
+    "yakṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "so",
+    "tathā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Then (the gods) said to Vayu: “O Vayu, know thou this as to who this Yaksha is”. (He said:) “So be it”.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.7.mp3",
+   "whole": [
+    309.14,
+    320.1
+   ]
+  },
+  "hasBhashya": false,
+  "order": 21
+ },
+ {
+  "id": "KeU_3.8",
+  "ref": "3.8",
+  "section": "Third Part",
+  "sa": [
+   "तदभ्यद्रवत् तमभ्यवदत् कोऽसीति वायुर्वा अहमस्मीत्यब्रवीन्मातरिश्वा वा अहमस्मीति ॥"
+  ],
+  "iast": [
+   "tadabhyadravat tamabhyavadat ko’sīti vāyurvā ahamasmītyabravīnmātariśvā vā ahamasmīti ॥"
+  ],
+  "alt": [
+   {
+    "text": "He rushed upon That; It said to him, 'Who art thou?' 'I am Vayu,' he said, 'and I am he that expands in the Mother of things.'",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अभ्यद्रवत्",
+    "abhyadravat",
+    "ran towards",
+    "abhidru"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "अभ्यवदत्",
+    "abhyavadat",
+    "addressed",
+    "abhivad"
+   ],
+   [
+    "कः",
+    "kaḥ",
+    "who?",
+    "ka"
+   ],
+   [
+    "असि",
+    "asi",
+    "you are",
+    "as"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "Vāyu",
+    "vāyu"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "अस्मि",
+    "asmi",
+    "I am",
+    "as"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अब्रवीत्",
+    "abravīt",
+    "said",
+    "brū"
+   ],
+   [
+    "मातरिश्वा",
+    "mātariśvā",
+    "Mātariśvan (a name of Vāyu)",
+    "mātariśvan"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "अस्मि",
+    "asmi",
+    "I am",
+    "as"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Vayu approached It. It said to him, “Who art thou?” He replied, “I am Vayu or I am Matarsiva”.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.8.mp3",
+   "whole": [
+    320.87,
+    337.1
+   ]
+  },
+  "hasBhashya": false,
+  "order": 22
+ },
+ {
+  "id": "KeU_3.9",
+  "ref": "3.9",
+  "section": "Third Part",
+  "sa": [
+   "तस्मिंस्त्वयि किं वीर्यमित्यपीदं सर्वमाददीय यदिदं पृथिव्यामिति ॥"
+  ],
+  "iast": [
+   "tasmiṃstvayi kiṃ vīryamityapīdaṃ sarvamādadīya yadidaṃ pṛthivyāmiti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Since such thou art, what is the force in thee? Even all this I can take for myself, all this that is upon the earth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मिन्",
+    "tasmin",
+    "in that",
+    "tad"
+   ],
+   [
+    "त्वयि",
+    "tvayi",
+    "in you",
+    "tvad"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "ka"
+   ],
+   [
+    "वीर्यम्",
+    "vīryam",
+    "strength",
+    "vīrya"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अपि",
+    "api",
+    "also",
+    "api"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "आददीय",
+    "ādadīya",
+    "I could take up",
+    "ādā"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "पृथिव्याम्",
+    "pṛthivyām",
+    "on the earth",
+    "pṛthivī"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "(It said:) “What is the power in thee, such as thou art?” (Vayu said:) “I can take hold of all this that is upon the earth”.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.9.mp3",
+   "whole": [
+    338.2,
+    349.41
+   ]
+  },
+  "hasBhashya": false,
+  "order": 23
+ },
+ {
+  "id": "KeU_3.10",
+  "ref": "3.10",
+  "section": "Third Part",
+  "sa": [
+   "तस्मै तृणं निदधावेतदादत्स्वेति तदुपप्रेयाय सर्वजवेन तन्न शशाकादातुं",
+   "स तत एव निववृते नैतदशकं विज्ञातुं यदेतद्यक्षमिति ॥"
+  ],
+  "iast": [
+   "tasmai tṛṇaṃ nidadhāvetadādatsveti tadupapreyāya sarvajavena tanna śaśākādātuṃ",
+   "sa tata eva nivavṛte naitadaśakaṃ vijñātuṃ yadetadyakṣamiti ॥"
+  ],
+  "alt": [
+   {
+    "text": "That set before him a blade of grass, 'This take.' He went towards it with all his speed and he could not take it. Even there he ceased, even thence he returned: 'I could not discern of That, what is this mighty Daemon.'",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मै",
+    "tasmai",
+    "for him",
+    "tad"
+   ],
+   [
+    "तृणम्",
+    "tṛṇam",
+    "a blade of grass",
+    "tṛṇa"
+   ],
+   [
+    "निदधौ",
+    "nidadhau",
+    "placed",
+    "nidhā"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "आदत्स्व",
+    "ādatsva",
+    "take up!",
+    "ādā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "उपप्रेयाय",
+    "upapreyāya",
+    "approached",
+    "upapre"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all",
+    "sarva"
+   ],
+   [
+    "जवेन",
+    "javena",
+    "with speed",
+    "java"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "शशाक",
+    "śaśāka",
+    "was able",
+    "śak"
+   ],
+   [
+    "आदातुम्",
+    "ādātum",
+    "to take up",
+    "ādā"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "ततस्",
+    "tatas",
+    "then",
+    "tatas"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "निववृते",
+    "nivavṛte",
+    "returned",
+    "nivṛt"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "enad"
+   ],
+   [
+    "अशकम्",
+    "aśakam",
+    "I was able",
+    "śak"
+   ],
+   [
+    "विज्ञातुम्",
+    "vijñātum",
+    "to know",
+    "vijñā"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "यक्षम्",
+    "yakṣam",
+    "the mysterious being (Daemon in CWSA)",
+    "yakṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "For him (It) placed there a blade of grass and said: “Take this up”. (Vayu) went near it in all haste, but he could not take it up. He returned from there (and said:) “I am unable to understand who that Yaksha is”.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.10.mp3",
+   "whole": [
+    350.66,
+    373.25
+   ]
+  },
+  "hasBhashya": false,
+  "order": 24
+ },
+ {
+  "id": "KeU_3.11",
+  "ref": "3.11",
+  "section": "Third Part",
+  "sa": [
+   "अथेन्द्रमब्रुवन् मघवन्नेतद्विजानीहि किमेतद्यक्षमिति तथेति तदभ्यद्रवत् तस्मात्तिरोदधे ॥"
+  ],
+  "iast": [
+   "athendramabruvan maghavannetadvijānīhi kimetadyakṣamiti tatheti tadabhyadravat tasmāttirodadhe ॥"
+  ],
+  "alt": [
+   {
+    "text": "Then they said to Indra, 'Master of plenitudes, get thou the knowledge, what is this mighty Daemon.' He said, 'So be it.' He rushed upon That. That vanished from before him.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 9",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "इन्द्रम्",
+    "indram",
+    "Indra",
+    "indra"
+   ],
+   [
+    "अब्रुवन्",
+    "abruvan",
+    "they said",
+    "brū"
+   ],
+   [
+    "मघवन्",
+    "maghavan",
+    "O Maghavan (Indra)",
+    "maghavan"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "विजानीहि",
+    "vijānīhi",
+    "find out",
+    "vijñā"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "ka"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "यक्षम्",
+    "yakṣam",
+    "the mysterious being (Daemon in CWSA)",
+    "yakṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "so",
+    "tathā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अभ्यद्रवत्",
+    "abhyadravat",
+    "ran towards",
+    "abhidru"
+   ],
+   [
+    "तस्मात्",
+    "tasmāt",
+    "therefore",
+    "tad"
+   ],
+   [
+    "तिरोदधे",
+    "tirodadhe",
+    "disappeared",
+    "tirodhā"
+   ]
+  ],
+  "tr": {
+   "text": "Then (the gods) said to Indra: “O Maghava, know thou this as to who this Yaksha is”. (He said:) “So be it”. He approached It, but It disappeared from him.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.11.mp3",
+   "whole": [
+    374.14,
+    390.08
+   ]
+  },
+  "hasBhashya": true,
+  "order": 25
+ },
+ {
+  "id": "KeU_3.12",
+  "ref": "3.12",
+  "section": "Third Part",
+  "sa": [
+   "स तस्मिन्नेवाकाशे स्त्रियमाजगाम बहुशोभमानामुमां हैमवतीं तां होवाच किमेतद्यक्षमिति ॥"
+  ],
+  "iast": [
+   "sa tasminnevākāśe striyamājagāma bahuśobhamānāmumāṃ haimavatīṃ tāṃ hovāca kimetadyakṣamiti ॥"
+  ],
+  "alt": [
+   {
+    "text": "He in the same ether came upon the Woman, even upon Her who shines out in many forms, Uma daughter of the snowy summits. To her he said, 'What was this mighty Daemon?'",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 9–10",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "तस्मिन्",
+    "tasmin",
+    "in that",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "आकाशे",
+    "ākāśe",
+    "in the open space",
+    "ākāśa"
+   ],
+   [
+    "स्त्रियम्",
+    "striyam",
+    "a woman",
+    "strī"
+   ],
+   [
+    "आजगाम",
+    "ājagāma",
+    "came upon",
+    "āgam"
+   ],
+   [
+    "बहु",
+    "bahu",
+    "very",
+    "bahu"
+   ],
+   [
+    "शोभमानाम्",
+    "śobhamānām",
+    "shining",
+    "śubh"
+   ],
+   [
+    "उमाम्",
+    "umām",
+    "Umā",
+    "umā"
+   ],
+   [
+    "हैमवतीम्",
+    "haimavatīm",
+    "Haimavatī",
+    "haimavatī"
+   ],
+   [
+    "ताम्",
+    "tām",
+    "her",
+    "tad"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "उवाच",
+    "uvāca",
+    "said",
+    "vac"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "ka"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "यक्षम्",
+    "yakṣam",
+    "the mysterious being (Daemon in CWSA)",
+    "yakṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "In that space itself (where the Yaksha had disappeared) Indra approached an exceedingly charming woman. To that Uma decked in gold (or to the daughter of the Himalayas), he said: “Who is this Yaksha?”",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.3.12.mp3",
+   "whole": [
+    391.42,
+    407.77
+   ]
+  },
+  "hasBhashya": false,
+  "order": 26
+ },
+ {
+  "id": "KeU_4.1",
+  "ref": "4.1",
+  "section": "Fourth Part",
+  "sa": [
+   "सा ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदांचकार ब्रह्मेति ॥"
+  ],
+  "iast": [
+   "sā brahmeti hovāca brahmaṇo vā etadvijaye mahīyadhvamiti tato haiva vidāṃcakāra brahmeti ॥"
+  ],
+  "alt": [
+   {
+    "text": "She said to him, 'It is the Eternal. Of the Eternal is this victory in which ye shall grow to greatness.' Then alone he came to know that this was the Brahman.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 10",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सा",
+    "sā",
+    "she",
+    "sā"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "उवाच",
+    "uvāca",
+    "said",
+    "vac"
+   ],
+   [
+    "ब्रह्मणः",
+    "brahmaṇaḥ",
+    "of Brahman",
+    "brahman"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "विजये",
+    "vijaye",
+    "in the victory",
+    "vijaya"
+   ],
+   [
+    "महीयध्वम्",
+    "mahīyadhvam",
+    "glory",
+    "mahīy"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "ततस्",
+    "tatas",
+    "then",
+    "tatas"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "विदांचकार",
+    "vidāṃcakāra",
+    "came to know",
+    "vid"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "She said: “It was Brahman. In the victory that was Brahman’s you were reveling in joy”. Then alone did Indra know for certain that It was Brahman.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.1.mp3",
+   "whole": [
+    408.62,
+    424.44
+   ]
+  },
+  "hasBhashya": true,
+  "order": 27
+ },
+ {
+  "id": "KeU_4.2",
+  "ref": "4.2",
+  "section": "Fourth Part",
+  "sa": [
+   "तस्माद्वा एते देवा अतितरामिवान्यान् देवान् यदग्निर्वायुरिन्द्रस्ते ह्येनन्नेदिष्ठं पस्पर्शुस्ते ह्येनत्प्रथमो विदांचकार ब्रह्मेति ॥"
+  ],
+  "iast": [
+   "tasmādvā ete devā atitarāmivānyān devān yadagnirvāyurindraste hyenannediṣṭhaṃ pasparśuste hyenatprathamo vidāṃcakāra brahmeti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Therefore are these gods as it were beyond all the other gods, even Agni and Vayu and Indra, because they came nearest to the touch of That....",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 10",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मात्",
+    "tasmāt",
+    "therefore",
+    "tasmāt"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "एते",
+    "ete",
+    "these",
+    "etad"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "deva"
+   ],
+   [
+    "अतितराम्",
+    "atitarām",
+    "far beyond",
+    "atitarām"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "अन्यान्",
+    "anyān",
+    "other",
+    "anya"
+   ],
+   [
+    "देवान्",
+    "devān",
+    "gods",
+    "deva"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "अग्निः",
+    "agniḥ",
+    "Agni",
+    "agni"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "Vāyu",
+    "vāyu"
+   ],
+   [
+    "इन्द्रः",
+    "indraḥ",
+    "Indra",
+    "indra"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "नेदिष्ठम्",
+    "nediṣṭham",
+    "nearest",
+    "nediṣṭha"
+   ],
+   [
+    "पस्पर्शुः",
+    "pasparśuḥ",
+    "they touched",
+    "spṛś"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "प्रथमः",
+    "prathamaḥ",
+    "first",
+    "prathama"
+   ],
+   [
+    "विदांचकार",
+    "vidāṃcakāra",
+    "came to know",
+    "vid"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Therefore, these gods viz. Agni, Vayu and Indra excelled other gods, for they touched Brahman who stood very close and indeed knew first that It was Brahman.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.2.mp3",
+   "whole": [
+    425.7,
+    448.69
+   ]
+  },
+  "hasBhashya": true,
+  "order": 28
+ },
+ {
+  "id": "KeU_4.3",
+  "ref": "4.3",
+  "section": "Fourth Part",
+  "sa": [
+   "तस्माद्वा इन्द्रोऽतितरामिवान्यान्देवान् स ह्येनन्नेदिष्ठं पस्पर्श स ह्येनत् प्रथमो विदांचकार ब्रह्मेति ॥"
+  ],
+  "iast": [
+   "tasmādvā indro’titarāmivānyāndevān sa hyenannediṣṭhaṃ pasparśa sa hyenat prathamo vidāṃcakāra brahmeti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Therefore is Indra as it were beyond all the other gods because he came nearest to the touch of That, because he first knew that it was the Brahman.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 10",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मात्",
+    "tasmāt",
+    "therefore",
+    "tasmāt"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "इन्द्रः",
+    "indraḥ",
+    "Indra",
+    "indra"
+   ],
+   [
+    "अतितराम्",
+    "atitarām",
+    "far beyond",
+    "atitarām"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "अन्यान्",
+    "anyān",
+    "other",
+    "anya"
+   ],
+   [
+    "देवान्",
+    "devān",
+    "gods",
+    "deva"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "नेदिष्ठम्",
+    "nediṣṭham",
+    "nearest",
+    "nediṣṭha"
+   ],
+   [
+    "पस्पर्श",
+    "pasparśa",
+    "he touched",
+    "spṛś"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "प्रथमः",
+    "prathamaḥ",
+    "first",
+    "prathama"
+   ],
+   [
+    "विदांचकार",
+    "vidāṃcakāra",
+    "came to know",
+    "vid"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Therefore is Indra more excellent than the other gods, for he touched Brahman who stood very close and indeed knew first that It was Brahman.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.3.mp3",
+   "whole": [
+    448.69,
+    466.41
+   ]
+  },
+  "hasBhashya": true,
+  "order": 29
+ },
+ {
+  "id": "KeU_4.4",
+  "ref": "4.4",
+  "section": "Fourth Part",
+  "sa": [
+   "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३ इतीन्न्यमीमिषदा३ इत्यधिदैवतम् ॥"
+  ],
+  "iast": [
+   "tasyaiṣa ādeśo yadetadvidyuto vyadyutadā3 itīnnyamīmiṣadā3 ityadhidaivatam ॥"
+  ],
+  "alt": [
+   {
+    "text": "Now this is the indication of That,—as is this flash of the lightning upon us or as is this falling of the eyelid, so in that which is of the gods.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 10",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tad"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this",
+    "etad"
+   ],
+   [
+    "आदेशः",
+    "ādeśaḥ",
+    "indication",
+    "ādeśa"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "विद्युतः",
+    "vidyutaḥ",
+    "of lightning",
+    "vidyut"
+   ],
+   [
+    "व्यद्युतत्",
+    "vyadyutat",
+    "flashed forth",
+    "vidyut"
+   ],
+   [
+    "आ३",
+    "ā3",
+    "prolonged ā",
+    "ā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "इद्",
+    "id",
+    "and",
+    "id"
+   ],
+   [
+    "न्यमीमिषत्",
+    "nyamīmiṣat",
+    "blinked",
+    "nimiṣ"
+   ],
+   [
+    "आ३",
+    "ā3",
+    "prolonged ā",
+    "ā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अधिदैवतम्",
+    "adhidaivatam",
+    "with regard to the gods",
+    "adhidevata"
+   ]
+  ],
+  "tr": {
+   "text": "Its instruction (regarding meditation) is this. It is similar to that which is like a flash of lightning or like the winkling of the eye. This is (the analogy of Brahman) in the divine aspect.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.4.mp3",
+   "whole": [
+    466.82,
+    482
+   ]
+  },
+  "hasBhashya": true,
+  "order": 30
+ },
+ {
+  "id": "KeU_4.5",
+  "ref": "4.5",
+  "section": "Fourth Part",
+  "sa": [
+   "अथाध्यात्मं यदेतद्गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्ष्णं संकल्पः ॥"
+  ],
+  "iast": [
+   "athādhyātmaṃ yadetadgacchatīva ca mano’nena caitadupasmaratyabhīkṣṇaṃ saṃkalpaḥ ॥"
+  ],
+  "alt": [
+   {
+    "text": "Then in that which is of the Self,—as the motion of this mind seems to attain to That and by it afterwards the will in the thought continually remembers It.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 11",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "अध्यात्मम्",
+    "adhyātmam",
+    "with reference to the self",
+    "adhyātma"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "enad"
+   ],
+   [
+    "गच्छति",
+    "gacchati",
+    "goes",
+    "gam"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "अनेन",
+    "anena",
+    "by this",
+    "idam"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "enad"
+   ],
+   [
+    "उपस्मरति",
+    "upasmarati",
+    "recalls",
+    "upasmṛ"
+   ],
+   [
+    "अभीक्ष्णम्",
+    "abhīkṣṇam",
+    "repeatedly",
+    "abhīkṣṇam"
+   ],
+   [
+    "संकल्पः",
+    "saṃkalpaḥ",
+    "conception",
+    "saṃkalpaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "Then (follows) the instruction through analogy on the aspect of the individual self. (It is wellknown that) the mind seems to attain to It, that It is continually remembered by the mind, and that the mind possesses the thought (regarding It).",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.5.mp3",
+   "whole": [
+    482.04,
+    496.65
+   ]
+  },
+  "hasBhashya": false,
+  "order": 31
+ },
+ {
+  "id": "KeU_4.6",
+  "ref": "4.6",
+  "section": "Fourth Part",
+  "sa": [
+   "तद्ध तद्वनं नाम तद्वनमित्युपासितव्यं स य एतदेवं वेदाभि हैनं सर्वाणि भूतानि संवाञ्छन्ति ॥"
+  ],
+  "iast": [
+   "taddha tadvanaṃ nāma tadvanamityupāsitavyaṃ sa ya etadevaṃ vedābhi hainaṃ sarvāṇi bhūtāni saṃvāñchanti ॥"
+  ],
+  "alt": [
+   {
+    "text": "The name of That is 'That Delight'; as That Delight one should follow after It. He who so knows That, towards him verily all existences yearn.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 11",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "तद्",
+    "tad",
+    "that",
+    "tad"
+   ],
+   [
+    "वनम्",
+    "vanam",
+    "delight",
+    "vana"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "by name",
+    "nāma"
+   ],
+   [
+    "तद्",
+    "tad",
+    "that",
+    "tad"
+   ],
+   [
+    "वनम्",
+    "vanam",
+    "delight",
+    "vana"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "उपासितव्यम्",
+    "upāsitavyam",
+    "to be contemplated",
+    "upās"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "अभि",
+    "abhi",
+    "towards",
+    "abhi"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनम्",
+    "enam",
+    "him",
+    "enad"
+   ],
+   [
+    "सर्वाणि",
+    "sarvāṇi",
+    "all",
+    "sarva"
+   ],
+   [
+    "भूतानि",
+    "bhūtāni",
+    "beings",
+    "bhūta"
+   ],
+   [
+    "संवाञ्छन्ति",
+    "saṃvāñchanti",
+    "desire",
+    "saṃvāñch"
+   ]
+  ],
+  "tr": {
+   "text": "That Brahman is known indeed as Tadvana (worshipful or adorable to all beings); That is to be worshiped as Tadvana. To him who knows It thus verily all beings pray.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.6.mp3",
+   "whole": [
+    498.06,
+    516.4
+   ]
+  },
+  "hasBhashya": true,
+  "order": 32
+ },
+ {
+  "id": "KeU_4.7",
+  "ref": "4.7",
+  "section": "Fourth Part",
+  "sa": [
+   "उपनिषदं भो ब्रूहीत्युक्ता त उपनिषद् ब्राह्मीं वाव त उपनिषदमब्रूमेति ॥"
+  ],
+  "iast": [
+   "upaniṣadaṃ bho brūhītyuktā ta upaniṣad brāhmīṃ vāva ta upaniṣadamabrūmeti ॥"
+  ],
+  "alt": [
+   {
+    "text": "Thou hast said 'Speak to me Upanishad'; spoken to thee is Upanishad. Of the Eternal verily is the Upanishad that we have spoken.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 11",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "उपनिषदम्",
+    "upaniṣadam",
+    "the secret teaching",
+    "upaniṣad"
+   ],
+   [
+    "भो",
+    "bho",
+    "sir",
+    "bho"
+   ],
+   [
+    "ब्रूहि",
+    "brūhi",
+    "tell",
+    "brū"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "उक्ता",
+    "uktā",
+    "told",
+    "vac"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tvad"
+   ],
+   [
+    "उपनिषद्",
+    "upaniṣad",
+    "the secret teaching",
+    "upaniṣad"
+   ],
+   [
+    "ब्राह्मीम्",
+    "brāhmīm",
+    "pertaining to Brahman",
+    "brāhma"
+   ],
+   [
+    "वाव",
+    "vāva",
+    "indeed",
+    "vāva"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tvad"
+   ],
+   [
+    "उपनिषदम्",
+    "upaniṣadam",
+    "the secret teaching",
+    "upaniṣad"
+   ],
+   [
+    "अब्रूम",
+    "abrūma",
+    "we have told",
+    "brū"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "(Disciple:) “Revered sir, speak Upanishad to me.” (Teacher:) “I have spoken Upanishad to thee. Of Brahman verily is the Upanishad that I have spoken.”",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.7.mp3",
+   "whole": [
+    517.57,
+    530.2
+   ]
+  },
+  "hasBhashya": true,
+  "order": 33
+ },
+ {
+  "id": "KeU_4.8",
+  "ref": "4.8",
+  "section": "Fourth Part",
+  "sa": [
+   "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम् ॥"
+  ],
+  "iast": [
+   "tasyai tapo damaḥ karmeti pratiṣṭhā vedāḥ sarvāṅgāni satyamāyatanam ॥"
+  ],
+  "alt": [
+   {
+    "text": "Of this knowledge austerity and self-conquest and works are the foundation, the Vedas are all its limbs, truth is its dwelling place.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 11",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्यै",
+    "tasyai",
+    "for it",
+    "tad"
+   ],
+   [
+    "तपः",
+    "tapaḥ",
+    "austerity",
+    "tapas"
+   ],
+   [
+    "दमः",
+    "damaḥ",
+    "self-control",
+    "dama"
+   ],
+   [
+    "कर्म",
+    "karma",
+    "work",
+    "karman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "प्रतिष्ठा",
+    "pratiṣṭhā",
+    "foundation",
+    "pratiṣṭhā"
+   ],
+   [
+    "वेदाः",
+    "vedāḥ",
+    "the Vedas",
+    "veda"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all",
+    "sarva"
+   ],
+   [
+    "अङ्गाणि",
+    "aṅgāṇi",
+    "limbs",
+    "aṅga"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "आयतनम्",
+    "āyatanam",
+    "abode",
+    "āyatana"
+   ]
+  ],
+  "tr": {
+   "text": "Of this knowledge austerity, self-restraint and action are the feet, the Vedas are all limbs and truth is the abode.",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.8.mp3",
+   "whole": [
+    531.33,
+    544.12
+   ]
+  },
+  "hasBhashya": false,
+  "order": 34
+ },
+ {
+  "id": "KeU_4.9",
+  "ref": "4.9",
+  "section": "Fourth Part",
+  "sa": [
+   "यो वा एतामेवं वेदापहत्य पाप्मानमनन्ते स्वर्गे लोके ज्येये प्रतितिष्ठति प्रतितिष्ठति ॥"
+  ],
+  "iast": [
+   "yo vā etāmevaṃ vedāpahatya pāpmānamanante svarge loke jyeye pratitiṣṭhati pratitiṣṭhati ॥"
+  ],
+  "alt": [
+   {
+    "text": "He who knows this knowledge, smites evil away from him and in that vaster world and infinite heaven finds his foundation, yea, he finds his foundation.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 11",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यः",
+    "yaḥ",
+    "he who",
+    "yad"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "एताम्",
+    "etām",
+    "this",
+    "etad"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "know",
+    "vid"
+   ],
+   [
+    "अपहत्य",
+    "apahatya",
+    "having cast away",
+    "apahan"
+   ],
+   [
+    "पाप्मानम्",
+    "pāpmānam",
+    "evil",
+    "pāpman"
+   ],
+   [
+    "अनन्ते",
+    "anante",
+    "in the infinite",
+    "ananta"
+   ],
+   [
+    "स्वर्गे",
+    "svarge",
+    "in the heavenly",
+    "svarga"
+   ],
+   [
+    "लोके",
+    "loke",
+    "world",
+    "loka"
+   ],
+   [
+    "ज्येये",
+    "jyeye",
+    "excellent (CWSA reading",
+    "jyā"
+   ],
+   [
+    "प्रतितिष्ठति",
+    "pratitiṣṭhati",
+    "finds a foundation",
+    "pratiṣṭhā"
+   ],
+   [
+    "प्रतितिष्ठति",
+    "pratitiṣṭhati",
+    "finds a foundation",
+    "pratiṣṭhā"
+   ]
+  ],
+  "tr": {
+   "text": "He who knows this thus, with his sins destroyed, becomes firmly seated in the infinite, blissful and supreme Brahman. He becomes firmly seated (in Brahman).",
+   "by": "Vidyavachaspati V. Panoli",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Kenopanisad/2.4.9.mp3",
+   "whole": [
+    545.86,
+    561.81
+   ]
+  },
+  "hasBhashya": true,
+  "order": 35
+ }
+]

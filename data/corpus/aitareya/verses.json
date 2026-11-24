@@ -1,0 +1,6275 @@
+[
+ {
+  "id": "AiU_0",
+  "ref": "0",
+  "section": "Śānti mantra · Vāṅ me manasi",
+  "shanti": true,
+  "sa": [
+   "ॐ वाङ् मे मनसि प्रतिष्ठिता मनो मे वाचि प्रतिष्ठितम् आविरावीर्म एधि ।",
+   "वेदस्य म आणीस्थः श्रुतं मे मा प्रहासीः अनेनाधीतेनाहोरात्रान् संदधामि ।",
+   "ऋतं वदिष्यामि सत्यं वदिष्यामि ।",
+   "तन्मामवतु तद्वक्तारमवतु अवतु माम् अवतु वक्तारम् अवतु वक्तारम् ॥",
+   "ॐ शान्तिः शान्तिः शान्तिः ॥"
+  ],
+  "iast": [
+   "oṃ vāṅ me manasi pratiṣṭhitā mano me vāci pratiṣṭhitam āvir āvīr ma edhi",
+   "vedasya ma āṇīsthaḥ śrutaṃ me mā prahāsīḥ anenādhītenāhorātrān saṃdadhāmi",
+   "ṛtaṃ vadiṣyāmi satyaṃ vadiṣyāmi",
+   "tan mām avatu tad vaktāram avatu avatu mām avatu vaktāram avatu vaktāram",
+   "oṃ śāntiḥ śāntiḥ śāntiḥ"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Om ! May my speech be based on (i.e. accord with) the mind; May my mind be based on speech. O Self-effulgent One, reveal Thyself to me. May you both (speech and mind) be the carriers of the Veda to me. May not all that I have heard depart from me. I shall join together (i.e. obliterate the difference of) day And night through this study. I shall utter what is verbally true; I shall utter what is mentally true. May that (Brahman) protect me; May That protect the speaker (i.e. the teacher), may That protect me; May that protect the speaker – may That protect the speaker. Om ! Peace ! Peace ! Peace !",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/shantimantra/4.wav",
+   "whole": [
+    0,
+    66.8
+   ]
+  },
+  "hasBhashya": false,
+  "order": 1
+ },
+ {
+  "id": "AiU_1.1.1",
+  "ref": "1.1.1",
+  "section": "Adhyāya 1 · Khaṇḍa 1",
+  "sa": [
+   "आत्मा वा इदमेक एवाग्र आसीत् । नान्यत्किञ्चन मिषत् । स ईक्षत लोकान्नु सृजा इति ॥ १ ॥"
+  ],
+  "iast": [
+   "ātmā vā idameka evāgra āsīt । nānyatkiñcana miṣat । sa īkṣata lokānnu sṛjā iti ॥ 1 ॥"
+  ],
+  "alt": [
+   {
+    "text": "In the beginning the Spirit was One and all this (universe) was the Spirit; there was nought else that saw. The Spirit thought, “Lo, I will make me worlds from out my being.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 197",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "आत्मा",
+    "ātmā",
+    "self",
+    "ātman"
+   ],
+   [
+    "वा",
+    "vā",
+    "indeed",
+    "vai"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "एकः",
+    "ekaḥ",
+    "one",
+    "eka"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अग्रे",
+    "agre",
+    "at first",
+    "agre"
+   ],
+   [
+    "आसीत्",
+    "āsīt",
+    "was",
+    "as"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अन्यत्",
+    "anyat",
+    "anything else",
+    "anya"
+   ],
+   [
+    "किंचन",
+    "kiṃcana",
+    "anything whatsoever",
+    "kaścana"
+   ],
+   [
+    "मिषत्",
+    "miṣat",
+    "blinking",
+    "miṣ"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "ईक्षत",
+    "īkṣata",
+    "thought",
+    "īkṣ"
+   ],
+   [
+    "लोकान्",
+    "lokān",
+    "worlds",
+    "loka"
+   ],
+   [
+    "नु",
+    "nu",
+    "now",
+    "nu"
+   ],
+   [
+    "सृजै",
+    "sṛjai",
+    "let me create",
+    "sṛj"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "In the beginning this was but the absolute Self alone. There was nothing else whatsoever that winked. He thought, “Let Me create the worlds.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.1.mp3",
+   "whole": [
+    5.07,
+    17.74
+   ]
+  },
+  "hasBhashya": true,
+  "order": 2
+ },
+ {
+  "id": "AiU_1.1.2",
+  "ref": "1.1.2",
+  "section": "Adhyāya 1 · Khaṇḍa 1",
+  "sa": [
+   "स इमाँल्लोकानसृजत । अम्भो मरीचीर्मरमापोऽदोऽम्भः परेण दिवं द्यौः प्रतिष्ठान्तरिक्षं मरीचयः पृथिवी मरो या अधस्तात् ता आपः ॥ २ ॥"
+  ],
+  "iast": [
+   "sa imām̐llokānasṛjata । ambho marīcīrmaramāpo’do’mbhaḥ pareṇa divaṃ dyauḥ pratiṣṭhāntarikṣaṃ marīcayaḥ pṛthivī maro yā adhastāt tā āpaḥ ॥ 2 ॥"
+  ],
+  "alt": [
+   {
+    "text": "These were the worlds he made; Ambhah, of the ethereal waters, Marichih of light, Mara, of death and mortal things, Apah, of the lower waters. Beyond the shining firmament are the ethereal waters and the firmament is their base and resting-place; Space is the world of light; the earth is the world mortal; and below the earth are the lower waters.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 197",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "इमान्",
+    "imān",
+    "these",
+    "idam"
+   ],
+   [
+    "लोकान्",
+    "lokān",
+    "worlds",
+    "loka"
+   ],
+   [
+    "असृजत",
+    "asṛjata",
+    "created",
+    "sṛj"
+   ],
+   [
+    "अम्भः",
+    "ambhaḥ",
+    "the waters",
+    "ambhas"
+   ],
+   [
+    "मरीचीः",
+    "marīcīḥ",
+    "rays",
+    "marīci"
+   ],
+   [
+    "मरम्",
+    "maram",
+    "the mortal world",
+    "mara"
+   ],
+   [
+    "अपः",
+    "apaḥ",
+    "waters",
+    "ap"
+   ],
+   [
+    "अदः",
+    "adaḥ",
+    "that beyond",
+    "adas"
+   ],
+   [
+    "अम्भः",
+    "ambhaḥ",
+    "the waters",
+    "ambhas"
+   ],
+   [
+    "परेण",
+    "pareṇa",
+    "beyond",
+    "pareṇa"
+   ],
+   [
+    "दिवम्",
+    "divam",
+    "heaven",
+    "div"
+   ],
+   [
+    "द्यौः",
+    "dyauḥ",
+    "heaven",
+    "div"
+   ],
+   [
+    "प्रतिष्ठा",
+    "pratiṣṭhā",
+    "foundation",
+    "pratiṣṭhā"
+   ],
+   [
+    "अन्तरिक्षम्",
+    "antarikṣam",
+    "the intermediate space",
+    "antarikṣa"
+   ],
+   [
+    "मरीचयः",
+    "marīcayaḥ",
+    "rays",
+    "marīci"
+   ],
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ],
+   [
+    "मरः",
+    "maraḥ",
+    "the mortal world",
+    "mara"
+   ],
+   [
+    "याः",
+    "yāḥ",
+    "which",
+    "yad"
+   ],
+   [
+    "अधस्तात्",
+    "adhastāt",
+    "below",
+    "adhastāt"
+   ],
+   [
+    "ताः",
+    "tāḥ",
+    "they",
+    "tad"
+   ],
+   [
+    "अपः",
+    "apaḥ",
+    "waters",
+    "ap"
+   ]
+  ],
+  "tr": {
+   "text": "He created these world, viz. ambhas, marici, mara, apah. That which is beyond heaven is ambhas. Heaven is its support. The sky is marici. The earth is mara. The worlds that are below are the apah.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.2.mp3",
+   "whole": [
+    17.74,
+    36.37
+   ]
+  },
+  "hasBhashya": true,
+  "order": 3
+ },
+ {
+  "id": "AiU_1.1.3",
+  "ref": "1.1.3",
+  "section": "Adhyāya 1 · Khaṇḍa 1",
+  "sa": [
+   "स ईक्षतेमे नु लोका लोकपालान्नु सृजा इति । सोऽद्भ्य एव पुरुषं समुद्धृत्यामूर्छयत् ॥ ३ ॥"
+  ],
+  "iast": [
+   "sa īkṣateme nu lokā lokapālānnu sṛjā iti । so’dbhya eva puruṣaṃ samuddhṛtyāmūrchayat ॥ 3 ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Spirit thought, “Lo, these are the worlds; and now will I make me guardians for my worlds.” Therefore he gathered the Purusha out of the waters and gave Him shape and substance.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 197",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "ईक्षत",
+    "īkṣata",
+    "thought",
+    "īkṣ"
+   ],
+   [
+    "इमे",
+    "ime",
+    "these",
+    "idam"
+   ],
+   [
+    "नु",
+    "nu",
+    "now",
+    "nu"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "लोकपालान्",
+    "lokapālān",
+    "guardians of the worlds",
+    "lokapāla"
+   ],
+   [
+    "नु",
+    "nu",
+    "now",
+    "nu"
+   ],
+   [
+    "सृजै",
+    "sṛjai",
+    "let me create",
+    "sṛj"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "अद्भ्यः",
+    "adbhyaḥ",
+    "from the waters",
+    "ap"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "the person",
+    "puruṣa"
+   ],
+   [
+    "समुद्धृत्य",
+    "samuddhṛtya",
+    "having drawn forth",
+    "samuddhṛ"
+   ],
+   [
+    "अमूर्छयत्",
+    "amūrchayat",
+    "gave shape",
+    "mūrchay"
+   ]
+  ],
+  "tr": {
+   "text": "He thought, “These then are the worlds. Let Me create the protectors of the worlds.” Having gathered up a (lump of the) human form from the water itself, He gave shape to it.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.3.mp3",
+   "whole": [
+    36.37,
+    49.67
+   ]
+  },
+  "hasBhashya": true,
+  "order": 4
+ },
+ {
+  "id": "AiU_1.1.4",
+  "ref": "1.1.4",
+  "section": "Adhyāya 1 · Khaṇḍa 1",
+  "sa": [
+   "तमभ्यतपत् तस्याभितप्तस्य मुखं निरभिद्यत यथाण्डम् । मुखाद्वाग् वाचोऽग्निर्नासिके निरभिद्येतां नासिकाभ्यां प्राणः प्राणाद्वायुरक्षिणी निरभिद्येतामक्षिभ्यां चक्षुश्चक्षुष आदित्यः कर्णौ निरभिद्येतां कर्णाभ्यां श्रोत्रं श्रोत्राद्दिशस्त्वङ् निरभिद्यत त्वचो लोमानि लोमभ्य ओषधिवनस्पतयो हृदयं निरभिद्यत हृदयान्मनो मनसश्चन्द्रमा नाभिर्निरभिद्यत नाभ्या अपानोऽपानान्मृत्युः शिश्नं निरभिद्यत शिश्नाद्रेतो रेतस आपः ॥ ४ ॥"
+  ],
+  "iast": [
+   "tamabhyatapat tasyābhitaptasya mukhaṃ nirabhidyata yathāṇḍam । mukhādvāg vāco’gnirnāsike nirabhidyetāṃ nāsikābhyāṃ prāṇaḥ prāṇādvāyurakṣiṇī nirabhidyetāmakṣibhyāṃ cakṣuścakṣuṣa ādityaḥ karṇau nirabhidyetāṃ karṇābhyāṃ śrotraṃ śrotrāddiśastvaṅ nirabhidyata tvaco lomāni lomabhya oṣadhivanaspatayo hṛdayaṃ nirabhidyata hṛdayānmano manasaścandramā nābhirnirabhidyata nābhyā apāno’pānānmṛtyuḥ śiśnaṃ nirabhidyata śiśnādreto retasa āpaḥ ॥ 4 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Yea, the Spirit brooded over Him and of Him thus brooded over the mouth broke forth, as when an egg is hatched and breaketh; from the mouth brake Speech and of Speech fire was born. The nostrils brake forth and from the nostrils Breath and of Breath air was born. The eyes brake forth and from the eyes Sight and of Sight the Sun was born. The ears brake forth and from the ears Hearing and of Hearing the regions were born. The skin brake forth and from the skin hairs and from the hairs herbs of healing and all trees and plants were born. The heart brake forth and from the heart Mind and of Mind the moon was born. The navel brake forth and from the navel Apana and of Apana Death was born. The organ of pleasure brake forth and from the organ seed and of seed the waters were born.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 198",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "अभ्यतपत्",
+    "abhyatapat",
+    "brooded over",
+    "abhitap"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of him",
+    "tad"
+   ],
+   [
+    "अभितप्तस्य",
+    "abhitaptasya",
+    "of that which had been brooded over",
+    "abhitap"
+   ],
+   [
+    "मुखम्",
+    "mukham",
+    "mouth",
+    "mukha"
+   ],
+   [
+    "निरभिद्यत",
+    "nirabhidyata",
+    "broke open",
+    "nirbhid"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "अण्डम्",
+    "aṇḍam",
+    "an egg",
+    "aṇḍa"
+   ],
+   [
+    "मुखात्",
+    "mukhāt",
+    "from the mouth",
+    "mukha"
+   ],
+   [
+    "वाच्",
+    "vāc",
+    "speech",
+    "vāc"
+   ],
+   [
+    "वाचः",
+    "vācaḥ",
+    "of speech",
+    "vāc"
+   ],
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agni"
+   ],
+   [
+    "नासिके",
+    "nāsike",
+    "the two nostrils",
+    "nāsikā"
+   ],
+   [
+    "निरभिद्येताम्",
+    "nirabhidyetām",
+    "the two broke open",
+    "nirbhid"
+   ],
+   [
+    "नासिकाभ्याम्",
+    "nāsikābhyām",
+    "from the two nostrils",
+    "nāsikā"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "प्राणात्",
+    "prāṇāt",
+    "from life-breath",
+    "prāṇa"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyu"
+   ],
+   [
+    "अक्षिणी",
+    "akṣiṇī",
+    "the two eyes",
+    "akṣi"
+   ],
+   [
+    "निरभिद्येताम्",
+    "nirabhidyetām",
+    "the two broke open",
+    "nirbhid"
+   ],
+   [
+    "अक्षिभ्याम्",
+    "akṣibhyām",
+    "from the two eyes",
+    "akṣi"
+   ],
+   [
+    "चक्षुः",
+    "cakṣuḥ",
+    "eye",
+    "cakṣus"
+   ],
+   [
+    "चक्षुषः",
+    "cakṣuṣaḥ",
+    "from sight",
+    "cakṣus"
+   ],
+   [
+    "आदित्यः",
+    "ādityaḥ",
+    "sun",
+    "āditya"
+   ],
+   [
+    "कर्णौ",
+    "karṇau",
+    "the two ears",
+    "karṇa"
+   ],
+   [
+    "निरभिद्येताम्",
+    "nirabhidyetām",
+    "the two broke open",
+    "nirbhid"
+   ],
+   [
+    "कर्णाभ्याम्",
+    "karṇābhyām",
+    "from the two ears",
+    "karṇa"
+   ],
+   [
+    "श्रोत्रम्",
+    "śrotram",
+    "hearing",
+    "śrotra"
+   ],
+   [
+    "श्रोत्रात्",
+    "śrotrāt",
+    "from hearing",
+    "śrotra"
+   ],
+   [
+    "दिशः",
+    "diśaḥ",
+    "the directions",
+    "diś"
+   ],
+   [
+    "त्वच्",
+    "tvac",
+    "skin",
+    "tvac"
+   ],
+   [
+    "निरभिद्यत",
+    "nirabhidyata",
+    "broke open",
+    "nirbhid"
+   ],
+   [
+    "त्वचः",
+    "tvacaḥ",
+    "from the skin",
+    "tvac"
+   ],
+   [
+    "लोमानि",
+    "lomāni",
+    "hairs",
+    "loman"
+   ],
+   [
+    "लोमभ्यः",
+    "lomabhyaḥ",
+    "from the hairs",
+    "loman"
+   ],
+   [
+    "ओषधि",
+    "oṣadhi",
+    "herbs",
+    "oṣadhi"
+   ],
+   [
+    "वनस्पतयः",
+    "vanaspatayaḥ",
+    "trees",
+    "vanaspati"
+   ],
+   [
+    "हृदयम्",
+    "hṛdayam",
+    "heart",
+    "hṛdaya"
+   ],
+   [
+    "निरभिद्यत",
+    "nirabhidyata",
+    "broke open",
+    "nirbhid"
+   ],
+   [
+    "हृदयात्",
+    "hṛdayāt",
+    "from the heart",
+    "hṛdaya"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "मनसः",
+    "manasaḥ",
+    "of mind",
+    "manas"
+   ],
+   [
+    "चन्द्रमाः",
+    "candramāḥ",
+    "moon",
+    "candramas"
+   ],
+   [
+    "नाभिः",
+    "nābhiḥ",
+    "navel",
+    "nābhi"
+   ],
+   [
+    "निरभिद्यत",
+    "nirabhidyata",
+    "broke open",
+    "nirbhid"
+   ],
+   [
+    "नाभ्याः",
+    "nābhyāḥ",
+    "from the navel",
+    "nābhi"
+   ],
+   [
+    "अपानः",
+    "apānaḥ",
+    "downward breath",
+    "apāna"
+   ],
+   [
+    "अपानात्",
+    "apānāt",
+    "from downward breath",
+    "apāna"
+   ],
+   [
+    "मृत्युः",
+    "mṛtyuḥ",
+    "death",
+    "mṛtyu"
+   ],
+   [
+    "शिश्नम्",
+    "śiśnam",
+    "generative organ",
+    "śiśna"
+   ],
+   [
+    "निरभिद्यत",
+    "nirabhidyata",
+    "broke open",
+    "nirbhid"
+   ],
+   [
+    "शिश्नात्",
+    "śiśnāt",
+    "from the generative organ",
+    "śiśna"
+   ],
+   [
+    "रेतः",
+    "retaḥ",
+    "seed",
+    "retas"
+   ],
+   [
+    "रेतसः",
+    "retasaḥ",
+    "from seed",
+    "retas"
+   ],
+   [
+    "अपः",
+    "apaḥ",
+    "waters",
+    "ap"
+   ]
+  ],
+  "tr": {
+   "text": "He deliberated with regard to Him (i.e. Virat of the human form). As He (i.e. Virat) was being deliberated on, His (i.e. Virat'’) mouth parted, just as an egg does. From the mouth emerged speech; from speech came Fire. The nostrils parted; from the nostrils came out the sense of smell; from the sense of smell came Vayu (Air). The two eyes parted; from the eyes emerged the sense of sight; from the sense of sight came the Sun. The two ears parted; from the ears came the sense of hearing; from the sense of hearing came the Directions. The skin emerged; from the skin came out hair (i.e. the sense of touch associated with hair); from the sense of touch came the Herbs and Trees. The heart took shape; from the heart issued the internal organ (mind); from the internal organ came the Moon. The navel parted; from the navel came out the organ of ejection; from the organ of ejection issued Death. The seat of the procreative organ parted; from that came the procreative organ; from the procreative organ came out Water.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.1.4.mp3",
+   "whole": [
+    49.67,
+    114.99
+   ]
+  },
+  "hasBhashya": true,
+  "order": 5
+ },
+ {
+  "id": "AiU_1.2.1",
+  "ref": "1.2.1",
+  "section": "Adhyāya 1 · Khaṇḍa 2",
+  "sa": [
+   "ता एता देवताः सृष्टा अस्मिन्महत्यर्णवे प्रापतन् । तमशनायापिपासाभ्यामन्ववार्जत् । ता एनमब्रुवन्नायतनं नः प्रजानीहि यस्मिन्प्रतिष्ठिता अन्नमदामेति ॥ १ ॥"
+  ],
+  "iast": [
+   "tā etā devatāḥ sṛṣṭā asminmahatyarṇave prāpatan । tamaśanāyāpipāsābhyāmanvavārjat । tā enamabruvannāyatanaṃ naḥ prajānīhi yasminpratiṣṭhitā annamadāmeti ॥ 1 ॥"
+  ],
+  "alt": [
+   {
+    "text": "These were the Gods that He created; they fell into this great Ocean, and Hunger and Thirst leaped upon them. Then they said to Him, “Command unto us an habitation that we may dwell secure and eat of food.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 198",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ताः",
+    "tāḥ",
+    "they",
+    "tad"
+   ],
+   [
+    "एताः",
+    "etāḥ",
+    "these",
+    "etad"
+   ],
+   [
+    "देवताः",
+    "devatāḥ",
+    "deities",
+    "devatā"
+   ],
+   [
+    "सृष्टाः",
+    "sṛṣṭāḥ",
+    "created",
+    "sṛj"
+   ],
+   [
+    "अस्मिन्",
+    "asmin",
+    "in this",
+    "idam"
+   ],
+   [
+    "महति",
+    "mahati",
+    "in the great",
+    "mahat"
+   ],
+   [
+    "अर्णवे",
+    "arṇave",
+    "in the ocean",
+    "arṇava"
+   ],
+   [
+    "प्रापतन्",
+    "prāpatan",
+    "fell into",
+    "prapat"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "अशनाया",
+    "aśanāyā",
+    "hunger (compound member)",
+    "aśanā"
+   ],
+   [
+    "पिपासाभ्याम्",
+    "pipāsābhyām",
+    "with hunger and thirst (dual compound ending)",
+    "pipāsā"
+   ],
+   [
+    "अन्ववार्जत्",
+    "anvavārjat",
+    "beset",
+    "anvavārjat"
+   ],
+   [
+    "ताः",
+    "tāḥ",
+    "they",
+    "tad"
+   ],
+   [
+    "एनम्",
+    "enam",
+    "him",
+    "enad"
+   ],
+   [
+    "अब्रुवन्",
+    "abruvan",
+    "they said",
+    "brū"
+   ],
+   [
+    "आयतनम्",
+    "āyatanam",
+    "an abode",
+    "āyatana"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "for us",
+    "mad"
+   ],
+   [
+    "प्रजानीहि",
+    "prajānīhi",
+    "determine",
+    "prajñā"
+   ],
+   [
+    "यस्मिन्",
+    "yasmin",
+    "in which",
+    "yad"
+   ],
+   [
+    "प्रतिष्ठिताः",
+    "pratiṣṭhitāḥ",
+    "established",
+    "pratiṣṭhā"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अदाम",
+    "adāma",
+    "let us eat",
+    "ad"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "These deities, that had been created, fell into this vast ocean. He subjected Him (i.e. Virat) to hunger and thirst. They said to Him (i.e. to the Creator), “Provide an abode for us, staying where we can eat food.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.1.mp3",
+   "whole": [
+    114.99,
+    140.12
+   ]
+  },
+  "hasBhashya": true,
+  "order": 6
+ },
+ {
+  "id": "AiU_1.2.2",
+  "ref": "1.2.2",
+  "section": "Adhyāya 1 · Khaṇḍa 2",
+  "sa": [
+   "ताभ्यो गामानयत् ता अब्रुवन्न वै नोऽयमलमिति । ताभ्योऽश्वमानयत् ता अब्रुवन्न वै नोऽयमलमिति ॥ २ ॥"
+  ],
+  "iast": [
+   "tābhyo gāmānayat tā abruvanna vai no’yamalamiti । tābhyo’śvamānayat tā abruvanna vai no’yamalamiti ॥ 2 ॥"
+  ],
+  "alt": [
+   {
+    "text": "He brought unto them the cow, but they said, “Verily, it is not sufficient for us.” He brought unto them the horse, but they said, “Verily, it is not enough for us.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 198",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ताभ्यः",
+    "tābhyaḥ",
+    "to those",
+    "tad"
+   ],
+   [
+    "गाम्",
+    "gām",
+    "the cow",
+    "go"
+   ],
+   [
+    "आनयत्",
+    "ānayat",
+    "brought",
+    "ānī"
+   ],
+   [
+    "ताः",
+    "tāḥ",
+    "they",
+    "tad"
+   ],
+   [
+    "अब्रुवन्",
+    "abruvan",
+    "they said",
+    "brū"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "for us",
+    "mad"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "अलम्",
+    "alam",
+    "enough",
+    "alam"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "ताभ्यः",
+    "tābhyaḥ",
+    "to those",
+    "tad"
+   ],
+   [
+    "अश्वम्",
+    "aśvam",
+    "the horse",
+    "aśva"
+   ],
+   [
+    "आनयत्",
+    "ānayat",
+    "brought",
+    "ānī"
+   ],
+   [
+    "ताः",
+    "tāḥ",
+    "they",
+    "tad"
+   ],
+   [
+    "अब्रुवन्",
+    "abruvan",
+    "they said",
+    "brū"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "नः",
+    "naḥ",
+    "for us",
+    "mad"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "अलम्",
+    "alam",
+    "enough",
+    "alam"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "For them He (i.e. God) brought a cow. They said, “This one is not certainly adequate for us.” For them He brought a horse. They said, “This one is not certainly adequate for us.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.2.mp3",
+   "whole": [
+    140.12,
+    154.88
+   ]
+  },
+  "hasBhashya": true,
+  "order": 7
+ },
+ {
+  "id": "AiU_1.2.3",
+  "ref": "1.2.3",
+  "section": "Adhyāya 1 · Khaṇḍa 2",
+  "sa": [
+   "ताभ्यः पुरुषमानयत् ता अब्रुवन् सुकृतं बतेति पुरुषो वाव सुकृतम् । ता अब्रवीद्यथायतनं प्रविशतेति ॥ ३ ॥"
+  ],
+  "iast": [
+   "tābhyaḥ puruṣamānayat tā abruvan sukṛtaṃ bateti puruṣo vāva sukṛtam । tā abravīdyathāyatanaṃ praviśateti ॥ 3 ॥"
+  ],
+  "alt": [
+   {
+    "text": "He brought unto them Man, and they said, “O well fashioned truly! Man indeed is well and beautifully made.” Then the Spirit said unto them, “Enter ye in each according to his habitation.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 198, 199",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ताभ्यः",
+    "tābhyaḥ",
+    "to those",
+    "tad"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "the person",
+    "puruṣa"
+   ],
+   [
+    "आनयत्",
+    "ānayat",
+    "brought",
+    "ānī"
+   ],
+   [
+    "ताः",
+    "tāḥ",
+    "they",
+    "tad"
+   ],
+   [
+    "अब्रुवन्",
+    "abruvan",
+    "they said",
+    "brū"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "कृतम्",
+    "kṛtam",
+    "made",
+    "kṛ"
+   ],
+   [
+    "बत",
+    "bata",
+    "ah!",
+    "bata"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "person",
+    "puruṣa"
+   ],
+   [
+    "वाव",
+    "vāva",
+    "indeed",
+    "vāva"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "कृतम्",
+    "kṛtam",
+    "made",
+    "kṛ"
+   ],
+   [
+    "ताः",
+    "tāḥ",
+    "they",
+    "tad"
+   ],
+   [
+    "अब्रवीत्",
+    "abravīt",
+    "said",
+    "brū"
+   ],
+   [
+    "यथायतनम्",
+    "yathāyatanam",
+    "according to each one's abode",
+    "yathāyatanam"
+   ],
+   [
+    "प्रविशत",
+    "praviśata",
+    "enter (plural command)",
+    "praviś"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "For them He brought a man. They said “This one is well formed; man indeed is a creation of God Himself”. To them He said, “Enter into your respective abodes”.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.3.mp3",
+   "whole": [
+    154.88,
+    169.51
+   ]
+  },
+  "hasBhashya": true,
+  "order": 8
+ },
+ {
+  "id": "AiU_1.2.4",
+  "ref": "1.2.4",
+  "section": "Adhyāya 1 · Khaṇḍa 2",
+  "sa": [
+   "अग्निर्वाग्भूत्वा मुखं प्राविशद् वायुः प्राणो भूत्वा नासिके प्राविशदादित्यश्चक्षुर्भूत्वाक्षिणी प्राविशद् दिशः श्रोत्रं भूत्वा कर्णौ प्राविशन्नोषधिवनस्पतयो लोमानि भूत्वा त्वचं प्राविशंश्चन्द्रमा मनो भूत्वा हृदयं प्राविशन्मृत्युरपानो भूत्वा नाभिं प्राविशदापो रेतो भूत्वा शिश्नं प्राविशन् ॥ ४ ॥"
+  ],
+  "iast": [
+   "agnirvāgbhūtvā mukhaṃ prāviśad vāyuḥ prāṇo bhūtvā nāsike prāviśadādityaścakṣurbhūtvākṣiṇī prāviśad diśaḥ śrotraṃ bhūtvā karṇau prāviśannoṣadhivanaspatayo lomāni bhūtvā tvacaṃ prāviśaṃścandramā mano bhūtvā hṛdayaṃ prāviśanmṛtyurapāno bhūtvā nābhiṃ prāviśadāpo reto bhūtvā śiśnaṃ prāviśan ॥ 4 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Fire became Speech and entered into the mouth; Air became Breath and entered into the nostrils; the Sun became Sight and entered into the eyes; the Quarters became Hearing and entered into the ears; Herbs of healing and the plants and trees became Hairs and entered into the skin; the Moon became Mind and entered into the heart; Death became Apana, the lower breathing, and entered into the navel; the Waters became Seed and entered into the organ.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 199",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agni"
+   ],
+   [
+    "वाच्",
+    "vāc",
+    "speech",
+    "vāc"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "मुखम्",
+    "mukham",
+    "mouth",
+    "mukha"
+   ],
+   [
+    "प्राविशत्",
+    "prāviśat",
+    "entered",
+    "praviś"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyu"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "नासिके",
+    "nāsike",
+    "the two nostrils",
+    "nāsikā"
+   ],
+   [
+    "प्राविशत्",
+    "prāviśat",
+    "entered",
+    "praviś"
+   ],
+   [
+    "आदित्यः",
+    "ādityaḥ",
+    "sun",
+    "āditya"
+   ],
+   [
+    "चक्षुः",
+    "cakṣuḥ",
+    "eye",
+    "cakṣus"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "अक्षिणी",
+    "akṣiṇī",
+    "the two eyes",
+    "akṣi"
+   ],
+   [
+    "प्राविशत्",
+    "prāviśat",
+    "entered",
+    "praviś"
+   ],
+   [
+    "दिशः",
+    "diśaḥ",
+    "the directions",
+    "diś"
+   ],
+   [
+    "श्रोत्रम्",
+    "śrotram",
+    "hearing",
+    "śrotra"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "कर्णौ",
+    "karṇau",
+    "the two ears",
+    "karṇa"
+   ],
+   [
+    "प्राविशन्",
+    "prāviśan",
+    "entered (plural)",
+    "praviś"
+   ],
+   [
+    "ओषधि",
+    "oṣadhi",
+    "herbs",
+    "oṣadhi"
+   ],
+   [
+    "वनस्पतयः",
+    "vanaspatayaḥ",
+    "trees",
+    "vanaspati"
+   ],
+   [
+    "लोमानि",
+    "lomāni",
+    "hairs",
+    "loman"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "त्वचम्",
+    "tvacam",
+    "the skin",
+    "tvac"
+   ],
+   [
+    "प्राविशन्",
+    "prāviśan",
+    "entered (plural)",
+    "praviś"
+   ],
+   [
+    "चन्द्रमाः",
+    "candramāḥ",
+    "moon",
+    "candramas"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "हृदयम्",
+    "hṛdayam",
+    "heart",
+    "hṛdaya"
+   ],
+   [
+    "प्राविशत्",
+    "prāviśat",
+    "entered",
+    "praviś"
+   ],
+   [
+    "मृत्युः",
+    "mṛtyuḥ",
+    "death",
+    "mṛtyu"
+   ],
+   [
+    "अपानः",
+    "apānaḥ",
+    "downward breath",
+    "apāna"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "नाभिम्",
+    "nābhim",
+    "the navel",
+    "nābhi"
+   ],
+   [
+    "प्राविशत्",
+    "prāviśat",
+    "entered",
+    "praviś"
+   ],
+   [
+    "अपः",
+    "apaḥ",
+    "waters",
+    "ap"
+   ],
+   [
+    "रेतः",
+    "retaḥ",
+    "seed",
+    "retas"
+   ],
+   [
+    "भूत्वा",
+    "bhūtvā",
+    "having become",
+    "bhū"
+   ],
+   [
+    "शिश्नम्",
+    "śiśnam",
+    "generative organ",
+    "śiśna"
+   ],
+   [
+    "प्राविशन्",
+    "prāviśan",
+    "entered (plural)",
+    "praviś"
+   ]
+  ],
+  "tr": {
+   "text": "Fire entered into the mouth taking the form of the organ of speech; Air entered into the nostrils assuming the form of the sense of smell; the Sun entered into the eyes as the sense of sight; the Directions entered into the ears by becoming the sense of hearing; the Herbs and Trees entered into the skin in the form of hair (i.e. the sense of touch); the Moon entered into the heart in the shape of the mind; Death entered into the navel in the form of Apana (i.e. the vital energy that presses down); Water entered into the limb of generation in the form of semen (i.e. the organ of procreation).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.4.mp3",
+   "whole": [
+    169.51,
+    209.09
+   ]
+  },
+  "hasBhashya": true,
+  "order": 9
+ },
+ {
+  "id": "AiU_1.2.5",
+  "ref": "1.2.5",
+  "section": "Adhyāya 1 · Khaṇḍa 2",
+  "sa": [
+   "तमशनायापिपासे अब्रूतामावाभ्यामभिप्रजानीहीति ते अब्रवीदेतास्वेव वां देवतास्वाभजाम्येतासु भागिन्यौ करोमीति । तस्माद्यस्यै कस्यै च देवतायै हविर्गृह्यते भागिन्यावेवास्यामशनायापिपासे भवतः ॥ ५ ॥"
+  ],
+  "iast": [
+   "tamaśanāyāpipāse abrūtāmāvābhyāmabhiprajānīhīti te abravīdetāsveva vāṃ devatāsvābhajāmyetāsu bhāginyau karomīti । tasmādyasyai kasyai ca devatāyai havirgṛhyate bhāginyāvevāsyāmaśanāyāpipāse bhavataḥ ॥ 5 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Then Hunger and Thirst said unto the Spirit, “Unto us too command an habitation.” But He said unto them, “Even among these gods do I apportion you; lo! I have made you sharers in their godhead.” Therefore to whatever god the oblation is offered, Hunger and Thirst surely have their share in the offering.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 199",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "अशनाया",
+    "aśanāyā",
+    "hunger (compound member)",
+    "aśanā"
+   ],
+   [
+    "पिपासे",
+    "pipāse",
+    "thirst (ending of the dual hunger-and-thirst pair)",
+    "pipāsā"
+   ],
+   [
+    "अब्रूताम्",
+    "abrūtām",
+    "the two said",
+    "brū"
+   ],
+   [
+    "आवाभ्याम्",
+    "āvābhyām",
+    "for us two",
+    "ava"
+   ],
+   [
+    "अभिप्रजानीहि",
+    "abhiprajānīhi",
+    "provide",
+    "abhiprajñā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "अब्रवीत्",
+    "abravīt",
+    "said",
+    "brū"
+   ],
+   [
+    "एतासु",
+    "etāsu",
+    "in these",
+    "etad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "वाम्",
+    "vām",
+    "for you two",
+    "tvad"
+   ],
+   [
+    "देवतासु",
+    "devatāsu",
+    "among the deities",
+    "devatā"
+   ],
+   [
+    "आभजामि",
+    "ābhajāmi",
+    "I allot a share",
+    "ābhaj"
+   ],
+   [
+    "एतासु",
+    "etāsu",
+    "in these",
+    "etad"
+   ],
+   [
+    "भागिन्यौ",
+    "bhāginyau",
+    "two sharers",
+    "bhāgin"
+   ],
+   [
+    "करोमि",
+    "karomi",
+    "I make",
+    "kṛ"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तस्मात्",
+    "tasmāt",
+    "therefore",
+    "tasmāt"
+   ],
+   [
+    "यस्यै",
+    "yasyai",
+    "to whichever",
+    "yad"
+   ],
+   [
+    "कस्यै",
+    "kasyai",
+    "to any",
+    "ka"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "देवतायै",
+    "devatāyai",
+    "to a deity",
+    "devatā"
+   ],
+   [
+    "हविः",
+    "haviḥ",
+    "an oblation",
+    "havis"
+   ],
+   [
+    "गृह्यते",
+    "gṛhyate",
+    "is taken",
+    "grah"
+   ],
+   [
+    "भागिन्यौ",
+    "bhāginyau",
+    "two sharers",
+    "bhāgin"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अस्याम्",
+    "asyām",
+    "in this one",
+    "idam"
+   ],
+   [
+    "अशनाया",
+    "aśanāyā",
+    "hunger (compound member)",
+    "aśanā"
+   ],
+   [
+    "पिपासे",
+    "pipāse",
+    "thirst (ending of the dual hunger-and-thirst pair)",
+    "pipāsā"
+   ],
+   [
+    "भवतः",
+    "bhavataḥ",
+    "the two become",
+    "bhū"
+   ]
+  ],
+  "tr": {
+   "text": "To Him Hunger and Thirst said, “Provide for us (some abode).” To them He said, “I provide your livelihood among these very gods; I make you share in their portions.” Therefore when oblation is taken up for any deity whichsoever, Hunger and Thirst become verily sharers with that deity.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.2.5.mp3",
+   "whole": [
+    209.97,
+    241.15
+   ]
+  },
+  "hasBhashya": true,
+  "order": 10
+ },
+ {
+  "id": "AiU_1.3.1",
+  "ref": "1.3.1",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "स ईक्षतेमे नु लोकाश्च लोकपालाश्चान्नमेभ्यः सृजा इति ॥ १ ॥"
+  ],
+  "iast": [
+   "sa īkṣateme nu lokāśca lokapālāścānnamebhyaḥ sṛjā iti ॥ 1 ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Spirit thought, “These verily are my worlds and their guardians; and now will I make me food for these.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 199",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "ईक्षत",
+    "īkṣata",
+    "thought",
+    "īkṣ"
+   ],
+   [
+    "इमे",
+    "ime",
+    "these",
+    "idam"
+   ],
+   [
+    "नु",
+    "nu",
+    "now",
+    "nu"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "लोकपालाः",
+    "lokapālāḥ",
+    "guardians of the worlds",
+    "lokapāla"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "एभ्यः",
+    "ebhyaḥ",
+    "for these",
+    "idam"
+   ],
+   [
+    "सृजै",
+    "sṛjai",
+    "let me create",
+    "sṛj"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "He thought, “This, then, are the senses and the deities of the senses. Let Me create food for them.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.1.mp3",
+   "whole": [
+    242.08,
+    250.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 11
+ },
+ {
+  "id": "AiU_1.3.2",
+  "ref": "1.3.2",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "सोऽपोऽभ्यतपत् ताभ्योऽभितप्ताभ्यो मूर्तिरजायत । या वै सा मूर्तिरजायतान्नं वै तत् ॥ २ ॥"
+  ],
+  "iast": [
+   "so’po’bhyatapat tābhyo’bhitaptābhyo mūrtirajāyata । yā vai sā mūrtirajāyatānnaṃ vai tat ॥ 2 ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Spirit brooded in might upon the waters and from the waters brooded mightily over Form was born. Lo, all this that was born as form, is no other than Food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 200",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "अपः",
+    "apaḥ",
+    "waters",
+    "ap"
+   ],
+   [
+    "अभ्यतपत्",
+    "abhyatapat",
+    "brooded over",
+    "abhitap"
+   ],
+   [
+    "ताभ्यः",
+    "tābhyaḥ",
+    "to those",
+    "tad"
+   ],
+   [
+    "अभितप्ताभ्यः",
+    "abhitaptābhyaḥ",
+    "from those brooded over",
+    "abhitap"
+   ],
+   [
+    "मूर्तिः",
+    "mūrtiḥ",
+    "form",
+    "mūrti"
+   ],
+   [
+    "अजायत",
+    "ajāyata",
+    "was born",
+    "jan"
+   ],
+   [
+    "या",
+    "yā",
+    "which",
+    "yad"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "सा",
+    "sā",
+    "she",
+    "tad"
+   ],
+   [
+    "मूर्तिः",
+    "mūrtiḥ",
+    "form",
+    "mūrti"
+   ],
+   [
+    "अजायत",
+    "ajāyata",
+    "was born",
+    "jan"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ]
+  ],
+  "tr": {
+   "text": "He deliberated with regard to the water. From the water, thus brooded over, evolved a form. The form that emerged was verily food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.2.mp3",
+   "whole": [
+    250.84,
+    263.33
+   ]
+  },
+  "hasBhashya": true,
+  "order": 12
+ },
+ {
+  "id": "AiU_1.3.3",
+  "ref": "1.3.3",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तदेनत्सृष्टं पराङ्त्यजिघांसत् तद्वाचाजिघृक्षत् तन्नाशक्नोद्वाचा ग्रहीतुं स यद्धैनद् वाचाग्रहैष्यदभिव्याहृत्य हैवान्नमत्रप्स्यत् ॥ ३ ॥"
+  ],
+  "iast": [
+   "tadenatsṛṣṭaṃ parāṅtyajighāṃsat tadvācājighṛkṣat tannāśaknodvācā grahītuṃ sa yaddhainad vācāgrahaiṣyadabhivyāhṛtya haivānnamatrapsyat ॥ 3 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Food being created fled back from his grasp. By speech He would have seized it, but He could not seize it by speech. Had He seized it by speech, then would a man be satisfied by merely speaking food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 200",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "सृष्टम्",
+    "sṛṣṭam",
+    "created",
+    "sṛj"
+   ],
+   [
+    "पराङ्",
+    "parāṅ",
+    "away",
+    "parāñc"
+   ],
+   [
+    "अत्यजिघांसत्",
+    "atyajighāṃsat",
+    "sought to escape",
+    "atyajighāṃsat"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "वाचा",
+    "vācā",
+    "by speech",
+    "vāc"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अशक्नोत्",
+    "aśaknot",
+    "was able",
+    "śak"
+   ],
+   [
+    "वाचा",
+    "vācā",
+    "by speech",
+    "vāc"
+   ],
+   [
+    "ग्रहीतुम्",
+    "grahītum",
+    "to seize",
+    "grah"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "वाचा",
+    "vācā",
+    "by speech",
+    "vāc"
+   ],
+   [
+    "अग्रहैष्यत्",
+    "agrahaiṣyat",
+    "would have seized",
+    "grah"
+   ],
+   [
+    "अभिव्याहृत्य",
+    "abhivyāhṛtya",
+    "having uttered",
+    "abhivyāhṛ"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अत्रप्स्यत्",
+    "atrapsyat",
+    "would have been satisfied",
+    "tṛp"
+   ]
+  ],
+  "tr": {
+   "text": "This food, that was created, turned back and attempted to run away. He tried to take it up with speech. He did not succeed in taking it up through speech. If He had succeeded in taking it up with the speech, then one would have become contented merely by talking of food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.3.mp3",
+   "whole": [
+    264.36,
+    285.39
+   ]
+  },
+  "hasBhashya": true,
+  "order": 13
+ },
+ {
+  "id": "AiU_1.3.4",
+  "ref": "1.3.4",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तत्प्राणेनाजिघृक्षत् तन्नाशक्नोत्प्राणेन ग्रहीतुं स यद्धैनत् प्राणेनाग्रहैष्यदभिप्राण्य हैवान्नमत्रप्स्यत् ॥ ४ ॥"
+  ],
+  "iast": [
+   "tatprāṇenājighṛkṣat tannāśaknotprāṇena grahītuṃ sa yaddhainat prāṇenāgrahaiṣyadabhiprāṇya haivānnamatrapsyat ॥ 4 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the breath He would have seized it, but He could not seize it by the breath. Had He seized it by the breath, then would a man be satisfied by merely breathing food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 200",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "प्राणेन",
+    "prāṇena",
+    "by life-breath",
+    "prāṇa"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अशक्नोत्",
+    "aśaknot",
+    "was able",
+    "śak"
+   ],
+   [
+    "प्राणेन",
+    "prāṇena",
+    "by life-breath",
+    "prāṇa"
+   ],
+   [
+    "ग्रहीतुम्",
+    "grahītum",
+    "to seize",
+    "grah"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "प्राणेन",
+    "prāṇena",
+    "by life-breath",
+    "prāṇa"
+   ],
+   [
+    "अग्रहैष्यत्",
+    "agrahaiṣyat",
+    "would have seized",
+    "grah"
+   ],
+   [
+    "अभिप्राण्य",
+    "abhiprāṇya",
+    "having breathed",
+    "abhiprāṇ"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अत्रप्स्यत्",
+    "atrapsyat",
+    "would have been satisfied",
+    "tṛp"
+   ]
+  ],
+  "tr": {
+   "text": "He tied to grasp that food with the sense of smell. He did not succeed in grasping it by smelling. If He had succeeded in grasping it by smelling, then everyone should have become contented merely by smelling food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.4.mp3",
+   "whole": [
+    285.75,
+    303.04
+   ]
+  },
+  "hasBhashya": false,
+  "order": 14
+ },
+ {
+  "id": "AiU_1.3.5",
+  "ref": "1.3.5",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तच्चक्षुषाजिघृक्षत् तन्नाशक्नोच्चक्षुषा ग्रहीतुं स यद्धैनच्चक्षुषाग्रहैष्यद् दृष्ट्वा हैवान्नमत्रप्स्यत् ॥ ५ ॥"
+  ],
+  "iast": [
+   "taccakṣuṣājighṛkṣat tannāśaknoccakṣuṣā grahītuṃ sa yaddhainaccakṣuṣāgrahaiṣyad dṛṣṭvā haivānnamatrapsyat ॥ 5 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the eye He would have seized it, but He could not seize it by the eye. Had He seized it by the eye, then would a man be satisfied by merely seeing food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 200",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "चक्षुषा",
+    "cakṣuṣā",
+    "by the eye",
+    "cakṣus"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अशक्नोत्",
+    "aśaknot",
+    "was able",
+    "śak"
+   ],
+   [
+    "चक्षुषा",
+    "cakṣuṣā",
+    "by the eye",
+    "cakṣus"
+   ],
+   [
+    "ग्रहीतुम्",
+    "grahītum",
+    "to seize",
+    "grah"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "चक्षुषा",
+    "cakṣuṣā",
+    "by the eye",
+    "cakṣus"
+   ],
+   [
+    "अग्रहैष्यत्",
+    "agrahaiṣyat",
+    "would have seized",
+    "grah"
+   ],
+   [
+    "दृष्ट्वा",
+    "dṛṣṭvā",
+    "having seen",
+    "dṛś"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अत्रप्स्यत्",
+    "atrapsyat",
+    "would have been satisfied",
+    "tṛp"
+   ]
+  ],
+  "tr": {
+   "text": "He wanted to take up the food with the eye. He did not succeed in taking it up with the eye. If He had taken it up with the eye, then one would have become satisfied by merely seeing food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.5.mp3",
+   "whole": [
+    303.04,
+    318.7
+   ]
+  },
+  "hasBhashya": true,
+  "order": 15
+ },
+ {
+  "id": "AiU_1.3.6",
+  "ref": "1.3.6",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तच्छ्रोत्रेणाजिघृक्षत् तन्नाशक्नोच्छ्रोत्रेण ग्रहीतुं स यद्धैनच्छ्रोत्रेणाग्रहैष्यच्छ्रुत्वा हैवान्नमत्रप्स्यत् ॥ ६ ॥"
+  ],
+  "iast": [
+   "tacchrotreṇājighṛkṣat tannāśaknocchrotreṇa grahītuṃ sa yaddhainacchrotreṇāgrahaiṣyacchrutvā haivānnamatrapsyat ॥ 6 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the ear He would have seized it, but He could not seize it by the ear. Had He seized it by the ear, then would a man be satisfied by merely hearing food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 200",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "श्रोत्रेण",
+    "śrotreṇa",
+    "by hearing",
+    "śrotra"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अशक्नोत्",
+    "aśaknot",
+    "was able",
+    "śak"
+   ],
+   [
+    "श्रोत्रेण",
+    "śrotreṇa",
+    "by hearing",
+    "śrotra"
+   ],
+   [
+    "ग्रहीतुम्",
+    "grahītum",
+    "to seize",
+    "grah"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "श्रोत्रेण",
+    "śrotreṇa",
+    "by hearing",
+    "śrotra"
+   ],
+   [
+    "अग्रहैष्यत्",
+    "agrahaiṣyat",
+    "would have seized",
+    "grah"
+   ],
+   [
+    "श्रुत्वा",
+    "śrutvā",
+    "having heard",
+    "śru"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अत्रप्स्यत्",
+    "atrapsyat",
+    "would have been satisfied",
+    "tṛp"
+   ]
+  ],
+  "tr": {
+   "text": "He wanted to take up the food with the ear. He did not succeed in taking it up with the ear. If He had taken it up with the ear, then one would have become satisfied by merely by hearing of food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.6.mp3",
+   "whole": [
+    318.7,
+    334.13
+   ]
+  },
+  "hasBhashya": false,
+  "order": 16
+ },
+ {
+  "id": "AiU_1.3.7",
+  "ref": "1.3.7",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तत्त्वचाजिघृक्षत् तन्नाशक्नोत्त्वचा ग्रहीतुं स यद्धैनत्त्वचाग्रहैष्यत् स्पृष्ट्वा हैवान्नमत्रप्स्यत् ॥ ७ ॥"
+  ],
+  "iast": [
+   "tattvacājighṛkṣat tannāśaknottvacā grahītuṃ sa yaddhainattvacāgrahaiṣyat spṛṣṭvā haivānnamatrapsyat ॥ 7 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the skin He would have seized it, but He could not seize it by the skin. Had He seized it by the skin, then would a man be satisfied by merely touching food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 200",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "त्वचा",
+    "tvacā",
+    "by the skin",
+    "tvac"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अशक्नोत्",
+    "aśaknot",
+    "was able",
+    "śak"
+   ],
+   [
+    "त्वचा",
+    "tvacā",
+    "by the skin",
+    "tvac"
+   ],
+   [
+    "ग्रहीतुम्",
+    "grahītum",
+    "to seize",
+    "grah"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "त्वचा",
+    "tvacā",
+    "by the skin",
+    "tvac"
+   ],
+   [
+    "अग्रहैष्यत्",
+    "agrahaiṣyat",
+    "would have seized",
+    "grah"
+   ],
+   [
+    "स्पृष्ट्वा",
+    "spṛṣṭvā",
+    "having touched",
+    "spṛś"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अत्रप्स्यत्",
+    "atrapsyat",
+    "would have been satisfied",
+    "tṛp"
+   ]
+  ],
+  "tr": {
+   "text": "He wanted to take it up with the sense of touch. He did not succeed in taking it up with the sense of touch. If He had taken it up with touch, then one would have become been satisfied merely by touching food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.7.mp3",
+   "whole": [
+    334.13,
+    348.98
+   ]
+  },
+  "hasBhashya": false,
+  "order": 17
+ },
+ {
+  "id": "AiU_1.3.8",
+  "ref": "1.3.8",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तन्मनसाजिघृक्षत् तन्नाशक्नोन्मनसा ग्रहीतुं स यद्धैनन्मनसाग्रहैष्यद् ध्यात्वा हैवान्नमत्रप्स्यत् ॥ ८ ॥"
+  ],
+  "iast": [
+   "tanmanasājighṛkṣat tannāśaknonmanasā grahītuṃ sa yaddhainanmanasāgrahaiṣyad dhyātvā haivānnamatrapsyat ॥ 8 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the mind He would have seized it, but He could not seize it by the mind. Had He seized it by the mind, then would a man be satisfied by merely thinking food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 201",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "मनसा",
+    "manasā",
+    "by mind",
+    "manas"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अशक्नोत्",
+    "aśaknot",
+    "was able",
+    "śak"
+   ],
+   [
+    "मनसा",
+    "manasā",
+    "by mind",
+    "manas"
+   ],
+   [
+    "ग्रहीतुम्",
+    "grahītum",
+    "to seize",
+    "grah"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "मनसा",
+    "manasā",
+    "by mind",
+    "manas"
+   ],
+   [
+    "अग्रहैष्यत्",
+    "agrahaiṣyat",
+    "would have seized",
+    "grah"
+   ],
+   [
+    "ध्यात्वा",
+    "dhyātvā",
+    "having thought",
+    "dhyā"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अत्रप्स्यत्",
+    "atrapsyat",
+    "would have been satisfied",
+    "tṛp"
+   ]
+  ],
+  "tr": {
+   "text": "He wanted to take it up with the mind. He did not succeed in taking it up with the mind. If He had taken it up with the mind, then one would have become satisfied by merely thinking of food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.8.mp3",
+   "whole": [
+    348.98,
+    364.1
+   ]
+  },
+  "hasBhashya": false,
+  "order": 18
+ },
+ {
+  "id": "AiU_1.3.9",
+  "ref": "1.3.9",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तच्छिश्नेनाजिघृक्षत् तन्नाशक्नोच्छिश्नेन ग्रहीतुं स यद्धैनच्छिश्नेनाग्रहैष्यद् विसृज्य हैवान्नमत्रप्स्यत् ॥ ९ ॥"
+  ],
+  "iast": [
+   "tacchiśnenājighṛkṣat tannāśaknocchiśnena grahītuṃ sa yaddhainacchiśnenāgrahaiṣyad visṛjya haivānnamatrapsyat ॥ 9 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the organ He would have seized it, but He could not seize it by the organ. Had He seized it by the organ, then would a man be satisfied by merely emitting food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 201",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "शिश्नेन",
+    "śiśnena",
+    "by the generative organ",
+    "śiśna"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अशक्नोत्",
+    "aśaknot",
+    "was able",
+    "śak"
+   ],
+   [
+    "शिश्नेन",
+    "śiśnena",
+    "by the generative organ",
+    "śiśna"
+   ],
+   [
+    "ग्रहीतुम्",
+    "grahītum",
+    "to seize",
+    "grah"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "शिश्नेन",
+    "śiśnena",
+    "by the generative organ",
+    "śiśna"
+   ],
+   [
+    "अग्रहैष्यत्",
+    "agrahaiṣyat",
+    "would have seized",
+    "grah"
+   ],
+   [
+    "विसृज्य",
+    "visṛjya",
+    "having emitted",
+    "visṛj"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अत्रप्स्यत्",
+    "atrapsyat",
+    "would have been satisfied",
+    "tṛp"
+   ]
+  ],
+  "tr": {
+   "text": "He wanted to take it up with the procreative organ. He did not succeed in taking it up with the procreative organ. If He had taken it up with the procreative organ, then one would have become satisfied by merely ejecting food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": false,
+  "order": 19
+ },
+ {
+  "id": "AiU_1.3.10",
+  "ref": "1.3.10",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तदपानेनाजिघृक्षत् तदावयत् सैषोऽन्नस्य ग्रहो यद्वायुरन्नायुर्वा एष यद्वायुः ॥ १० ॥"
+  ],
+  "iast": [
+   "tadapānenājighṛkṣat tadāvayat saiṣo’nnasya graho yadvāyurannāyurvā eṣa yadvāyuḥ ॥ 10 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the Apana He would have seized it, and it was seized. Lo this is the seizer of food which is also Breath of the Life, and therefore all that is Breath hath its life in food.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 201",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अपानेन",
+    "apānena",
+    "by downward breath",
+    "apāna"
+   ],
+   [
+    "अजिघृक्षत्",
+    "ajighṛkṣat",
+    "sought to seize",
+    "jighṛkṣay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "आवयत्",
+    "āvayat",
+    "seized",
+    "āvay"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this",
+    "etad"
+   ],
+   [
+    "अन्नस्य",
+    "annasya",
+    "of food",
+    "anna"
+   ],
+   [
+    "ग्रहः",
+    "grahaḥ",
+    "seizer",
+    "graha"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyu"
+   ],
+   [
+    "अन्नायुः",
+    "annāyuḥ",
+    "having life through food",
+    "annāyu"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this",
+    "etad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyu"
+   ]
+  ],
+  "tr": {
+   "text": "He wanted to take it up with Apana. He caught it. This is the devourer of food. That vital energy which is well known as dependent of food for its subsistence is this vital energy (called Apana).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.10.mp3",
+   "whole": [
+    380.42,
+    393.22
+   ]
+  },
+  "hasBhashya": true,
+  "order": 20
+ },
+ {
+  "id": "AiU_1.3.11",
+  "ref": "1.3.11",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "स ईक्षत कथं न्विदं मदृते स्यादिति स ईक्षत कतरेण प्रपद्या इति । स ईक्षत यदि वाचाभिव्याहृतं यदि प्राणेनाभिप्राणितं यदि चक्षुषा दृष्टं यदि श्रोत्रेण श्रुतं यदि त्वचा स्पृष्टं यदि मनसा ध्यातं यद्यपानेनाभ्यपानितं यदि शिश्नेन विसृष्टमथ कोऽहमिति ॥ ११ ॥"
+  ],
+  "iast": [
+   "sa īkṣata kathaṃ nvidaṃ madṛte syāditi sa īkṣata katareṇa prapadyā iti । sa īkṣata yadi vācābhivyāhṛtaṃ yadi prāṇenābhiprāṇitaṃ yadi cakṣuṣā dṛṣṭaṃ yadi śrotreṇa śrutaṃ yadi tvacā spṛṣṭaṃ yadi manasā dhyātaṃ yadyapānenābhyapānitaṃ yadi śiśnena visṛṣṭamatha ko’hamiti ॥ 11 ॥"
+  ],
+  "alt": [
+   {
+    "text": "The Spirit thought, “Without Me how should all this be?” and He thought, “By what way shall I enter in?” He thought also, “If utterance is by Speech, if breathing is by the Breath, if sight is by the Eye, if hearing is by the Ear, if thought is by the Mind, if the lower workings are by Apana, if emission is by the organ, who then am I?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 201",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "ईक्षत",
+    "īkṣata",
+    "thought",
+    "īkṣ"
+   ],
+   [
+    "कथम्",
+    "katham",
+    "how?",
+    "katham"
+   ],
+   [
+    "नु",
+    "nu",
+    "now",
+    "nu"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "मत्",
+    "mat",
+    "from me",
+    "mad"
+   ],
+   [
+    "ऋते",
+    "ṛte",
+    "without",
+    "ṛte"
+   ],
+   [
+    "स्यात्",
+    "syāt",
+    "would be",
+    "as"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "ईक्षत",
+    "īkṣata",
+    "thought",
+    "īkṣ"
+   ],
+   [
+    "कतरेण",
+    "katareṇa",
+    "by which way?",
+    "katara"
+   ],
+   [
+    "प्रपद्यै",
+    "prapadyai",
+    "let me enter",
+    "prapad"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "ईक्षत",
+    "īkṣata",
+    "thought",
+    "īkṣ"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "वाचा",
+    "vācā",
+    "by speech",
+    "vāc"
+   ],
+   [
+    "अभिव्याहृतम्",
+    "abhivyāhṛtam",
+    "uttered",
+    "abhivyāhṛ"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "प्राणेन",
+    "prāṇena",
+    "by life-breath",
+    "prāṇa"
+   ],
+   [
+    "अभिप्राणितम्",
+    "abhiprāṇitam",
+    "breathed",
+    "abhiprāṇ"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "चक्षुषा",
+    "cakṣuṣā",
+    "by the eye",
+    "cakṣus"
+   ],
+   [
+    "दृष्टम्",
+    "dṛṣṭam",
+    "seen",
+    "dṛś"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "श्रोत्रेण",
+    "śrotreṇa",
+    "by hearing",
+    "śrotra"
+   ],
+   [
+    "श्रुतम्",
+    "śrutam",
+    "heard",
+    "śru"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "त्वचा",
+    "tvacā",
+    "by the skin",
+    "tvac"
+   ],
+   [
+    "स्पृष्टम्",
+    "spṛṣṭam",
+    "touched",
+    "spṛś"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "मनसा",
+    "manasā",
+    "by mind",
+    "manas"
+   ],
+   [
+    "ध्यातम्",
+    "dhyātam",
+    "thought",
+    "dhyā"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "अपानेन",
+    "apānena",
+    "by downward breath",
+    "apāna"
+   ],
+   [
+    "अभ्यपानितम्",
+    "abhyapānitam",
+    "acted upon by the downward breath",
+    "abhyapān"
+   ],
+   [
+    "यदि",
+    "yadi",
+    "if",
+    "yadi"
+   ],
+   [
+    "शिश्नेन",
+    "śiśnena",
+    "by the generative organ",
+    "śiśna"
+   ],
+   [
+    "विसृष्टम्",
+    "visṛṣṭam",
+    "emitted",
+    "visṛj"
+   ],
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "कः",
+    "kaḥ",
+    "who?",
+    "ka"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "He thought, “How indeed can it be there without Me ?” He thought, “Through which of the two ways should I enter ?” He thought, “If utterance is done by the organ of speech, smelling by the sense of smell, seeing by the eye, hearing by the ear, feeling by the sense of touch, thinking by the mind, the act of drawing in (or pressing down) by Apana, ejecting by the procreative organ, then who (or what) am I ?”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.11.mp3",
+   "whole": [
+    393.22,
+    431.38
+   ]
+  },
+  "hasBhashya": false,
+  "order": 21
+ },
+ {
+  "id": "AiU_1.3.12",
+  "ref": "1.3.12",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "स एतमेव सीमानं विदार्यैतया द्वारा प्रापद्यत । सैषा विदृतिर्नाम द्वास्तदेतन्नान्दनम् । तस्य त्रय आवसथास्त्रयः स्वप्ना अयमावसथोऽयमावसथोऽयमावसथ इति ॥ १२ ॥"
+  ],
+  "iast": [
+   "sa etameva sīmānaṃ vidāryaitayā dvārā prāpadyata । saiṣā vidṛtirnāma dvāstadetannāndanam । tasya traya āvasathāstrayaḥ svapnā ayamāvasatho’yamāvasatho’yamāvasatha iti ॥ 12 ॥"
+  ],
+  "alt": [
+   {
+    "text": "It was this bound that He cleft, it was by this door that He entered in. ’Tis this that is called the gate of the cleaving; this is the door of His coming and here is the place of His delight. He hath three mansions in His city, three dreams wherein He dwelleth, and of each in turn He saith, “Lo, this is my habitation” and “This is my habitation” and “This is my habitation.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 201, 202",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "एतम्",
+    "etam",
+    "this",
+    "etad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "सीमानम्",
+    "sīmānam",
+    "the boundary",
+    "sīman"
+   ],
+   [
+    "विदार्य",
+    "vidārya",
+    "having split open",
+    "vidāray"
+   ],
+   [
+    "एतया",
+    "etayā",
+    "by this",
+    "etad"
+   ],
+   [
+    "द्वारा",
+    "dvārā",
+    "through the door",
+    "dvār"
+   ],
+   [
+    "प्रापद्यत",
+    "prāpadyata",
+    "entered",
+    "prapad"
+   ],
+   [
+    "सा",
+    "sā",
+    "she",
+    "tad"
+   ],
+   [
+    "एषा",
+    "eṣā",
+    "this",
+    "etad"
+   ],
+   [
+    "विदृतिः",
+    "vidṛtiḥ",
+    "cleft",
+    "vidṛti"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "by name",
+    "nāma"
+   ],
+   [
+    "द्वार्",
+    "dvār",
+    "door",
+    "dvār"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "नान्दनम्",
+    "nāndanam",
+    "place of delight",
+    "nāndana"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of him",
+    "tad"
+   ],
+   [
+    "त्रयः",
+    "trayaḥ",
+    "three",
+    "tri"
+   ],
+   [
+    "आवसथाः",
+    "āvasathāḥ",
+    "dwelling places",
+    "āvasatha"
+   ],
+   [
+    "त्रयः",
+    "trayaḥ",
+    "three",
+    "tri"
+   ],
+   [
+    "स्वप्नाः",
+    "svapnāḥ",
+    "dreams",
+    "svapna"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "आवसथः",
+    "āvasathaḥ",
+    "dwelling place",
+    "āvasatha"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "आवसथः",
+    "āvasathaḥ",
+    "dwelling place",
+    "āvasatha"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "आवसथः",
+    "āvasathaḥ",
+    "dwelling place",
+    "āvasatha"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Having split up this very end, He entered through this door. This entrance is known as vidriti (the chief entrance). Hence it is delightful. Of Him there are three abodes – three (states of) dream. This one is an abode, this one is an abode. This one is an abode.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.12.mp3",
+   "whole": [
+    431.38,
+    458.06
+   ]
+  },
+  "hasBhashya": true,
+  "order": 22
+ },
+ {
+  "id": "AiU_1.3.13",
+  "ref": "1.3.13",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "स जातो भूतान्यभिव्यैख्यत् किमिहान्यं वावदिषदिति । स एतमेव पुरुषं ब्रह्म ततममपश्यत् । इदमदर्शमिती३ ॥ १३ ॥"
+  ],
+  "iast": [
+   "sa jāto bhūtānyabhivyaikhyat kimihānyaṃ vāvadiṣaditi । sa etameva puruṣaṃ brahma tatamamapaśyat । idamadarśamitī3 ॥ 13 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Now when He was born, He thought and spoke only of Nature and her creations; in this world of matter of what else should He speak or reason? Thereafter He beheld that Being who is the Brahman and the last Essence. He said, “Yea, this is He; verily, I have beheld Him.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 202",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "जातः",
+    "jātaḥ",
+    "born",
+    "jan"
+   ],
+   [
+    "भूतानि",
+    "bhūtāni",
+    "beings",
+    "bhūta"
+   ],
+   [
+    "अभिव्यैख्यत्",
+    "abhivyaikhyat",
+    "looked over",
+    "abhivīkṣ"
+   ],
+   [
+    "किम्",
+    "kim",
+    "what?",
+    "kim"
+   ],
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "अन्यम्",
+    "anyam",
+    "another",
+    "anya"
+   ],
+   [
+    "वावदिषत्",
+    "vāvadiṣat",
+    "would speak",
+    "vāvad"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "एतम्",
+    "etam",
+    "this",
+    "etad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "the person",
+    "puruṣa"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "ततमम्",
+    "tatamam",
+    "that very one",
+    "tatama"
+   ],
+   [
+    "अपश्यत्",
+    "apaśyat",
+    "saw",
+    "paś"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "अदर्शम्",
+    "adarśam",
+    "I saw",
+    "dṛś"
+   ],
+   [
+    "इती३",
+    "itī3",
+    "thus (pluta vowel)",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Being born, He manifested all the beings; for did He speak of (or know) anything else ? He realised this very Purusha as Brahman, the most pervasive, thus: “I have realised this”.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.13.mp3",
+   "whole": [
+    458.37,
+    475.62
+   ]
+  },
+  "hasBhashya": true,
+  "order": 23
+ },
+ {
+  "id": "AiU_1.3.14",
+  "ref": "1.3.14",
+  "section": "Adhyāya 1 · Khaṇḍa 3",
+  "sa": [
+   "तस्मादिदन्द्रो नामेदन्द्रो ह वै नाम । तमिदन्द्रं सन्तमिन्द्र इत्याचक्षते परोक्षेण । परोक्षप्रिया इव हि देवाः परोक्षप्रिया इव हि देवाः ॥ १४ ॥"
+  ],
+  "iast": [
+   "tasmādidandro nāmedandro ha vai nāma । tamidandraṃ santamindra ityācakṣate parokṣeṇa । parokṣapriyā iva hi devāḥ parokṣapriyā iva hi devāḥ ॥ 14 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Therefore is He Idandra; for Idandra is the true name of Him. But though He is Idandra, they call Him Indra because of the veil of the Unrevelation; for the gods love the veil of the Unrevelation, yea, verily, the gods love the Unrevelation.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 202",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मात्",
+    "tasmāt",
+    "therefore",
+    "tasmāt"
+   ],
+   [
+    "इदन्द्रः",
+    "idandraḥ",
+    "Idandra",
+    "idandraḥ"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "by name",
+    "nāma"
+   ],
+   [
+    "इदन्द्रः",
+    "idandraḥ",
+    "Idandra",
+    "idandraḥ"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "by name",
+    "nāma"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "इदन्द्रम्",
+    "idandram",
+    "Idandra (object form)",
+    "idandram"
+   ],
+   [
+    "सन्तम्",
+    "santam",
+    "being",
+    "as"
+   ],
+   [
+    "इन्द्रः",
+    "indraḥ",
+    "Indra",
+    "indra"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "आचक्षते",
+    "ācakṣate",
+    "they call",
+    "ācakṣ"
+   ],
+   [
+    "परोक्षेण",
+    "parokṣeṇa",
+    "indirectly",
+    "parokṣa"
+   ],
+   [
+    "परोक्ष",
+    "parokṣa",
+    "indirect",
+    "parokṣa"
+   ],
+   [
+    "प्रियाः",
+    "priyāḥ",
+    "fond of",
+    "priya"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "deva"
+   ],
+   [
+    "परोक्ष",
+    "parokṣa",
+    "indirect",
+    "parokṣa"
+   ],
+   [
+    "प्रियाः",
+    "priyāḥ",
+    "fond of",
+    "priya"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "deva"
+   ]
+  ],
+  "tr": {
+   "text": "Therefore His name is Idandra. He is verily known as Idandra. Although He is Idandra, they call Him indirectly Indra; for the gods are verily fond of indirect names, the gods are verily fond of indirect names.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.3.14.mp3",
+   "whole": [
+    475.84,
+    496.3
+   ]
+  },
+  "hasBhashya": true,
+  "order": 24
+ },
+ {
+  "id": "AiU_2.1.1",
+  "ref": "2.1.1",
+  "section": "Adhyāya 2 · Khaṇḍa 1",
+  "sa": [
+   "पुरुषे ह वा अयमादितो गर्भो भवति यदेतद् रेतः । तदेतत् सर्वेभ्योऽङ्गेभ्यस्तेजः संभूतमात्मन्येवात्मानं बिभर्ति तद्यदा स्त्रियां सिञ्चत्यथैनज्जनयति तदस्य प्रथमं जन्म ॥ १ ॥"
+  ],
+  "iast": [
+   "puruṣe ha vā ayamādito garbho bhavati yadetad retaḥ । tadetat sarvebhyo’ṅgebhyastejaḥ saṃbhūtamātmanyevātmānaṃ bibharti tadyadā striyāṃ siñcatyathainajjanayati tadasya prathamaṃ janma ॥ 1 ॥"
+  ],
+  "alt": [
+   {
+    "text": "In the male first the unborn child becometh. This which is seed is the force and heat of him that from all parts of the creature draweth together for becoming; therefore he beareth himself in himself, and when he casteth it into the woman, ’tis himself he begetteth. And this is the first birth of the Spirit.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 202",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पुरुषे",
+    "puruṣe",
+    "in the male",
+    "puruṣa"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वा",
+    "vā",
+    "indeed",
+    "vā"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "आदितस्",
+    "āditas",
+    "at first",
+    "āditas"
+   ],
+   [
+    "गर्भः",
+    "garbhaḥ",
+    "embryo",
+    "garbha"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "bhū"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "रेतः",
+    "retaḥ",
+    "seed",
+    "retas"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "सर्वेभ्यः",
+    "sarvebhyaḥ",
+    "from all",
+    "sarva"
+   ],
+   [
+    "अङ्गेभ्यः",
+    "aṅgebhyaḥ",
+    "from the limbs",
+    "aṅga"
+   ],
+   [
+    "तेजः",
+    "tejaḥ",
+    "vital energy",
+    "tejas"
+   ],
+   [
+    "सम्भूतम्",
+    "sambhūtam",
+    "gathered together",
+    "sambhū"
+   ],
+   [
+    "आत्मनि",
+    "ātmani",
+    "in the self",
+    "ātman"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the self",
+    "ātman"
+   ],
+   [
+    "बिभर्ति",
+    "bibharti",
+    "bears",
+    "bhṛ"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "यदा",
+    "yadā",
+    "when",
+    "yadā"
+   ],
+   [
+    "स्त्रियाम्",
+    "striyām",
+    "in the woman",
+    "strī"
+   ],
+   [
+    "सिञ्चति",
+    "siñcati",
+    "pours",
+    "sic"
+   ],
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "एनत्",
+    "enat",
+    "it",
+    "enad"
+   ],
+   [
+    "जनयति",
+    "janayati",
+    "begets",
+    "janay"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of him",
+    "idam"
+   ],
+   [
+    "प्रथमम्",
+    "prathamam",
+    "first",
+    "prathama"
+   ],
+   [
+    "जन्म",
+    "janma",
+    "birth",
+    "janman"
+   ]
+  ],
+  "tr": {
+   "text": "In man indeed is the soul first conceived. That which is the semen is extracted from all the limbs as their vigour. He holds that self of his in his own self. When he sheds it into his wife, then he procreates it. That is its first birth.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.1.mp3",
+   "whole": [
+    495.76,
+    521.42
+   ]
+  },
+  "hasBhashya": true,
+  "order": 25
+ },
+ {
+  "id": "AiU_2.1.2",
+  "ref": "2.1.2",
+  "section": "Adhyāya 2 · Khaṇḍa 1",
+  "sa": [
+   "तत् स्त्रिया आत्मभूयं गच्छति यथा स्वमङ्गं तथा । तस्मादेनां न हिनस्ति । सास्यैतमात्मानमत्र गतं भावयति ॥ २ ॥"
+  ],
+  "iast": [
+   "tat striyā ātmabhūyaṃ gacchati yathā svamaṅgaṃ tathā । tasmādenāṃ na hinasti । sāsyaitamātmānamatra gataṃ bhāvayati ॥ 2 ॥"
+  ],
+  "alt": [
+   {
+    "text": "It becometh one self with the woman, therefore it doeth her no hurt and she cherisheth this self of her husband that hath got into her womb.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 203",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "स्त्रियाः",
+    "striyāḥ",
+    "of the woman",
+    "strī"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "self (compound member)",
+    "ātman"
+   ],
+   [
+    "भूयम्",
+    "bhūyam",
+    "becoming",
+    "bhūya"
+   ],
+   [
+    "गच्छति",
+    "gacchati",
+    "goes",
+    "gam"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "स्वम्",
+    "svam",
+    "one's own",
+    "sva"
+   ],
+   [
+    "अङ्गम्",
+    "aṅgam",
+    "limb",
+    "aṅga"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "so",
+    "tathā"
+   ],
+   [
+    "तस्मात्",
+    "tasmāt",
+    "therefore",
+    "tasmāt"
+   ],
+   [
+    "एनाम्",
+    "enām",
+    "her",
+    "enad"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "हिनस्ति",
+    "hinasti",
+    "hurts",
+    "hiṃs"
+   ],
+   [
+    "सा",
+    "sā",
+    "she",
+    "tad"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of him",
+    "idam"
+   ],
+   [
+    "एतम्",
+    "etam",
+    "this",
+    "etad"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the self",
+    "ātman"
+   ],
+   [
+    "अत्र",
+    "atra",
+    "here",
+    "atra"
+   ],
+   [
+    "गतम्",
+    "gatam",
+    "gone into",
+    "gam"
+   ],
+   [
+    "भावयति",
+    "bhāvayati",
+    "nurtures",
+    "bhāvay"
+   ]
+  ],
+  "tr": {
+   "text": "That becomes non-different from the wife, just as much as her own limb is. Therefore (the foetus) does not hurt her. She nourishes this self of his that has entered here (in her womb).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.2.mp3",
+   "whole": [
+    522.85,
+    538.5
+   ]
+  },
+  "hasBhashya": true,
+  "order": 26
+ },
+ {
+  "id": "AiU_2.1.3",
+  "ref": "2.1.3",
+  "section": "Adhyāya 2 · Khaṇḍa 1",
+  "sa": [
+   "सा भावयित्री भावयितव्या भवति । तं स्त्री गर्भं बिभर्ति । सोऽग्र एव कुमारं जन्मनोऽग्रेऽधिभावयति । स यत्कुमारं जन्मनोऽग्रेऽधिभावयत्यात्मानमेव तद् भावयत्येषां लोकानां संतत्या एवं संतता हीमे लोकास्तदस्य द्वितीयं जन्म ॥ ३ ॥"
+  ],
+  "iast": [
+   "sā bhāvayitrī bhāvayitavyā bhavati । taṃ strī garbhaṃ bibharti । so’gra eva kumāraṃ janmano’gre’dhibhāvayati । sa yatkumāraṃ janmano’gre’dhibhāvayatyātmānameva tad bhāvayatyeṣāṃ lokānāṃ saṃtatyā evaṃ saṃtatā hīme lokāstadasya dvitīyaṃ janma ॥ 3 ॥"
+  ],
+  "alt": [
+   {
+    "text": "She the cherisher must be cherished. So the woman beareth the unborn child and the man cherisheth the boy even from the beginning ere it is born. And whereas he cherisheth the boy ere it is born, ’tis verily himself that he cherisheth for the continuance of these worlds and their peoples; for ’tis even thus the thread of these worlds spinneth on unbroken. And this is the second birth of the Spirit.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 203",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सा",
+    "sā",
+    "she",
+    "tad"
+   ],
+   [
+    "भावयित्री",
+    "bhāvayitrī",
+    "she who nurtures",
+    "bhāvayitṛ"
+   ],
+   [
+    "भावयितव्या",
+    "bhāvayitavyā",
+    "to be cherished",
+    "bhāvay"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "bhū"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "स्त्री",
+    "strī",
+    "woman",
+    "strī"
+   ],
+   [
+    "गर्भम्",
+    "garbham",
+    "embryo",
+    "garbha"
+   ],
+   [
+    "बिभर्ति",
+    "bibharti",
+    "bears",
+    "bhṛ"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "अग्रे",
+    "agre",
+    "at first",
+    "agre"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "कुमारम्",
+    "kumāram",
+    "the boy",
+    "kumāra"
+   ],
+   [
+    "जन्मनः",
+    "janmanaḥ",
+    "of birth",
+    "janman"
+   ],
+   [
+    "अग्रे",
+    "agre",
+    "at first",
+    "agra"
+   ],
+   [
+    "अधि",
+    "adhi",
+    "over",
+    "adhi"
+   ],
+   [
+    "भावयति",
+    "bhāvayati",
+    "nurtures",
+    "bhāvay"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "कुमारम्",
+    "kumāram",
+    "the boy",
+    "kumāra"
+   ],
+   [
+    "जन्मनः",
+    "janmanaḥ",
+    "of birth",
+    "janman"
+   ],
+   [
+    "अग्रे",
+    "agre",
+    "at first",
+    "agra"
+   ],
+   [
+    "अधि",
+    "adhi",
+    "over",
+    "adhi"
+   ],
+   [
+    "भावयति",
+    "bhāvayati",
+    "nurtures",
+    "bhāvay"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the self",
+    "ātman"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "भावयति",
+    "bhāvayati",
+    "nurtures",
+    "bhāvay"
+   ],
+   [
+    "एषाम्",
+    "eṣām",
+    "of these",
+    "idam"
+   ],
+   [
+    "लोकानाम्",
+    "lokānām",
+    "of the worlds",
+    "loka"
+   ],
+   [
+    "संतत्या",
+    "saṃtatyā",
+    "for continuity",
+    "saṃtati"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "संतताः",
+    "saṃtatāḥ",
+    "continued",
+    "saṃtan"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "इमे",
+    "ime",
+    "these",
+    "idam"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of him",
+    "idam"
+   ],
+   [
+    "द्वितीयम्",
+    "dvitīyam",
+    "second",
+    "dvitīya"
+   ],
+   [
+    "जन्म",
+    "janma",
+    "birth",
+    "janman"
+   ]
+  ],
+  "tr": {
+   "text": "She, the nourisher, becomes fit to be nourished. The wife bears that embryo (before the birth). He (the father) protects the son at the very start, soon after his birth. That he protects the son at the very beginning, just after birth, thereby he protects his own self for the sake of the continuance of these worlds. For thus is the continuance of these worlds ensured. That is his second birth.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.3.mp3",
+   "whole": [
+    539.03,
+    572.65
+   ]
+  },
+  "hasBhashya": false,
+  "order": 27
+ },
+ {
+  "id": "AiU_2.1.4",
+  "ref": "2.1.4",
+  "section": "Adhyāya 2 · Khaṇḍa 1",
+  "sa": [
+   "सोऽस्यायमात्मा पुण्येभ्यः कर्मभ्यः प्रतिधीयते । अथास्यायमितर आत्मा कृतकृत्यो वयोगतः प्रैति । स इतः प्रयन्नेव पुनर्जायते तदस्य तृतीयं जन्म ॥ ४ ॥"
+  ],
+  "iast": [
+   "so’syāyamātmā puṇyebhyaḥ karmabhyaḥ pratidhīyate । athāsyāyamitara ātmā kṛtakṛtyo vayogataḥ praiti । sa itaḥ prayanneva punarjāyate tadasya tṛtīyaṃ janma ॥ 4 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Lo this is the spirit and self of him and he maketh it his vicegerent for the works of righteousness. Now this his other self when it hath done the works it came to do and hath reached its age, lo! it goeth hence, and even as it departeth, it is born again. And this is the third birth of the Spirit.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 203",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of him",
+    "idam"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "self",
+    "ātman"
+   ],
+   [
+    "पुण्येभ्यः",
+    "puṇyebhyaḥ",
+    "for righteous",
+    "puṇya"
+   ],
+   [
+    "कर्मभ्यः",
+    "karmabhyaḥ",
+    "for works",
+    "karman"
+   ],
+   [
+    "प्रतिधीयते",
+    "pratidhīyate",
+    "is installed as a representative",
+    "pratidhā"
+   ],
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of him",
+    "idam"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "इतरः",
+    "itaraḥ",
+    "the other",
+    "itara"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "self",
+    "ātman"
+   ],
+   [
+    "कृतकृत्यः",
+    "kṛtakṛtyaḥ",
+    "having done what was to be done",
+    "kṛtakṛtya"
+   ],
+   [
+    "वयस्",
+    "vayas",
+    "age (compound member)",
+    "vayas"
+   ],
+   [
+    "गतः",
+    "gataḥ",
+    "gone to",
+    "gam"
+   ],
+   [
+    "प्रैति",
+    "praiti",
+    "departs",
+    "pre"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "इतस्",
+    "itas",
+    "from here",
+    "itas"
+   ],
+   [
+    "प्रयन्",
+    "prayan",
+    "departing",
+    "pre"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "पुनर्",
+    "punar",
+    "again",
+    "punar"
+   ],
+   [
+    "जायते",
+    "jāyate",
+    "is born",
+    "jan"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of him",
+    "idam"
+   ],
+   [
+    "तृतीयम्",
+    "tṛtīyam",
+    "third",
+    "tṛtīya"
+   ],
+   [
+    "जन्म",
+    "janma",
+    "birth",
+    "janman"
+   ]
+  ],
+  "tr": {
+   "text": "This self of his (viz. the son) is substituted (by the father) for the performance of virtuous deeds. Then this other self of his (that is the father of the son), having got his duties ended and having advanced in age, departs. As soon as he departs, he takes birth again. That is his (i.e. the son’s) third birth.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.4.mp3",
+   "whole": [
+    573.8,
+    595.19
+   ]
+  },
+  "hasBhashya": true,
+  "order": 28
+ },
+ {
+  "id": "AiU_2.1.5",
+  "ref": "2.1.5",
+  "section": "Adhyāya 2 · Khaṇḍa 1",
+  "sa": [
+   "तदुक्तमृषिणा — गर्भे नु सन्नन्वेषामवेदमहं देवानां जनिमानि विश्वा । शतं मा पुर आयसीररक्षन्नधः श्येनो जवसा निरदीयमिति । गर्भ एवैतच्छयानो वामदेव एवमुवाच ॥ ५ ॥"
+  ],
+  "iast": [
+   "taduktamṛṣiṇā — garbhe nu sannanveṣāmavedamahaṃ devānāṃ janimāni viśvā । śataṃ mā pura āyasīrarakṣannadhaḥ śyeno javasā niradīyamiti । garbha evaitacchayāno vāmadeva evamuvāca ॥ 5 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Therefore it was said by the sage Vamadeva: “I, Vamadeva, being yet in the womb, knew all the births of these gods and their causes. In a hundred cities of iron they held me down and kept me; I broke through them all with might & violence, like a hawk I soared up into my heavens.” While yet he lay in the womb, thus said Vamadeva.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 203",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "उक्तम्",
+    "uktam",
+    "said",
+    "vac"
+   ],
+   [
+    "ऋषिणा",
+    "ṛṣiṇā",
+    "by the seer",
+    "ṛṣi"
+   ],
+   [
+    "गर्भे",
+    "garbhe",
+    "in the womb",
+    "garbha"
+   ],
+   [
+    "नु",
+    "nu",
+    "now",
+    "nu"
+   ],
+   [
+    "सन्",
+    "san",
+    "being",
+    "as"
+   ],
+   [
+    "अनु",
+    "anu",
+    "after",
+    "anu"
+   ],
+   [
+    "एषाम्",
+    "eṣām",
+    "of these",
+    "idam"
+   ],
+   [
+    "अवेदम्",
+    "avedam",
+    "I knew",
+    "vid"
+   ],
+   [
+    "अहम्",
+    "aham",
+    "I",
+    "mad"
+   ],
+   [
+    "देवानाम्",
+    "devānām",
+    "of the gods",
+    "deva"
+   ],
+   [
+    "जनिमानि",
+    "janimāni",
+    "births",
+    "janiman"
+   ],
+   [
+    "विश्वा",
+    "viśvā",
+    "all",
+    "viśva"
+   ],
+   [
+    "शतम्",
+    "śatam",
+    "a hundred",
+    "śata"
+   ],
+   [
+    "मा",
+    "mā",
+    "me",
+    "mā"
+   ],
+   [
+    "पुरः",
+    "puraḥ",
+    "strongholds",
+    "pur"
+   ],
+   [
+    "आयसीः",
+    "āyasīḥ",
+    "made of iron",
+    "āyasa"
+   ],
+   [
+    "अरक्षन्",
+    "arakṣan",
+    "guarded",
+    "rakṣ"
+   ],
+   [
+    "अध",
+    "adha",
+    "then (DCS adha)",
+    "adha"
+   ],
+   [
+    "श्येनः",
+    "śyenaḥ",
+    "a hawk",
+    "śyena"
+   ],
+   [
+    "जवसा",
+    "javasā",
+    "with swiftness",
+    "javas"
+   ],
+   [
+    "निः",
+    "niḥ",
+    "out",
+    "niḥ"
+   ],
+   [
+    "अदीयम्",
+    "adīyam",
+    "I flew",
+    "dī"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "गर्भे",
+    "garbhe",
+    "in the womb",
+    "garbha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "शयानः",
+    "śayānaḥ",
+    "lying",
+    "śī"
+   ],
+   [
+    "वामदेवः",
+    "vāmadevaḥ",
+    "Vāmadeva, the seer",
+    "vāmadeva"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "उवाच",
+    "uvāca",
+    "said",
+    "vac"
+   ]
+  ],
+  "tr": {
+   "text": "This fact was stated by the seer (i.e. mantra): “Even while lying in the womb, I came to know of the birth of all the gods. A hundred iron citadels held me down. Then, like a hawk, I forced my way through by dint of knowledge of the Self”. Vamadeva said this while still lying in the mother’s womb.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.5.mp3",
+   "whole": [
+    594.3,
+    621.38
+   ]
+  },
+  "hasBhashya": false,
+  "order": 29
+ },
+ {
+  "id": "AiU_2.1.6",
+  "ref": "2.1.6",
+  "section": "Adhyāya 2 · Khaṇḍa 1",
+  "sa": [
+   "स एवं विद्वानस्माच्छरीरभेदादूर्ध्व उत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान् कामानाप्त्वामृतः समभवत्समभवत् ॥ ६ ॥"
+  ],
+  "iast": [
+   "sa evaṃ vidvānasmāccharīrabhedādūrdhva utkramyāmuṣmin svarge loke sarvān kāmānāptvāmṛtaḥ samabhavatsamabhavat ॥ 6 ॥"
+  ],
+  "alt": [
+   {
+    "text": "And because he knew this, therefore when the strings of the body were snapped asunder, lo he soared forth into yonder world of Paradise & there having possessed all desires, put death behind him, yea, he put death behind him.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 204",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "thus",
+    "evam"
+   ],
+   [
+    "विद्वान्",
+    "vidvān",
+    "knowing",
+    "vid"
+   ],
+   [
+    "अस्मात्",
+    "asmāt",
+    "from this",
+    "idam"
+   ],
+   [
+    "शरीर",
+    "śarīra",
+    "body (compound member)",
+    "śarīra"
+   ],
+   [
+    "भेदात्",
+    "bhedāt",
+    "from the breaking",
+    "bheda"
+   ],
+   [
+    "ऊर्ध्वः",
+    "ūrdhvaḥ",
+    "upward",
+    "ūrdhvam"
+   ],
+   [
+    "उत्क्रम्य",
+    "utkramya",
+    "having departed",
+    "utkram"
+   ],
+   [
+    "अमुष्मिन्",
+    "amuṣmin",
+    "in that yonder",
+    "adas"
+   ],
+   [
+    "स्वर्गे",
+    "svarge",
+    "in heaven",
+    "svarga"
+   ],
+   [
+    "लोके",
+    "loke",
+    "in the world",
+    "loka"
+   ],
+   [
+    "सर्वान्",
+    "sarvān",
+    "all",
+    "sarva"
+   ],
+   [
+    "कामान्",
+    "kāmān",
+    "desires",
+    "kāma"
+   ],
+   [
+    "आप्त्वा",
+    "āptvā",
+    "having obtained",
+    "āp"
+   ],
+   [
+    "अमृतः",
+    "amṛtaḥ",
+    "immortal",
+    "amṛta"
+   ],
+   [
+    "समभवत्",
+    "samabhavat",
+    "became",
+    "sambhū"
+   ],
+   [
+    "समभवत्",
+    "samabhavat",
+    "became",
+    "sambhū"
+   ]
+  ],
+  "tr": {
+   "text": "He who had known thus (had) become identified with the Supreme, and attained all desirable things (even here); and having (then) ascended higher up after the destruction of the body, he became immortal, in the world of the Self. He became immortal.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.4.6.mp3",
+   "whole": [
+    622.23,
+    640.02
+   ]
+  },
+  "hasBhashya": true,
+  "order": 30
+ },
+ {
+  "id": "AiU_3.1.1",
+  "ref": "3.1.1",
+  "section": "Adhyāya 3 · Khaṇḍa 1",
+  "sa": [
+   "कोऽयमात्मेति वयमुपास्महे कतरः स आत्मा । येन वा पश्यति येन वा शृणोति येन वा गन्धानाजिघ्रति येन वा वाचं व्याकरोति येन वा स्वादु चास्वादु च विजानाति ॥ १ ॥"
+  ],
+  "iast": [
+   "ko’yamātmeti vayamupāsmahe kataraḥ sa ātmā । yena vā paśyati yena vā śṛṇoti yena vā gandhānājighrati yena vā vācaṃ vyākaroti yena vā svādu cāsvādu ca vijānāti ॥ 1 ॥"
+  ],
+  "alt": [
+   {
+    "text": "Who is this Spirit that we may adore Him? and which of all these is the Spirit? by whom one seeth or by whom one heareth or by whom one smelleth all kinds of perfume or by whom one uttereth clearness of speech or by whom one knoweth the sweet and bitter.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 204",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "कः",
+    "kaḥ",
+    "who?",
+    "ka"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this",
+    "idam"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "self",
+    "ātman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "वयम्",
+    "vayam",
+    "we",
+    "mad"
+   ],
+   [
+    "उपास्महे",
+    "upāsmahe",
+    "we contemplate",
+    "upās"
+   ],
+   [
+    "कतरः",
+    "kataraḥ",
+    "which one?",
+    "katara"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "self",
+    "ātman"
+   ],
+   [
+    "येन",
+    "yena",
+    "by whom",
+    "yad"
+   ],
+   [
+    "वा",
+    "vā",
+    "indeed",
+    "vā"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "dṛś"
+   ],
+   [
+    "येन",
+    "yena",
+    "by whom",
+    "yad"
+   ],
+   [
+    "वा",
+    "vā",
+    "indeed",
+    "vā"
+   ],
+   [
+    "शृणोति",
+    "śṛṇoti",
+    "hears",
+    "śru"
+   ],
+   [
+    "येन",
+    "yena",
+    "by whom",
+    "yad"
+   ],
+   [
+    "वा",
+    "vā",
+    "indeed",
+    "vā"
+   ],
+   [
+    "गन्धान्",
+    "gandhān",
+    "odours",
+    "gandha"
+   ],
+   [
+    "आजिघ्रति",
+    "ājighrati",
+    "smells",
+    "ghrā"
+   ],
+   [
+    "येन",
+    "yena",
+    "by whom",
+    "yad"
+   ],
+   [
+    "वा",
+    "vā",
+    "indeed",
+    "vā"
+   ],
+   [
+    "वाचम्",
+    "vācam",
+    "speech",
+    "vāc"
+   ],
+   [
+    "व्याकरोति",
+    "vyākaroti",
+    "articulates",
+    "vyākṛ"
+   ],
+   [
+    "येन",
+    "yena",
+    "by whom",
+    "yad"
+   ],
+   [
+    "वा",
+    "vā",
+    "indeed",
+    "vā"
+   ],
+   [
+    "स्वादु",
+    "svādu",
+    "sweet",
+    "svādu"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अस्वादु",
+    "asvādu",
+    "not sweet",
+    "asvādu"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "विजानाति",
+    "vijānāti",
+    "distinguishes",
+    "vijñā"
+   ]
+  ],
+  "tr": {
+   "text": "What is It that we worship as this Self ? Which of the two is the Self ? Is It that by which one sees, or that by which one hears, or that by which one smells odour, or that by which one utters speech, or that by which one tastes the sweet or the sour ?",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.1.mp3",
+   "whole": [
+    639.44,
+    664.12
+   ]
+  },
+  "hasBhashya": true,
+  "order": 31
+ },
+ {
+  "id": "AiU_3.1.2",
+  "ref": "3.1.2",
+  "section": "Adhyāya 3 · Khaṇḍa 1",
+  "sa": [
+   "यदेतद्धृदयं मनश्चैतत् । संज्ञानमाज्ञानं विज्ञानं प्रज्ञानं मेधा दृष्टिर्धृतिर्मतिर्मनीषा जूतिः स्मृतिः संकल्पः क्रतुरसुः कामो वश इति । सर्वाण्येवैतानि प्रज्ञानस्य नामधेयानि भवन्ति ॥ २ ॥"
+  ],
+  "iast": [
+   "yadetaddhṛdayaṃ manaścaitat । saṃjñānamājñānaṃ vijñānaṃ prajñānaṃ medhā dṛṣṭirdhṛtirmatirmanīṣā jūtiḥ smṛtiḥ saṃkalpaḥ kraturasuḥ kāmo vaśa iti । sarvāṇyevaitāni prajñānasya nāmadheyāni bhavanti ॥ 2 ॥"
+  ],
+  "alt": [
+   {
+    "text": "This which is the heart, is mind also. Concept and will and analysis and wisdom and intellect and vision and continuity of purpose and feeling and understanding, pain and memory and volition and operation of thought and vitality and desire and passion, all these, yea all, are but names of the Eternal Wisdom.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 204",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "हृदयम्",
+    "hṛdayam",
+    "heart",
+    "hṛdaya"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "संज्ञानम्",
+    "saṃjñānam",
+    "recognition",
+    "saṃjñāna"
+   ],
+   [
+    "आज्ञानम्",
+    "ājñānam",
+    "perceptive awareness",
+    "ājñāna"
+   ],
+   [
+    "विज्ञानम्",
+    "vijñānam",
+    "discernment",
+    "vijñāna"
+   ],
+   [
+    "प्रज्ञानम्",
+    "prajñānam",
+    "consciousness",
+    "prajñāna"
+   ],
+   [
+    "मेधा",
+    "medhā",
+    "intellect",
+    "medhā"
+   ],
+   [
+    "दृष्टिः",
+    "dṛṣṭiḥ",
+    "vision",
+    "dṛṣṭi"
+   ],
+   [
+    "धृतिः",
+    "dhṛtiḥ",
+    "steadfastness",
+    "dhṛti"
+   ],
+   [
+    "मतिः",
+    "matiḥ",
+    "thought",
+    "mati"
+   ],
+   [
+    "मनीषा",
+    "manīṣā",
+    "reflective understanding",
+    "manīṣā"
+   ],
+   [
+    "जूतिः",
+    "jūtiḥ",
+    "impulse",
+    "jūti"
+   ],
+   [
+    "स्मृतिः",
+    "smṛtiḥ",
+    "memory",
+    "smṛti"
+   ],
+   [
+    "संकल्पः",
+    "saṃkalpaḥ",
+    "conception",
+    "saṃkalpa"
+   ],
+   [
+    "क्रतुः",
+    "kratuḥ",
+    "intelligent resolve",
+    "kratu"
+   ],
+   [
+    "असुः",
+    "asuḥ",
+    "life",
+    "asu"
+   ],
+   [
+    "कामः",
+    "kāmaḥ",
+    "desire",
+    "kāma"
+   ],
+   [
+    "वशः",
+    "vaśaḥ",
+    "will",
+    "vaśa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "सर्वाणि",
+    "sarvāṇi",
+    "all",
+    "sarva"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "एतानि",
+    "etāni",
+    "these",
+    "etad"
+   ],
+   [
+    "प्रज्ञानस्य",
+    "prajñānasya",
+    "of consciousness",
+    "prajñāna"
+   ],
+   [
+    "नामधेयानि",
+    "nāmadheyāni",
+    "names",
+    "nāmadheya"
+   ],
+   [
+    "भवन्ति",
+    "bhavanti",
+    "become",
+    "bhū"
+   ]
+  ],
+  "tr": {
+   "text": "It is this heart (intellect) and this mind that were stated earlier. It is sentience, rulership, secular knowledge, presence of mind, retentiveness, sense-perception, fortitude, thinking, genius, mental suffering, memory, ascertainment resolution, life-activities, hankering, passion and such others. All these verily are the names of Consciousness.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.2.mp3",
+   "whole": [
+    664.25,
+    697.16
+   ]
+  },
+  "hasBhashya": true,
+  "order": 32
+ },
+ {
+  "id": "AiU_3.1.3",
+  "ref": "3.1.3",
+  "section": "Adhyāya 3 · Khaṇḍa 1",
+  "sa": [
+   "एष ब्रह्मैष इन्द्र एष प्रजापतिरेते सर्वे देवा इमानि च पञ्च महाभूतानि पृथिवी वायुराकाश आपो ज्योतींषीत्येतानीमानि च क्षुद्रमिश्राणीव । बीजानीतराणि चेतराणि चाण्डजानि च जारुजानि च स्वेदजानि चोद्भिज्जानि चाश्वा गावः पुरुषा हस्तिनो यत्किञ्चेदं प्राणि जङ्गमं च पतत्रि च यच्च स्थावरं सर्वं तत् प्रज्ञानेत्रं प्रज्ञाने प्रतिष्ठितं प्रज्ञानेत्रो लोकः प्रज्ञा प्रतिष्ठा प्रज्ञानं ब्रह्म ॥ ३ ॥"
+  ],
+  "iast": [
+   "eṣa brahmaiṣa indra eṣa prajāpatirete sarve devā imāni ca pañca mahābhūtāni pṛthivī vāyurākāśa āpo jyotīṃṣītyetānīmāni ca kṣudramiśrāṇīva । bījānītarāṇi cetarāṇi cāṇḍajāni ca jārujāni ca svedajāni codbhijjāni cāśvā gāvaḥ puruṣā hastino yatkiñcedaṃ prāṇi jaṅgamaṃ ca patatri ca yacca sthāvaraṃ sarvaṃ tat prajñānetraṃ prajñāne pratiṣṭhitaṃ prajñānetro lokaḥ prajñā pratiṣṭhā prajñānaṃ brahma ॥ 3 ॥"
+  ],
+  "alt": [
+   {
+    "text": "This creating Brahma; this ruling Indra; this Prajapati Father of his peoples; all these Gods and these five elemental substances, even earth, air, ether, water and the shining principles; and these great creatures and those small; and seeds of either sort; and things egg-born and things sweat-born and things born of the womb and plants that sprout; and horses and cattle and men and elephants; yea, whatsoever thing here breatheth and all that moveth and everything that hath wings and whatso moveth not; by Wisdom all these are guided and have their firm abiding in Wisdom. For Wisdom is the eye of the world, Wisdom is the sure foundation, Wisdom is Brahman Eternal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 205",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एष",
+    "eṣa",
+    "this",
+    "etad"
+   ],
+   [
+    "ब्रह्मा",
+    "brahmā",
+    "Brahmā",
+    "brahman"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this",
+    "etad"
+   ],
+   [
+    "इन्द्रः",
+    "indraḥ",
+    "Indra",
+    "indra"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this",
+    "etad"
+   ],
+   [
+    "प्रजापतिः",
+    "prajāpatiḥ",
+    "Prajāpati",
+    "prajāpati"
+   ],
+   [
+    "एते",
+    "ete",
+    "these",
+    "etad"
+   ],
+   [
+    "सर्वे",
+    "sarve",
+    "all",
+    "sarva"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "deva"
+   ],
+   [
+    "इमानि",
+    "imāni",
+    "these",
+    "idam"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "पञ्च",
+    "pañca",
+    "five",
+    "pañcan"
+   ],
+   [
+    "महाभूतानि",
+    "mahābhūtāni",
+    "great elements",
+    "mahābhūta"
+   ],
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyu"
+   ],
+   [
+    "आकाशः",
+    "ākāśaḥ",
+    "ether",
+    "ākāśa"
+   ],
+   [
+    "अपः",
+    "apaḥ",
+    "waters",
+    "ap"
+   ],
+   [
+    "ज्योतींषि",
+    "jyotīṃṣi",
+    "lights",
+    "jyotis"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "एतानि",
+    "etāni",
+    "these",
+    "etad"
+   ],
+   [
+    "इमानि",
+    "imāni",
+    "these",
+    "idam"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "क्षुद्र",
+    "kṣudra",
+    "small",
+    "kṣudra"
+   ],
+   [
+    "मिश्राणि",
+    "miśrāṇi",
+    "mixed",
+    "miśra"
+   ],
+   [
+    "इव",
+    "iva",
+    "as if",
+    "iva"
+   ],
+   [
+    "बीजानि",
+    "bījāni",
+    "seeds",
+    "bīja"
+   ],
+   [
+    "इतराणि",
+    "itarāṇi",
+    "the others",
+    "itara"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "इतराणि",
+    "itarāṇi",
+    "the others",
+    "itara"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अण्ड",
+    "aṇḍa",
+    "egg (compound member)",
+    "aṇḍa"
+   ],
+   [
+    "जानि",
+    "jāni",
+    "born",
+    "ja"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "जारुजानि",
+    "jārujāni",
+    "born from the womb",
+    "jārujāni"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "स्वेद",
+    "sveda",
+    "sweat",
+    "sveda"
+   ],
+   [
+    "जानि",
+    "jāni",
+    "born",
+    "ja"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "उद्भिद्",
+    "udbhid",
+    "sprouting",
+    "udbhid"
+   ],
+   [
+    "जानि",
+    "jāni",
+    "born",
+    "ja"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अश्वाः",
+    "aśvāḥ",
+    "horses",
+    "aśva"
+   ],
+   [
+    "गावः",
+    "gāvaḥ",
+    "cattle",
+    "go"
+   ],
+   [
+    "पुरुषाः",
+    "puruṣāḥ",
+    "human beings",
+    "puruṣa"
+   ],
+   [
+    "हस्तिनः",
+    "hastinaḥ",
+    "elephants",
+    "hastin"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "किंच",
+    "kiṃca",
+    "anything whatsoever",
+    "kiṃca"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "प्राणि",
+    "prāṇi",
+    "living",
+    "prāṇin"
+   ],
+   [
+    "जङ्गमम्",
+    "jaṅgamam",
+    "moving",
+    "jaṅgama"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "पतत्रि",
+    "patatri",
+    "winged",
+    "patatrin"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "स्थावरम्",
+    "sthāvaram",
+    "stationary",
+    "sthāvara"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "प्रज्ञा",
+    "prajñā",
+    "wisdom",
+    "prajñā"
+   ],
+   [
+    "नेत्रम्",
+    "netram",
+    "guidance",
+    "netra"
+   ],
+   [
+    "प्रज्ञाने",
+    "prajñāne",
+    "in consciousness",
+    "prajñāna"
+   ],
+   [
+    "प्रतिष्ठितम्",
+    "pratiṣṭhitam",
+    "established",
+    "pratiṣṭhā"
+   ],
+   [
+    "प्रज्ञा",
+    "prajñā",
+    "wisdom",
+    "prajñā"
+   ],
+   [
+    "नेत्रः",
+    "netraḥ",
+    "having as guide",
+    "netra"
+   ],
+   [
+    "लोकः",
+    "lokaḥ",
+    "world",
+    "loka"
+   ],
+   [
+    "प्रज्ञा",
+    "prajñā",
+    "wisdom",
+    "prajñā"
+   ],
+   [
+    "प्रतिष्ठा",
+    "pratiṣṭhā",
+    "foundation",
+    "pratiṣṭhā"
+   ],
+   [
+    "प्रज्ञानम्",
+    "prajñānam",
+    "consciousness",
+    "prajñāna"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ]
+  ],
+  "tr": {
+   "text": "This One is (the inferior) Brahman; this is Indra, this is Prajapati; this is all these gods; and this is these five elements, viz. earth, air, space, water, fire; and this is all these (big creatures), together with the small ones, that are the procreators of others and referable in pairs – to wit, those that are born of eggs, of wombs, of moisture of the earth, viz. horses, cattle, men, elephants, and all the creatures that there are which move or fly and those which do not move. All these have Consciousness as the giver of their reality; all these are impelled by Consciousness; the universe has Consciousness as its eye and Consciousness is its end. Consciousness is Brahman.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.3.mp3",
+   "whole": [
+    697.56,
+    756.17
+   ]
+  },
+  "hasBhashya": true,
+  "order": 33
+ },
+ {
+  "id": "AiU_3.1.4",
+  "ref": "3.1.4",
+  "section": "Adhyāya 3 · Khaṇḍa 1",
+  "sa": [
+   "स एतेन प्रज्ञेनात्मनास्माल्लोकादुत्क्रम्यामुष्मिन् स्वर्गे लोके सर्वान् कामानाप्त्वामृतः समभवत्समभवत् ॥ ४ ॥"
+  ],
+  "iast": [
+   "sa etena prajñenātmanāsmāllokādutkramyāmuṣmin svarge loke sarvān kāmānāptvāmṛtaḥ samabhavatsamabhavat ॥ 4 ॥"
+  ],
+  "alt": [
+   {
+    "text": "By the strength of the wise and seeing Self the sage having soared up from this world ascended into his other world of Paradise; and there having possessed desire, put death behind him, yea, he put death behind him.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 205",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "एतेन",
+    "etena",
+    "by this",
+    "etad"
+   ],
+   [
+    "प्रज्ञेन",
+    "prajñena",
+    "by the wise",
+    "prajña"
+   ],
+   [
+    "आत्मना",
+    "ātmanā",
+    "by the self",
+    "ātman"
+   ],
+   [
+    "अस्मात्",
+    "asmāt",
+    "from this",
+    "idam"
+   ],
+   [
+    "लोकात्",
+    "lokāt",
+    "from the world",
+    "loka"
+   ],
+   [
+    "उत्क्रम्य",
+    "utkramya",
+    "having departed",
+    "utkram"
+   ],
+   [
+    "अमुष्मिन्",
+    "amuṣmin",
+    "in that yonder",
+    "adas"
+   ],
+   [
+    "स्वर्गे",
+    "svarge",
+    "in heaven",
+    "svarga"
+   ],
+   [
+    "लोके",
+    "loke",
+    "in the world",
+    "loka"
+   ],
+   [
+    "सर्वान्",
+    "sarvān",
+    "all",
+    "sarva"
+   ],
+   [
+    "कामान्",
+    "kāmān",
+    "desires",
+    "kāma"
+   ],
+   [
+    "आप्त्वा",
+    "āptvā",
+    "having obtained",
+    "āp"
+   ],
+   [
+    "अमृतः",
+    "amṛtaḥ",
+    "immortal",
+    "amṛta"
+   ],
+   [
+    "समभवत्",
+    "samabhavat",
+    "became",
+    "sambhū"
+   ],
+   [
+    "समभवत्",
+    "samabhavat",
+    "became",
+    "sambhū"
+   ]
+  ],
+  "tr": {
+   "text": "Through this Self that is Consciousness, he ascended higher up from this world, and getting all desires fulfilled in that heavenly world, he became immortal, he became immortal.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Aitareyopanisad/8.5.4.mp3",
+   "whole": [
+    756.88,
+    773.86
+   ]
+  },
+  "hasBhashya": true,
+  "order": 34
+ }
+]

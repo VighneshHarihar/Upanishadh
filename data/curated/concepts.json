@@ -1,0 +1,1956 @@
+{
+ "categories": {
+  "discernment": "Discernment & choice",
+  "truth": "Truth & falsehood",
+  "knowledge": "Knowledge & its limits",
+  "self": "The self",
+  "practice": "Practice & conduct",
+  "bondage": "What binds",
+  "cosmos": "The cosmos & its source",
+  "path": "Paths & practices",
+  "states": "States of consciousness"
+ },
+ "concepts": [
+  {
+   "id": "shreyas",
+   "sa": "श्रेयस्",
+   "iast": "śreyas",
+   "en": "the lasting good",
+   "category": "discernment",
+   "desc": "What actually serves a person over time, even when it is not what they want now. The Kaṭha names it as one of two things that 'approach' every human being.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.1",
+     "why": "Names the good and the pleasant as two different ends that bind a person differently."
+    },
+    {
+     "verse": "KaU_1.2.2",
+     "why": "The steady one examines both and chooses the good over the pleasant."
+    },
+    {
+     "verse": "KaU_1.2.3",
+     "why": "Yama praises Naciketas for refusing every pleasant offer."
+    }
+   ],
+   "contrasts": [
+    {
+     "with": "preyas",
+     "verse": "KaU_1.2.1",
+     "why": "Kaṭha sets the two side by side: one leads to the good, the other falls short of the goal."
+    }
+   ]
+  },
+  {
+   "id": "preyas",
+   "sa": "प्रेयस्",
+   "iast": "preyas",
+   "en": "the pleasant",
+   "category": "bondage",
+   "desc": "What gratifies now: wealth, praise, comfort, agreement. Not evil in itself, but binding when it is chosen for its own sake.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.1",
+     "why": "The pleasant is the second of the two roads."
+    },
+    {
+     "verse": "KaU_1.2.2",
+     "why": "The dull choose the pleasant for the sake of getting and keeping."
+    },
+    {
+     "verse": "KaU_1.1.23",
+     "why": "Yama offers long life, sons and wealth to turn Naciketas from his question."
+    },
+    {
+     "verse": "KaU_1.1.26",
+     "why": "Naciketas: these pleasures last till tomorrow and wear out the vigour of the senses."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "viveka",
+   "sa": "विवेक",
+   "iast": "viveka",
+   "en": "discernment",
+   "category": "discernment",
+   "desc": "Separating the good from the merely pleasant, the real from the apparent. The Kaṭha's verb is vivinakti: the steady one 'examines and separates'. Śaṅkara compares it to the swan that separates milk from water.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.2",
+     "why": "'Examining both, the steady one separates them' (samparītya vivinakti)."
+    },
+    {
+     "verse": "KaU_1.3.6",
+     "why": "With discernment the mind is held steady and the senses obey, like good horses."
+    },
+    {
+     "verse": "MuU_1.2.12",
+     "why": "Having examined the worlds won by works, the seeker turns away from them."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "satya",
+   "sa": "सत्य",
+   "iast": "satya",
+   "en": "truth",
+   "category": "truth",
+   "desc": "Truthfulness in speech, and the Real itself. 'Truth alone triumphs, not untruth.'",
+   "teaches": [
+    {
+     "verse": "MuU_3.1.6",
+     "why": "Truth alone triumphs, not untruth; by truth the path to the divine is laid."
+    },
+    {
+     "verse": "IU_15",
+     "why": "The face of truth is hidden by a golden vessel; the seeker asks for it to be uncovered."
+    },
+    {
+     "verse": "TU_1.11",
+     "why": "The teacher's parting instruction begins: speak the truth."
+    },
+    {
+     "verse": "ChU_4.4.5",
+     "why": "Gautama accepts Satyakāma because he did not swerve from the truth about himself."
+    },
+    {
+     "verse": "BU_2.3.6",
+     "kw": "satyasya satyam",
+     "why": "Its secret name is ‘the truth of truth’: the life-breaths are truth, and it is their truth."
+    }
+   ],
+   "contrasts": [
+    {
+     "with": "anrta",
+     "verse": "MuU_3.1.6",
+     "why": "Satyam eva jayate, nānṛtam: truth wins, untruth does not."
+    }
+   ]
+  },
+  {
+   "id": "anrta",
+   "sa": "अनृत",
+   "iast": "anṛta",
+   "en": "untruth",
+   "category": "truth",
+   "desc": "Falsehood, including the convenient falsehood. The Praśna warns that one who speaks untruth withers to the root.",
+   "teaches": [
+    {
+     "verse": "PU_6.1",
+     "why": "Sukeśa would rather say 'I do not know' than speak untruth, which withers a person to the root."
+    },
+    {
+     "verse": "MuU_3.1.6",
+     "why": "Untruth does not triumph."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "vidya",
+   "sa": "विद्या",
+   "iast": "vidyā",
+   "en": "knowledge (that frees)",
+   "category": "knowledge",
+   "desc": "Knowledge in the sense that changes the knower, set against avidyā, the ignorance that mistakes the pleasant for the good.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.4",
+     "why": "Knowledge and ignorance lead far apart; Naciketas desires knowledge."
+    },
+    {
+     "verse": "IU_11",
+     "why": "Crossing death by the one, one attains immortality by the other."
+    },
+    {
+     "verse": "ChU_7.1.3",
+     "kw": "tarati śokam",
+     "why": "I know the mantras but not the Self, says Nārada; I have heard that the knower of the Self crosses over sorrow."
+    }
+   ],
+   "contrasts": [
+    {
+     "with": "avidya",
+     "verse": "KaU_1.2.4",
+     "why": "'Widely opposed and leading to different ends are these two: ignorance and what is known as knowledge.'"
+    }
+   ]
+  },
+  {
+   "id": "avidya",
+   "sa": "अविद्या",
+   "iast": "avidyā",
+   "en": "ignorance",
+   "category": "knowledge",
+   "desc": "Not mere lack of facts: the confident misreading of what matters. Its signature is thinking oneself wise.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.4",
+     "why": "Ignorance is the opposite road to knowledge."
+    },
+    {
+     "verse": "KaU_1.2.5",
+     "why": "Living in ignorance yet thinking themselves wise, they wander like the blind led by the blind."
+    },
+    {
+     "verse": "MuU_1.2.8",
+     "why": "The same verse, repeated in the Muṇḍaka."
+    },
+    {
+     "verse": "IU_9",
+     "why": "Those who worship ignorance enter blinding darkness."
+    },
+    {
+     "verse": "BU_4.4.10",
+     "kw": "tamaḥ praviśanti",
+     "why": "Into blind darkness enter those who worship ignorance; into a greater darkness those who delight in knowledge alone."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "para-vidya",
+   "sa": "परा विद्या",
+   "iast": "parā vidyā",
+   "en": "the higher knowledge",
+   "category": "knowledge",
+   "desc": "The knowledge by which the imperishable is grasped, as distinct from all learning about it.",
+   "teaches": [
+    {
+     "verse": "MuU_1.1.4",
+     "why": "Two kinds of knowledge are to be known, the higher and the lower."
+    },
+    {
+     "verse": "MuU_1.1.5",
+     "why": "The higher is that by which the imperishable is attained."
+    }
+   ],
+   "contrasts": [
+    {
+     "with": "apara-vidya",
+     "verse": "MuU_1.1.4",
+     "why": "The Muṇḍaka opens its teaching with this division."
+    }
+   ]
+  },
+  {
+   "id": "apara-vidya",
+   "sa": "अपरा विद्या",
+   "iast": "aparā vidyā",
+   "en": "the lower knowledge",
+   "category": "knowledge",
+   "desc": "All learning, including the Vedas themselves, when it is information about the goal rather than arrival at it.",
+   "teaches": [
+    {
+     "verse": "MuU_1.1.5",
+     "why": "The four Vedas and the six auxiliary sciences are counted as the lower knowledge."
+    },
+    {
+     "verse": "ChU_7.1.3",
+     "why": "Nārada has mastered every science, yet says: 'I know only the texts, not the Self.'"
+    },
+    {
+     "verse": "KaU_1.2.23",
+     "why": "The Self is not attained by discourse, intellect or much learning."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "avijnata",
+   "sa": "अविज्ञात",
+   "iast": "avijñāta",
+   "en": "knowing that one does not know",
+   "category": "knowledge",
+   "desc": "The Kena's paradox of humility: it is understood by those who do not claim to understand it, and not understood by those who do.",
+   "teaches": [
+    {
+     "verse": "KeU_2.1",
+     "why": "'If you think you know it well, you surely know very little.'"
+    },
+    {
+     "verse": "KeU_2.2",
+     "why": "'I do not think I know it well, nor that I do not know it.'"
+    },
+    {
+     "verse": "KeU_2.3",
+     "why": "'It is not understood by those who understand; it is understood by those who do not.'"
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "abhimana",
+   "sa": "अभिमान",
+   "iast": "abhimāna",
+   "en": "conceit",
+   "category": "bondage",
+   "desc": "The pride of the one who thinks the victory, or the knowledge, is their own. In later texts this is ahaṃkāra.",
+   "teaches": [
+    {
+     "verse": "KeU_3.1",
+     "why": "The gods thought, 'This victory is ours, this glory is ours.'"
+    },
+    {
+     "verse": "ChU_6.1.2",
+     "why": "Śvetaketu returns from study conceited, thinking himself learned, and stiff."
+    },
+    {
+     "verse": "KeU_2.1",
+     "why": "Thinking 'I know it well' is the mark of knowing little."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "buddhi-sarathi",
+   "sa": "बुद्धिः सारथिः",
+   "iast": "buddhi as sārathi",
+   "en": "the intellect as charioteer",
+   "category": "self",
+   "desc": "The Kaṭha's chariot: the self is the rider, the body the chariot, the intellect the charioteer, the mind the reins, the senses the horses. The reins stay with the one who rides.",
+   "teaches": [
+    {
+     "verse": "KaU_1.3.3",
+     "why": "Know the self as the rider, the body as the chariot, the intellect as the charioteer, the mind as the reins."
+    },
+    {
+     "verse": "KaU_1.3.9",
+     "why": "One whose charioteer is discernment and who holds the reins of the mind reaches the end of the road."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "indriya",
+   "sa": "इन्द्रिय",
+   "iast": "indriya",
+   "en": "the senses (the horses)",
+   "category": "bondage",
+   "desc": "The horses of the chariot. Unreined, they run wherever their objects pull them.",
+   "teaches": [
+    {
+     "verse": "KaU_1.3.4",
+     "why": "The senses are the horses; their objects are the roads they run on."
+    },
+    {
+     "verse": "KaU_1.3.5",
+     "why": "Without discernment, the senses are like vicious horses."
+    },
+    {
+     "verse": "KaU_2.1.1",
+     "why": "The senses were made outward-turning, so one looks outward, not within."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "pratyak",
+   "sa": "प्रत्यगात्मा",
+   "iast": "pratyag-ātmā",
+   "en": "turning inward",
+   "category": "self",
+   "desc": "Attention turned back towards the one who attends. A rare steady person, 'eyes turned inward', sees the inner self.",
+   "teaches": [
+    {
+     "verse": "KaU_2.1.1",
+     "why": "A rare steady person, desiring immortality, turned the eye inward and saw the inner self."
+    },
+    {
+     "verse": "KaU_2.1.2",
+     "why": "The childish follow outward desires into the wide net of death."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "atman",
+   "sa": "आत्मन्",
+   "iast": "ātman",
+   "en": "the Self",
+   "category": "self",
+   "desc": "What one most essentially is: unborn, undying, the witness of every state.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.18",
+     "why": "The knowing Self is not born and does not die."
+    },
+    {
+     "verse": "MaU_2",
+     "why": "This Self is Brahman; it has four quarters."
+    },
+    {
+     "verse": "IU_6",
+     "why": "One who sees all beings in the Self, and the Self in all, does not recoil from anyone."
+    },
+    {
+     "verse": "BU_1.4.1",
+     "kw": "ātmaivedam agra āsīt",
+     "why": "In the beginning this was the Self alone, in the shape of a person; looking round, it saw nothing but itself."
+    },
+    {
+     "verse": "BU_2.4.5",
+     "kw": "ātmanas tu kāmāya",
+     "why": "Not for the husband’s sake is a husband dear, but for the sake of the Self: Yājñavalkya to Maitreyī."
+    },
+    {
+     "verse": "BU_4.4.22",
+     "kw": "mahān aja ātmā",
+     "why": "This great unborn Self, made of consciousness, lies in the space within the heart, ruler of all."
+    },
+    {
+     "verse": "ChU_8.7.1",
+     "kw": "apahatapāpmā",
+     "why": "The Self free from evil, age, death and sorrow, whose desire and resolve are true: that is to be sought."
+    },
+    {
+     "verse": "ChU_7.25.2",
+     "kw": "ātmaivedaṃ sarvam",
+     "why": "The Self is below, above, behind, before: the Self is all this."
+    },
+    {
+     "verse": "ChU_8.12.1",
+     "kw": "martyaṃ vā idaṃ śarīram",
+     "why": "This body is mortal, held by death; it is the seat of the immortal, bodiless Self."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "brahman",
+   "sa": "ब्रह्मन्",
+   "iast": "brahman",
+   "en": "Brahman, the Real",
+   "category": "self",
+   "desc": "The ground of all that is, identical in the Upanishads' teaching with the Self.",
+   "teaches": [
+    {
+     "verse": "MaU_2",
+     "why": "'All this is Brahman. This Self is Brahman.'"
+    },
+    {
+     "verse": "KeU_1.4",
+     "why": "What speech cannot express but by which speech is expressed: know that to be Brahman."
+    },
+    {
+     "verse": "TU_2.1",
+     "why": "'Brahman is truth, knowledge, infinite.'"
+    },
+    {
+     "verse": "BU_2.3.1",
+     "kw": "dve vāva brahmaṇo rūpe",
+     "why": "There are two forms of Brahman: the formed and the formless, the mortal and the immortal."
+    },
+    {
+     "verse": "ChU_3.14.1",
+     "kw": "sarvaṃ khalv idaṃ brahma",
+     "why": "All this is Brahman; from it all arises, in it all rests, into it all dissolves."
+    },
+    {
+     "verse": "ChU_4.10.5",
+     "kw": "prāṇo brahma",
+     "why": "Life is Brahman, joy is Brahman, space is Brahman: the fires teach Upakosala."
+    },
+    {
+     "verse": "BU_5.1.1",
+     "kw": "khaṃ brahma",
+     "why": "That is full, this is full; from the full the full comes forth. Brahman is space."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "acarya",
+   "sa": "आचार्य",
+   "iast": "ācārya",
+   "en": "the qualified teacher",
+   "category": "practice",
+   "desc": "The one who knows and can show. The Upanishads send the seeker to such a teacher, and warn that the truth taught by an inferior person is not understood.",
+   "teaches": [
+    {
+     "verse": "MuU_1.2.12",
+     "why": "Approach, fuel in hand, a teacher learned in the Veda and established in Brahman."
+    },
+    {
+     "verse": "KaU_1.2.8",
+     "why": "Taught by an inferior person, it is not well understood."
+    },
+    {
+     "verse": "ChU_4.9.3",
+     "kw": "ācāryād dhaiva vidyā",
+     "why": "Knowledge learnt from a teacher alone reaches its best."
+    },
+    {
+     "verse": "ChU_6.14.2",
+     "kw": "ācāryavān",
+     "why": "As a man blindfolded is set on the road to Gandhāra, one who has a teacher comes to know."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "tapas",
+   "sa": "तपस्",
+   "iast": "tapas",
+   "en": "disciplined inquiry",
+   "category": "practice",
+   "desc": "Concentrated effort, here the effort of finding out for oneself. Varuṇa does not hand Bhṛgu the answer; he sends him to inquire.",
+   "teaches": [
+    {
+     "verse": "TU_3.1",
+     "why": "Bhṛgu asks his father to teach him Brahman; he is given clues and told to seek, and he undertakes tapas."
+    },
+    {
+     "verse": "TU_3.2",
+     "why": "Bhṛgu reaches a first answer, returns, and is told again: seek to know Brahman by tapas."
+    },
+    {
+     "verse": "ChU_2.23.1",
+     "kw": "tapa eva dvitīyaḥ",
+     "why": "There are three branches of dharma: sacrifice, study and giving; austerity is the second; the student is the third."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "svadhyaya",
+   "sa": "स्वाध्याय",
+   "iast": "svādhyāya",
+   "en": "one's own study",
+   "category": "practice",
+   "desc": "Study and recitation as one's own practice, never to be neglected, paired in the Taittirīya with teaching others.",
+   "teaches": [
+    {
+     "verse": "TU_1.9",
+     "why": "Every virtue is listed together with 'study and teaching'."
+    },
+    {
+     "verse": "TU_1.11",
+     "why": "'Do not neglect your own study.'"
+    },
+    {
+     "verse": "ChU_8.15.1",
+     "kw": "svādhyāyam",
+     "why": "Having learnt the Veda in the teacher’s house, the householder keeps up his own study in a clean place."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "da",
+   "sa": "दाम्यत दत्त दयध्वम्",
+   "iast": "dāmyata, datta, dayadhvam",
+   "en": "restrain, give, be compassionate",
+   "category": "practice",
+   "desc": "Prajāpati answers gods, humans and demons with the same syllable, Da, and each hears what they most need: self-restraint, giving, compassion.",
+   "teaches": [
+    {
+     "verse": "BU_5.2.1",
+     "why": "To the gods, Da means 'restrain yourselves'."
+    },
+    {
+     "verse": "BU_5.2.2",
+     "why": "To humans, Da means 'give'."
+    },
+    {
+     "verse": "BU_5.2.3",
+     "why": "To the demons, Da means 'be compassionate'; the thunder repeats it."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "kama",
+   "sa": "काम",
+   "iast": "kāma",
+   "en": "desire",
+   "category": "bondage",
+   "desc": "Desire as the seed of will and action: 'as one's desire is, so is one's will; as one's will, so one's deed.'",
+   "teaches": [
+    {
+     "verse": "BU_4.4.5",
+     "why": "A person is made of desire; desire becomes will, will becomes deed, deed becomes destiny."
+    },
+    {
+     "verse": "KaU_2.3.14",
+     "why": "When all desires lodged in the heart fall away, the mortal becomes immortal."
+    },
+    {
+     "verse": "KaU_2.1.2",
+     "why": "The childish run after outward desires."
+    },
+    {
+     "verse": "BU_4.4.6",
+     "kw": "saktaḥ saha karmaṇaiti",
+     "why": "Attached, one goes with one’s deed to where the mind is set; the one without desire, being Brahman, goes to Brahman."
+    },
+    {
+     "verse": "BU_4.4.12",
+     "kw": "kasya kāmāya",
+     "why": "If a person knows the Self as ‘I am this’, wishing for what, for whose sake, would he suffer along with the body?"
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "bhuman",
+   "sa": "भूमन्",
+   "iast": "bhūman",
+   "en": "the boundless",
+   "category": "self",
+   "desc": "Sanatkumāra's final teaching to Nārada: joy is in the boundless, not in the small.",
+   "teaches": [
+    {
+     "verse": "ChU_7.23.1",
+     "why": "'The boundless is joy; there is no joy in the small.'"
+    },
+    {
+     "verse": "ChU_7.24.1",
+     "why": "Where one sees nothing else, hears nothing else: that is the boundless."
+    },
+    {
+     "verse": "ChU_7.26.2",
+     "kw": "na paśyo mṛtyuṃ paśyati",
+     "why": "The one who sees this sees no death, no sickness, no sorrow; seeing, he sees all and attains all."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "sakshin",
+   "sa": "साक्षी",
+   "iast": "sākṣī",
+   "en": "the one who looks on",
+   "category": "self",
+   "desc": "Of two birds on one tree, one eats the sweet fruit and the other only looks on. The verse's word is abhicākaśīti, 'looks on'; the commentators call this witness the Self.",
+   "teaches": [
+    {
+     "verse": "MuU_3.1.1",
+     "why": "The other bird, not eating, looks on."
+    },
+    {
+     "verse": "MuU_3.1.2",
+     "why": "When the grieving bird sees the other, the Lord, its sorrow ends."
+    },
+    {
+     "verse": "BU_3.7.23",
+     "kw": "adṛṣṭo draṣṭā",
+     "why": "The unseen seer, the unheard hearer, the unthought thinker: the inner controller."
+    },
+    {
+     "verse": "BU_4.3.23",
+     "kw": "draṣṭur dṛṣṭer viparilopo",
+     "why": "There is no break in the seeing of the seer, for it is imperishable."
+    },
+    {
+     "verse": "BU_2.4.14",
+     "kw": "dvaitam iva",
+     "why": "Where there is a seeming duality one sees another; where all has become the Self, by what could one know the knower?"
+    }
+   ],
+   "contrasts": [
+    {
+     "with": "bhoktr",
+     "verse": "MuU_3.1.1",
+     "why": "Two birds, companions on one tree: one eats the sweet fruit, the other looks on."
+    }
+   ]
+  },
+  {
+   "id": "bhoktr",
+   "sa": "भोक्तृ",
+   "iast": "bhoktṛ",
+   "en": "the one who eats the fruit",
+   "category": "bondage",
+   "desc": "The bird that eats the sweet fruit: experience consumed for its taste, and the grief that follows.",
+   "teaches": [
+    {
+     "verse": "MuU_3.1.1",
+     "why": "One bird eats the sweet fruit."
+    },
+    {
+     "verse": "MuU_3.1.2",
+     "why": "Sunk on the same tree, the person grieves, deluded by helplessness."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "turiya",
+   "sa": "तुरीय",
+   "iast": "turīya",
+   "en": "the Fourth",
+   "category": "self",
+   "desc": "Beyond waking, dream and deep sleep: the Self in itself, 'peaceful, auspicious, non-dual'.",
+   "teaches": [
+    {
+     "verse": "MaU_7",
+     "why": "The Fourth is neither inward- nor outward-knowing; it is the Self, to be known."
+    },
+    {
+     "verse": "MaU_12",
+     "why": "The partless OM is the Fourth."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "prana",
+   "sa": "प्राण",
+   "iast": "prāṇa",
+   "en": "breath, life-force",
+   "category": "cosmos",
+   "desc": "The breath that keeps the body alive, and in the Upanishads the power behind every faculty: when it leaves, the senses go with it.",
+   "teaches": [
+    {
+     "verse": "PU_3.1",
+     "kw": "prāṇ",
+     "why": "Kausalya asks where prāṇa comes from and how it enters the body."
+    },
+    {
+     "verse": "KauU_2.1",
+     "kw": "prāṇ",
+     "why": "‘Prāṇa is Brahman,’ said Kauṣītaki."
+    },
+    {
+     "verse": "ChU_1.11.5",
+     "kw": "prāṇ",
+     "why": "All beings enter into prāṇa and rise out of it."
+    },
+    {
+     "verse": "ChU_5.1.1",
+     "kw": "prāṇo vāva jyeṣṭhaś ca",
+     "why": "Breath is the eldest and the best of the powers."
+    },
+    {
+     "verse": "ChU_7.15.1",
+     "kw": "prāṇo vāva āśāyā bhūyān",
+     "why": "Breath is greater than hope: everything is fixed in it, as spokes in the hub of a wheel."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "om",
+   "sa": "ॐ",
+   "iast": "oṃ",
+   "en": "the syllable OM",
+   "category": "path",
+   "desc": "The sacred syllable that stands for Brahman. Chanted, it gathers the mind; understood, it maps waking, dream, deep sleep and the Fourth.",
+   "teaches": [
+    {
+     "verse": "MaU_1",
+     "kw": "om ity",
+     "why": "OM is all this: past, present, future and what lies beyond."
+    },
+    {
+     "verse": "KaU_1.2.15",
+     "kw": "om ity",
+     "why": "The word all the Vedas proclaim is OM."
+    },
+    {
+     "verse": "MuU_2.2.4",
+     "kw": "praṇav",
+     "why": "OM is the bow, the self the arrow, Brahman the target."
+    },
+    {
+     "verse": "ChU_1.1.1",
+     "kw": "om ity",
+     "why": "Meditate on OM, the Udgītha."
+    },
+    {
+     "verse": "ChU_2.23.3",
+     "kw": "oṃkāreṇa sarvā vāk",
+     "why": "As leaves are held together by a stalk, all speech is held together by OM; OM is all this."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "pancakosha",
+   "sa": "पञ्चकोश",
+   "iast": "pañca-kośa",
+   "en": "the five sheaths",
+   "category": "self",
+   "desc": "The Taittirīya peels the person like layers: food, breath, mind, understanding and bliss, each finer than the last, the Self within them all.",
+   "teaches": [
+    {
+     "verse": "TU_2.1",
+     "kw": "nnarasamaya",
+     "why": "The person made of the essence of food."
+    },
+    {
+     "verse": "TU_2.2",
+     "kw": "prāṇamaya",
+     "why": "Within it, the self made of breath."
+    },
+    {
+     "verse": "TU_2.3",
+     "kw": "manomaya",
+     "why": "Within that, the self made of mind."
+    },
+    {
+     "verse": "TU_2.4",
+     "kw": "vijñānamaya",
+     "why": "Within that, the self made of understanding."
+    },
+    {
+     "verse": "TU_2.5",
+     "kw": "ānandamaya",
+     "why": "Within that, the self made of bliss."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "karma",
+   "sa": "कर्म",
+   "iast": "karma",
+   "en": "action and its fruit",
+   "category": "bondage",
+   "desc": "Deeds shape the doer: as one acts, so one becomes. The Upanishads accept the law and look for what is free of it.",
+   "teaches": [
+    {
+     "verse": "BU_4.4.5",
+     "kw": "karma",
+     "why": "As one acts, so one becomes; one attains what one does."
+    },
+    {
+     "verse": "IU_2",
+     "kw": "karmā",
+     "why": "Doing one's work here, one may wish to live a hundred years; action does not cling."
+    },
+    {
+     "verse": "KaU_2.2.7",
+     "kw": "karma",
+     "why": "Some enter a womb, some a plant, according to their deeds and knowledge."
+    },
+    {
+     "verse": "BU_3.2.13",
+     "kw": "puṇyena karmaṇā",
+     "why": "What remains of a person after death? Yājñavalkya and Ārtabhāga speak of action: one becomes good by good action."
+    },
+    {
+     "verse": "BU_4.4.23",
+     "kw": "na karmaṇā vardhate",
+     "why": "The eternal greatness of the knower of Brahman neither grows nor shrinks by action."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "punarjanma",
+   "sa": "पुनर्जन्म",
+   "iast": "punarjanma",
+   "en": "rebirth",
+   "category": "bondage",
+   "desc": "Living beings ripen like corn and are born again like corn; how one lives decides where one goes next.",
+   "teaches": [
+    {
+     "verse": "KaU_1.1.6",
+     "kw": "punaḥ",
+     "why": "A mortal ripens like corn and like corn is born again."
+    },
+    {
+     "verse": "BU_4.4.3",
+     "kw": "jalāyukā",
+     "why": "As a caterpillar reaches the tip of a blade of grass and draws itself to the next, so the self moves on."
+    },
+    {
+     "verse": "ChU_5.10.7",
+     "kw": "ramaṇīya",
+     "why": "Those whose conduct here was pleasant enter a pleasant womb."
+    },
+    {
+     "verse": "BU_4.4.4",
+     "kw": "peśaskārī",
+     "why": "As a goldsmith works gold into a newer, finer form, the self makes for itself a newer, finer form."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "moksha",
+   "sa": "मोक्ष",
+   "iast": "mokṣa",
+   "en": "freedom",
+   "category": "path",
+   "desc": "Release from bondage, not by going anywhere but by the knots of desire being cut while one still lives.",
+   "teaches": [
+    {
+     "verse": "KaU_2.3.14",
+     "kw": "mṛto bhavat",
+     "why": "When every desire in the heart is let go, the mortal becomes immortal."
+    },
+    {
+     "verse": "KaU_2.3.15",
+     "kw": "granth",
+     "why": "When the knots of the heart are cut here, the mortal becomes immortal."
+    },
+    {
+     "verse": "SvU_1.8",
+     "kw": "mucyate",
+     "why": "Knowing God, one is freed from all fetters."
+    },
+    {
+     "verse": "MuU_3.2.8",
+     "kw": "nady",
+     "why": "As rivers lose name and form in the sea, the wise one, freed, reaches the Person."
+    },
+    {
+     "verse": "BU_4.4.7",
+     "kw": "yadā sarve pramucyante",
+     "why": "When all the desires lodged in the heart are let go, the mortal becomes immortal and attains Brahman here."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "two-paths",
+   "sa": "देवयान पितृयाण",
+   "iast": "devayāna, pitṛyāṇa",
+   "en": "the two paths after death",
+   "category": "cosmos",
+   "desc": "The path of the gods leads through flame and light and does not return; the path of the ancestors leads through smoke and the moon and comes back.",
+   "teaches": [
+    {
+     "verse": "ChU_5.10.1",
+     "kw": "rciṣam",
+     "why": "Those who know this go to the flame, to the day, to the bright fortnight…"
+    },
+    {
+     "verse": "ChU_5.10.3",
+     "kw": "dhūmam",
+     "why": "Those who give and sacrifice go to the smoke, to the night, to the moon."
+    },
+    {
+     "verse": "PU_1.10",
+     "kw": "ttareṇa",
+     "why": "By the northern path, seeking the Self, they win the sun and do not return."
+    },
+    {
+     "verse": "BU_6.2.15",
+     "kw": "abhisaṃbhavanti",
+     "why": "The same path of the flame, in the Bṛhadāraṇyaka’s telling of the five fires."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "shraddha",
+   "sa": "श्रद्धा",
+   "iast": "śraddhā",
+   "en": "trust, faith",
+   "category": "practice",
+   "desc": "Not belief against evidence but the trust that makes one act and listen; it entered the boy Naciketas before he went to Death.",
+   "teaches": [
+    {
+     "verse": "KaU_1.1.2",
+     "kw": "śraddh",
+     "why": "Though a boy, faith entered Naciketas as the gifts were led away."
+    },
+    {
+     "verse": "TU_1.11",
+     "kw": "śraddh",
+     "why": "Give with faith; do not give without faith."
+    },
+    {
+     "verse": "ChU_7.19.1",
+     "kw": "śraddh",
+     "why": "When one has faith, one reflects."
+    },
+    {
+     "verse": "MuU_1.2.11",
+     "kw": "śraddh",
+     "why": "Those who live in the forest with austerity and faith go by the sun's door."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "ananda",
+   "sa": "आनन्द",
+   "iast": "ānanda",
+   "en": "bliss",
+   "category": "self",
+   "desc": "The joy that is not pleasure from objects but the nature of the Self; the Taittirīya measures every human and divine joy against it.",
+   "teaches": [
+    {
+     "verse": "TU_2.8",
+     "kw": "ānand",
+     "why": "The measure of bliss: a hundred human joys are one joy of the gandharvas…"
+    },
+    {
+     "verse": "TU_3.6",
+     "kw": "ānand",
+     "why": "Bhṛgu knew bliss as Brahman."
+    },
+    {
+     "verse": "TU_2.9",
+     "kw": "ānand",
+     "why": "One who knows the bliss of Brahman fears nothing."
+    },
+    {
+     "verse": "BU_4.3.33",
+     "kw": "parama ānandaḥ",
+     "why": "The scale of bliss, from the most fortunate of human beings up to the bliss of Brahman."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "rta-dharma",
+   "sa": "ऋत धर्म",
+   "iast": "ṛta, dharma",
+   "en": "order and right",
+   "category": "practice",
+   "desc": "The cosmic order and the right way of living that answers to it; truth spoken is its first form.",
+   "teaches": [
+    {
+     "verse": "TU_1.9",
+     "kw": "ṛtaṃ",
+     "why": "Order, with study and teaching; truth, with study and teaching."
+    },
+    {
+     "verse": "TU_1.11",
+     "kw": "dharmaṃ cara",
+     "why": "Speak the truth; practise dharma."
+    },
+    {
+     "verse": "BU_1.4.14",
+     "kw": "dharma",
+     "why": "There is nothing higher than dharma; through dharma the weak rules the strong."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "neti-neti",
+   "sa": "नेति नेति",
+   "iast": "neti neti",
+   "en": "not this, not this",
+   "category": "knowledge",
+   "desc": "Brahman cannot be described by any 'this'; every definition is set aside so that what remains is not an object at all.",
+   "teaches": [
+    {
+     "verse": "BU_2.3.6",
+     "kw": "neti",
+     "why": "Now the teaching: not this, not this; for there is nothing higher than this 'not'."
+    },
+    {
+     "verse": "BU_3.9.26",
+     "kw": "neti",
+     "why": "That Self is not this, not this: ungraspable, for it is not grasped."
+    },
+    {
+     "verse": "BU_4.4.22",
+     "kw": "neti",
+     "why": "That Self is not this, not this."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "mahavakya",
+   "sa": "महावाक्य",
+   "iast": "mahāvākya",
+   "en": "the great sayings",
+   "category": "self",
+   "desc": "Four short sentences, one from each Veda, that state the identity of the Self and Brahman.",
+   "teaches": [
+    {
+     "verse": "AiU_3.1.3",
+     "kw": "prajñānaṃ brahma",
+     "why": "Consciousness is Brahman (Ṛgveda)."
+    },
+    {
+     "verse": "BU_1.4.10",
+     "kw": "brahmāsm",
+     "why": "I am Brahman (Yajurveda)."
+    },
+    {
+     "verse": "ChU_6.8.7",
+     "kw": "tattvamasi",
+     "why": "That thou art (Sāmaveda)."
+    },
+    {
+     "verse": "MaU_2",
+     "kw": "ayamātmā brahma",
+     "why": "This Self is Brahman (Atharvaveda)."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "vidya-upasana",
+   "sa": "उपासना",
+   "iast": "upāsanā, vidyā",
+   "en": "the meditations",
+   "category": "path",
+   "desc": "Named meditations that teach one to see the whole in a single object: Śāṇḍilya's 'all this is Brahman', the space in the heart, the honey of the sun.",
+   "teaches": [
+    {
+     "verse": "ChU_3.14.1",
+     "kw": "sarvaṃ khalv",
+     "why": "All this is Brahman: let one meditate on it in calm."
+    },
+    {
+     "verse": "ChU_8.1.1",
+     "kw": "dahara",
+     "why": "In this city of Brahman is a small lotus, a small space within."
+    },
+    {
+     "verse": "BU_2.5.1",
+     "kw": "madhu",
+     "why": "This earth is the honey of all beings, and all beings are its honey."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "akshara",
+   "sa": "अक्षर",
+   "iast": "akṣara",
+   "en": "the imperishable",
+   "category": "self",
+   "desc": "That which does not decay: Yājñavalkya's answer to Gārgī, under whose command sun and moon stand apart.",
+   "teaches": [
+    {
+     "verse": "MuU_1.1.5",
+     "kw": "akṣaram",
+     "why": "The higher knowledge is that by which the Imperishable is known."
+    },
+    {
+     "verse": "BU_3.8.8",
+     "kw": "akṣaraṃ",
+     "why": "That, Gārgī, the knowers of Brahman call the Imperishable."
+    },
+    {
+     "verse": "BU_3.8.9",
+     "kw": "akṣarasya",
+     "why": "Under the command of this Imperishable, sun and moon are held apart."
+    },
+    {
+     "verse": "KaU_1.2.16",
+     "kw": "akṣaraṃ",
+     "why": "This syllable is Brahman, this syllable is the highest."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "purusha",
+   "sa": "पुरुष",
+   "iast": "puruṣa",
+   "en": "the Person",
+   "category": "cosmos",
+   "desc": "The cosmic Person of the Ṛgveda's hymn, taken inward: beyond the unmanifest there is nothing higher than the Person.",
+   "teaches": [
+    {
+     "verse": "KaU_1.3.11",
+     "kw": "puruṣ",
+     "why": "Beyond the Person there is nothing: that is the end, the highest goal."
+    },
+    {
+     "verse": "SvU_3.8",
+     "kw": "puruṣ",
+     "why": "I know that great Person, sun-coloured, beyond darkness."
+    },
+    {
+     "verse": "MuU_2.1.10",
+     "kw": "puruṣa",
+     "why": "The Person is all this: work, austerity, Brahman, the highest immortal."
+    },
+    {
+     "verse": "ChU_3.12.6",
+     "kw": "sarvā bhūtāni tripād",
+     "why": "Such is its greatness, and the Person is greater still: one quarter of it is all beings, three quarters the immortal in heaven."
+    },
+    {
+     "verse": "BU_2.5.18",
+     "kw": "puraś cakre dvipadaḥ",
+     "why": "He made bodies with two feet and four; the Person entered them all, and dwells in every body."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "antaryamin",
+   "sa": "अन्तर्यामिन्",
+   "iast": "antaryāmin",
+   "en": "the inner controller",
+   "category": "self",
+   "desc": "The one who dwells in every thing yet whom no thing knows, ruling it from within: Yājñavalkya's answer to Uddālaka.",
+   "teaches": [
+    {
+     "verse": "BU_3.7.3",
+     "kw": "antaryām",
+     "why": "He who dwells in the earth, whom the earth does not know, who rules it from within."
+    },
+    {
+     "verse": "BU_3.7.23",
+     "kw": "antaryām",
+     "why": "He is the unseen seer, the unheard hearer: your Self, the inner controller, immortal."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "avastha",
+   "sa": "अवस्थात्रय",
+   "iast": "avasthā-traya",
+   "en": "waking, dream and deep sleep",
+   "category": "states",
+   "desc": "The three states every person passes through each day; the Māṇḍūkya reads them as quarters of the Self, with the Fourth beyond them.",
+   "teaches": [
+    {
+     "verse": "MaU_3",
+     "kw": "jāgarit",
+     "why": "The first quarter: the waking state, knowing outward."
+    },
+    {
+     "verse": "MaU_4",
+     "kw": "svapna",
+     "why": "The second quarter: the dream state, knowing inward."
+    },
+    {
+     "verse": "MaU_5",
+     "kw": "suṣupt",
+     "why": "The third quarter: deep sleep, where one desires nothing and sees no dream."
+    },
+    {
+     "verse": "BU_4.3.9",
+     "kw": "svapnasthānam",
+     "why": "This person has two places, this world and the next; dream is the third, where the two meet."
+    },
+    {
+     "verse": "BU_4.3.19",
+     "kw": "śyeno vā suparṇo",
+     "why": "As a falcon, tired of flying, folds its wings and comes to rest, so the person hastens to deep sleep."
+    },
+    {
+     "verse": "ChU_8.11.1",
+     "kw": "suptaḥ samastaḥ saṃprasannaḥ",
+     "why": "Asleep, whole and serene, knowing no dream: that is the Self, said Prajāpati."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "guna",
+   "sa": "गुण",
+   "iast": "guṇa",
+   "en": "the three qualities of nature",
+   "category": "cosmos",
+   "desc": "Red, white and black, passion, clarity and inertia: the strands of nature that bind the self until it sees through them.",
+   "teaches": [
+    {
+     "verse": "SvU_4.5",
+     "kw": "lohitaśuklakṛṣṇ",
+     "why": "The one unborn, red, white and black, who brings forth many creatures like herself."
+    },
+    {
+     "verse": "SvU_5.7",
+     "kw": "guṇ",
+     "why": "Bound to the qualities, the doer enjoys the fruit of what he does."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "maya",
+   "sa": "माया",
+   "iast": "māyā",
+   "en": "the power of appearance",
+   "category": "cosmos",
+   "desc": "The Lord's power that makes the one appear as many; the Śvetāśvatara names nature itself as māyā.",
+   "teaches": [
+    {
+     "verse": "SvU_4.10",
+     "kw": "māyāṃ",
+     "why": "Know nature as māyā, and the great Lord as the wielder of māyā."
+    },
+    {
+     "verse": "BU_2.5.19",
+     "kw": "māyābhiḥ",
+     "why": "Indra by his powers goes about in many forms."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "ishvara",
+   "sa": "ईश्वर",
+   "iast": "īśvara",
+   "en": "the Lord",
+   "category": "cosmos",
+   "desc": "God as the ruler within all things, hidden in every being; the Īśā and the Śvetāśvatara give the Upanishads' most devotional voice.",
+   "teaches": [
+    {
+     "verse": "IU_1",
+     "kw": "īśā",
+     "why": "All this, whatever moves in this moving world, is pervaded by the Lord."
+    },
+    {
+     "verse": "SvU_6.11",
+     "kw": "eko devaḥ",
+     "why": "The one God, hidden in all beings, all-pervading, the inner Self of all."
+    },
+    {
+     "verse": "SvU_4.11",
+     "kw": "īś",
+     "why": "He who rules over every womb, in whom all this comes together and dissolves."
+    },
+    {
+     "verse": "SvU_4.3",
+     "kw": "tvaṃ strī",
+     "why": "You are woman, you are man, the youth and the maiden, the old man tottering with a staff."
+    },
+    {
+     "verse": "SvU_4.4",
+     "kw": "pataṅgo",
+     "why": "You are the dark-blue bird, the green parrot with red eyes, the thundercloud, the seasons and the seas."
+    },
+    {
+     "verse": "SvU_5.10",
+     "kw": "naiva strī",
+     "why": "It is neither woman nor man nor neuter: it takes whatever body it enters."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "prasada",
+   "sa": "प्रसाद",
+   "iast": "prasāda",
+   "en": "grace",
+   "category": "path",
+   "desc": "The Self is not won by learning or cleverness alone; it reveals itself to the one it chooses, by the grace of the Creator.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.20",
+     "kw": "prasād",
+     "why": "Free of desire and grief, one sees the Self's greatness by the grace of the Creator."
+    },
+    {
+     "verse": "KaU_1.2.23",
+     "kw": "vṛṇute",
+     "why": "It is attained by the one whom it chooses."
+    },
+    {
+     "verse": "SvU_6.21",
+     "kw": "prasād",
+     "why": "By the power of austerity and the grace of God, the sage Śvetāśvatara knew Brahman."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "yoga",
+   "sa": "योग",
+   "iast": "yoga",
+   "en": "yoga, the stilling of the senses",
+   "category": "path",
+   "desc": "Yoking the senses and mind until they are still; the Kaṭha's definition and the Śvetāśvatara's instruction are among the oldest in Indian thought.",
+   "teaches": [
+    {
+     "verse": "KaU_2.3.11",
+     "kw": "yogam",
+     "why": "This firm holding of the senses they call yoga."
+    },
+    {
+     "verse": "KaU_2.3.10",
+     "kw": "pañc",
+     "why": "When the five senses and the mind stand still and the intellect does not stir: the highest state."
+    },
+    {
+     "verse": "SvU_2.8",
+     "kw": "śarīram",
+     "why": "Holding the body steady, upper part erect, let the wise one cross the fearful streams."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "manas",
+   "sa": "मनस्",
+   "iast": "manas",
+   "en": "the mind",
+   "category": "self",
+   "desc": "The mind that thinks is itself driven: the Kena asks by whom it is sent forth.",
+   "teaches": [
+    {
+     "verse": "KeU_1.1",
+     "kw": "manaḥ",
+     "why": "By whom willed and directed does the mind light on its objects?"
+    },
+    {
+     "verse": "KaU_1.3.3",
+     "kw": "manaḥ pragraham",
+     "why": "Know the mind to be the reins."
+    },
+    {
+     "verse": "KeU_1.5",
+     "kw": "manasā",
+     "why": "That which one cannot think with the mind, but by which the mind is thought: know that as Brahman."
+    },
+    {
+     "verse": "ChU_6.5.4",
+     "kw": "annamayaṃ hi somya manaḥ",
+     "why": "The mind, my dear, is made of food; breath of water; speech of fire."
+    },
+    {
+     "verse": "BU_1.5.3",
+     "kw": "manasā hy eva paśyati",
+     "why": "It is with the mind that one sees and with the mind that one hears: desire, resolve, doubt, faith, all this is mind."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "anna",
+   "sa": "अन्न",
+   "iast": "anna",
+   "en": "food, the body",
+   "category": "cosmos",
+   "desc": "Food is the first form of Brahman Bhṛgu learns: all beings are born of food and live by it.",
+   "teaches": [
+    {
+     "verse": "TU_3.2",
+     "kw": "annaṃ brahm",
+     "why": "Bhṛgu knew food as Brahman."
+    },
+    {
+     "verse": "TU_3.10",
+     "kw": "annam",
+     "why": "I am food, I am food, I am food; I am the eater of food."
+    },
+    {
+     "verse": "ChU_6.5.1",
+     "kw": "annam aśitaṃ tredhā",
+     "why": "Food eaten becomes threefold: the coarsest waste, the middle flesh, the finest mind."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "guha",
+   "sa": "गुहा",
+   "iast": "guhā",
+   "en": "the cave of the heart",
+   "category": "self",
+   "desc": "The Self is set in the secret place of the heart, smaller than the small and greater than the great.",
+   "teaches": [
+    {
+     "verse": "KaU_1.2.20",
+     "kw": "guhāy",
+     "why": "Smaller than the small, greater than the great, the Self is set in the cave of this creature."
+    },
+    {
+     "verse": "TU_2.1",
+     "kw": "guhāy",
+     "why": "Who knows Brahman as hidden in the cave, in the highest space."
+    },
+    {
+     "verse": "MuU_2.1.10",
+     "kw": "guhāy",
+     "why": "Who knows it set in the cave cuts the knot of ignorance here."
+    },
+    {
+     "verse": "ChU_8.1.1",
+     "kw": "daharaṃ puṇḍarīkaṃ",
+     "why": "In this city of Brahman is a small lotus-dwelling, and within it a small space: what is inside it is to be sought."
+    },
+    {
+     "verse": "ChU_3.14.3",
+     "kw": "antarhṛdaye",
+     "why": "This Self of mine within the heart is smaller than a grain of rice, greater than the earth, greater than all these worlds."
+    },
+    {
+     "verse": "ChU_8.3.3",
+     "kw": "hṛdy ayam",
+     "why": "This Self is in the heart: hṛdi ayam, ‘in the heart is this’, hence hṛdayam."
+    },
+    {
+     "verse": "ChU_3.13.7",
+     "kw": "antaḥ puruṣe jyotiḥ",
+     "why": "The light that shines beyond heaven is the very light within the person."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "tyaga",
+   "sa": "त्याग",
+   "iast": "tyāga",
+   "en": "letting go",
+   "category": "practice",
+   "desc": "Enjoy by renouncing: the Īśā's first verse, and Yājñavalkya's knowers of Brahman who rise above the desire for sons, wealth and worlds.",
+   "teaches": [
+    {
+     "verse": "IU_1",
+     "kw": "tyaktena",
+     "why": "Enjoy by renunciation; do not covet anyone's wealth."
+    },
+    {
+     "verse": "BU_3.5.1",
+     "kw": "iṣaṇā",
+     "why": "Knowing this Self, they rise above the desire for sons, wealth and worlds."
+    },
+    {
+     "verse": "MuU_3.2.6",
+     "kw": "saṃnyās",
+     "why": "The seekers, purified by renunciation and yoga, reach the worlds of Brahman."
+    },
+    {
+     "verse": "BU_4.4.22",
+     "kw": "pravrājino",
+     "why": "Seeking this world alone, the wandering monks renounce."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "sat",
+   "sa": "सत्",
+   "iast": "sat",
+   "en": "Being",
+   "category": "cosmos",
+   "desc": "In the beginning there was Being alone, one without a second; it thought, may I be many.",
+   "teaches": [
+    {
+     "verse": "ChU_6.2.1",
+     "kw": "sad eva",
+     "why": "In the beginning, my dear, this was Being alone, one only, without a second."
+    },
+    {
+     "verse": "ChU_6.2.3",
+     "kw": "aikṣata",
+     "why": "It thought: may I be many, may I grow forth."
+    },
+    {
+     "verse": "TU_2.7",
+     "kw": "asad",
+     "why": "In the beginning this was non-being; from it being was born."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "srshti",
+   "sa": "सृष्टि",
+   "iast": "sṛṣṭi",
+   "en": "creation from the Self",
+   "category": "cosmos",
+   "desc": "The worlds are not made from outside material: the Self alone was, and it emitted them from itself, as a spider spins its thread.",
+   "teaches": [
+    {
+     "verse": "AiU_1.1.1",
+     "kw": "ātmā vā idam",
+     "why": "In the beginning this was the Self alone; nothing else blinked."
+    },
+    {
+     "verse": "TU_2.6",
+     "kw": "bahu syā",
+     "why": "He desired: may I be many."
+    },
+    {
+     "verse": "BU_1.4.1",
+     "kw": "puruṣavidh",
+     "why": "In the beginning this was the Self alone, in the form of a person."
+    },
+    {
+     "verse": "MuU_1.1.7",
+     "kw": "rṇanābh",
+     "why": "As a spider spins out and draws in its thread, so the universe arises from the Imperishable."
+    },
+    {
+     "verse": "BU_1.4.3",
+     "kw": "dvedhāpātaya",
+     "why": "The Self, alone, found no delight; it wished for a second, and split itself in two."
+    },
+    {
+     "verse": "BU_1.4.7",
+     "kw": "nāmarūpābhyām",
+     "why": "Then this was undifferentiated; it became differentiated by name and form."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "amrta",
+   "sa": "अमृतत्व",
+   "iast": "amṛtatva",
+   "en": "immortality",
+   "category": "path",
+   "desc": "Not endless life in a body but freedom from the fear of death, reached by knowing the Self.",
+   "teaches": [
+    {
+     "verse": "KaU_2.3.14",
+     "kw": "mṛto bhavat",
+     "why": "Then the mortal becomes immortal and attains Brahman here."
+    },
+    {
+     "verse": "BU_1.3.28",
+     "kw": "mṛtaṃ gamaya",
+     "why": "From death lead me to immortality."
+    },
+    {
+     "verse": "KeU_1.2",
+     "kw": "amṛtā bhavanti",
+     "why": "Turning away from this world, the wise become immortal."
+    },
+    {
+     "verse": "BU_2.4.2",
+     "kw": "amṛtatvasya",
+     "why": "There is no hope of immortality through wealth, Yājñavalkya tells Maitreyī."
+    }
+   ],
+   "contrasts": [
+    {
+     "with": "mrtyu",
+     "verse": "KaU_2.3.14",
+     "kw": "mṛto bhavat",
+     "why": "Death is crossed not by escaping the body but by letting go of desire."
+    }
+   ]
+  },
+  {
+   "id": "mrtyu",
+   "sa": "मृत्यु",
+   "iast": "mṛtyu",
+   "en": "death",
+   "category": "bondage",
+   "desc": "The Kaṭha makes Death the teacher; the Bṛhadāraṇyaka says that in the beginning all this was covered by death, which is hunger.",
+   "teaches": [
+    {
+     "verse": "KaU_1.1.20",
+     "kw": "prete",
+     "why": "When a man dies, some say he is, some say he is not: teach me this."
+    },
+    {
+     "verse": "BU_1.2.1",
+     "kw": "mṛtyun",
+     "why": "In the beginning nothing was here; all this was covered by death."
+    },
+    {
+     "verse": "KaU_1.2.18",
+     "kw": "mriyate",
+     "why": "The knowing Self is not born and does not die."
+    },
+    {
+     "verse": "ChU_8.6.4",
+     "kw": "jānāsi",
+     "why": "Around the dying man they ask: do you know me? do you know me?"
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "vairagya",
+   "sa": "वैराग्य",
+   "iast": "vairāgya",
+   "en": "dispassion",
+   "category": "practice",
+   "desc": "Seeing through what is made, one grows weary of it; dispassion is the doorway to the teacher, not a contempt for life.",
+   "teaches": [
+    {
+     "verse": "MuU_1.2.12",
+     "kw": "nirved",
+     "why": "Seeing the worlds won by works, let the seeker grow weary of them."
+    },
+    {
+     "verse": "KaU_1.1.26",
+     "kw": "śvobhāv",
+     "why": "These last only till tomorrow; they wear out the vigour of the senses."
+    },
+    {
+     "verse": "KaU_1.1.27",
+     "kw": "vittena",
+     "why": "A person is not to be satisfied with wealth."
+    },
+    {
+     "verse": "BU_3.5.1",
+     "kw": "vittaiṣaṇāyāś",
+     "why": "Knowing this Self, the wise rise above the desire for sons, for wealth and for worlds, and live as mendicants."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "vac",
+   "sa": "वाच्",
+   "iast": "vāc",
+   "en": "speech",
+   "category": "knowledge",
+   "desc": "Speech is a god among the faculties and the beginning of meditation, yet Brahman is that from which words turn back.",
+   "teaches": [
+    {
+     "verse": "KeU_1.4",
+     "kw": "vācā",
+     "why": "That which is not spoken by speech, but by which speech is spoken."
+    },
+    {
+     "verse": "TU_2.4",
+     "kw": "vāco nivartante",
+     "why": "From which words turn back with the mind, not reaching it."
+    },
+    {
+     "verse": "ChU_7.2.1",
+     "kw": "vāg vāva",
+     "why": "Speech is greater than name."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "yajna",
+   "sa": "यज्ञ",
+   "iast": "yajña",
+   "en": "sacrifice, turned inward",
+   "category": "practice",
+   "desc": "The Upanishads keep the rite but move it within: a person's life is the sacrifice, and the rites alone are leaky boats.",
+   "teaches": [
+    {
+     "verse": "MuU_1.2.7",
+     "kw": "plavā",
+     "why": "These boats of sacrifice are unsafe."
+    },
+    {
+     "verse": "ChU_3.16.1",
+     "kw": "yajñaḥ",
+     "why": "A person, truly, is a sacrifice."
+    },
+    {
+     "verse": "BU_1.1.1",
+     "kw": "aśvasya",
+     "why": "The dawn is the head of the sacrificial horse."
+    },
+    {
+     "verse": "ChU_3.17.1",
+     "kw": "dīkṣāḥ",
+     "why": "Hunger, thirst and not enjoying: these are a person's initiation."
+    },
+    {
+     "verse": "ChU_3.17.5",
+     "kw": "avabhṛthaḥ",
+     "why": "Death is the final bath of this sacrifice."
+    },
+    {
+     "verse": "BU_6.3.5",
+     "kw": "āmaṃsy",
+     "why": "The mantra of the churning rite, offered for greatness."
+    },
+    {
+     "verse": "ChU_3.17.2",
+     "kw": "upasadair",
+     "why": "Eating, drinking and enjoying are its preparatory rites."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "ekatva",
+   "sa": "एकत्व",
+   "iast": "ekatva",
+   "en": "seeing the one in all",
+   "category": "self",
+   "desc": "When one sees all beings in the Self and the Self in all beings, there is no delusion and no grief; to see difference is to go from death to death.",
+   "teaches": [
+    {
+     "verse": "IU_6",
+     "kw": "anupaśyati",
+     "why": "Who sees all beings in the Self and the Self in all beings."
+    },
+    {
+     "verse": "IU_7",
+     "kw": "ekatvam",
+     "why": "For one who sees oneness, what delusion, what sorrow?"
+    },
+    {
+     "verse": "KaU_2.1.10",
+     "kw": "nāneva",
+     "why": "From death to death goes the one who sees as though there were many here."
+    },
+    {
+     "verse": "BU_4.4.19",
+     "kw": "nānāsti",
+     "why": "There is no plurality here at all."
+    },
+    {
+     "verse": "ChU_6.1.4",
+     "kw": "mṛtpiṇḍena",
+     "why": "By one lump of clay all that is made of clay is known: the change is only a name; the clay alone is real."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "hiranyagarbha",
+   "sa": "हिरण्यगर्भ",
+   "iast": "hiraṇyagarbha",
+   "en": "the golden womb",
+   "category": "cosmos",
+   "desc": "The first-born of creation, the cosmic mind; the Śvetāśvatara asks the Lord who brought him forth to give clear understanding.",
+   "teaches": [
+    {
+     "verse": "SvU_3.4",
+     "kw": "hiraṇyagarbh",
+     "why": "He who saw Hiraṇyagarbha born: may he endow us with clear understanding."
+    },
+    {
+     "verse": "SvU_4.12",
+     "kw": "hiraṇyagarbh",
+     "why": "He who saw Hiraṇyagarbha being born."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "id": "rudra",
+   "sa": "रुद्र",
+   "iast": "rudra",
+   "en": "Rudra, the Lord as Śiva",
+   "category": "cosmos",
+   "desc": "The Śvetāśvatara gives the Upanishads' theism its face: one Rudra, who stands against all beings and yet is kind.",
+   "teaches": [
+    {
+     "verse": "SvU_3.2",
+     "kw": "rudr",
+     "why": "Rudra is one; they do not admit a second."
+    },
+    {
+     "verse": "SvU_3.5",
+     "kw": "rudra",
+     "why": "Your form, Rudra, which is auspicious, not terrible."
+    },
+    {
+     "verse": "SvU_4.21",
+     "kw": "rudra",
+     "why": "Rudra, with your gracious face protect me always."
+    }
+   ],
+   "contrasts": []
+  },
+  {
+   "contrasts": [],
+   "id": "parampara",
+   "sa": "परम्परा",
+   "iast": "paramparā",
+   "en": "the line of teachers",
+   "category": "practice",
+   "desc": "Teaching passes from person to person: the Bṛhadāraṇyaka ends its books with the names of those who handed it down, back to Brahman itself.",
+   "teaches": [
+    {
+     "verse": "BU_2.6.1",
+     "kw": "vaṃśaḥ",
+     "why": "Now the line of teachers: Pautimāṣya from Gaupavana…"
+    },
+    {
+     "verse": "BU_4.6.1",
+     "kw": "vaṃśaḥ",
+     "why": "Now the line of teachers, for the Yājñavalkya books."
+    },
+    {
+     "verse": "BU_6.3.7",
+     "kw": "uddālaka",
+     "why": "Uddālaka Āruṇi taught it to his student Yājñavalkya."
+    },
+    {
+     "verse": "BU_6.3.10",
+     "kw": "antevāsin",
+     "why": "Cūla taught it to his student: the rite and its meaning passed on."
+    },
+    {
+     "verse": "BU_2.6.2",
+     "kw": "āgniveśy",
+     "why": "The line continues: Āgniveśya from Śāṇḍilya and Ānabhimlāta…"
+    }
+   ]
+  },
+  {
+   "contrasts": [],
+   "id": "abhaya",
+   "sa": "अभय",
+   "iast": "abhaya",
+   "en": "fearlessness",
+   "category": "self",
+   "desc": "Fear comes from a second; where there is no other, there is nothing to fear. Janaka is told he has reached fearlessness.",
+   "teaches": [
+    {
+     "verse": "BU_1.4.2",
+     "kw": "bibhet",
+     "why": "He was afraid; then he thought: since there is nothing but me, of what am I afraid?"
+    },
+    {
+     "verse": "TU_2.9",
+     "kw": "bibheti",
+     "why": "Knowing the bliss of Brahman, one fears nothing."
+    },
+    {
+     "verse": "BU_4.2.4",
+     "kw": "abhayaṃ",
+     "why": "You have reached fearlessness, Janaka."
+    },
+    {
+     "verse": "ChU_8.11.1",
+     "kw": "amṛtam abhayam",
+     "why": "That is the immortal, the fearless; that is Brahman."
+    }
+   ]
+  },
+  {
+   "contrasts": [],
+   "id": "grhastha",
+   "sa": "गृहस्थ",
+   "iast": "gṛhastha",
+   "en": "the householder's life",
+   "category": "practice",
+   "desc": "The Upanishads do not only speak to renunciants: family, children and continuity are part of a good life.",
+   "teaches": [
+    {
+     "verse": "TU_1.11",
+     "kw": "prajātantuṃ",
+     "why": "Do not cut the line of offspring."
+    },
+    {
+     "verse": "BU_6.4.13",
+     "kw": "jāyām",
+     "why": "The rites of married life and of conceiving a child."
+    },
+    {
+     "verse": "ChU_8.15.1",
+     "kw": "kuṭumbe",
+     "why": "Living as a householder, studying, raising children in virtue."
+    }
+   ]
+  },
+  {
+   "contrasts": [],
+   "id": "sambhuti",
+   "sa": "सम्भूति",
+   "iast": "sambhūti",
+   "en": "the manifest and the unmanifest",
+   "category": "knowledge",
+   "desc": "The Īśā warns against worshipping only the unmanifest or only the manifest: those who know both cross death and reach immortality.",
+   "teaches": [
+    {
+     "verse": "IU_12",
+     "kw": "sambhūt",
+     "why": "Into blind darkness enter those who worship the unmanifest."
+    },
+    {
+     "verse": "IU_13",
+     "kw": "sambhav",
+     "why": "One thing, they say, comes from the manifest; another from the unmanifest."
+    },
+    {
+     "verse": "IU_14",
+     "kw": "sambhūt",
+     "why": "Who knows both together crosses death and attains immortality."
+    }
+   ]
+  }
+ ]
+}

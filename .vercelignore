@@ -1,0 +1,11 @@
+# Keep CLI uploads small and secret-free (Vercel builds from source).
+.cache
+.next
+node_modules
+out
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+public/downloads
+public/tts/piper-worker.js

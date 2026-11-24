@@ -1,0 +1,36 @@
+{
+  "id": "kena",
+  "abbrev": "KeU",
+  "sa": "केनोपनिषद्",
+  "iast": "Kena",
+  "en": "Kena Upanishad",
+  "veda": "Sāmaveda",
+  "levels": [
+    "khaṇḍa",
+    "mantra"
+  ],
+  "scope": "complete",
+  "expect": 34,
+  "order": 2,
+  "tagline": "By whom? The power behind mind and speech, and the gods who mistook it for their own.",
+  "ingest": {
+    "org": "kena",
+    "pdf": {
+      "start": "^Kena Upanishad$",
+      "end": "Here ends the Kenapanishad",
+      "marker": "^([IVX]+)-(\\d{1,2})\\.\\s+(.*)$",
+      "ref": [
+        "R$1",
+        "$2"
+      ],
+      "text": 3
+    },
+    "bhashya": {
+      "book": "kena-upanishad-shankara-bhashya",
+      "translator": "S. Sitarama Sastri",
+      "edition": "Madras, 1898–1905",
+      "crawl": true
+    },
+    "shanti": "Āpyāyantu"
+  }
+}

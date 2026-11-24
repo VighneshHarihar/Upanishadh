@@ -1,0 +1,36 @@
+{
+  "id": "taittiriya",
+  "abbrev": "TU",
+  "sa": "तैत्तिरीयोपनिषद्",
+  "iast": "Taittirīya",
+  "en": "Taittiriya Upanishad",
+  "veda": "Kṛṣṇa Yajurveda",
+  "levels": [
+    "vallī",
+    "anuvāka"
+  ],
+  "scope": "complete",
+  "order": 7,
+  "tagline": "Speak the truth; the five sheaths of the self, from food to bliss; Bhṛgu learns Brahman by inquiry.",
+  "ingest": {
+    "org": "taittiriya",
+    "pdf": {
+      "start": "^Taittiriya Upanishad$",
+      "end": "Here ends the Taittiriyopanishad",
+      "marker": "^([IVXL]+)-([ivxl]+)-(\\d{1,3}(?:-\\d{1,3})?)[:.]\\s*(.*)$",
+      "ref": [
+        "R$1",
+        "R$2"
+      ],
+      "text": 4,
+      "join": true
+    },
+    "shanti": "Saha nāv avatu",
+    "bhashya": {
+      "ocr": "gambhirananda-taittiriya",
+      "translator": "Swami Gambhirananda",
+      "edition": "Eight Upaniṣads, vol. 1 (Advaita Ashrama)"
+    }
+  },
+  "expect": 31
+}

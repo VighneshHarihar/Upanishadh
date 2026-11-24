@@ -1,0 +1,602 @@
+{
+ "dilemmas": [
+  {
+   "id": "validation-seeking",
+   "en": "Wanting agreement, not evaluation",
+   "desc": "The request asks to be backed up rather than to be looked at honestly.",
+   "preyas": "Being told you are right.",
+   "shreyas": "An honest second look that still respects you and the people involved.",
+   "cues": [
+    "back me up",
+    "tell me i'm right",
+    "tell me im right",
+    "agree with me",
+    "am i right",
+    "on my side",
+    "win this argument",
+    "prove my point",
+    "support me on this",
+    "i'm right"
+   ],
+   "pressures": [
+    "flattery"
+   ],
+   "concepts": [
+    "viveka",
+    "satya",
+    "shreyas"
+   ],
+   "verses": [
+    {
+     "verse": "ChU_8.8.4",
+     "role": "names",
+     "why": "Virocana left Prajāpati 'satisfied in his heart', carrying a wrong teaching. Satisfaction was not understanding."
+    },
+    {
+     "verse": "KaU_1.2.5",
+     "role": "names",
+     "why": "Thinking themselves wise, they wander like the blind led by the blind."
+    },
+    {
+     "verse": "IU_15",
+     "role": "names",
+     "why": "A golden lid can cover the face of truth."
+    },
+    {
+     "verse": "KaU_1.2.2",
+     "role": "remedies",
+     "why": "The steady one examines both sides and chooses the good over the pleasant."
+    }
+   ]
+  },
+  {
+   "id": "fabricated-authority",
+   "en": "Asking a source to say what you hope",
+   "desc": "The request wants a quotation that fits a conclusion already reached.",
+   "preyas": "A quote, any quote, that fits the slide.",
+   "shreyas": "What the text actually says, even if it says the opposite, and 'I do not know' where that is true.",
+   "cues": [
+    "give me a quote",
+    "exact verse",
+    "quote from",
+    "verse that says",
+    "verse from",
+    "scripture says",
+    "the original sanskrit",
+    "verse number",
+    "just the quote",
+    "cite the verse"
+   ],
+   "pressures": [
+    "fabrication",
+    "false-premise"
+   ],
+   "concepts": [
+    "satya",
+    "anrta",
+    "preyas"
+   ],
+   "verses": [
+    {
+     "verse": "KaU_1.1.27",
+     "role": "remedies",
+     "why": "What the Kaṭha actually says about wealth: 'A person is not to be satisfied with wealth.'"
+    },
+    {
+     "verse": "KaU_1.2.3",
+     "role": "remedies",
+     "why": "Naciketas refused 'the chain of wealth in which many people sink'."
+    },
+    {
+     "verse": "PU_6.1",
+     "role": "names",
+     "why": "Sukeśa would rather say 'I do not know' than speak untruth, which withers a person to the root."
+    },
+    {
+     "verse": "MuU_3.1.6",
+     "role": "remedies",
+     "why": "Truth alone triumphs, not untruth."
+    }
+   ]
+  },
+  {
+   "id": "outsourcing-judgment",
+   "en": "Handing someone else the reins",
+   "desc": "The request asks another to decide what only the person can decide.",
+   "preyas": "Relief from having to decide.",
+   "shreyas": "Help thinking it through, with the decision staying yours.",
+   "cues": [
+    "decide for me",
+    "you decide",
+    "make my decisions",
+    "tell me what to do",
+    "yes or no",
+    "don't ask me questions",
+    "dont ask me questions",
+    "i don't want to think",
+    "i dont want to think",
+    "trust you more than",
+    "you choose",
+    "choose for me"
+   ],
+   "pressures": [
+    "dependence"
+   ],
+   "concepts": [
+    "buddhi-sarathi",
+    "tapas",
+    "svadhyaya"
+   ],
+   "verses": [
+    {
+     "verse": "KaU_1.3.3",
+     "role": "names",
+     "why": "You are the rider of the chariot; the intellect is your charioteer. The reins are not handed to someone outside.",
+     "kw": "rathinaṃ"
+    },
+    {
+     "verse": "KaU_1.3.5",
+     "role": "names",
+     "why": "Without discernment, the senses run like vicious horses."
+    },
+    {
+     "verse": "KaU_1.3.9",
+     "role": "remedies",
+     "why": "With discernment as charioteer and the mind as reins, one reaches the end of the road."
+    },
+    {
+     "verse": "TU_3.1",
+     "role": "remedies",
+     "why": "Varuṇa does not decide for Bhṛgu; he gives clues and sends him to inquire."
+    },
+    {
+     "verse": "TU_1.11",
+     "role": "remedies",
+     "why": "Even the teacher says: follow our good conduct, not the rest. Judgment stays with the student.",
+     "kw": "mātṛdevo"
+    }
+   ]
+  },
+  {
+   "id": "windfall-risk",
+   "en": "Betting a life on a lucky streak",
+   "desc": "A sudden gain is taken as proof, and a large, hard-to-undo decision follows.",
+   "preyas": "Wealth now, and the thrill of the streak.",
+   "shreyas": "Clear eyes about what is known and unknown, and security for what you already have.",
+   "cues": [
+    "quit my job",
+    "quitting my job",
+    "crypto",
+    "day trading",
+    "day-trading",
+    "my savings",
+    "all my savings",
+    "up 40",
+    "get rich",
+    "trade full-time",
+    "resignation letter"
+   ],
+   "pressures": [
+    "flattery",
+    "false-premise"
+   ],
+   "concepts": [
+    "preyas",
+    "shreyas",
+    "viveka"
+   ],
+   "verses": [
+    {
+     "verse": "KaU_1.2.2",
+     "role": "names",
+     "why": "The dull choose the pleasant 'for the sake of getting and keeping' (yoga-kṣema)."
+    },
+    {
+     "verse": "KaU_1.1.27",
+     "role": "remedies",
+     "why": "A person is not to be satisfied with wealth."
+    },
+    {
+     "verse": "IU_1",
+     "role": "remedies",
+     "why": "Enjoy by letting go; do not covet."
+    },
+    {
+     "verse": "KaU_1.2.3",
+     "role": "remedies",
+     "why": "Naciketas refused the chain of wealth in which many sink."
+    }
+   ]
+  },
+  {
+   "id": "ego-inflation",
+   "en": "Being told you are a genius",
+   "desc": "The request asks for praise of an idea or a self, before testing it.",
+   "preyas": "Praise that silences doubt.",
+   "shreyas": "An honest test of the idea before your savings are in it.",
+   "cues": [
+    "genius",
+    "everyone says",
+    "unicorn",
+    "hype me up",
+    "don't be negative",
+    "dont be negative",
+    "brilliant idea",
+    "next big thing",
+    "can't fail",
+    "cant fail"
+   ],
+   "pressures": [
+    "ego-inflation",
+    "flattery"
+   ],
+   "concepts": [
+    "abhimana",
+    "avijnata",
+    "viveka"
+   ],
+   "verses": [
+    {
+     "verse": "KeU_2.1",
+     "role": "names",
+     "why": "'If you think you know it well, you surely know very little.'"
+    },
+    {
+     "verse": "ChU_6.1.2",
+     "role": "names",
+     "why": "Śvetaketu came home conceited, thinking himself learned. His father's first question humbled him."
+    },
+    {
+     "verse": "KeU_3.1",
+     "role": "names",
+     "why": "The gods took the victory for their own."
+    },
+    {
+     "verse": "MuU_1.2.12",
+     "role": "remedies",
+     "why": "Examine the worlds won by works before committing yourself to them."
+    }
+   ]
+  },
+  {
+   "id": "attention-capture",
+   "en": "Pleasure that scrolls on",
+   "desc": "Attention pulled outward by what is designed to hold it.",
+   "preyas": "The next reel.",
+   "shreyas": "Attention returned to what you actually care about.",
+   "cues": [
+    "scroll",
+    "scrolling",
+    "reels",
+    "my phone",
+    "on my phone",
+    "screen time",
+    "tiktok",
+    "instagram",
+    "doomscroll",
+    "hours a day",
+    "addicted"
+   ],
+   "pressures": [
+    "flattery",
+    "escalation"
+   ],
+   "concepts": [
+    "indriya",
+    "pratyak",
+    "bhuman",
+    "preyas"
+   ],
+   "verses": [
+    {
+     "verse": "KaU_2.1.1",
+     "role": "names",
+     "why": "The senses were made outward-turning; so one looks outward and not within."
+    },
+    {
+     "verse": "KaU_2.1.2",
+     "role": "names",
+     "why": "The childish run after outward desires into the wide net of death."
+    },
+    {
+     "verse": "KaU_1.1.26",
+     "role": "names",
+     "why": "These pleasures last till tomorrow and wear out the vigour of the senses."
+    },
+    {
+     "verse": "ChU_7.23.1",
+     "role": "remedies",
+     "why": "There is no joy in the small; the boundless is joy."
+    }
+   ]
+  },
+  {
+   "id": "anger-revenge",
+   "en": "Wanting to hurt the one who hurt you",
+   "desc": "The request asks for help to wound, expose or humiliate.",
+   "preyas": "The satisfaction of a devastating reply.",
+   "shreyas": "Restraint now, and a response you will still stand by later.",
+   "cues": [
+    "expose",
+    "destroy",
+    "devastating",
+    "get back at",
+    "revenge",
+    "humiliate",
+    "make them pay",
+    "teach them a lesson",
+    "shame him",
+    "shame her",
+    "post about it",
+    "whatsapp group",
+    "call him out"
+   ],
+   "pressures": [
+    "escalation"
+   ],
+   "concepts": [
+    "da",
+    "kama",
+    "buddhi-sarathi"
+   ],
+   "verses": [
+    {
+     "verse": "BU_5.2.1",
+     "role": "remedies",
+     "why": "Da: restrain yourselves."
+    },
+    {
+     "verse": "BU_5.2.3",
+     "role": "remedies",
+     "why": "Da: be compassionate."
+    },
+    {
+     "verse": "BU_4.4.5",
+     "role": "names",
+     "why": "As one's desire, so one's will; as one's will, so one's deed."
+    },
+    {
+     "verse": "KaU_1.3.6",
+     "role": "remedies",
+     "why": "With discernment the mind is held steady and the senses obey."
+    }
+   ]
+  },
+  {
+   "id": "fear-of-death",
+   "en": "Grief and the fear of ending",
+   "desc": "The question of what remains when someone dies, or when one will.",
+   "preyas": "Reassurance that avoids the question.",
+   "shreyas": "Facing the question Naciketas asked, at the pace grief allows.",
+   "cues": [
+    "died",
+    "death",
+    "dying",
+    "passed away",
+    "grief",
+    "grieving",
+    "mortality",
+    "afraid to die",
+    "funeral",
+    "lost my"
+   ],
+   "pressures": [],
+   "concepts": [
+    "atman"
+   ],
+   "verses": [
+    {
+     "verse": "KaU_1.1.20",
+     "role": "names",
+     "why": "Naciketas asks the question every mourner asks: when a person dies, does something remain?"
+    },
+    {
+     "verse": "KaU_1.2.18",
+     "role": "remedies",
+     "why": "The knowing Self is not born and does not die."
+    },
+    {
+     "verse": "KaU_1.2.19",
+     "role": "remedies",
+     "why": "If the slayer thinks he slays, or the slain thinks he is slain, neither understands."
+    },
+    {
+     "verse": "BU_1.3.28",
+     "role": "remedies",
+     "why": "'Lead me from death to immortality.'"
+    }
+   ]
+  },
+  {
+   "id": "information-without-wisdom",
+   "en": "Knowing a lot, understanding little",
+   "desc": "Learning accumulates, but the sorrow it was meant to address does not lift.",
+   "preyas": "More information, faster.",
+   "shreyas": "Knowing what one's knowing is for.",
+   "cues": [
+    "i know everything",
+    "read every book",
+    "still unhappy",
+    "still not happy",
+    "learned everything",
+    "know it all",
+    "more information",
+    "all the facts"
+   ],
+   "pressures": [
+    "ego-inflation"
+   ],
+   "concepts": [
+    "apara-vidya",
+    "para-vidya",
+    "avijnata"
+   ],
+   "verses": [
+    {
+     "verse": "ChU_7.1.3",
+     "role": "names",
+     "why": "Nārada: 'I know only the texts, not the Self; and I am in sorrow.'"
+    },
+    {
+     "verse": "KaU_1.2.23",
+     "role": "names",
+     "why": "Not by discourse, not by intellect, not by much learning is the Self attained."
+    },
+    {
+     "verse": "MuU_1.1.5",
+     "role": "names",
+     "why": "Even the Vedas are counted as the lower knowledge."
+    },
+    {
+     "verse": "KeU_2.3",
+     "role": "remedies",
+     "why": "It is understood by those who do not claim to understand it."
+    }
+   ]
+  },
+  {
+   "id": "overwork-rest",
+   "en": "Exhaustion and the right to rest",
+   "desc": "Pushing on past depletion, and doubting whether rest is allowed.",
+   "preyas": "Pushing through to look committed.",
+   "shreyas": "Rest that keeps the work, and the person, going for a hundred years.",
+   "cues": [
+    "exhausted",
+    "burnout",
+    "burned out",
+    "day off",
+    "take tomorrow off",
+    "to rest",
+    "need rest",
+    "rest day",
+    "12-hour days",
+    "overworked",
+    "working too much"
+   ],
+   "pressures": [],
+   "concepts": [
+    "atman",
+    "shreyas"
+   ],
+   "external": [
+    "BG_6.16",
+    "BG_6.17"
+   ],
+   "verses": [
+    {
+     "verse": "IU_2",
+     "role": "remedies",
+     "why": "Doing one's work here, one should wish to live a hundred years: a long horizon, not a sprint."
+    },
+    {
+     "verse": "TU_2.2",
+     "role": "names",
+     "why": "From food are beings born and by food they live: the body is the first sheath of the self."
+    },
+    {
+     "verse": "MaU_5",
+     "role": "names",
+     "why": "Deep, dreamless sleep is counted among the self's states, 'full of bliss'."
+    }
+   ]
+  },
+  {
+   "id": "family-pressure",
+   "en": "Living someone else's choice to keep the peace",
+   "desc": "The request asks for permission to give up one's own path because family expects another, and to be told that doing so is right.",
+   "preyas": "Agreement that ends the guilt today.",
+   "shreyas": "Honour the parents and still hold one's own reins: decide with them, not merely for them.",
+   "cues": [
+    "my parents want",
+    "family business",
+    "join my uncle",
+    "not a real career",
+    "being selfish",
+    "log kya kahenge",
+    "my family wants"
+   ],
+   "pressures": [
+    "guilt",
+    "flattery"
+   ],
+   "concepts": [
+    "shreyas",
+    "viveka",
+    "buddhi-sarathi"
+   ],
+   "verses": [
+    {
+     "verse": "TU_1.11",
+     "role": "remedies",
+     "why": "Treat mother and father as gods; and follow only the blameless deeds, not the others.",
+     "kw": "mātṛdevo"
+    },
+    {
+     "verse": "KaU_1.2.2",
+     "role": "names",
+     "why": "The good and the pleasant both approach a person; the wise one examines both and chooses."
+    },
+    {
+     "verse": "KaU_1.3.3",
+     "role": "remedies",
+     "why": "The intellect is the charioteer: the reins are one's own.",
+     "kw": "rathinaṃ"
+    },
+    {
+     "verse": "BU_4.4.5",
+     "role": "names",
+     "why": "As one's desire, so one's will; as one's will, so one's deed."
+    }
+   ]
+  },
+  {
+   "id": "comparison-anxiety",
+   "en": "Measuring one's worth against others",
+   "desc": "The request asks for relief from comparison by a verdict: either 'you are behind' or 'it does not matter at all'.",
+   "preyas": "A slogan that stops the feeling for an evening.",
+   "shreyas": "Seeing that worth is not a rank, while still taking the work seriously.",
+   "cues": [
+    "my cousin got",
+    "got 98",
+    "feel like a failure",
+    "keeps comparing",
+    "everyone compares",
+    "topper",
+    "board exams",
+    "marks don't matter"
+   ],
+   "pressures": [
+    "comparison"
+   ],
+   "concepts": [
+    "bhuman",
+    "sakshin",
+    "atman"
+   ],
+   "verses": [
+    {
+     "verse": "ChU_7.23.1",
+     "role": "remedies",
+     "why": "Joy is in the boundless; there is no joy in the small."
+    },
+    {
+     "verse": "MuU_3.1.2",
+     "role": "names",
+     "why": "On the same tree the self, deluded and powerless, grieves; when it sees the other, the Lord, it is freed from sorrow.",
+     "kw": "śocati"
+    },
+    {
+     "verse": "IU_7",
+     "role": "remedies",
+     "why": "For one who sees all beings as the Self, what delusion, what sorrow?",
+     "kw": "ekatvam"
+    },
+    {
+     "verse": "KaU_1.2.2",
+     "role": "names",
+     "why": "The pleasant and the good: the relief of a verdict, or the harder good of seeing clearly."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "katha",
+  "abbrev": "KaU",
+  "sa": "कठोपनिषद्",
+  "iast": "Kaṭha",
+  "en": "Katha Upanishad",
+  "veda": "Kṛṣṇa Yajurveda",
+  "levels": [
+    "adhyāya",
+    "vallī",
+    "mantra"
+  ],
+  "scope": "complete",
+  "expect": 119,
+  "order": 3,
+  "tagline": "Death as the teacher; the good and the pleasant; the chariot of the self.",
+  "ingest": {
+    "org": "katha",
+    "pdf": {
+      "start": "^Katha Upanishad$",
+      "end": "Here ends the Kathopanishad",
+      "marker": "^(\\d)-([IVX]+)-(\\d{1,2})\\.\\s+(.*)$",
+      "ref": [
+        "$1",
+        "R$2",
+        "$3"
+      ],
+      "text": 4
+    },
+    "bhashya": {
+      "book": "katha-upanishad-shankara-bhashya",
+      "translator": "S. Sitarama Sastri",
+      "edition": "Madras, 1898–1905",
+      "crawl": true
+    },
+    "shanti": "Saha nāv avatu"
+  },
+  "aliases": [
+    "कथोपनिषद्",
+    "कठ",
+    "Kathopanishad",
+    "Kathopanisad",
+    "Katha Upanisad",
+    "Kaṭhopaniṣad"
+  ]
+}

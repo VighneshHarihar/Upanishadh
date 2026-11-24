@@ -1,0 +1,407 @@
+{
+  "_about": "The Veda-Sāra bridge. Each Upanishad's place in the Vedic corpus (Veda, school, the Brāhmaṇa or Āraṇyaka it closes), mantra-level roots in the Saṃhitās (checked against VedAnvaya's texts at build time), and the classical Brahma Sūtra topics that read these passages (Śaṅkara's adhikaraṇas). Lineage follows the Muktikā tradition and standard editions; where the tradition differs it is noted.",
+  "vedas": [
+    {
+      "id": "rig",
+      "label": "Ṛgveda",
+      "sa": "ऋग्वेदः",
+      "essence": "The Veda of praise: hymns to the powers of the cosmos. Its Upanishads ask what consciousness itself is.",
+      "vedanvaya": "RV"
+    },
+    {
+      "id": "yajur",
+      "label": "Yajurveda",
+      "sa": "यजुर्वेदः",
+      "essence": "The Veda of the sacrificial formulas (yajus), in two sections: the Śukla (‘white’), formulas kept apart from their explanation, and the Kṛṣṇa (‘black’), the two woven together. Its Upanishads turn the rite inward: the Self that is full, the chariot of the self, the five sheaths, the one God in all.",
+      "vedanvaya": "YV",
+      "sections": [
+        {
+          "id": "shukla",
+          "label": "Śukla",
+          "en": "white",
+          "sa": "शुक्ल",
+          "note": "Vājasaneyi Saṃhitā and the Śatapatha Brāhmaṇa: formulas kept apart from their explanation."
+        },
+        {
+          "id": "krishna",
+          "label": "Kṛṣṇa",
+          "en": "black",
+          "sa": "कृष्ण",
+          "note": "Taittirīya, Kaṭha and Maitrāyaṇī schools: formulas and explanation woven together."
+        }
+      ]
+    },
+    {
+      "id": "sama",
+      "label": "Sāmaveda",
+      "sa": "सामवेदः",
+      "essence": "The Veda of chant. Its Upanishads begin from the sung OM and end in ‘that thou art’.",
+      "vedanvaya": "SV"
+    },
+    {
+      "id": "atharva",
+      "label": "Atharvaveda",
+      "sa": "अथर्ववेदः",
+      "essence": "The Veda of everyday life and protection. Its Upanishads give the higher and lower knowledge, the six questions and the four states.",
+      "vedanvaya": "AV"
+    }
+  ],
+  "lineage": {
+    "isha": { "veda": "yajur", "section": "shukla", "school": "Vājasaneyi (Kāṇva; Mādhyandina)", "seat": "Vājasaneyi Saṃhitā, adhyāya 40", "kind": "saṃhitā" },
+    "kena": { "veda": "sama", "school": "Jaiminīya (Talavakāra)", "seat": "Jaiminīya Upaniṣad Brāhmaṇa 4.18–21", "kind": "brāhmaṇa" },
+    "katha": { "veda": "yajur", "section": "krishna", "school": "Kaṭha", "seat": "Kaṭha school; the Naciketas story also in Taittirīya Brāhmaṇa 3.11.8", "kind": "school" },
+    "prashna": { "veda": "atharva", "school": "Pippalāda", "seat": "Pippalāda school of the Atharvaveda", "kind": "school" },
+    "mundaka": { "veda": "atharva", "school": "Śaunaka", "seat": "Śaunaka school of the Atharvaveda", "kind": "school" },
+    "mandukya": { "veda": "atharva", "school": "Atharvaveda (with Gauḍapāda’s Kārikā)", "seat": "Atharvaveda", "kind": "school" },
+    "taittiriya": { "veda": "yajur", "section": "krishna", "school": "Taittirīya", "seat": "Taittirīya Āraṇyaka 7–9", "kind": "āraṇyaka" },
+    "aitareya": { "veda": "rig", "school": "Aitareya (Śākala)", "seat": "Aitareya Āraṇyaka 2.4–6", "kind": "āraṇyaka" },
+    "chandogya": { "veda": "sama", "school": "Kauthuma", "seat": "Chāndogya Brāhmaṇa, prapāṭhakas 3–10", "kind": "brāhmaṇa" },
+    "brihadaranyaka": { "veda": "yajur", "section": "shukla", "school": "Vājasaneyi (Kāṇva; Mādhyandina)", "seat": "Śatapatha Brāhmaṇa 14", "kind": "brāhmaṇa" },
+    "shvetashvatara": { "veda": "yajur", "section": "krishna", "school": "Śvetāśvatara", "seat": "Śvetāśvatara school, named for its seer", "kind": "school" },
+    "kaushitaki": { "veda": "rig", "school": "Kauṣītaki (Śāṅkhāyana)", "seat": "Kauṣītaki Āraṇyaka 3–6", "kind": "āraṇyaka" },
+    "maitri": { "veda": "yajur", "section": "krishna", "school": "Maitrāyaṇī", "seat": "Maitrāyaṇī school; the Muktikā list places it in the Sāmaveda", "kind": "school" }
+  },
+  "mantraRoots": [
+    {
+      "up": "MuU_3.1.1",
+      "ext": [
+        "RV_1.164.20"
+      ],
+      "kind": "identical",
+      "note": "The two birds: Dīrghatamas’s riddle hymn, taken into the Muṇḍaka."
+    },
+    {
+      "up": "SvU_4.6",
+      "ext": [
+        "RV_1.164.20"
+      ],
+      "kind": "identical",
+      "note": "The same verse of the two birds in the Śvetāśvatara."
+    },
+    {
+      "up": "KaU_2.2.2",
+      "ext": [
+        "RV_4.40.5"
+      ],
+      "kind": "identical",
+      "note": "“The swan dwelling in the bright”: Vāmadeva’s hymn applied to the Self."
+    },
+    {
+      "up": "ChU_3.12.6",
+      "ext": [
+        "RV_10.90.3"
+      ],
+      "kind": "parallel",
+      "note": "The Puruṣa Sūkta: “all beings are one quarter of him; three quarters, the immortal, are in heaven.”"
+    },
+    {
+      "up": "SvU_3.14",
+      "ext": [
+        "RV_10.90.1"
+      ],
+      "kind": "parallel",
+      "note": "The Puruṣa Sūkta: the Person with a thousand heads."
+    },
+    {
+      "up": "SvU_3.15",
+      "ext": [
+        "RV_10.90.2"
+      ],
+      "kind": "parallel",
+      "note": "The Puruṣa Sūkta: “the Person is all this, what has been and what will be.”"
+    },
+    {
+      "up": "SvU_4.22",
+      "ext": [
+        "RV_1.114.8"
+      ],
+      "kind": "parallel",
+      "note": "A prayer to Rudra for children and cattle, from the Ṛgveda."
+    },
+    {
+      "up": "TU_1.1",
+      "ext": [
+        "RV_1.90.9"
+      ],
+      "kind": "parallel",
+      "note": "“Be gracious to us, Mitra, gracious Varuṇa”: the Ṛgvedic blessing that opens the Taittirīya."
+    },
+    {
+      "up": "SvU_3.8",
+      "ext": [
+        "YV_31.18"
+      ],
+      "kind": "identical",
+      "note": "“I know that great Person, sun-coloured, beyond the darkness”: Vājasaneyi Saṃhitā 31 (Uttara-Nārāyaṇa)."
+    },
+    {
+      "up": "SvU_3.5",
+      "ext": [
+        "YV_16.2"
+      ],
+      "kind": "parallel",
+      "note": "The Śatarudrīya: “your auspicious form, Rudra, not terrible.”"
+    },
+    {
+      "up": "SvU_3.6",
+      "ext": [
+        "YV_16.3"
+      ],
+      "kind": "parallel",
+      "note": "The Śatarudrīya: “the arrow you hold in your hand, mountain-dweller, make it auspicious.”"
+    },
+    {
+      "up": "SvU_2.1",
+      "ext": [
+        "YV_11.1"
+      ],
+      "kind": "parallel",
+      "note": "“Harnessing the mind first”: the Agnicayana verses of the Vājasaneyi Saṃhitā, turned to the yoga of meditation."
+    },
+    {
+      "up": "SvU_2.2",
+      "ext": [
+        "YV_11.2"
+      ],
+      "kind": "parallel",
+      "note": "“With the mind harnessed”: the second of the Agnicayana verses."
+    },
+    {
+      "up": "SvU_2.3",
+      "ext": [
+        "YV_11.3"
+      ],
+      "kind": "parallel",
+      "note": "“Having harnessed the gods with the mind”: the third."
+    },
+    {
+      "up": "SvU_2.4",
+      "ext": [
+        "RV_5.81.1"
+      ],
+      "kind": "identical",
+      "note": "“They harness the mind and harness their thoughts”: Śyāvāśva’s hymn to Savitṛ."
+    },
+    {
+      "up": "SvU_2.5",
+      "ext": [
+        "RV_10.13.1"
+      ],
+      "kind": "parallel",
+      "note": "“Hear, all you children of immortality”: the hymn to the two havirdhānas."
+    },
+    {
+      "up": "SvU_3.3",
+      "ext": [
+        "RV_10.81.3"
+      ],
+      "kind": "identical",
+      "note": "“Eyes everywhere, faces everywhere”: Viśvakarman, the All-maker."
+    },
+    {
+      "up": "SvU_4.8",
+      "ext": [
+        "RV_1.164.39"
+      ],
+      "kind": "identical",
+      "note": "“The ṛc in the imperishable highest heaven”: Dīrghatamas’s riddle hymn again."
+    },
+    {
+      "up": "PU_1.11",
+      "ext": [
+        "RV_1.164.12"
+      ],
+      "kind": "identical",
+      "note": "“The five-footed father of twelve forms”: the year, from Dīrghatamas’s riddle hymn."
+    },
+    {
+      "up": "AiU_2.1.5",
+      "ext": [
+        "RV_4.27.1"
+      ],
+      "kind": "parallel",
+      "note": "“While still in the womb I knew all the births of the gods”: Vāmadeva’s own verse."
+    },
+    {
+      "up": "BU_2.5.16",
+      "ext": [
+        "RV_1.116.12"
+      ],
+      "kind": "parallel",
+      "note": "Dadhyañc’s honey-teaching, in Kakṣīvat’s hymn to the Aśvins."
+    },
+    {
+      "up": "BU_2.5.17",
+      "ext": [
+        "RV_1.117.22"
+      ],
+      "kind": "parallel",
+      "note": "The horse’s head given to Dadhyañc, from Kakṣīvat’s second hymn to the Aśvins."
+    },
+    {
+      "up": "BU_2.5.19",
+      "ext": [
+        "RV_6.47.18"
+      ],
+      "kind": "parallel",
+      "note": "“Form after form he took”: Indra of many forms through his māyā."
+    },
+    {
+      "up": "ChU_3.17.7",
+      "ext": [
+        "RV_1.50.10"
+      ],
+      "kind": "parallel",
+      "note": "“Rising above the darkness, beholding the higher light”: the ṛc that closes Ghora Āṅgirasa’s teaching."
+    },
+    {
+      "up": "ChU_3.17.7",
+      "ext": [
+        "RV_8.6.30"
+      ],
+      "kind": "echo",
+      "kw": "pratnasya retasaḥ",
+      "note": "“The ancient seed’s light”: the first pāda of a Vatsa hymn to Indra, quoted just before."
+    },
+    {
+      "up": "BU_6.3.6",
+      "ext": [
+        "RV_3.62.10",
+        "RV_1.90.6"
+      ],
+      "kind": "echo",
+      "kw": "tat savitur vareṇyam",
+      "note": "The Sāvitrī and “honey the winds blow” recited pāda by pāda in the mantha rite."
+    },
+    {
+      "up": "MaiU_6.7",
+      "ext": [
+        "RV_3.62.10"
+      ],
+      "kind": "echo",
+      "kw": "tatsaviturvareṇyam",
+      "note": "The Sāvitrī (Gāyatrī) explained word by word."
+    },
+    {
+      "up": "BU_1.4.10",
+      "ext": [
+        "RV_4.26.1"
+      ],
+      "kind": "echo",
+      "kw": "brahmāsmi",
+      "note": "Seeing this, the seer Vāmadeva understood: “I was Manu, and the sun.”"
+    },
+    {
+      "up": "IU_1",
+      "ext": [
+        "YV_40.1"
+      ],
+      "kind": "identical",
+      "note": "The Īśā is the fortieth chapter of the Vājasaneyi Saṃhitā; its first verse."
+    }
+  ],
+  "brahmaSutra": [
+    {
+      "bs": "1.1.2",
+      "sutra": "janmādy asya yataḥ",
+      "en": "That from which the origin, sustenance and dissolution of this world proceed.",
+      "verse": "TU_3.1"
+    },
+    {
+      "bs": "1.1.5",
+      "sutra": "īkṣater nāśabdam",
+      "en": "The first cause thought (‘may I be many’), so it is not unconscious matter.",
+      "verse": "ChU_6.2.3"
+    },
+    {
+      "bs": "1.1.12",
+      "sutra": "ānandamayo ’bhyāsāt",
+      "en": "The self made of bliss is Brahman, because of repetition.",
+      "verse": "TU_2.5"
+    },
+    {
+      "bs": "1.1.20",
+      "sutra": "antas taddharmopadeśāt",
+      "en": "The golden person within the sun is Brahman, because its qualities are taught.",
+      "verse": "ChU_1.6.6"
+    },
+    {
+      "bs": "1.1.22",
+      "sutra": "ākāśas talliṅgāt",
+      "en": "Space, from which all beings arise, is Brahman.",
+      "verse": "ChU_1.9.1"
+    },
+    {
+      "bs": "1.1.23",
+      "sutra": "ata eva prāṇaḥ",
+      "en": "For the same reason, breath (prāṇa) here is Brahman.",
+      "verse": "ChU_1.11.5"
+    },
+    {
+      "bs": "1.2.1",
+      "sutra": "sarvatra prasiddhopadeśāt",
+      "en": "The self made of mind is Brahman, as taught everywhere.",
+      "verse": "ChU_3.14.1"
+    },
+    {
+      "bs": "1.2.11",
+      "sutra": "guhāṃ praviṣṭāv ātmānau hi taddarśanāt",
+      "en": "The two who entered the cave are the individual and the supreme Self.",
+      "verse": "KaU_1.3.1"
+    },
+    {
+      "bs": "1.2.21",
+      "sutra": "adṛśyatvādiguṇako dharmokteḥ",
+      "en": "That which is invisible and ungraspable is Brahman.",
+      "verse": "MuU_1.1.6"
+    },
+    {
+      "bs": "1.3.1",
+      "sutra": "dyubhvādyāyatanaṃ svaśabdāt",
+      "en": "The abode of heaven and earth is Brahman, named as the Self.",
+      "verse": "MuU_2.2.5"
+    },
+    {
+      "bs": "1.3.8",
+      "sutra": "bhūmā samprasādād adhyupadeśāt",
+      "en": "The boundless (bhūmā) is Brahman, taught above breath.",
+      "verse": "ChU_7.23.1"
+    },
+    {
+      "bs": "1.3.14",
+      "sutra": "dahara uttarebhyaḥ",
+      "en": "The small space in the heart is Brahman, from what follows.",
+      "verse": "ChU_8.1.1"
+    },
+    {
+      "bs": "1.3.24",
+      "sutra": "śabdād eva pramitaḥ",
+      "en": "The person the size of a thumb is Brahman, from the word itself.",
+      "verse": "KaU_2.1.12"
+    },
+    {
+      "bs": "1.4.1",
+      "sutra": "ānumānikam apy ekeṣām",
+      "en": "The ‘unmanifest’ of the Kaṭha is not the Sāṅkhya’s inferred nature.",
+      "verse": "KaU_1.3.11"
+    },
+    {
+      "bs": "1.4.19",
+      "sutra": "vākyānvayāt",
+      "en": "The Self to be seen, in Yājñavalkya’s words to Maitreyī, is the supreme Self.",
+      "verse": "BU_2.4.5"
+    },
+    {
+      "bs": "2.1.14",
+      "sutra": "tadananyatvam ārambhaṇaśabdādibhyaḥ",
+      "en": "The world is not other than its cause: ‘a name, a matter of words’.",
+      "verse": "ChU_6.1.4"
+    },
+    {
+      "bs": "3.2.22",
+      "sutra": "prakṛtaitāvattvaṃ hi pratiṣedhati tato bravīti ca bhūyaḥ",
+      "en": "‘Not this, not this’ denies only the forms just described, not Brahman.",
+      "verse": "BU_2.3.6"
+    }
+  ]
+}

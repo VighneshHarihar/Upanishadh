@@ -1,0 +1,75 @@
+{
+  "id": "maitri",
+  "abbrev": "MaiU",
+  "sa": "मैत्रायणीयोपनिषद्",
+  "iast": "Maitrī",
+  "en": "Maitri Upanishad",
+  "veda": "Kṛṣṇa Yajurveda",
+  "levels": [
+    "prapāṭhaka",
+    "khaṇḍa"
+  ],
+  "scope": "complete",
+  "order": 13,
+  "tagline": "King Bṛhadratha, weary of the body, asks Śākāyanya for the Self; the elemental self, the three guṇas, and the sixfold yoga.",
+  "ingest": {
+    "wikisource": {
+      "title": "मैत्रायण्युपनिषत्",
+      "parser": "maitri"
+    },
+    "shanti": "Āpyāyantu",
+    "pdf": {
+      "start": "^Maitrayani Upanishad$",
+      "end": "Here ends the Maitrayani Upanishad",
+      "chapter": "^PRAPATHAKA (ONE|TWO|THREE|FOUR|FIVE|SIX|SEVEN)$"
+    },
+    "supplement": {
+      "ocr": "hume-maitri",
+      "translator": "R. E. Hume",
+      "source": "The Thirteen Principal Upanishads (1921)",
+      "map": {
+        "5.12": {
+          "from": "5.1",
+          "lines": [
+            "Thou art Brahma",
+            "Thou art food"
+          ],
+          "withIntro": true
+        },
+        "5.13": {
+          "from": "5.1",
+          "lines": [
+            "Thou art food",
+            "O Lord of all"
+          ]
+        },
+        "5.14": {
+          "from": "5.1",
+          "lines": [
+            "O Lord of all",
+            "Hail unto thee, O Tranquil"
+          ]
+        },
+        "5.15": {
+          "from": "5.1",
+          "lines": [
+            "Hail unto thee, O Tranquil"
+          ]
+        },
+        "5.5": {
+          "from": "5.2"
+        }
+      }
+    }
+  },
+  "aliases": [
+    "Maitrayani Upanishad",
+    "Maitrayaniya",
+    "Maitri",
+    "Maitrāyaṇī",
+    "Maitrāyaṇīya",
+    "मैत्री",
+    "मैत्रायणी"
+  ],
+  "expect": 88
+}

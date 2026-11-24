@@ -1,0 +1,10376 @@
+[
+ {
+  "id": "MuU_0",
+  "ref": "0",
+  "section": "Śānti mantra · Bhadraṃ karṇebhiḥ",
+  "shanti": true,
+  "sa": [
+   "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।",
+   "स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिर्व्यशेम देवहितं यदायुः ॥",
+   "स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।",
+   "स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥",
+   "ॐ शान्तिः शान्तिः शान्तिः ॥"
+  ],
+  "iast": [
+   "oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devā bhadraṃ paśyemākṣabhir yajatrāḥ",
+   "sthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yad āyuḥ",
+   "svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ",
+   "svasti nas tārkṣyo ariṣṭanemiḥ svasti no bṛhaspatir dadhātu",
+   "oṃ śāntiḥ śāntiḥ śāntiḥ"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Om ! O gods, may we hear auspicious words with the ears; While engaged in sacrifices, May we see auspicious things with the eyes; While praising the gods with steady limbs, May we enjoy a life that is beneficial to the gods. May Indra of ancient fame be auspicious to us; May the supremely rich (or all-knowing) Pusa (god of the earth) Be propitious to us; May Garuda, the destroyer of evil, Be well disposed towards us; May Brihaspati ensure our welfare. Om ! Peace ! Peace ! Peace !",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/shantimantra/3.wav",
+   "whole": [
+    0,
+    67.3
+   ]
+  },
+  "hasBhashya": false,
+  "order": 1
+ },
+ {
+  "id": "MuU_1.1.1",
+  "ref": "1.1.1",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "ॐ ब्रह्मा देवानां प्रथमः संबभूव विश्वस्य कर्ता",
+   "भुवनस्य गोप्ता । स ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय",
+   "ज्येष्ठपुत्राय प्राह ॥ १॥"
+  ],
+  "iast": [
+   "oṃ brahmā devānāṃ prathamaḥ saṃbabhūva viśvasya kartā",
+   "bhuvanasya goptā । sa brahmavidyāṃ sarvavidyāpratiṣṭhāmatharvāya",
+   "jyeṣṭhaputrāya prāha ॥ 1॥"
+  ],
+  "alt": [
+   {
+    "text": "Brahma first of the Gods was born, the creator of all, the world’s protector; he to Atharvan, his eldest son, declared the God-knowledge in which all sciences have their foundation.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 131",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ब्रह्मा",
+    "brahmā",
+    "Brahmā, the creator",
+    "brahman"
+   ],
+   [
+    "देवानाम्",
+    "devānām",
+    "of the gods",
+    "deva"
+   ],
+   [
+    "प्रथमः",
+    "prathamaḥ",
+    "first",
+    "prathama"
+   ],
+   [
+    "संबभूव",
+    "saṃbabhūva",
+    "came into being",
+    "sambhū"
+   ],
+   [
+    "विश्वस्य",
+    "viśvasya",
+    "of the universe",
+    "viśva"
+   ],
+   [
+    "कर्ता",
+    "kartā",
+    "creator",
+    "kartṛ"
+   ],
+   [
+    "भुवनस्य",
+    "bhuvanasya",
+    "of the world",
+    "bhuvana"
+   ],
+   [
+    "गोप्ता",
+    "goptā",
+    "protector",
+    "goptṛ"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "विद्याम्",
+    "vidyām",
+    "knowledge (accusative)",
+    "vidyā"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "विद्या",
+    "vidyā",
+    "knowledge (compound member)",
+    "vidyā"
+   ],
+   [
+    "प्रतिष्ठाम्",
+    "pratiṣṭhām",
+    "foundation",
+    "pratiṣṭhā"
+   ],
+   [
+    "अथर्वाय",
+    "atharvāya",
+    "to Atharvan",
+    "atharva"
+   ],
+   [
+    "ज्येष्ठ",
+    "jyeṣṭha",
+    "eldest (compound member)",
+    "jyeṣṭha"
+   ],
+   [
+    "पुत्राय",
+    "putrāya",
+    "to the son",
+    "putra"
+   ],
+   [
+    "प्राह",
+    "prāha",
+    "declared",
+    "prāh"
+   ]
+  ],
+  "tr": {
+   "text": "Om ! Brahma, the creator of the Universe and the protector of the world, was the first among the gods to manifest Himself. To His eldest son Atharva He imparted that knowledge of Brahman that is the basis of all knowledge.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.1.mp3",
+   "whole": [
+    10.21,
+    30.72
+   ]
+  },
+  "hasBhashya": false,
+  "order": 2
+ },
+ {
+  "id": "MuU_1.1.2",
+  "ref": "1.1.2",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "अथर्वणे यां प्रवदेत ब्रह्माऽथर्वा तं",
+   "पुरोवाचाङ्गिरे ब्रह्मविद्याम् ।",
+   "स भारद्वाजाय सत्यवाहाय प्राह",
+   "भारद्वाजोऽङ्गिरसे परावराम् ॥ २॥"
+  ],
+  "iast": [
+   "atharvaṇe yāṃ pravadeta brahmā’tharvā taṃ",
+   "purovācāṅgire brahmavidyām ।",
+   "sa bhāradvājāya satyavāhāya prāha",
+   "bhāradvājo’ṅgirase parāvarām ॥ 2॥"
+  ],
+  "alt": [
+   {
+    "text": "The God-knowledge by Brahma declared to Atharvan, Atharvan of old declared to Angir; he to Satyavaha the Bharadwaja told it, the Bharadwaja to Angiras, both the higher and the lower knowledge.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 131",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अथर्वणे",
+    "atharvaṇe",
+    "to Atharvan",
+    "atharvaṇe"
+   ],
+   [
+    "याम्",
+    "yām",
+    "which (knowledge)",
+    "yām"
+   ],
+   [
+    "प्रवदेत",
+    "pravadeta",
+    "declared",
+    "pravadeta"
+   ],
+   [
+    "ब्रह्मा",
+    "brahmā",
+    "Brahmā, the creator",
+    "brahmā"
+   ],
+   [
+    "अथर्वा",
+    "atharvā",
+    "Atharvan",
+    "atharvā"
+   ],
+   [
+    "तम्",
+    "tam",
+    "that",
+    "tam"
+   ],
+   [
+    "पुरा",
+    "purā",
+    "of old",
+    "purā"
+   ],
+   [
+    "उवाच",
+    "uvāca",
+    "declared",
+    "√vac"
+   ],
+   [
+    "अङ्गिरे",
+    "aṅgire",
+    "to Aṅgir",
+    "aṅgire"
+   ],
+   [
+    "ब्रह्मविद्याम्",
+    "brahmavidyām",
+    "knowledge of Brahman",
+    "brahmavidyām"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "भारद्वाजाय",
+    "bhāradvājāya",
+    "to Bhāradvāja",
+    "bhāradvāja"
+   ],
+   [
+    "सत्यवाहाय",
+    "satyavāhāya",
+    "to Satyavāha",
+    "satyavāhāya"
+   ],
+   [
+    "प्राह",
+    "prāha",
+    "declared",
+    "prāh"
+   ],
+   [
+    "भारद्वाजः",
+    "bhāradvājaḥ",
+    "Bhāradvāja",
+    "bhāradvāja"
+   ],
+   [
+    "अङ्गिरसे",
+    "aṅgirase",
+    "to Aṅgiras",
+    "aṅgiras"
+   ],
+   [
+    "परावराम्",
+    "parāvarām",
+    "higher and lower (feminine accusative)",
+    "parāvara"
+   ]
+  ],
+  "tr": {
+   "text": "The Knowledge of Brahman that Brahma imparted to Atharva, Atharva transmitted to Angir in days of yore. He (Angir) passed it on to Satyavaha of the line of Bharadvaja. He of the line of Bharadvaja handed down to Angiras this knowledge that had been received in succession from the higher by the lower ones.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.2.mp3",
+   "whole": [
+    32.76,
+    55.18
+   ]
+  },
+  "hasBhashya": true,
+  "order": 3
+ },
+ {
+  "id": "MuU_1.1.3",
+  "ref": "1.1.3",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "शौनको ह वै महाशालोऽङ्गिरसं विधिवदुपसन्नः पप्रच्छ ।",
+   "कस्मिन्नु भगवो विज्ञाते सर्वमिदं विज्ञातं भवतीति ॥ ३॥"
+  ],
+  "iast": [
+   "śaunako ha vai mahāśālo’ṅgirasaṃ vidhivadupasannaḥ papraccha ।",
+   "kasminnu bhagavo vijñāte sarvamidaṃ vijñātaṃ bhavatīti ॥ 3॥"
+  ],
+  "alt": [
+   {
+    "text": "Shaunaka, the great house-lord, came to Angiras in the due way of the disciple and asked of him, “Lord, by knowing what does all this that is become known?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 131",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "शौनकः",
+    "śaunakaḥ",
+    "Shaunaka",
+    "śaunaka"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "महाशालः",
+    "mahāśālaḥ",
+    "great house-lord",
+    "mahāśāla"
+   ],
+   [
+    "अङ्गिरसम्",
+    "aṅgirasam",
+    "Aṅgiras, the teacher",
+    "aṅgiras"
+   ],
+   [
+    "विधिवत्",
+    "vidhivat",
+    "according to the due way",
+    "vidhivat"
+   ],
+   [
+    "उपसन्नः",
+    "upasannaḥ",
+    "having approached",
+    "upasad"
+   ],
+   [
+    "पप्रच्छ",
+    "papraccha",
+    "asked",
+    "pracch"
+   ],
+   [
+    "कस्मिन्",
+    "kasmin",
+    "in what",
+    "ka"
+   ],
+   [
+    "नु",
+    "nu",
+    "indeed",
+    "nu"
+   ],
+   [
+    "भगवः",
+    "bhagavaḥ",
+    "O Lord",
+    "bhagavat"
+   ],
+   [
+    "विज्ञाते",
+    "vijñāte",
+    "known",
+    "vijñā"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "विज्ञातम्",
+    "vijñātam",
+    "known",
+    "vijñā"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "bhū"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ]
+  ],
+  "tr": {
+   "text": "Saunaka, well known as a great householder, having approached Angiras duly, asked, ‘O adorable sir, (which is that thing) which having been known, all this becomes known ?’",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.3.mp3",
+   "whole": [
+    56.1,
+    74.65
+   ]
+  },
+  "hasBhashya": true,
+  "order": 4
+ },
+ {
+  "id": "MuU_1.1.4",
+  "ref": "1.1.4",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "तस्मै स होवाच ।",
+   "द्वे विद्ये वेदितव्ये इति ह स्म",
+   "यद्ब्रह्मविदो वदन्ति परा चैवापरा च ॥ ४॥"
+  ],
+  "iast": [
+   "tasmai sa hovāca ।",
+   "dve vidye veditavye iti ha sma",
+   "yadbrahmavido vadanti parā caivāparā ca ॥ 4॥"
+  ],
+  "alt": [
+   {
+    "text": "To him thus spoke Angiras: Twofold is the knowledge that must be known of which the knowers of the Brahman tell, the higher and the lower knowledge.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 131",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मै",
+    "tasmai",
+    "to that",
+    "tad"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "उवाच",
+    "uvāca",
+    "said",
+    "vac"
+   ],
+   [
+    "द्वे",
+    "dve",
+    "two",
+    "dvi"
+   ],
+   [
+    "विद्ये",
+    "vidye",
+    "two kinds of knowledge",
+    "vidyā"
+   ],
+   [
+    "वेदितव्ये",
+    "veditavye",
+    "to be known",
+    "vid"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "स्म",
+    "sma",
+    "verily",
+    "sma"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "विदः",
+    "vidaḥ",
+    "knowers (in brahma-vidaḥ, knowers of Brahman)",
+    "vid"
+   ],
+   [
+    "वदन्ति",
+    "vadanti",
+    "they say",
+    "vad"
+   ],
+   [
+    "परा",
+    "parā",
+    "higher",
+    "para"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अपरा",
+    "aparā",
+    "lower",
+    "apara"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ]
+  ],
+  "tr": {
+   "text": "To him he said, ‘\"There are two kinds of knowledge to be acquired – the higher and the lower\"; this is what, as tradition runs, the knowers of the import of the Vedas say.’",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.4.mp3",
+   "whole": [
+    75.86,
+    90.57
+   ]
+  },
+  "hasBhashya": true,
+  "order": 5
+ },
+ {
+  "id": "MuU_1.1.5",
+  "ref": "1.1.5",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "तत्रापरा ऋग्वेदो यजुर्वेदः सामवेदोऽथर्ववेदः",
+   "शिक्षा कल्पो व्याकरणं निरुक्तं छन्दो ज्योतिषमिति ।",
+   "अथ परा यया तदक्षरमधिगम्यते ॥ ५॥"
+  ],
+  "iast": [
+   "tatrāparā ṛgvedo yajurvedaḥ sāmavedo’tharvavedaḥ",
+   "śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣamiti ।",
+   "atha parā yayā tadakṣaramadhigamyate ॥ 5॥"
+  ],
+  "alt": [
+   {
+    "text": "Of which the lower, the Rig Veda and the Yajur Veda and the Sama Veda and the Atharva Veda, chanting, ritual, grammar, etymological interpretation, and prosody and astronomy. And then the higher by which is known the Immutable.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 132",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्र",
+    "tatra",
+    "there",
+    "tatra"
+   ],
+   [
+    "अपरा",
+    "aparā",
+    "lower",
+    "apara"
+   ],
+   [
+    "ऋग्वेदः",
+    "ṛgvedaḥ",
+    "Rigveda",
+    "ṛgveda"
+   ],
+   [
+    "यजुर्वेदः",
+    "yajurvedaḥ",
+    "Yajurveda",
+    "yajurveda"
+   ],
+   [
+    "सामवेदः",
+    "sāmavedaḥ",
+    "Samaveda",
+    "sāmaveda"
+   ],
+   [
+    "अथर्ववेदः",
+    "atharvavedaḥ",
+    "Atharvaveda",
+    "atharvaveda"
+   ],
+   [
+    "शिक्षा",
+    "śikṣā",
+    "phonetics",
+    "śikṣā"
+   ],
+   [
+    "कल्पः",
+    "kalpaḥ",
+    "rituals",
+    "kalpa"
+   ],
+   [
+    "व्याकरणम्",
+    "vyākaraṇam",
+    "grammar",
+    "vyākaraṇa"
+   ],
+   [
+    "निरुक्तम्",
+    "niruktam",
+    "etymology",
+    "nirukta"
+   ],
+   [
+    "छन्दः",
+    "chandaḥ",
+    "meter",
+    "chandas"
+   ],
+   [
+    "ज्योतिषम्",
+    "jyotiṣam",
+    "astrology",
+    "jyotiṣa"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अथ",
+    "atha",
+    "then",
+    "atha"
+   ],
+   [
+    "परा",
+    "parā",
+    "higher",
+    "para"
+   ],
+   [
+    "यया",
+    "yayā",
+    "by which (feminine)",
+    "yad"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अक्षरम्",
+    "akṣaram",
+    "the imperishable",
+    "akṣara"
+   ],
+   [
+    "अधिगम्यते",
+    "adhigamyate",
+    "is attained",
+    "adhigam"
+   ]
+  ],
+  "tr": {
+   "text": "Of these, the lower comprises the Rig-Veda, Yajur-Veda, Sama-Veda, Atharva-Veda, the science of pronunciation etc., the code of rituals, grammar, etymology, metre and astrology. Then there is the higher (knowledge) by which is attained that Imperishable.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.5.mp3",
+   "whole": [
+    92.15,
+    114.45
+   ]
+  },
+  "hasBhashya": true,
+  "order": 6
+ },
+ {
+  "id": "MuU_1.1.6",
+  "ref": "1.1.6",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "यत्तदद्रेश्यमग्राह्यमगोत्रमवर्णमचक्षुःश्रोत्रं तदपाणिपादम् ।",
+   "नित्यं विभुं सर्वगतं सुसूक्ष्मं",
+   "तदव्ययं यद्भूतयोनिं परिपश्यन्ति धीराः ॥ ६॥"
+  ],
+  "iast": [
+   "yattadadreśyamagrāhyamagotramavarṇamacakṣuḥśrotraṃ tadapāṇipādam ।",
+   "nityaṃ vibhuṃ sarvagataṃ susūkṣmaṃ",
+   "tadavyayaṃ yadbhūtayoniṃ paripaśyanti dhīrāḥ ॥ 6॥"
+  ],
+  "alt": [
+   {
+    "text": "That the invisible, that the unseizable, without connections, without hue, without eye or ear, that which is without hands or feet, eternal, pervading, which is in all things and impalpable, that which is Imperishable, that which is the womb of creatures sages behold everywhere.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 132",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अद्रेश्यम्",
+    "adreśyam",
+    "invisible",
+    "adreśya"
+   ],
+   [
+    "अग्राह्यम्",
+    "agrāhyam",
+    "ungraspable",
+    "agrāhya"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "गोत्रम्",
+    "gotram",
+    "lineage (in a-gotram, without lineage)",
+    "gotra"
+   ],
+   [
+    "अवर्णम्",
+    "avarṇam",
+    "without color",
+    "avarṇa"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "चक्षुः",
+    "cakṣuḥ",
+    "eye",
+    "cakṣus"
+   ],
+   [
+    "श्रोत्रम्",
+    "śrotram",
+    "hearing",
+    "śrotra"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "पाणि",
+    "pāṇi",
+    "hand (in a-pāṇi-pādam, without hands or feet)",
+    "pāṇi"
+   ],
+   [
+    "पादम्",
+    "pādam",
+    "foot (in a-pāṇi-pādam)",
+    "pāda"
+   ],
+   [
+    "नित्यम्",
+    "nityam",
+    "eternal",
+    "nitya"
+   ],
+   [
+    "विभुम्",
+    "vibhum",
+    "all-pervading",
+    "vibhu"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "गतम्",
+    "gatam",
+    "gone",
+    "gam"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "सूक्ष्मम्",
+    "sūkṣmam",
+    "subtle (su-sūkṣmam, exceedingly subtle)",
+    "sūkṣma"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अव्ययम्",
+    "avyayam",
+    "imperishable",
+    "avyaya"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "भूत",
+    "bhūta",
+    "being (compound member)",
+    "bhūta"
+   ],
+   [
+    "योनिम्",
+    "yonim",
+    "source",
+    "yoni"
+   ],
+   [
+    "परिपश्यन्ति",
+    "paripaśyanti",
+    "they behold",
+    "paripaś"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "the discerning",
+    "dhīra"
+   ]
+  ],
+  "tr": {
+   "text": "(By the higher knowledge) the wise realize everywhere that which cannot be perceived and grasped, which is without source, features, eyes, and ears, which has neither hands nor feet, which is eternal, multiformed, all-pervasive, extremely subtle, and undiminishing and which is the source of all.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.6.mp3",
+   "whole": [
+    115.49,
+    138.46
+   ]
+  },
+  "hasBhashya": true,
+  "order": 7
+ },
+ {
+  "id": "MuU_1.1.7",
+  "ref": "1.1.7",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "यथोर्णनाभिः सृजते गृह्णते च",
+   "यथा पृथिव्यामोषधयः संभवन्ति ।",
+   "यथा सतः पुरुषात्केशलोमानि",
+   "तथाऽक्षरात्संभवतीह विश्वम् ॥ ७॥"
+  ],
+  "iast": [
+   "yathorṇanābhiḥ sṛjate gṛhṇate ca",
+   "yathā pṛthivyāmoṣadhayaḥ saṃbhavanti ।",
+   "yathā sataḥ puruṣātkeśalomāni",
+   "tathā’kṣarātsaṃbhavatīha viśvam ॥ 7॥"
+  ],
+  "alt": [
+   {
+    "text": "As the spider puts out and gathers in, as herbs spring up upon the earth, as hair of head and body grow from a living man, so here all is born from the Immutable.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 132",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "ऊर्णनाभिः",
+    "ūrṇanābhiḥ",
+    "the spider",
+    "ūrṇanābhi"
+   ],
+   [
+    "सृजते",
+    "sṛjate",
+    "creates, emits",
+    "sṛj"
+   ],
+   [
+    "गृह्णते",
+    "gṛhṇate",
+    "retracts, takes back",
+    "grah"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "पृथिव्याम्",
+    "pṛthivyām",
+    "on the earth",
+    "pṛthivī"
+   ],
+   [
+    "ओषधयः",
+    "oṣadhayaḥ",
+    "plants",
+    "oṣadhi"
+   ],
+   [
+    "सम्भवन्ति",
+    "sambhavanti",
+    "arise",
+    "sambhū"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "सतः",
+    "sataḥ",
+    "from the existent, from a being",
+    "as"
+   ],
+   [
+    "पुरुषात्",
+    "puruṣāt",
+    "from the Person",
+    "puruṣa"
+   ],
+   [
+    "केश",
+    "keśa",
+    "hair of the head (compound member)",
+    "keśa"
+   ],
+   [
+    "लोमानि",
+    "lomāni",
+    "body hairs",
+    "loman"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "thus",
+    "tathā"
+   ],
+   [
+    "अक्षरात्",
+    "akṣarāt",
+    "from the imperishable",
+    "akṣara"
+   ],
+   [
+    "सम्भवति",
+    "sambhavati",
+    "arises",
+    "sambhū"
+   ],
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "विश्वम्",
+    "viśvam",
+    "all",
+    "viśva"
+   ]
+  ],
+  "tr": {
+   "text": "As a spider spreads out and withdraws (its thread), as on the earth grow the herbs (and trees), and as from a living man issues out hair (on the head and body), so out of the Imperishable does the Universe emerge here (in this phenomenal creation).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.7.mp3",
+   "whole": [
+    140.38,
+    161.34
+   ]
+  },
+  "hasBhashya": true,
+  "order": 8
+ },
+ {
+  "id": "MuU_1.1.8",
+  "ref": "1.1.8",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "तपसा चीयते ब्रह्म ततोऽन्नमभिजायते ।",
+   "अन्नात्प्राणो मनः सत्यं लोकाः कर्मसु चामृतम् ॥ ८॥"
+  ],
+  "iast": [
+   "tapasā cīyate brahma tato’nnamabhijāyate ।",
+   "annātprāṇo manaḥ satyaṃ lokāḥ karmasu cāmṛtam ॥ 8॥"
+  ],
+  "alt": [
+   {
+    "text": "Brahman grows by his energy at work, and then from Him is Matter born, and out of Matter life, and mind and truth and the worlds, and in works immortality.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 132",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तपसा",
+    "tapasā",
+    "through austerity",
+    "tapas"
+   ],
+   [
+    "चीयते",
+    "cīyate",
+    "increases, accumulates",
+    "ci"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "ततस्",
+    "tatas",
+    "then",
+    "tatas"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "अभिजायते",
+    "abhijāyate",
+    "is produced",
+    "abhijan"
+   ],
+   [
+    "अन्नात्",
+    "annāt",
+    "from food",
+    "anna"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "कर्मसु",
+    "karmasu",
+    "in works",
+    "karman"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "immortality",
+    "amṛta"
+   ]
+  ],
+  "tr": {
+   "text": "Through knowledge Brahman increases in size. From that is born food (the Unmanifested). From food evolves Prana (Hiranyagarbha); (thence the cosmic) mind; (thence) the five elements; (thence) the worlds; (thence) the immortality that is in karmas.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.8.mp3",
+   "whole": [
+    162.51,
+    178.1
+   ]
+  },
+  "hasBhashya": true,
+  "order": 9
+ },
+ {
+  "id": "MuU_1.1.9",
+  "ref": "1.1.9",
+  "section": "Muṇḍaka 1 · Section 1",
+  "sa": [
+   "यः सर्वज्ञः सर्वविद्यस्य ज्ञानमयं तपः ।",
+   "तस्मादेतद्ब्रह्म नाम रूपमन्नं च जायते ॥ ९॥"
+  ],
+  "iast": [
+   "yaḥ sarvajñaḥ sarvavidyasya jñānamayaṃ tapaḥ ।",
+   "tasmādetadbrahma nāma rūpamannaṃ ca jāyate ॥ 9॥"
+  ],
+  "alt": [
+   {
+    "text": "He who is the Omniscient, the all-wise, He whose energy is all made of knowledge, from Him is born this that is Brahman here, this Name and Form and Matter.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 132",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "ज्ञः",
+    "jñaḥ",
+    "knowing",
+    "jña"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "विद्",
+    "vid",
+    "knowing (sarva-vid, all-knowing)",
+    "vid"
+   ],
+   [
+    "यस्य",
+    "yasya",
+    "of which",
+    "yad"
+   ],
+   [
+    "ज्ञान",
+    "jñāna",
+    "knowledge (compound member)",
+    "jñāna"
+   ],
+   [
+    "मयम्",
+    "mayam",
+    "consisting of",
+    "maya"
+   ],
+   [
+    "तपः",
+    "tapaḥ",
+    "self-discipline",
+    "tapas"
+   ],
+   [
+    "तस्मात्",
+    "tasmāt",
+    "from that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "name",
+    "nāma"
+   ],
+   [
+    "रूपम्",
+    "rūpam",
+    "form",
+    "rūpa"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "anna"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "जायते",
+    "jāyate",
+    "is born",
+    "jan"
+   ]
+  ],
+  "tr": {
+   "text": "From Him, who is omniscient in general and all-knowing in detail and whose austerity is constituted by knowledge, evolve this (derivative) Brahman, name, colour and food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.1.9.mp3",
+   "whole": [
+    179.56,
+    194.35
+   ]
+  },
+  "hasBhashya": true,
+  "order": 10
+ },
+ {
+  "id": "MuU_1.2.1",
+  "ref": "1.2.1",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "तदेतत्सत्यं मन्त्रेषु कर्माणि कवयो",
+   "यान्यपश्यंस्तानि त्रेतायां बहुधा संततानि ।",
+   "तान्याचरथ नियतं सत्यकामा एष वः",
+   "पन्थाः सुकृतस्य लोके ॥ १॥"
+  ],
+  "iast": [
+   "tadetatsatyaṃ mantreṣu karmāṇi kavayo",
+   "yānyapaśyaṃstāni tretāyāṃ bahudhā saṃtatāni ।",
+   "tānyācaratha niyataṃ satyakāmā eṣa vaḥ",
+   "panthāḥ sukṛtasya loke ॥ 1॥"
+  ],
+  "alt": [
+   {
+    "text": "This is That, the Truth of things: works which the sages beheld in the Mantras were in the Treta manifoldly extended. Works do ye perform religiously with one passion for the Truth; this is your road to the heaven of good deeds.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 133",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "मन्त्रेषु",
+    "mantreṣu",
+    "in the mantras",
+    "mantra"
+   ],
+   [
+    "कर्माणि",
+    "karmāṇi",
+    "works",
+    "karman"
+   ],
+   [
+    "कवयः",
+    "kavayaḥ",
+    "seers, wise ones",
+    "kavi"
+   ],
+   [
+    "यानि",
+    "yāni",
+    "which",
+    "yad"
+   ],
+   [
+    "अपश्यन्",
+    "apaśyan",
+    "they saw",
+    "paś"
+   ],
+   [
+    "तानि",
+    "tāni",
+    "those",
+    "tad"
+   ],
+   [
+    "त्रेतायाम्",
+    "tretāyām",
+    "in the Treta Yuga",
+    "tretā"
+   ],
+   [
+    "बहुधा",
+    "bahudhā",
+    "in many ways",
+    "bahudhā"
+   ],
+   [
+    "संततानि",
+    "saṃtatāni",
+    "extended",
+    "saṃtan"
+   ],
+   [
+    "तानि",
+    "tāni",
+    "those",
+    "tad"
+   ],
+   [
+    "आचरथ",
+    "ācaratha",
+    "perform",
+    "ācar"
+   ],
+   [
+    "नियतम्",
+    "niyatam",
+    "with discipline, regularly",
+    "niyatam"
+   ],
+   [
+    "सत्य",
+    "satya",
+    "truth (in satya-kāmāḥ)",
+    "satya"
+   ],
+   [
+    "कामाः",
+    "kāmāḥ",
+    "desiring (satya-kāmāḥ, seekers of truth)",
+    "kāma"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "वः",
+    "vaḥ",
+    "for you",
+    "tvad"
+   ],
+   [
+    "पन्थाः",
+    "panthāḥ",
+    "path",
+    "pathin"
+   ],
+   [
+    "सुकृतस्य",
+    "sukṛtasya",
+    "of virtue",
+    "sukṛta"
+   ],
+   [
+    "लोके",
+    "loke",
+    "in the world",
+    "loka"
+   ]
+  ],
+  "tr": {
+   "text": "That thing that is such, is true. The karmas that the wise discovered in the mantras are accomplished variously (in the context of the sacrifice) where the three Vedic duties get united. You perform them for ever with desire for the true results. This is your path leading to the fruits of karma acquired by yourselves.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.1.mp3",
+   "whole": [
+    197.23,
+    219.65
+   ]
+  },
+  "hasBhashya": true,
+  "order": 11
+ },
+ {
+  "id": "MuU_1.2.2",
+  "ref": "1.2.2",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "यदा लेलायते ह्यर्चिः समिद्धे हव्यवाहने ।",
+   "तदाऽऽज्यभागावन्तरेणाऽऽहुतीः प्रतिपादयेच्छ्रद्धया हुतम् ॥ २॥"
+  ],
+  "iast": [
+   "yadā lelāyate hyarciḥ samiddhe havyavāhane ।",
+   "tadā’’jyabhāgāvantareṇā’’hutīḥ pratipādayecchraddhayā hutam ॥ 2॥"
+  ],
+  "alt": [
+   {
+    "text": "When the fire of the sacrifice is kindled and the flame sways and quivers, then between the double pourings of butter cast therein with faith thy offerings.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 133",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यदा",
+    "yadā",
+    "when",
+    "yadā"
+   ],
+   [
+    "लेलायते",
+    "lelāyate",
+    "flickers",
+    "lelāy"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अर्चिः",
+    "arciḥ",
+    "flame",
+    "arcis"
+   ],
+   [
+    "समिद्धे",
+    "samiddhe",
+    "when kindled",
+    "samindh"
+   ],
+   [
+    "हव्यवाहने",
+    "havyavāhane",
+    "in the bearer of offerings, the fire",
+    "havyavāhana"
+   ],
+   [
+    "तदा",
+    "tadā",
+    "then",
+    "tadā"
+   ],
+   [
+    "आज्यभागौ",
+    "ājyabhāgau",
+    "the two portions of clarified butter",
+    "ājyabhāga"
+   ],
+   [
+    "अन्तरेण",
+    "antareṇa",
+    "between",
+    "antareṇa"
+   ],
+   [
+    "आहुतीः",
+    "āhutīḥ",
+    "oblations",
+    "āhuti"
+   ],
+   [
+    "प्रतिपादयेत्",
+    "pratipādayet",
+    "one should offer",
+    "pratipāday"
+   ],
+   [
+    "श्रद्धया",
+    "śraddhayā",
+    "with faith",
+    "śraddhā"
+   ],
+   [
+    "हुतम्",
+    "hutam",
+    "offered in sacrifice",
+    "hu"
+   ]
+  ],
+  "tr": {
+   "text": "When, the fire being set ablaze, the flame shoots up, one should offer the oblations into that part that is in between the right and the left.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.2.mp3",
+   "whole": [
+    223.86,
+    240.03
+   ]
+  },
+  "hasBhashya": true,
+  "order": 12
+ },
+ {
+  "id": "MuU_1.2.3",
+  "ref": "1.2.3",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "यस्याग्निहोत्रमदर्शमपौर्णमासमचातुर्मास्यमनाग्रयणमतिथिवर्जितं च ।",
+   "अहुतमवैश्वदेवमविधिना हुतमासप्तमांस्तस्य लोकान् हिनस्ति ॥ ३॥"
+  ],
+  "iast": [
+   "yasyāgnihotramadarśamapaurṇamāsamacāturmāsyamanāgrayaṇamatithivarjitaṃ ca ।",
+   "ahutamavaiśvadevamavidhinā hutamāsaptamāṃstasya lokān hinasti ॥ 3॥"
+  ],
+  "alt": [
+   {
+    "text": "For he whose altar-fires are empty of the new-moon offering and the full-moon offering and the offering of the rains and the offering of the first fruits, or unfed, or fed without right ritual, or without guests or without the dues to the Vishwa-Devas, destroys his hope of all the seven worlds.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 133",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यस्य",
+    "yasya",
+    "of which",
+    "yad"
+   ],
+   [
+    "अग्निहोत्रम्",
+    "agnihotram",
+    "the Agnihotra fire offering",
+    "agnihotra"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "दर्शम्",
+    "darśam",
+    "new-moon rite (a-darśam: lacking it)",
+    "darśa"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "पौर्णमासम्",
+    "paurṇamāsam",
+    "full-moon rite (a-paurṇamāsam: lacking it)",
+    "paurṇamāsa"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "चातुर्मास्यम्",
+    "cāturmāsyam",
+    "four-monthly seasonal rite (a-cāturmāsyam: lacking it)",
+    "cāturmāsya"
+   ],
+   [
+    "अन्",
+    "an",
+    "not",
+    "an"
+   ],
+   [
+    "आग्रयणम्",
+    "āgrayaṇam",
+    "first-fruits offering (an-āgrayaṇam: lacking it)",
+    "āgrayaṇa"
+   ],
+   [
+    "अतिथि",
+    "atithi",
+    "guest (compound member)",
+    "atithi"
+   ],
+   [
+    "वर्जितम्",
+    "varjitam",
+    "deprived of",
+    "varjay"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "हुतम्",
+    "hutam",
+    "offered in sacrifice",
+    "hu"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "वैश्वदेवम्",
+    "vaiśvadevam",
+    "offering to all the gods (a-vaiśvadevam: lacking it)",
+    "vaiśvadeva"
+   ],
+   [
+    "अविधिना",
+    "avidhinā",
+    "contrary to the prescribed rule",
+    "avidhi"
+   ],
+   [
+    "हुतम्",
+    "hutam",
+    "offered in sacrifice",
+    "hu"
+   ],
+   [
+    "आ",
+    "ā",
+    "up to",
+    "ā"
+   ],
+   [
+    "सप्तमान्",
+    "saptamān",
+    "the seventh (worlds",
+    "saptama"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tad"
+   ],
+   [
+    "लोकान्",
+    "lokān",
+    "worlds",
+    "loka"
+   ],
+   [
+    "हिनस्ति",
+    "hinasti",
+    "injures",
+    "hiṃs"
+   ]
+  ],
+  "tr": {
+   "text": "It (i.e. the Agnihotra) destroys the seven worlds of that man whose Agnihotra (sacrifice) is without Darsa and Paurnamasa (rites), devoid of Chaturmasya, bereft of Agrayana, unblest with guests, goes unperformed, is unaccompanied by Vaisvadeva (rite) and is performed perfunctorily.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.3.mp3",
+   "whole": [
+    240.03,
+    263.87
+   ]
+  },
+  "hasBhashya": true,
+  "order": 13
+ },
+ {
+  "id": "MuU_1.2.4",
+  "ref": "1.2.4",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "काली कराली च मनोजवा च",
+   "सुलोहिता या च सुधूम्रवर्णा ।",
+   "स्फुलिङ्गिनी विश्वरुची च देवी",
+   "लेलायमाना इति सप्त जिह्वाः ॥ ४॥"
+  ],
+  "iast": [
+   "kālī karālī ca manojavā ca",
+   "sulohitā yā ca sudhūmravarṇā ।",
+   "sphuliṅginī viśvarucī ca devī",
+   "lelāyamānā iti sapta jihvāḥ ॥ 4॥"
+  ],
+  "alt": [
+   {
+    "text": "Kali, the black, Karali, the terrible, Manojava, thoughtswift, Sulohita, blood-red, Sudhumravarna, smoke-hued, Sphulingini, scattering sparks, Vishwaruchi, the all-beautiful, these are the seven swaying tongues of the fire.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 133",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "काली",
+    "kālī",
+    "the Black one, a tongue of flame",
+    "kālī"
+   ],
+   [
+    "कराली",
+    "karālī",
+    "the Terrible one",
+    "karālī"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "मनोजवा",
+    "manojavā",
+    "Swift as Thought",
+    "manojavā"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "सुलोहिता",
+    "sulohitā",
+    "Very Red",
+    "sulohitā"
+   ],
+   [
+    "या",
+    "yā",
+    "which",
+    "yad"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "सुधूम्रवर्णा",
+    "sudhūmravarṇā",
+    "Deep Smoke-coloured",
+    "sudhūmravarṇā"
+   ],
+   [
+    "स्फुलिङ्गिनी",
+    "sphuliṅginī",
+    "Spark-scattering",
+    "sphuliṅginī"
+   ],
+   [
+    "विश्वरुची",
+    "viśvarucī",
+    "All-shining",
+    "viśvarucī"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "देवी",
+    "devī",
+    "divine",
+    "devī"
+   ],
+   [
+    "लेलायमाना",
+    "lelāyamānā",
+    "flickering",
+    "lelāyamānā"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "सप्त",
+    "sapta",
+    "seven",
+    "saptan"
+   ],
+   [
+    "जिह्वाः",
+    "jihvāḥ",
+    "tongues",
+    "jihvā"
+   ]
+  ],
+  "tr": {
+   "text": "Kali, Karali, Manojava and Sulohita and that which is Sudhumravarna, as also Sphulingini, and the shining Visvaruchi – these are the seven flaming tongues.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.4.mp3",
+   "whole": [
+    265.08,
+    284.13
+   ]
+  },
+  "hasBhashya": true,
+  "order": 14
+ },
+ {
+  "id": "MuU_1.2.5",
+  "ref": "1.2.5",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "एतेषु यश्चरते भ्राजमानेषु यथाकालं",
+   "चाहुतयो ह्याददायन् ।",
+   "तं नयन्त्येताः सूर्यस्य रश्मयो यत्र",
+   "देवानां पतिरेकोऽधिवासः ॥ ५॥"
+  ],
+  "iast": [
+   "eteṣu yaścarate bhrājamāneṣu yathākālaṃ",
+   "cāhutayo hyādadāyan ।",
+   "taṃ nayantyetāḥ sūryasya raśmayo yatra",
+   "devānāṃ patireko’dhivāsaḥ ॥ 5॥"
+  ],
+  "alt": [
+   {
+    "text": "He who in these when they are blazing bright performs the rites, in their due season, him his fires of sacrifice take and they lead him, these rays of the Sun, there where the Overlord of the gods is the Inhabitant on high.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 134",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एतेषु",
+    "eteṣu",
+    "in these",
+    "etad"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "चरते",
+    "carate",
+    "performs the rite",
+    "car"
+   ],
+   [
+    "भ्राजमानेषु",
+    "bhrājamāneṣu",
+    "while blazing",
+    "bhrāj"
+   ],
+   [
+    "यथाकालम्",
+    "yathākālam",
+    "at the proper time",
+    "yathākālam"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "आहुतयः",
+    "āhutayaḥ",
+    "oblations",
+    "āhuti"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "नयन्ति",
+    "nayanti",
+    "lead",
+    "nī"
+   ],
+   [
+    "एताः",
+    "etāḥ",
+    "these (oblations)",
+    "etad"
+   ],
+   [
+    "सूर्यस्य",
+    "sūryasya",
+    "of the sun",
+    "sūrya"
+   ],
+   [
+    "रश्मयः",
+    "raśmayaḥ",
+    "rays",
+    "raśmi"
+   ],
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "देवानाम्",
+    "devānām",
+    "of the gods",
+    "deva"
+   ],
+   [
+    "पतिः",
+    "patiḥ",
+    "lord",
+    "pati"
+   ],
+   [
+    "एकः",
+    "ekaḥ",
+    "one",
+    "eka"
+   ],
+   [
+    "अधिवासः",
+    "adhivāsaḥ",
+    "abode",
+    "adhivāsa"
+   ]
+  ],
+  "tr": {
+   "text": "These oblations turn into the rays of the sun and taking him up they lead him, who performs the rites in these shining flames at the proper time, to where the single lord of the gods presides over all.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.5.mp3",
+   "whole": [
+    284.88,
+    306.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 15
+ },
+ {
+  "id": "MuU_1.2.6",
+  "ref": "1.2.6",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "एह्येहीति तमाहुतयः सुवर्चसः",
+   "सूर्यस्य रश्मिभिर्यजमानं वहन्ति ।",
+   "प्रियां वाचमभिवदन्त्योऽर्चयन्त्य",
+   "एष वः पुण्यः सुकृतो ब्रह्मलोकः ॥ ६॥"
+  ],
+  "iast": [
+   "ehyehīti tamāhutayaḥ suvarcasaḥ",
+   "sūryasya raśmibhiryajamānaṃ vahanti ।",
+   "priyāṃ vācamabhivadantyo’rcayantya",
+   "eṣa vaḥ puṇyaḥ sukṛto brahmalokaḥ ॥ 6॥"
+  ],
+  "alt": [
+   {
+    "text": "“Come with us”, “Come with us”, they cry to him, these luminous fires of sacrifice, and they bear him by the rays of the Sun speaking to him pleasant words of sweetness, doing him homage, “This is your holy world of Brahman and the heaven of your righteousness.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 134",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एहि",
+    "ehi",
+    "come!",
+    "e"
+   ],
+   [
+    "एहि",
+    "ehi",
+    "come!",
+    "e"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "आहुतयः",
+    "āhutayaḥ",
+    "oblations",
+    "āhuti"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "वर्चसः",
+    "varcasaḥ",
+    "lustre (su-varcasaḥ, of goodly splendour)",
+    "varcas"
+   ],
+   [
+    "सूर्यस्य",
+    "sūryasya",
+    "of the sun",
+    "sūrya"
+   ],
+   [
+    "रश्मिभिः",
+    "raśmibhiḥ",
+    "by the rays",
+    "raśmi"
+   ],
+   [
+    "यजमानम्",
+    "yajamānam",
+    "the sacrificer",
+    "yaj"
+   ],
+   [
+    "वहन्ति",
+    "vahanti",
+    "carry",
+    "vah"
+   ],
+   [
+    "प्रियाम्",
+    "priyām",
+    "pleasing",
+    "priya"
+   ],
+   [
+    "वाचम्",
+    "vācam",
+    "speech",
+    "vāc"
+   ],
+   [
+    "अभिवदन्त्यः",
+    "abhivadantyaḥ",
+    "speaking to him",
+    "abhivad"
+   ],
+   [
+    "अर्चयन्त्यः",
+    "arcayantyaḥ",
+    "honouring",
+    "arcay"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "वः",
+    "vaḥ",
+    "for you",
+    "tvad"
+   ],
+   [
+    "पुण्यः",
+    "puṇyaḥ",
+    "holy",
+    "puṇya"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "कृतः",
+    "kṛtaḥ",
+    "made",
+    "kṛt"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "लोकः",
+    "lokaḥ",
+    "world",
+    "loka"
+   ]
+  ],
+  "tr": {
+   "text": "Saying, ‘Come, come’, uttering pleasing words such as, ‘This is your well-earned, virtuous path which leads to heaven’, and offering him adoration, the scintillating oblations carry the sacrificer along the rays of the sun.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.6.mp3",
+   "whole": [
+    307.93,
+    330.52
+   ]
+  },
+  "hasBhashya": true,
+  "order": 16
+ },
+ {
+  "id": "MuU_1.2.7",
+  "ref": "1.2.7",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "प्लवा ह्येते अदृढा यज्ञरूपा",
+   "अष्टादशोक्तमवरं येषु कर्म ।",
+   "एतच्छ्रेयो येऽभिनन्दन्ति मूढा",
+   "जरामृत्युं ते पुनरेवापि यन्ति ॥ ७॥"
+  ],
+  "iast": [
+   "plavā hyete adṛḍhā yajñarūpā",
+   "aṣṭādaśoktamavaraṃ yeṣu karma ।",
+   "etacchreyo ye’bhinandanti mūḍhā",
+   "jarāmṛtyuṃ te punarevāpi yanti ॥ 7॥"
+  ],
+  "alt": [
+   {
+    "text": "But frail are the ships of sacrifice, frail these forms of sacrifice, all the eighteen of them, in which are declared the lower works; fools are they who hail them as the highest good and they come yet again to this world of age and death.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 134",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्लवाः",
+    "plavāḥ",
+    "rafts",
+    "plava"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एते",
+    "ete",
+    "these",
+    "etad"
+   ],
+   [
+    "अदृढाः",
+    "adṛḍhāḥ",
+    "insecure",
+    "adṛḍha"
+   ],
+   [
+    "यज्ञ",
+    "yajña",
+    "sacrifice (compound member)",
+    "yajña"
+   ],
+   [
+    "रूपाः",
+    "rūpāḥ",
+    "forms",
+    "rūpa"
+   ],
+   [
+    "अष्टादश",
+    "aṣṭādaśa",
+    "eighteen",
+    "aṣṭādaśan"
+   ],
+   [
+    "उक्तम्",
+    "uktam",
+    "declared",
+    "vac"
+   ],
+   [
+    "अवरम्",
+    "avaram",
+    "lower",
+    "avara"
+   ],
+   [
+    "येषु",
+    "yeṣu",
+    "in which",
+    "yad"
+   ],
+   [
+    "कर्म",
+    "karma",
+    "work",
+    "karman"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "श्रेयः",
+    "śreyaḥ",
+    "the better",
+    "śreyas"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "yad"
+   ],
+   [
+    "अभिनन्दन्ति",
+    "abhinandanti",
+    "delight in",
+    "abhinand"
+   ],
+   [
+    "मूढाः",
+    "mūḍhāḥ",
+    "deluded people",
+    "muh"
+   ],
+   [
+    "जरा",
+    "jarā",
+    "old age (compound member)",
+    "jarā"
+   ],
+   [
+    "मृत्युम्",
+    "mṛtyum",
+    "death",
+    "mṛtyu"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "पुनर्",
+    "punar",
+    "again",
+    "punar"
+   ],
+   [
+    "एवा",
+    "evā",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अपियन्ति",
+    "apiyanti",
+    "go into",
+    "apī"
+   ]
+  ],
+  "tr": {
+   "text": "Since these eighteen constituents of a sacrifice, on whom the inferior karma has been said to rest, are perishable because of their fragility, therefore those ignorant people who get elated with the idea ‘This is (the cause of) bliss’, undergo old age and death over again.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.7.mp3",
+   "whole": [
+    331.35,
+    352.65
+   ]
+  },
+  "hasBhashya": true,
+  "order": 17
+ },
+ {
+  "id": "MuU_1.2.8",
+  "ref": "1.2.8",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "अविद्यायामन्तरे वर्तमानाः",
+   "स्वयं धीराः पण्डितंमन्यमानाः ।",
+   "जङ्घन्यमानाः परियन्ति मूढा",
+   "अन्धेनैव नीयमाना यथान्धाः ॥ ८॥"
+  ],
+  "iast": [
+   "avidyāyāmantare vartamānāḥ",
+   "svayaṃ dhīrāḥ paṇḍitaṃmanyamānāḥ ।",
+   "jaṅghanyamānāḥ pariyanti mūḍhā",
+   "andhenaiva nīyamānā yathāndhāḥ ॥ 8॥"
+  ],
+  "alt": [
+   {
+    "text": "They who dwell shut within the Ignorance and they hold themselves for learned men thinking “We, even we are the wise and the sages” — fools are they and they wander around beaten and stumbling like blind men led by the blind.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 134",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अविद्यायाम्",
+    "avidyāyām",
+    "in ignorance",
+    "avidyā"
+   ],
+   [
+    "अन्तरे",
+    "antare",
+    "in the midst",
+    "antara"
+   ],
+   [
+    "वर्तमानाः",
+    "vartamānāḥ",
+    "existing",
+    "vṛt"
+   ],
+   [
+    "स्वयम्",
+    "svayam",
+    "oneself",
+    "svayam"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "the discerning",
+    "dhīra"
+   ],
+   [
+    "पण्डितम्",
+    "paṇḍitam",
+    "learned (in paṇḍitaṃ-manyamānāḥ)",
+    "paṇḍita"
+   ],
+   [
+    "मन्यमानाः",
+    "manyamānāḥ",
+    "considering themselves",
+    "man"
+   ],
+   [
+    "जङ्घन्यमानाः",
+    "jaṅghanyamānāḥ",
+    "being struck again and again",
+    "jaṅghan"
+   ],
+   [
+    "परियन्ति",
+    "pariyanti",
+    "go round",
+    "parī"
+   ],
+   [
+    "मूढाः",
+    "mūḍhāḥ",
+    "the deluded",
+    "muh"
+   ],
+   [
+    "अन्धेन",
+    "andhena",
+    "by a blind person",
+    "andha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "नीयमानाः",
+    "nīyamānāḥ",
+    "being led",
+    "nī"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "अन्धाः",
+    "andhāḥ",
+    "blind people",
+    "andha"
+   ]
+  ],
+  "tr": {
+   "text": "Remaining within the fold of ignorance and thinking, ‘We are ourselves wise and learned’, the fools, while being buffeted very much, ramble about like the blind led by the blind alone.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.8.mp3",
+   "whole": [
+    355.19,
+    378.74
+   ]
+  },
+  "hasBhashya": true,
+  "order": 18
+ },
+ {
+  "id": "MuU_1.2.9",
+  "ref": "1.2.9",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "अविद्यायां बहुधा वर्तमाना वयं",
+   "कृतार्था इत्यभिमन्यन्ति बालाः ।",
+   "यत्कर्मिणो न प्रवेदयन्ति रागात्तेनातुराः क्षीणलोकाश्च्यवन्ते ॥ ९॥"
+  ],
+  "iast": [
+   "avidyāyāṃ bahudhā vartamānā vayaṃ",
+   "kṛtārthā ityabhimanyanti bālāḥ ।",
+   "yatkarmiṇo na pravedayanti rāgāttenāturāḥ kṣīṇalokāścyavante ॥ 9॥"
+  ],
+  "alt": [
+   {
+    "text": "They dwell in many bonds of the Ignorance, children thinking, “We have achieved our aim of Paradise”; for when the men of works are held by their affections, and arrive not at the Knowledge, then they are overtaken by anguish, then their Paradise wastes by enjoying and they fall from their heavens.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 134, 135",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अविद्यायाम्",
+    "avidyāyām",
+    "in ignorance",
+    "avidyā"
+   ],
+   [
+    "बहुधा",
+    "bahudhā",
+    "in many ways",
+    "bahudhā"
+   ],
+   [
+    "वर्तमानाः",
+    "vartamānāḥ",
+    "remaining",
+    "vṛt"
+   ],
+   [
+    "वयम्",
+    "vayam",
+    "we",
+    "mad"
+   ],
+   [
+    "कृतार्थाः",
+    "kṛtārthāḥ",
+    "having achieved the goal",
+    "kṛtārtha"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "अभिमन्यन्ति",
+    "abhimanyanti",
+    "imagine",
+    "abhiman"
+   ],
+   [
+    "बालाः",
+    "bālāḥ",
+    "the immature",
+    "bāla"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yat"
+   ],
+   [
+    "कर्मिणः",
+    "karmiṇaḥ",
+    "performers of ritual works",
+    "karmin"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "प्रवेदयन्ति",
+    "pravedayanti",
+    "understand",
+    "praveday"
+   ],
+   [
+    "रागात्",
+    "rāgāt",
+    "because of attachment",
+    "rāga"
+   ],
+   [
+    "तेन",
+    "tena",
+    "therefore",
+    "tena"
+   ],
+   [
+    "आतुराः",
+    "āturāḥ",
+    "afflicted",
+    "ātura"
+   ],
+   [
+    "क्षीण",
+    "kṣīṇa",
+    "exhausted (in kṣīṇa-lokāḥ, whose worlds are exhausted)",
+    "kṣi"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "च्यवन्ते",
+    "cyavante",
+    "fall away",
+    "cyu"
+   ]
+  ],
+  "tr": {
+   "text": "Continuing diversely in the midst of ignorance, the unenlightened take airs by thinking, ‘We have attained the goal.’ Since the men, engaged in karma, do not understand (the truth) under the influence of attachment, thereby they become afflicted with sorrow and are deprived of heaven on the exhaustion of the results of karma.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.9.mp3",
+   "whole": [
+    380.03,
+    403.12
+   ]
+  },
+  "hasBhashya": false,
+  "order": 19
+ },
+ {
+  "id": "MuU_1.2.10",
+  "ref": "1.2.10",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "इष्टापूर्तं मन्यमाना वरिष्ठं",
+   "नान्यच्छ्रेयो वेदयन्ते प्रमूढाः ।",
+   "नाकस्य पृष्ठे ते सुकृतेऽनुभूत्वेमं",
+   "लोकं हीनतरं वा विशन्ति ॥ १०॥"
+  ],
+  "iast": [
+   "iṣṭāpūrtaṃ manyamānā variṣṭhaṃ",
+   "nānyacchreyo vedayante pramūḍhāḥ ।",
+   "nākasya pṛṣṭhe te sukṛte’nubhūtvemaṃ",
+   "lokaṃ hīnataraṃ vā viśanti ॥ 10॥"
+  ],
+  "alt": [
+   {
+    "text": "Minds bewildered who hold the oblation offered and the well dug for the greatest righteousness and know not any other highest good, on the back of heaven they enjoy the world won by their righteousness and enter again this or even a lower world.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 135",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "इष्टापूर्तम्",
+    "iṣṭāpūrtam",
+    "sacrifice and charitable works",
+    "iṣṭāpūrta"
+   ],
+   [
+    "मन्यमानाः",
+    "manyamānāḥ",
+    "considering",
+    "man"
+   ],
+   [
+    "वरिष्ठम्",
+    "variṣṭham",
+    "the highest",
+    "variṣṭha"
+   ],
+   [
+    "ना",
+    "nā",
+    "not",
+    "na"
+   ],
+   [
+    "अन्यत्",
+    "anyat",
+    "anything else",
+    "anya"
+   ],
+   [
+    "श्रेयः",
+    "śreyaḥ",
+    "a higher good",
+    "śreyas"
+   ],
+   [
+    "वेदयन्ते",
+    "vedayante",
+    "know",
+    "veday"
+   ],
+   [
+    "प्रमूढाः",
+    "pramūḍhāḥ",
+    "deeply deluded",
+    "pramuh"
+   ],
+   [
+    "नाकस्य",
+    "nākasya",
+    "of heaven",
+    "nāka"
+   ],
+   [
+    "पृष्ठे",
+    "pṛṣṭhe",
+    "on the summit",
+    "pṛṣṭha"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "सुकृते",
+    "sukṛte",
+    "in the well-won reward of good deeds",
+    "sukṛta"
+   ],
+   [
+    "अनुभूत्वा",
+    "anubhūtvā",
+    "having experienced",
+    "anubhū"
+   ],
+   [
+    "इमम्",
+    "imam",
+    "this",
+    "idam"
+   ],
+   [
+    "लोकम्",
+    "lokam",
+    "world",
+    "loka"
+   ],
+   [
+    "हीनतरम्",
+    "hīnataram",
+    "a lower one",
+    "hīnatara"
+   ],
+   [
+    "वा",
+    "vā",
+    "or",
+    "vā"
+   ],
+   [
+    "विशन्ति",
+    "viśanti",
+    "enter",
+    "viś"
+   ]
+  ],
+  "tr": {
+   "text": "The deluded fools, believing the rites inculcated by the Vedas and the Smritis to be the highest, do not understand the other thing (that leads to) liberation. They, having enjoyed (the fruits of actions) in the abode of pleasure on the heights of heaven, enter this world or an inferior one.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.10.mp3",
+   "whole": [
+    406.5,
+    429.34
+   ]
+  },
+  "hasBhashya": false,
+  "order": 20
+ },
+ {
+  "id": "MuU_1.2.11",
+  "ref": "1.2.11",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "तपःश्रद्धे ये ह्युपवसन्त्यरण्ये",
+   "शान्ता विद्वांसो भैक्ष्यचर्यां चरन्तः ।",
+   "सूर्यद्वारेण ते विरजाः प्रयान्ति",
+   "यत्रामृतः स पुरुषो ह्यव्ययात्मा ॥ ११॥"
+  ],
+  "iast": [
+   "tapaḥśraddhe ye hyupavasantyaraṇye",
+   "śāntā vidvāṃso bhaikṣyacaryāṃ carantaḥ ।",
+   "sūryadvāreṇa te virajāḥ prayānti",
+   "yatrāmṛtaḥ sa puruṣo hyavyayātmā ॥ 11॥"
+  ],
+  "alt": [
+   {
+    "text": "But they who in the forest follow after faith and selfdiscipline, calm and full of knowledge, living upon alms, cast from them the dust of their passions, and through the gate of the Sun they pass on there where is the Immortal, the Spirit, the Self undecaying and imperishable.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 135",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तपः",
+    "tapaḥ",
+    "self-discipline",
+    "tapas"
+   ],
+   [
+    "श्रद्धे",
+    "śraddhe",
+    "faith (in tapaḥ-śraddhe, austerity and faith)",
+    "śraddhā"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "yad"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "उपवसन्ति",
+    "upavasanti",
+    "dwell, live",
+    "upavas"
+   ],
+   [
+    "अरण्ये",
+    "araṇye",
+    "in the forest",
+    "araṇya"
+   ],
+   [
+    "शान्ताः",
+    "śāntāḥ",
+    "peaceful",
+    "śam"
+   ],
+   [
+    "विद्वांसः",
+    "vidvāṃsaḥ",
+    "wise ones",
+    "vid"
+   ],
+   [
+    "भैक्ष",
+    "bhaikṣa",
+    "alms (compound member)",
+    "bhaikṣa"
+   ],
+   [
+    "चर्याम्",
+    "caryām",
+    "way of life",
+    "caryā"
+   ],
+   [
+    "चरन्तः",
+    "carantaḥ",
+    "practicing, living",
+    "car"
+   ],
+   [
+    "सूर्य",
+    "sūrya",
+    "sun (compound member)",
+    "sūrya"
+   ],
+   [
+    "द्वारेण",
+    "dvāreṇa",
+    "through the gate",
+    "dvāra"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "विरजाः",
+    "virajāḥ",
+    "free from impurities",
+    "viraja"
+   ],
+   [
+    "प्रयान्ति",
+    "prayānti",
+    "go, travel",
+    "prayā"
+   ],
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "अमृतः",
+    "amṛtaḥ",
+    "immortal",
+    "amṛta"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अव्यय",
+    "avyaya",
+    "imperishable (in avyayātmā)",
+    "avyaya"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ]
+  ],
+  "tr": {
+   "text": "Those who live in the forest, while begging for alms – viz. those (forest-dwellers and hermits) who resort to the duties of their respective stages of life as well as to meditation – and the learned (householders) who have their senses under control – (they) after becoming freed from dirt, go by the path of the sun to where lives that Purusha, immortal and undecaying by nature.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.11.mp3",
+   "whole": [
+    430.72,
+    454.64
+   ]
+  },
+  "hasBhashya": true,
+  "order": 21
+ },
+ {
+  "id": "MuU_1.2.12",
+  "ref": "1.2.12",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो",
+   "निर्वेदमायान्नास्त्यकृतः कृतेन ।",
+   "तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत्",
+   "समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम् ॥ १२॥"
+  ],
+  "iast": [
+   "parīkṣya lokān karmacitān brāhmaṇo",
+   "nirvedamāyānnāstyakṛtaḥ kṛtena ।",
+   "tadvijñānārthaṃ sa gurumevābhigacchet",
+   "samitpāṇiḥ śrotriyaṃ brahmaniṣṭham ॥ 12॥"
+  ],
+  "alt": [
+   {
+    "text": "The seeker of the Brahman, having put to the test the worlds piled up by works, arrives at world-distaste, for not by work done is reached He who is Uncreated. For the knowledge of That, let him approach, fuel in hand, a Guru, one who is learned in the Veda and is devoted to contemplation of the Brahman.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 135",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "परीक्ष्य",
+    "parīkṣya",
+    "having examined",
+    "parīkṣ"
+   ],
+   [
+    "लोकान्",
+    "lokān",
+    "worlds",
+    "loka"
+   ],
+   [
+    "कर्म",
+    "karma",
+    "work",
+    "karman"
+   ],
+   [
+    "चितान्",
+    "citān",
+    "accumulated",
+    "ci"
+   ],
+   [
+    "ब्राह्मणः",
+    "brāhmaṇaḥ",
+    "a Brāhmaṇa",
+    "brāhmaṇa"
+   ],
+   [
+    "निर्वेदम्",
+    "nirvedam",
+    "dispassion",
+    "nirveda"
+   ],
+   [
+    "आयात्",
+    "āyāt",
+    "should develop",
+    "āyā"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अस्ति",
+    "asti",
+    "is",
+    "as"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "कृतः",
+    "kṛtaḥ",
+    "made (a-kṛtaḥ: the unmade)",
+    "kṛ"
+   ],
+   [
+    "कृतेन",
+    "kṛtena",
+    "by the created",
+    "kṛ"
+   ],
+   [
+    "तद्",
+    "tad",
+    "that (in tad-vijñāna-artham)",
+    "tad"
+   ],
+   [
+    "विज्ञान",
+    "vijñāna",
+    "knowledge",
+    "vijñāna"
+   ],
+   [
+    "अर्थम्",
+    "artham",
+    "for the purpose of",
+    "artha"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "गुरुम्",
+    "gurum",
+    "guru",
+    "guru"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अभिगच्छेत्",
+    "abhigacchet",
+    "should approach",
+    "abhigam"
+   ],
+   [
+    "समिध्",
+    "samidh",
+    "fuel-stick (compound member)",
+    "samidh"
+   ],
+   [
+    "पाणिः",
+    "pāṇiḥ",
+    "hand (samit-pāṇiḥ: with fuel-stick in hand)",
+    "pāṇi"
+   ],
+   [
+    "श्रोत्रियम्",
+    "śrotriyam",
+    "learned in the Vedas",
+    "śrotriya"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "निष्ठम्",
+    "niṣṭham",
+    "firmly established (in Brahman)",
+    "niṣṭhā"
+   ]
+  ],
+  "tr": {
+   "text": "A Brahmana should resort to renunciation after examining the worlds acquired through karma, with the help of this maxim: ‘There is nothing (here) that is not the result of karma; so what is the need of (performing) karma ?’ For knowing that Reality he should go, with sacrificial faggots in hand, only to a teacher versed in the Vedas and absorbed in Brahman.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.12.mp3",
+   "whole": [
+    454.64,
+    478.52
+   ]
+  },
+  "hasBhashya": true,
+  "order": 22
+ },
+ {
+  "id": "MuU_1.2.13",
+  "ref": "1.2.13",
+  "section": "Muṇḍaka 1 · Section 2",
+  "sa": [
+   "तस्मै स विद्वानुपसन्नाय सम्यक्",
+   "प्रशान्तचित्ताय शमान्विताय ।",
+   "येनाक्षरं पुरुषं वेद सत्यं प्रोवाच",
+   "तां तत्त्वतो ब्रह्मविद्याम् ॥ १३॥"
+  ],
+  "iast": [
+   "tasmai sa vidvānupasannāya samyak",
+   "praśāntacittāya śamānvitāya ।",
+   "yenākṣaraṃ puruṣaṃ veda satyaṃ provāca",
+   "tāṃ tattvato brahmavidyām ॥ 13॥"
+  ],
+  "alt": [
+   {
+    "text": "To him because he has taken entire refuge with him, with a heart tranquillised and a spirit at peace, that man of knowledge declares in its principles the science of the Brahman by which one comes to know the Immutable Spirit, the True and Real.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 136",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मै",
+    "tasmai",
+    "to that",
+    "tad"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "विद्वान्",
+    "vidvān",
+    "one who knows",
+    "vid"
+   ],
+   [
+    "उपसन्नाय",
+    "upasannāya",
+    "to the one who has approached",
+    "upasad"
+   ],
+   [
+    "सम्यक्",
+    "samyak",
+    "properly",
+    "samyak"
+   ],
+   [
+    "प्रशान्त",
+    "praśānta",
+    "tranquil",
+    "praśam"
+   ],
+   [
+    "चित्ताय",
+    "cittāya",
+    "to one whose mind is (tranquil)",
+    "citta"
+   ],
+   [
+    "शम",
+    "śama",
+    "calm",
+    "śama"
+   ],
+   [
+    "अन्विताय",
+    "anvitāya",
+    "to one endowed with",
+    "anvita"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "अक्षरम्",
+    "akṣaram",
+    "the imperishable",
+    "akṣara"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "vid"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "प्रोवाच",
+    "provāca",
+    "imparted, said",
+    "pravac"
+   ],
+   [
+    "ताम्",
+    "tām",
+    "her",
+    "tad"
+   ],
+   [
+    "तत्त्वतः",
+    "tattvataḥ",
+    "in essence, truly",
+    "tattva"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "विद्याम्",
+    "vidyām",
+    "knowledge (accusative)",
+    "vidyā"
+   ]
+  ],
+  "tr": {
+   "text": "To him who has approached duly, whose heart is calm and whose outer organs are under control, that man of enlightenment should adequately impart that knowledge of Brahman by which one realizes the true and imperishable Purusha.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.1.2.13.mp3",
+   "whole": [
+    480.94,
+    501.61
+   ]
+  },
+  "hasBhashya": true,
+  "order": 23
+ },
+ {
+  "id": "MuU_2.1.1",
+  "ref": "2.1.1",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "तदेतत्सत्यं",
+   "यथा सुदीप्तात्पावकाद्विस्फुलिङ्गाः",
+   "सहस्रशः प्रभवन्ते सरूपाः ।",
+   "तथाऽक्षराद्विविधाः सोम्य भावाः",
+   "प्रजायन्ते तत्र चैवापियन्ति ॥ १॥"
+  ],
+  "iast": [
+   "tadetatsatyaṃ",
+   "yathā sudīptātpāvakādvisphuliṅgāḥ",
+   "sahasraśaḥ prabhavante sarūpāḥ ।",
+   "tathā’kṣarādvividhāḥ somya bhāvāḥ",
+   "prajāyante tatra caivāpiyanti ॥ 1॥"
+  ],
+  "alt": [
+   {
+    "text": "This is That, the Truth of things: as from one high-kindled fire thousands of different sparks are born and all have the same form of fire, so, O fair son, from the immutable manifold becomings are born and even into that they depart.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 137",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "दीप्तात्",
+    "dīptāt",
+    "from the blazing (fire)",
+    "dīp"
+   ],
+   [
+    "पावकात्",
+    "pāvakāt",
+    "from the fire",
+    "pāvaka"
+   ],
+   [
+    "विस्फुलिङ्गाः",
+    "visphuliṅgāḥ",
+    "sparks",
+    "visphuliṅga"
+   ],
+   [
+    "सहस्रशस्",
+    "sahasraśas",
+    "by thousands",
+    "sahasraśas"
+   ],
+   [
+    "प्रभवन्ते",
+    "prabhavante",
+    "arise",
+    "prabhū"
+   ],
+   [
+    "सरूपाः",
+    "sarūpāḥ",
+    "having the same form",
+    "sarūpa"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "thus",
+    "tathā"
+   ],
+   [
+    "अक्षरात्",
+    "akṣarāt",
+    "from the imperishable",
+    "akṣara"
+   ],
+   [
+    "विविधाः",
+    "vividhāḥ",
+    "various",
+    "vividha"
+   ],
+   [
+    "सोम्य",
+    "somya",
+    "dear one",
+    "somya"
+   ],
+   [
+    "भावाः",
+    "bhāvāḥ",
+    "beings, entities",
+    "bhāva"
+   ],
+   [
+    "प्रजायन्ते",
+    "prajāyante",
+    "are born",
+    "prajan"
+   ],
+   [
+    "तत्र",
+    "tatra",
+    "there",
+    "tatra"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अपियन्ति",
+    "apiyanti",
+    "return into",
+    "apī"
+   ]
+  ],
+  "tr": {
+   "text": "That thing that is such, is true. As from a fire fully ablaze, fly off sparks in their thousands that are akin to the fire, similarly O goodlooking one, from the Imperishable originate different kinds of creatures and into It again they merge.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.1.mp3",
+   "whole": [
+    504.61,
+    528.25
+   ]
+  },
+  "hasBhashya": true,
+  "order": 24
+ },
+ {
+  "id": "MuU_2.1.2",
+  "ref": "2.1.2",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "दिव्यो ह्यमूर्तः पुरुषः सबाह्याभ्यन्तरो ह्यजः ।",
+   "अप्राणो ह्यमनाः शुभ्रो ह्यक्षरात्परतः परः ॥ २॥"
+  ],
+  "iast": [
+   "divyo hyamūrtaḥ puruṣaḥ sabāhyābhyantaro hyajaḥ ।",
+   "aprāṇo hyamanāḥ śubhro hyakṣarātparataḥ paraḥ ॥ 2॥"
+  ],
+  "alt": [
+   {
+    "text": "He, the divine, the formless Spirit, even he is the outward and the inward and he the Unborn; he is beyond life, beyond mind, luminous, Supreme beyond the immutable.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 137",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "दिव्यः",
+    "divyaḥ",
+    "divine",
+    "divya"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अमूर्तः",
+    "amūrtaḥ",
+    "formless",
+    "amūrta"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "बाह्य",
+    "bāhya",
+    "external",
+    "bāhya"
+   ],
+   [
+    "अभ्यन्तरः",
+    "abhyantaraḥ",
+    "internal",
+    "abhyantara"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अजः",
+    "ajaḥ",
+    "unborn",
+    "aja"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "मनाः",
+    "manāḥ",
+    "mind (a-manāḥ: without mind)",
+    "manas"
+   ],
+   [
+    "शुभ्रः",
+    "śubhraḥ",
+    "pure",
+    "śubhra"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अक्षरात्",
+    "akṣarāt",
+    "from the imperishable",
+    "akṣara"
+   ],
+   [
+    "परतस्",
+    "paratas",
+    "beyond",
+    "paratas"
+   ],
+   [
+    "परः",
+    "paraḥ",
+    "higher, supreme",
+    "para"
+   ]
+  ],
+  "tr": {
+   "text": "The Purusha is transcendental, since He is formless. And since He is coextensive with all that is external and internal and since He is birthless, therefore He is without vital force and without mind; He is pure and superior to the (other) superior imperishable (Maya).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.2.mp3",
+   "whole": [
+    528.25,
+    543.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 25
+ },
+ {
+  "id": "MuU_2.1.3",
+  "ref": "2.1.3",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "एतस्माज्जायते प्राणो मनः सर्वेन्द्रियाणि च ।",
+   "खं वायुर्ज्योतिरापः पृथिवी विश्वस्य धारिणी ॥ ३॥"
+  ],
+  "iast": [
+   "etasmājjāyate prāṇo manaḥ sarvendriyāṇi ca ।",
+   "khaṃ vāyurjyotirāpaḥ pṛthivī viśvasya dhāriṇī ॥ 3॥"
+  ],
+  "alt": [
+   {
+    "text": "Life and mind and the senses are born from Him and the sky, and the wind, and light, and the waters and earth upholding all that is.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 137",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एतस्मात्",
+    "etasmāt",
+    "from this",
+    "etad"
+   ],
+   [
+    "जायते",
+    "jāyate",
+    "is born",
+    "jan"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "इन्द्रियाणि",
+    "indriyāṇi",
+    "the sense faculties",
+    "indriya"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "खम्",
+    "kham",
+    "space",
+    "kha"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyu"
+   ],
+   [
+    "ज्योतिः",
+    "jyotiḥ",
+    "light",
+    "jyotis"
+   ],
+   [
+    "आपः",
+    "āpaḥ",
+    "waters",
+    "ap"
+   ],
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ],
+   [
+    "विश्वस्य",
+    "viśvasya",
+    "of the universe",
+    "viśva"
+   ],
+   [
+    "धारिणी",
+    "dhāriṇī",
+    "sustainer, holder",
+    "dhārin"
+   ]
+  ],
+  "tr": {
+   "text": "From Him originates the vital force as well as the mind, all the senses, space, air, fire, water, and earth that supports everything.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.3.mp3",
+   "whole": [
+    545.75,
+    562.22
+   ]
+  },
+  "hasBhashya": true,
+  "order": 26
+ },
+ {
+  "id": "MuU_2.1.4",
+  "ref": "2.1.4",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "अग्निर्मूर्धा चक्षुषी चन्द्रसूर्यौ",
+   "दिशः श्रोत्रे वाग्विवृताश्च वेदाः ।",
+   "वायुः प्राणो हृदयं विश्वमस्य पद्भ्यां",
+   "पृथिवी ह्येष सर्वभूतान्तरात्मा ॥ ४॥"
+  ],
+  "iast": [
+   "agnirmūrdhā cakṣuṣī candrasūryau",
+   "diśaḥ śrotre vāgvivṛtāśca vedāḥ ।",
+   "vāyuḥ prāṇo hṛdayaṃ viśvamasya padbhyāṃ",
+   "pṛthivī hyeṣa sarvabhūtāntarātmā ॥ 4॥"
+  ],
+  "alt": [
+   {
+    "text": "Fire is the head of Him and his eyes are the Sun and Moon, the quarters his organs of hearing and the revealed Vedas are his voice, air is his breath, the universe is his heart, Earth lies at his feet. He is the inner Self in all beings.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 137",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agni"
+   ],
+   [
+    "मूर्धा",
+    "mūrdhā",
+    "head",
+    "mūrdhan"
+   ],
+   [
+    "चक्षुषी",
+    "cakṣuṣī",
+    "eyes",
+    "cakṣus"
+   ],
+   [
+    "चन्द्र",
+    "candra",
+    "moon (compound member)",
+    "candra"
+   ],
+   [
+    "सूर्यौ",
+    "sūryau",
+    "sun (in candra-sūryau, moon and sun)",
+    "sūrya"
+   ],
+   [
+    "दिशः",
+    "diśaḥ",
+    "directions",
+    "diś"
+   ],
+   [
+    "श्रोत्रे",
+    "śrotre",
+    "ears",
+    "śrotra"
+   ],
+   [
+    "वाच्",
+    "vāc",
+    "speech",
+    "vāc"
+   ],
+   [
+    "विवृताः",
+    "vivṛtāḥ",
+    "opened, revealed",
+    "vivṛ"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "वेदाः",
+    "vedāḥ",
+    "Vedas",
+    "veda"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyu"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "हृदयम्",
+    "hṛdayam",
+    "heart",
+    "hṛdaya"
+   ],
+   [
+    "विश्वम्",
+    "viśvam",
+    "all",
+    "viśva"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "idam"
+   ],
+   [
+    "पद्भ्याम्",
+    "padbhyām",
+    "by the feet",
+    "pad"
+   ],
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "भूत",
+    "bhūta",
+    "being (compound member)",
+    "bhūta"
+   ],
+   [
+    "अन्तरात्मा",
+    "antarātmā",
+    "the inner Self",
+    "antarātman"
+   ]
+  ],
+  "tr": {
+   "text": "The indwelling Self of all is surely He of whom the heaven is the head, the moon and sun are the two eyes, the directions are the two ears, the revealed Vedas are the speech, air is the vital force, the whole Universe is the heart, and (It is He) from whose two feet emerged the earth.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.4.mp3",
+   "whole": [
+    564.17,
+    588.97
+   ]
+  },
+  "hasBhashya": false,
+  "order": 27
+ },
+ {
+  "id": "MuU_2.1.5",
+  "ref": "2.1.5",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "तस्मादग्निः समिधो यस्य सूर्यः",
+   "सोमात्पर्जन्य ओषधयः पृथिव्याम् ।",
+   "पुमान् रेतः सिञ्चति योषितायां",
+   "बह्वीः प्रजाः पुरुषात्संप्रसूताः ॥ ५॥"
+  ],
+  "iast": [
+   "tasmādagniḥ samidho yasya sūryaḥ",
+   "somātparjanya oṣadhayaḥ pṛthivyām ।",
+   "pumān retaḥ siñcati yoṣitāyāṃ",
+   "bahvīḥ prajāḥ puruṣātsaṃprasūtāḥ ॥ 5॥"
+  ],
+  "alt": [
+   {
+    "text": "From Him is fire, of which the Sun is the fuel, then rain from the Soma, herbs upon the earth, and the male casts his seed into woman: thus are these many peoples born from the Spirit.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 137, 138",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मात्",
+    "tasmāt",
+    "from that",
+    "tad"
+   ],
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agni"
+   ],
+   [
+    "समिधः",
+    "samidhaḥ",
+    "fuel, kindling",
+    "samidh"
+   ],
+   [
+    "यस्य",
+    "yasya",
+    "of which",
+    "yad"
+   ],
+   [
+    "सूर्यः",
+    "sūryaḥ",
+    "sun",
+    "sūrya"
+   ],
+   [
+    "सोमात्",
+    "somāt",
+    "from Soma",
+    "soma"
+   ],
+   [
+    "पर्जन्यः",
+    "parjanyaḥ",
+    "rain, clouds",
+    "parjanya"
+   ],
+   [
+    "ओषधयः",
+    "oṣadhayaḥ",
+    "plants",
+    "oṣadhi"
+   ],
+   [
+    "पृथिव्याम्",
+    "pṛthivyām",
+    "in the earth",
+    "pṛthivī"
+   ],
+   [
+    "पुमान्",
+    "pumān",
+    "man, male",
+    "puṃs"
+   ],
+   [
+    "रेतः",
+    "retaḥ",
+    "seed, semen",
+    "retas"
+   ],
+   [
+    "सिञ्चति",
+    "siñcati",
+    "sprinkles, spreads",
+    "sic"
+   ],
+   [
+    "योषितायाम्",
+    "yoṣitāyām",
+    "in the woman",
+    "yoṣitā"
+   ],
+   [
+    "बह्वीः",
+    "bahvīḥ",
+    "many",
+    "bahu"
+   ],
+   [
+    "प्रजाः",
+    "prajāḥ",
+    "offspring, progeny",
+    "prajā"
+   ],
+   [
+    "पुरुषात्",
+    "puruṣāt",
+    "from the Person",
+    "puruṣa"
+   ],
+   [
+    "सम्प्रसूताः",
+    "samprasūtāḥ",
+    "born",
+    "samprasū"
+   ]
+  ],
+  "tr": {
+   "text": "From Him emerges the fire (i.e. heaven) of which the fuel is the sun. From the moon emerges cloud, and (from cloud) the herbs and corns on the earth. A man sheds the semen into a woman. From the Purusha have originated many creatures.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.5.mp3",
+   "whole": [
+    591.18,
+    613.36
+   ]
+  },
+  "hasBhashya": true,
+  "order": 28
+ },
+ {
+  "id": "MuU_2.1.6",
+  "ref": "2.1.6",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "तस्मादृचः साम यजूꣳषि दीक्षा",
+   "यज्ञाश्च सर्वे क्रतवो दक्षिणाश्च ।",
+   "संवत्सरश्च यजमानश्च लोकाः",
+   "सोमो यत्र पवते यत्र सूर्यः ॥ ६॥"
+  ],
+  "iast": [
+   "tasmādṛcaḥ sāma yajūꣳṣi dīkṣā",
+   "yajñāśca sarve kratavo dakṣiṇāśca ।",
+   "saṃvatsaraśca yajamānaśca lokāḥ",
+   "somo yatra pavate yatra sūryaḥ ॥ 6॥"
+  ],
+  "alt": [
+   {
+    "text": "From Him are the hymns of the Rig Veda, the Sama and the Yajur, initiation, and all sacrifices and works of sacrifice, and dues given, the year and the giver of the sacrifice and the worlds, on which the moon shines and the sun.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 138",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मात्",
+    "tasmāt",
+    "from that",
+    "tad"
+   ],
+   [
+    "ऋचः",
+    "ṛcaḥ",
+    "Rig Vedic verses",
+    "ṛc"
+   ],
+   [
+    "साम",
+    "sāma",
+    "Sāma Vedic chants",
+    "sāman"
+   ],
+   [
+    "यजूंषि",
+    "yajūṃṣi",
+    "Yajur Vedic formulas",
+    "yajus"
+   ],
+   [
+    "दीक्षाः",
+    "dīkṣāḥ",
+    "initiations",
+    "dīkṣā"
+   ],
+   [
+    "यज्ञाः",
+    "yajñāḥ",
+    "sacrifices",
+    "yajña"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "सर्वे",
+    "sarve",
+    "all",
+    "sarva"
+   ],
+   [
+    "क्रतवः",
+    "kratavaḥ",
+    "rituals, sacrifices",
+    "kratu"
+   ],
+   [
+    "दक्षिणाः",
+    "dakṣiṇāḥ",
+    "gifts, donations",
+    "dakṣiṇā"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "संवत्सरः",
+    "saṃvatsaraḥ",
+    "year",
+    "saṃvatsara"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यजमानः",
+    "yajamānaḥ",
+    "sacrificer",
+    "yaj"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "सोमः",
+    "somaḥ",
+    "Soma",
+    "soma"
+   ],
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "पवते",
+    "pavate",
+    "is purified",
+    "pū"
+   ],
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "सूर्यः",
+    "sūryaḥ",
+    "sun",
+    "sūrya"
+   ]
+  ],
+  "tr": {
+   "text": "From Him (emerge) the Rik, Sama and Yajur mantras, initiation, all the sacrifices – whether with or without the sacrificial stake – offerings to Brahmanas, the year, the sacrificer, and the worlds where the moon sacrifices (all) and where the sun (shines).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.6.mp3",
+   "whole": [
+    613.36,
+    634.9
+   ]
+  },
+  "hasBhashya": true,
+  "order": 29
+ },
+ {
+  "id": "MuU_2.1.7",
+  "ref": "2.1.7",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "तस्माच्च देवा बहुधा संप्रसूताः",
+   "साध्या मनुष्याः पशवो वयाꣳसि ।",
+   "प्राणापानौ व्रीहियवौ तपश्च",
+   "श्रद्धा सत्यं ब्रह्मचर्यं विधिश्च ॥ ७॥"
+  ],
+  "iast": [
+   "tasmācca devā bahudhā saṃprasūtāḥ",
+   "sādhyā manuṣyāḥ paśavo vayāꣳsi ।",
+   "prāṇāpānau vrīhiyavau tapaśca",
+   "śraddhā satyaṃ brahmacaryaṃ vidhiśca ॥ 7॥"
+  ],
+  "alt": [
+   {
+    "text": "And from Him have issued many gods, and demi-gods and men and beasts and birds, the main breath and downward breath, and rice and barley, and askesis and faith and Truth, and chastity and rule of right practice.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 138",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तस्मात्",
+    "tasmāt",
+    "from that",
+    "tad"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "deva"
+   ],
+   [
+    "बहुधा",
+    "bahudhā",
+    "in many ways",
+    "bahudhā"
+   ],
+   [
+    "सम्प्रसूताः",
+    "samprasūtāḥ",
+    "born",
+    "samprasū"
+   ],
+   [
+    "साध्याः",
+    "sādhyāḥ",
+    "Sādhyas",
+    "sādhya"
+   ],
+   [
+    "मनुष्याः",
+    "manuṣyāḥ",
+    "humans",
+    "manuṣya"
+   ],
+   [
+    "पशवः",
+    "paśavaḥ",
+    "animals",
+    "paśu"
+   ],
+   [
+    "वयांसि",
+    "vayāṃsi",
+    "birds",
+    "vayas"
+   ],
+   [
+    "प्राण",
+    "prāṇa",
+    "life-breath (compound member)",
+    "prāṇa"
+   ],
+   [
+    "अपानौ",
+    "apānau",
+    "downward breath (prāṇāpānau: the two life-breaths)",
+    "apāna"
+   ],
+   [
+    "व्रीहि",
+    "vrīhi",
+    "rice (compound member)",
+    "vrīhi"
+   ],
+   [
+    "यवौ",
+    "yavau",
+    "barley (in vrīhi-yavau, rice and barley)",
+    "yava"
+   ],
+   [
+    "तपः",
+    "tapaḥ",
+    "self-discipline",
+    "tapas"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "श्रद्धा",
+    "śraddhā",
+    "faith",
+    "śraddhā"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "ब्रह्मचर्यम्",
+    "brahmacaryam",
+    "celibacy, spiritual discipline",
+    "brahmacarya"
+   ],
+   [
+    "विधिः",
+    "vidhiḥ",
+    "order, rule",
+    "vidhi"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ]
+  ],
+  "tr": {
+   "text": "And from Him duly emerged the gods in various groups, the Sadhyas, human beings, beasts, birds, life, rice and barley, as well as austerity, faith, truth, continence and dutifulness.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.7.mp3",
+   "whole": [
+    637.53,
+    658.37
+   ]
+  },
+  "hasBhashya": true,
+  "order": 30
+ },
+ {
+  "id": "MuU_2.1.8",
+  "ref": "2.1.8",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "सप्त प्राणाः प्रभवन्ति तस्मात्सप्तार्चिषः समिधः सप्त होमाः ।",
+   "सप्त इमे लोका येषु चरन्ति प्राणा",
+   "गुहाशया निहिताः सप्त सप्त ॥ ८॥"
+  ],
+  "iast": [
+   "sapta prāṇāḥ prabhavanti tasmātsaptārciṣaḥ samidhaḥ sapta homāḥ ।",
+   "sapta ime lokā yeṣu caranti prāṇā",
+   "guhāśayā nihitāḥ sapta sapta ॥ 8॥"
+  ],
+  "alt": [
+   {
+    "text": "The seven breaths are born from Him and the seven lights and kinds of fuel and the seven oblations and these seven worlds in which move the life-breaths set within with the secret heart for their dwelling-place, seven and seven.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 138",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सप्त",
+    "sapta",
+    "seven",
+    "saptan"
+   ],
+   [
+    "प्राणाः",
+    "prāṇāḥ",
+    "life-breaths",
+    "prāṇa"
+   ],
+   [
+    "प्रभवन्ति",
+    "prabhavanti",
+    "arise",
+    "prabhū"
+   ],
+   [
+    "तस्मात्",
+    "tasmāt",
+    "from that",
+    "tad"
+   ],
+   [
+    "सप्त",
+    "sapta",
+    "seven",
+    "saptan"
+   ],
+   [
+    "अर्चिषः",
+    "arciṣaḥ",
+    "flames",
+    "arcis"
+   ],
+   [
+    "समिधः",
+    "samidhaḥ",
+    "fuel, kindling",
+    "samidh"
+   ],
+   [
+    "सप्त",
+    "sapta",
+    "seven",
+    "saptan"
+   ],
+   [
+    "होमाः",
+    "homāḥ",
+    "oblations",
+    "homa"
+   ],
+   [
+    "सप्त",
+    "sapta",
+    "seven",
+    "saptan"
+   ],
+   [
+    "इमे",
+    "ime",
+    "these",
+    "idam"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "येषु",
+    "yeṣu",
+    "in which",
+    "yad"
+   ],
+   [
+    "चरन्ति",
+    "caranti",
+    "they move",
+    "car"
+   ],
+   [
+    "प्राणाः",
+    "prāṇāḥ",
+    "life-breaths",
+    "prāṇa"
+   ],
+   [
+    "गुहा",
+    "guhā",
+    "cave",
+    "guhā"
+   ],
+   [
+    "शयाः",
+    "śayāḥ",
+    "dwelling",
+    "śaya"
+   ],
+   [
+    "निहिताः",
+    "nihitāḥ",
+    "placed, hidden",
+    "nidhā"
+   ],
+   [
+    "सप्त",
+    "sapta",
+    "seven",
+    "saptan"
+   ],
+   [
+    "सप्त",
+    "sapta",
+    "seven",
+    "saptan"
+   ]
+  ],
+  "tr": {
+   "text": "From Him emerge the seven sense-organs, the seven flames, the seven kinds of fuel, the seven oblations, and these seven seats where move the sense-organs that sleep in the cavity, (and) have been deposited (by God) in groups of seven.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.8.mp3",
+   "whole": [
+    659.16,
+    679.04
+   ]
+  },
+  "hasBhashya": true,
+  "order": 31
+ },
+ {
+  "id": "MuU_2.1.9",
+  "ref": "2.1.9",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "अतः समुद्रा गिरयश्च सर्वेऽस्मात्स्यन्दन्ते सिन्धवः सर्वरूपाः ।",
+   "अतश्च सर्वा ओषधयो रसश्च",
+   "येनैष भूतैस्तिष्ठते ह्यन्तरात्मा ॥ ९॥"
+  ],
+  "iast": [
+   "ataḥ samudrā girayaśca sarve’smātsyandante sindhavaḥ sarvarūpāḥ ।",
+   "ataśca sarvā oṣadhayo rasaśca",
+   "yenaiṣa bhūtaistiṣṭhate hyantarātmā ॥ 9॥"
+  ],
+  "alt": [
+   {
+    "text": "From Him are the oceans and all these mountains and from Him flow rivers of all forms, and from Him are all plants, and sensible delight which makes the soul to abide with the material elements.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 138",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अतस्",
+    "atas",
+    "from this",
+    "atas"
+   ],
+   [
+    "समुद्राः",
+    "samudrāḥ",
+    "oceans",
+    "samudra"
+   ],
+   [
+    "गिरयः",
+    "girayaḥ",
+    "mountains",
+    "giri"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "सर्वे",
+    "sarve",
+    "all",
+    "sarva"
+   ],
+   [
+    "अस्मात्",
+    "asmāt",
+    "from this",
+    "idam"
+   ],
+   [
+    "स्यन्दन्ते",
+    "syandante",
+    "flow, emanate",
+    "syand"
+   ],
+   [
+    "सिन्धवः",
+    "sindhavaḥ",
+    "rivers",
+    "sindhu"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "रूपाः",
+    "rūpāḥ",
+    "forms (sarva-rūpāḥ: of every form)",
+    "rūpa"
+   ],
+   [
+    "अतस्",
+    "atas",
+    "from this",
+    "atas"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "सर्वाः",
+    "sarvāḥ",
+    "all",
+    "sarva"
+   ],
+   [
+    "ओषधयः",
+    "oṣadhayaḥ",
+    "plants",
+    "oṣadhi"
+   ],
+   [
+    "रसः",
+    "rasaḥ",
+    "sap",
+    "rasa"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "भूतैः",
+    "bhūtaiḥ",
+    "through beings",
+    "bhūta"
+   ],
+   [
+    "तिष्ठते",
+    "tiṣṭhate",
+    "resides, stands",
+    "sthā"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अन्तरात्मा",
+    "antarātmā",
+    "the inner self",
+    "antarātman"
+   ]
+  ],
+  "tr": {
+   "text": "From Him emerge all the oceans and all the mountains. From Him flow out the rivers of various forms. And from Him issue all the corns as well as the juice, by virtue of which the internal self verily exists in the midst of the elements.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.9.mp3",
+   "whole": [
+    680.04,
+    702.76
+   ]
+  },
+  "hasBhashya": true,
+  "order": 32
+ },
+ {
+  "id": "MuU_2.1.10",
+  "ref": "2.1.10",
+  "section": "Muṇḍaka 2 · Section 1",
+  "sa": [
+   "पुरुष एवेदं विश्वं कर्म तपो ब्रह्म परामृतम् ।",
+   "एतद्यो वेद निहितं गुहायां",
+   "सोऽविद्याग्रन्थिं विकिरतीह सोम्य ॥ १०॥"
+  ],
+  "iast": [
+   "puruṣa evedaṃ viśvaṃ karma tapo brahma parāmṛtam ।",
+   "etadyo veda nihitaṃ guhāyāṃ",
+   "so’vidyāgranthiṃ vikiratīha somya ॥ 10॥"
+  ],
+  "alt": [
+   {
+    "text": "The Spirit is all this universe; He is works and askesis and the Brahman, supreme and immortal. O fair son, he who knows this hidden in the secret heart, scatters even here in this world the knot of the Ignorance.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 139",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "एवा",
+    "evā",
+    "indeed",
+    "eva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "विश्वम्",
+    "viśvam",
+    "all",
+    "viśva"
+   ],
+   [
+    "कर्म",
+    "karma",
+    "work",
+    "karman"
+   ],
+   [
+    "तपः",
+    "tapaḥ",
+    "self-discipline",
+    "tapas"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "पर",
+    "para",
+    "supreme (compound member)",
+    "para"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "immortality",
+    "amṛta"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "vid"
+   ],
+   [
+    "निहितम्",
+    "nihitam",
+    "hidden",
+    "nidhā"
+   ],
+   [
+    "गुहायाम्",
+    "guhāyām",
+    "in the cave",
+    "guhā"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "अविद्या",
+    "avidyā",
+    "ignorance (compound member)",
+    "avidyā"
+   ],
+   [
+    "ग्रन्थिम्",
+    "granthim",
+    "knot",
+    "granthi"
+   ],
+   [
+    "विकिरति",
+    "vikirati",
+    "scatters, unties",
+    "vikṛ"
+   ],
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "सोम्य",
+    "somya",
+    "O gentle one",
+    "somya"
+   ]
+  ],
+  "tr": {
+   "text": "The Purusha alone is all this – (comprising) karma and knowledge. He who knows this supreme, immortal Brahman, existing in the heart, destroys here the knot of ignorance, O good-looking one !",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.1.10.mp3",
+   "whole": [
+    704.38,
+    722.76
+   ]
+  },
+  "hasBhashya": true,
+  "order": 33
+ },
+ {
+  "id": "MuU_2.2.1",
+  "ref": "2.2.1",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "आविः संनिहितं गुहाचरं नाम",
+   "महत्पदमत्रैतत्समर्पितम् ।",
+   "एजत्प्राणन्निमिषच्च यदेतज्जानथ",
+   "सदसद्वरेण्यं परं विज्ञानाद्यद्वरिष्ठं प्रजानाम् ॥ १॥"
+  ],
+  "iast": [
+   "āviḥ saṃnihitaṃ guhācaraṃ nāma",
+   "mahatpadamatraitatsamarpitam ।",
+   "ejatprāṇannimiṣacca yadetajjānatha",
+   "sadasadvareṇyaṃ paraṃ vijñānādyadvariṣṭhaṃ prajānām ॥ 1॥"
+  ],
+  "alt": [
+   {
+    "text": "Manifested, it is here set close within, moving in the secret heart, this is the mighty foundation and into it is consigned all that moves and breathes and sees. This that is that great foundation here, know, as the Is and Is-not, the supremely desirable, greatest and the Most High, beyond the knowledge of creatures.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 139",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "आविस्",
+    "āvis",
+    "manifest",
+    "āvis"
+   ],
+   [
+    "संनिहितम्",
+    "saṃnihitam",
+    "near",
+    "saṃnidhā"
+   ],
+   [
+    "गुहा",
+    "guhā",
+    "cave",
+    "guhā"
+   ],
+   [
+    "चरम्",
+    "caram",
+    "moving",
+    "cara"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "called",
+    "nāma"
+   ],
+   [
+    "महत्",
+    "mahat",
+    "great",
+    "mahat"
+   ],
+   [
+    "पदम्",
+    "padam",
+    "station",
+    "pada"
+   ],
+   [
+    "अत्र",
+    "atra",
+    "here",
+    "atra"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "समर्पितम्",
+    "samarpitam",
+    "fixed",
+    "samarpay"
+   ],
+   [
+    "एजत्",
+    "ejat",
+    "moving",
+    "ej"
+   ],
+   [
+    "प्राणत्",
+    "prāṇat",
+    "breathing",
+    "prāṇ"
+   ],
+   [
+    "निमिषत्",
+    "nimiṣat",
+    "blinking",
+    "nimiṣ"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "जानथ",
+    "jānatha",
+    "know",
+    "jñā"
+   ],
+   [
+    "सत्",
+    "sat",
+    "existent (a-sat: non-existent)",
+    "as"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "सत्",
+    "sat",
+    "existent (a-sat: non-existent)",
+    "as"
+   ],
+   [
+    "वरेण्यम्",
+    "vareṇyam",
+    "worthy of choice",
+    "vareṇya"
+   ],
+   [
+    "परम्",
+    "param",
+    "highest",
+    "para"
+   ],
+   [
+    "विज्ञानात्",
+    "vijñānāt",
+    "beyond discriminative knowledge",
+    "vijñāna"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "वरिष्ठम्",
+    "variṣṭham",
+    "highest",
+    "variṣṭha"
+   ],
+   [
+    "प्रजानाम्",
+    "prajānām",
+    "of creatures",
+    "prajā"
+   ]
+  ],
+  "tr": {
+   "text": "(It is) effulgent, near at hand, and well known as moving in the heart, and (It is) the great goal. On It are fixed all these that move, breathe, and wink or do not wink. Know this One which comprises the gross and the subtle, which is beyond the ordinary knowledge of creatures, and which is the most desirable and the highest of all.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.1.mp3",
+   "whole": [
+    723.47,
+    748.94
+   ]
+  },
+  "hasBhashya": true,
+  "order": 34
+ },
+ {
+  "id": "MuU_2.2.2",
+  "ref": "2.2.2",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "यदर्चिमद्यदणुभ्योऽणु च",
+   "यस्मिँल्लोका निहिता लोकिनश्च ।",
+   "तदेतदक्षरं ब्रह्म स प्राणस्तदु वाङ्मनः",
+   "तदेतत्सत्यं तदमृतं तद्वेद्धव्यं सोम्य विद्धि ॥ २॥"
+  ],
+  "iast": [
+   "yadarcimadyadaṇubhyo’ṇu ca",
+   "yasmim̐llokā nihitā lokinaśca ।",
+   "tadetadakṣaraṃ brahma sa prāṇastadu vāṅmanaḥ",
+   "tadetatsatyaṃ tadamṛtaṃ tadveddhavyaṃ somya viddhi ॥ 2॥"
+  ],
+  "alt": [
+   {
+    "text": "That which is the Luminous, that which is smaller than the atoms, that in which are set the worlds and their peoples, That is This, — it is Brahman immutable: life is That, it is speech and mind. That is This, the True and Real, it is That which is immortal: it is into That that thou must pierce, O fair son, into That penetrate.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 139",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "अर्चिमत्",
+    "arcimat",
+    "possessing light, radiant",
+    "arcimat"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "अणुभ्यः",
+    "aṇubhyaḥ",
+    "smaller than the smallest",
+    "aṇu"
+   ],
+   [
+    "अणु",
+    "aṇu",
+    "atom, very small",
+    "aṇu"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "यस्मिन्",
+    "yasmin",
+    "in which",
+    "yad"
+   ],
+   [
+    "लोकाः",
+    "lokāḥ",
+    "worlds",
+    "loka"
+   ],
+   [
+    "निहिताः",
+    "nihitāḥ",
+    "placed, contained",
+    "nidhā"
+   ],
+   [
+    "लोकिनः",
+    "lokinaḥ",
+    "inhabitants of the worlds",
+    "lokin"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "अक्षरम्",
+    "akṣaram",
+    "the imperishable",
+    "akṣara"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "उ",
+    "u",
+    "indeed",
+    "u"
+   ],
+   [
+    "वाच्",
+    "vāc",
+    "speech",
+    "vāc"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "immortality",
+    "amṛta"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "वेद्धव्यम्",
+    "veddhavyam",
+    "to be pierced",
+    "vyadh"
+   ],
+   [
+    "सोम्य",
+    "somya",
+    "O gentle one",
+    "somya"
+   ],
+   [
+    "विद्धि",
+    "viddhi",
+    "know!",
+    "vid"
+   ]
+  ],
+  "tr": {
+   "text": "That which is bright and is subtler than the subtle, and that on which are fixed all the worlds as well as the dwellers of the worlds, is this immutable Brahman; It is this vital force; It, again, is speech and mind. This Entity, that is such, is true. It is immortal. It is to be penetrated, O good-looking one, shoot (at It).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.2.mp3",
+   "whole": [
+    749.44,
+    774.49
+   ]
+  },
+  "hasBhashya": true,
+  "order": 35
+ },
+ {
+  "id": "MuU_2.2.3",
+  "ref": "2.2.3",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "धनुर्गृहीत्वौपनिषदं महास्त्रं",
+   "शरं ह्युपासानिशितं संधयीत ।",
+   "आयम्य तद्भावगतेन चेतसा",
+   "लक्ष्यं तदेवाक्षरं सोम्य विद्धि ॥ ३॥"
+  ],
+  "iast": [
+   "dhanurgṛhītvaupaniṣadaṃ mahāstraṃ",
+   "śaraṃ hyupāsāniśitaṃ saṃdhayīta ।",
+   "āyamya tadbhāvagatena cetasā",
+   "lakṣyaṃ tadevākṣaraṃ somya viddhi ॥ 3॥"
+  ],
+  "alt": [
+   {
+    "text": "Take up the bow of the Upanishad, that mighty weapon, set to it an arrow sharpened by adoration, draw the bow with a heart wholly devoted to the contemplation of That, and O fair son, penetrate into That as thy target, even into the Immutable.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 139",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "धनुः",
+    "dhanuḥ",
+    "bow",
+    "dhanus"
+   ],
+   [
+    "गृहीत्वा",
+    "gṛhītvā",
+    "having taken",
+    "grah"
+   ],
+   [
+    "औपनिषदम्",
+    "aupaniṣadam",
+    "belonging to the Upanishad",
+    "aupaniṣada"
+   ],
+   [
+    "महा",
+    "mahā",
+    "great (compound member)",
+    "mahat"
+   ],
+   [
+    "अस्त्रम्",
+    "astram",
+    "weapon",
+    "astra"
+   ],
+   [
+    "शरम्",
+    "śaram",
+    "arrow",
+    "śara"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "उपासा",
+    "upāsā",
+    "meditation",
+    "upāsā"
+   ],
+   [
+    "निशितम्",
+    "niśitam",
+    "sharpened",
+    "niśā"
+   ],
+   [
+    "संधयीत",
+    "saṃdhayīta",
+    "one should fit",
+    "saṃdhā"
+   ],
+   [
+    "आयम्य",
+    "āyamya",
+    "having drawn",
+    "āyam"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "भाव",
+    "bhāva",
+    "being",
+    "bhāva"
+   ],
+   [
+    "गतेन",
+    "gatena",
+    "gone to",
+    "gam"
+   ],
+   [
+    "चेतसा",
+    "cetasā",
+    "by the mind",
+    "cetas"
+   ],
+   [
+    "लक्ष्यम्",
+    "lakṣyam",
+    "target",
+    "lakṣya"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एवा",
+    "evā",
+    "indeed",
+    "eva"
+   ],
+   [
+    "अक्षरम्",
+    "akṣaram",
+    "the imperishable",
+    "akṣara"
+   ],
+   [
+    "सोम्य",
+    "somya",
+    "O gentle one",
+    "somya"
+   ],
+   [
+    "विद्धि",
+    "viddhi",
+    "know!",
+    "vid"
+   ]
+  ],
+  "tr": {
+   "text": "Taking hold of the bow, the great weapon familiar in the Upanishads, one should fix on it an arrow sharpened with meditation. Drawing the string, O good-looking one, hit that very target that is the Imperishable, with the mind absorbed in Its thought.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.3.mp3",
+   "whole": [
+    776.2,
+    795.95
+   ]
+  },
+  "hasBhashya": true,
+  "order": 36
+ },
+ {
+  "id": "MuU_2.2.4",
+  "ref": "2.2.4",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "प्रणवो धनुः शरो ह्यात्मा ब्रह्म तल्लक्ष्यमुच्यते ।",
+   "अप्रमत्तेन वेद्धव्यं शरवत्तन्मयो भवेत् ॥ ४॥"
+  ],
+  "iast": [
+   "praṇavo dhanuḥ śaro hyātmā brahma tallakṣyamucyate ।",
+   "apramattena veddhavyaṃ śaravattanmayo bhavet ॥ 4॥"
+  ],
+  "alt": [
+   {
+    "text": "OM is the bow and the soul is the arrow, and That, even the Brahman, is spoken of as the target. That must be pierced with an unfaltering aim; one must be absorbed into That as an arrow is lost in its target.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 140",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्रणवः",
+    "praṇavaḥ",
+    "the sacred syllable Oṃ",
+    "praṇava"
+   ],
+   [
+    "धनुः",
+    "dhanuḥ",
+    "bow",
+    "dhanus"
+   ],
+   [
+    "शरः",
+    "śaraḥ",
+    "arrow",
+    "śara"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "लक्ष्यम्",
+    "lakṣyam",
+    "target",
+    "lakṣya"
+   ],
+   [
+    "उच्यते",
+    "ucyate",
+    "is said",
+    "vac"
+   ],
+   [
+    "अप्रमत्तेन",
+    "apramattena",
+    "by one who is attentive",
+    "apramatta"
+   ],
+   [
+    "वेद्धव्यम्",
+    "veddhavyam",
+    "to be pierced",
+    "vyadh"
+   ],
+   [
+    "शर",
+    "śara",
+    "arrow (compound member)",
+    "śara"
+   ],
+   [
+    "वत्",
+    "vat",
+    "like",
+    "vat"
+   ],
+   [
+    "तद्",
+    "tad",
+    "that (compound member)",
+    "tad"
+   ],
+   [
+    "मयः",
+    "mayaḥ",
+    "consisting of",
+    "maya"
+   ],
+   [
+    "भवेत्",
+    "bhavet",
+    "one should become",
+    "bhū"
+   ]
+  ],
+  "tr": {
+   "text": "Om is the bow; the soul is the arrow; and Brahman is called its target. It is to be hit by an unerring man. One should become one with It just like an arrow.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.4.mp3",
+   "whole": [
+    796.5,
+    811.88
+   ]
+  },
+  "hasBhashya": false,
+  "order": 37
+ },
+ {
+  "id": "MuU_2.2.5",
+  "ref": "2.2.5",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "यस्मिन् द्यौः पृथिवी चान्तरिक्षमोतं",
+   "मनः सह प्राणैश्च सर्वैः ।",
+   "तमेवैकं जानथ आत्मानमन्या वाचो",
+   "विमुञ्चथामृतस्यैष सेतुः ॥ ५॥"
+  ],
+  "iast": [
+   "yasmin dyauḥ pṛthivī cāntarikṣamotaṃ",
+   "manaḥ saha prāṇaiśca sarvaiḥ ।",
+   "tamevaikaṃ jānatha ātmānamanyā vāco",
+   "vimuñcathāmṛtasyaiṣa setuḥ ॥ 5॥"
+  ],
+  "alt": [
+   {
+    "text": "He in whom are inwoven heaven and earth and the midregion, and mind with all the life-currents, Him know to be the one Self; other words put away from you: this is the bridge to immortality.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 140",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यस्मिन्",
+    "yasmin",
+    "in which",
+    "yad"
+   ],
+   [
+    "द्यौः",
+    "dyauḥ",
+    "heaven",
+    "div"
+   ],
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अन्तरिक्षम्",
+    "antarikṣam",
+    "sky, atmosphere",
+    "antarikṣa"
+   ],
+   [
+    "ओतम्",
+    "otam",
+    "woven",
+    "āve"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "सह",
+    "saha",
+    "together with",
+    "saha"
+   ],
+   [
+    "प्राणैः",
+    "prāṇaiḥ",
+    "with the life-breaths",
+    "prāṇa"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "सर्वैः",
+    "sarvaiḥ",
+    "all",
+    "sarva"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "एवा",
+    "evā",
+    "alone",
+    "eva"
+   ],
+   [
+    "एकम्",
+    "ekam",
+    "one",
+    "eka"
+   ],
+   [
+    "जानथ",
+    "jānatha",
+    "know",
+    "jñā"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the Self",
+    "ātman"
+   ],
+   [
+    "अन्याः",
+    "anyāḥ",
+    "other",
+    "anya"
+   ],
+   [
+    "वाचः",
+    "vācaḥ",
+    "words",
+    "vāc"
+   ],
+   [
+    "विमुञ्चथ",
+    "vimuñcatha",
+    "abandon",
+    "vimuc"
+   ],
+   [
+    "अमृतस्य",
+    "amṛtasya",
+    "of immortality",
+    "amṛta"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "सेतुः",
+    "setuḥ",
+    "bridge",
+    "setu"
+   ]
+  ],
+  "tr": {
+   "text": "Know that Self alone that is one without a second, on which are strung heaven, the earth and the inter-space, the mind and the vital forces together with all the other organs; and give up all other talks. This is the bridge leading to immortality.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.5.mp3",
+   "whole": [
+    814.04,
+    834.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 38
+ },
+ {
+  "id": "MuU_2.2.6",
+  "ref": "2.2.6",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "अरा इव रथनाभौ संहता यत्र नाड्यः ।",
+   "स एषोऽन्तश्चरते बहुधा जायमानः ।",
+   "ओमित्येवं ध्यायथ आत्मानं स्वस्ति वः",
+   "पाराय तमसः परस्तात् ॥ ६॥"
+  ],
+  "iast": [
+   "arā iva rathanābhau saṃhatā yatra nāḍyaḥ ।",
+   "sa eṣo’ntaścarate bahudhā jāyamānaḥ ।",
+   "omityevaṃ dhyāyatha ātmānaṃ svasti vaḥ",
+   "pārāya tamasaḥ parastāt ॥ 6॥"
+  ],
+  "alt": [
+   {
+    "text": "Where the nerves are brought close together like the spokes in the nave of a chariot-wheel, this is He that moves within, — there is He manifoldly born. Meditate on the Self as OM and happy be your passage to the other shore beyond the darkness.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 140",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अराः",
+    "arāḥ",
+    "spokes",
+    "ara"
+   ],
+   [
+    "इव",
+    "iva",
+    "like",
+    "iva"
+   ],
+   [
+    "रथ",
+    "ratha",
+    "chariot (compound member)",
+    "ratha"
+   ],
+   [
+    "नाभौ",
+    "nābhau",
+    "in the nave",
+    "nābhi"
+   ],
+   [
+    "संहताः",
+    "saṃhatāḥ",
+    "gathered, joined",
+    "saṃhan"
+   ],
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "नाड्यः",
+    "nāḍyaḥ",
+    "channels",
+    "nāḍī"
+   ],
+   [
+    "सः",
+    "saḥ",
+    "he",
+    "tad"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "अन्तर्",
+    "antar",
+    "within",
+    "antar"
+   ],
+   [
+    "चरते",
+    "carate",
+    "moves, wanders",
+    "car"
+   ],
+   [
+    "बहुधा",
+    "bahudhā",
+    "in many ways",
+    "bahudhā"
+   ],
+   [
+    "जायमानः",
+    "jāyamānaḥ",
+    "being born, manifesting",
+    "jan"
+   ],
+   [
+    "ओम्",
+    "om",
+    "Oṃ",
+    "oṃ"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "एवम्",
+    "evam",
+    "like this, in this manner",
+    "evam"
+   ],
+   [
+    "ध्यायथ",
+    "dhyāyatha",
+    "meditate upon",
+    "dhyā"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the Self",
+    "ātman"
+   ],
+   [
+    "स्वस्ति",
+    "svasti",
+    "welfare, well-being",
+    "svasti"
+   ],
+   [
+    "वः",
+    "vaḥ",
+    "for you",
+    "tvad"
+   ],
+   [
+    "पाराय",
+    "pārāya",
+    "for the crossing",
+    "pāra"
+   ],
+   [
+    "तमसः",
+    "tamasaḥ",
+    "of darkness",
+    "tamas"
+   ],
+   [
+    "परस्तात्",
+    "parastāt",
+    "beyond",
+    "parastāt"
+   ]
+  ],
+  "tr": {
+   "text": "Within that (heart) in which are fixed the nerves like the spokes on the hub of a chariot wheel, moves this aforesaid Self by becoming multiformed. Meditate on the Self thus with the help of Om. May you be free from hindrances in going to the other shore beyond darkness.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.6.mp3",
+   "whole": [
+    836.42,
+    859.52
+   ]
+  },
+  "hasBhashya": true,
+  "order": 39
+ },
+ {
+  "id": "MuU_2.2.7",
+  "ref": "2.2.7",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "यः सर्वज्ञः सर्वविद्यस्यैष महिमा भुवि ।",
+   "दिव्ये ब्रह्मपुरे ह्येष व्योम्न्यात्मा प्रतिष्ठितः ॥",
+   "मनोमयः प्राणशरीरनेता",
+   "प्रतिष्ठितोऽन्ने हृदयं संनिधाय ।",
+   "तद्विज्ञानेन परिपश्यन्ति धीरा",
+   "आनन्दरूपममृतं यद्विभाति ॥ ७॥"
+  ],
+  "iast": [
+   "yaḥ sarvajñaḥ sarvavidyasyaiṣa mahimā bhuvi ।",
+   "divye brahmapure hyeṣa vyomnyātmā pratiṣṭhitaḥ ॥",
+   "manomayaḥ prāṇaśarīranetā",
+   "pratiṣṭhito’nne hṛdayaṃ saṃnidhāya ।",
+   "tadvijñānena paripaśyanti dhīrā",
+   "ānandarūpamamṛtaṃ yadvibhāti ॥ 7॥"
+  ],
+  "alt": [
+   {
+    "text": "The Omniscient, the All-wise, whose is this might and majesty upon the earth, is this self enthroned in the divine city of the Brahman, in his ethereal heaven. A mental being, leader of the life and the body, has set a heart in matter, in matter he has taken his firm foundation. By its knowing the wise see everywhere around them That which shines in its effulgence, a shape of Bliss and immortal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 140, 141",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "ज्ञः",
+    "jñaḥ",
+    "knowing",
+    "jña"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "विद्",
+    "vid",
+    "knowing (sarva-vid: all-knowing)",
+    "vid"
+   ],
+   [
+    "यस्य",
+    "yasya",
+    "of which",
+    "yad"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "महिमा",
+    "mahimā",
+    "glory",
+    "mahiman"
+   ],
+   [
+    "भुवि",
+    "bhuvi",
+    "on earth",
+    "bhū"
+   ],
+   [
+    "दिव्ये",
+    "divye",
+    "divine",
+    "divya"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "पुरे",
+    "pure",
+    "in the city",
+    "pura"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "व्योम्नि",
+    "vyomni",
+    "in the sky, in heaven",
+    "vyoman"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "प्रतिष्ठितः",
+    "pratiṣṭhitaḥ",
+    "established",
+    "pratiṣṭhā"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manas"
+   ],
+   [
+    "मयः",
+    "mayaḥ",
+    "consisting of",
+    "maya"
+   ],
+   [
+    "प्राण",
+    "prāṇa",
+    "life-breath (compound member)",
+    "prāṇa"
+   ],
+   [
+    "शरीर",
+    "śarīra",
+    "body (compound member)",
+    "śarīra"
+   ],
+   [
+    "नेता",
+    "netā",
+    "leader",
+    "netṛ"
+   ],
+   [
+    "प्रतिष्ठितः",
+    "pratiṣṭhitaḥ",
+    "established",
+    "pratiṣṭhā"
+   ],
+   [
+    "अन्ने",
+    "anne",
+    "in food",
+    "anna"
+   ],
+   [
+    "हृदयम्",
+    "hṛdayam",
+    "heart",
+    "hṛdaya"
+   ],
+   [
+    "संनिधाय",
+    "saṃnidhāya",
+    "having placed",
+    "saṃnidhā"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "विज्ञानेन",
+    "vijñānena",
+    "by knowledge",
+    "vijñāna"
+   ],
+   [
+    "परिपश्यन्ति",
+    "paripaśyanti",
+    "they behold",
+    "paripaś"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "the discerning",
+    "dhīra"
+   ],
+   [
+    "आनन्द",
+    "ānanda",
+    "delight (compound member)",
+    "ānanda"
+   ],
+   [
+    "रूपम्",
+    "rūpam",
+    "form",
+    "rūpa"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "immortality",
+    "amṛta"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "विभाति",
+    "vibhāti",
+    "shines",
+    "vibhā"
+   ]
+  ],
+  "tr": {
+   "text": "That Self which is omniscient in general and all-knowing in detail and which has such glory in this world – that Self, which is of this kind – is seated in the space within the luminous city of Brahman. It is conditioned by the mind, It is the carrier of the vital forces and the body, It is seated in food by placing the intellect (in the cavity of the heart). Through their knowledge, the discriminating people realize that Self as existing in Its fullness everywhere – the Self that shines surpassingly as blissfulness and immortality.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 40
+ },
+ {
+  "id": "MuU_2.2.8",
+  "ref": "2.2.8",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः ।",
+   "क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे ॥ ८॥"
+  ],
+  "iast": [
+   "bhidyate hṛdayagranthiśchidyante sarvasaṃśayāḥ ।",
+   "kṣīyante cāsya karmāṇi tasmindṛṣṭe parāvare ॥ 8॥"
+  ],
+  "alt": [
+   {
+    "text": "The knot of the heart-strings is rent, cut away are all doubts, and a man’s works are spent and perish, when is seen That which is at once the being below and the Supreme.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 141",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "भिद्यते",
+    "bhidyate",
+    "is broken",
+    "bhid"
+   ],
+   [
+    "हृदय",
+    "hṛdaya",
+    "heart (compound member)",
+    "hṛdaya"
+   ],
+   [
+    "ग्रन्थिः",
+    "granthiḥ",
+    "knot",
+    "granthi"
+   ],
+   [
+    "छिद्यन्ते",
+    "chidyante",
+    "are cut away",
+    "chid"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "संशयाः",
+    "saṃśayāḥ",
+    "doubts",
+    "saṃśaya"
+   ],
+   [
+    "क्षीयन्ते",
+    "kṣīyante",
+    "are exhausted",
+    "kṣi"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "idam"
+   ],
+   [
+    "कर्माणि",
+    "karmāṇi",
+    "works",
+    "karman"
+   ],
+   [
+    "तस्मिन्",
+    "tasmin",
+    "in that",
+    "tad"
+   ],
+   [
+    "दृष्टे",
+    "dṛṣṭe",
+    "having been seen",
+    "dṛś"
+   ],
+   [
+    "परावरे",
+    "parāvare",
+    "the higher and the lower",
+    "parāvara"
+   ]
+  ],
+  "tr": {
+   "text": "When that Self, which is both the high and the low, is realized, the knot of the heart gets united, all doubts become solved, and all one’s actions become dissipated.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.9.mp3",
+   "whole": [
+    898.74,
+    913.82
+   ]
+  },
+  "hasBhashya": true,
+  "order": 41
+ },
+ {
+  "id": "MuU_2.2.9",
+  "ref": "2.2.9",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "हिरण्मये परे कोशे विरजं ब्रह्म निष्कलम् ।",
+   "तच्छुभ्रं ज्योतिषां ज्योतिस्तद्यदात्मविदो विदुः ॥ ९॥"
+  ],
+  "iast": [
+   "hiraṇmaye pare kośe virajaṃ brahma niṣkalam ।",
+   "tacchubhraṃ jyotiṣāṃ jyotistadyadātmavido viduḥ ॥ 9॥"
+  ],
+  "alt": [
+   {
+    "text": "In a supreme golden sheath the Brahman lies, stainless, without parts. A Splendour is That, It is the Light of Lights, It is That which the self-knowers know.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 141",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "हिरण्मये",
+    "hiraṇmaye",
+    "golden",
+    "hiraṇmaya"
+   ],
+   [
+    "परे",
+    "pare",
+    "highest",
+    "para"
+   ],
+   [
+    "कोशे",
+    "kośe",
+    "sheath",
+    "kośa"
+   ],
+   [
+    "विरजम्",
+    "virajam",
+    "stainless",
+    "viraja"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "निष्कलम्",
+    "niṣkalam",
+    "indivisible",
+    "niṣkala"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "शुभ्रम्",
+    "śubhram",
+    "pure",
+    "śubhra"
+   ],
+   [
+    "ज्योतिषाम्",
+    "jyotiṣām",
+    "of lights",
+    "jyotis"
+   ],
+   [
+    "ज्योतिः",
+    "jyotiḥ",
+    "light",
+    "jyotis"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "यत्",
+    "yat",
+    "which",
+    "yad"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "Self (compound member)",
+    "ātman"
+   ],
+   [
+    "विदः",
+    "vidaḥ",
+    "knowers (ātma-vidaḥ: knowers of the Self)",
+    "vid"
+   ],
+   [
+    "विदुः",
+    "viduḥ",
+    "they know",
+    "vid"
+   ]
+  ],
+  "tr": {
+   "text": "In the supreme, bright sheath is Brahman, free from taints and without parts. It is pure, and is the Light of lights. It is that which the knowers of the Self realize.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.10.mp3",
+   "whole": [
+    916.32,
+    931.25
+   ]
+  },
+  "hasBhashya": true,
+  "order": 42
+ },
+ {
+  "id": "MuU_2.2.10",
+  "ref": "2.2.10",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "न तत्र सूर्यो भाति न चन्द्रतारकं",
+   "नेमा विद्युतो भान्ति कुतोऽयमग्निः ।",
+   "तमेव भान्तमनुभाति सर्वं",
+   "तस्य भासा सर्वमिदं विभाति ॥ १०॥"
+  ],
+  "iast": [
+   "na tatra sūryo bhāti na candratārakaṃ",
+   "nemā vidyuto bhānti kuto’yamagniḥ ।",
+   "tameva bhāntamanubhāti sarvaṃ",
+   "tasya bhāsā sarvamidaṃ vibhāti ॥ 10॥"
+  ],
+  "alt": [
+   {
+    "text": "There the sun shines not and the moon has no splendour and the stars are blind; there these lightnings flash not, how then shall burn this earthly fire? All that shines is but the shadow of his shining; all this universe is effulgent with his light.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 141",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "तत्र",
+    "tatra",
+    "there",
+    "tatra"
+   ],
+   [
+    "सूर्यः",
+    "sūryaḥ",
+    "sun",
+    "sūrya"
+   ],
+   [
+    "भाति",
+    "bhāti",
+    "shines",
+    "bhā"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "चन्द्र",
+    "candra",
+    "moon (compound member)",
+    "candra"
+   ],
+   [
+    "तारकम्",
+    "tārakam",
+    "stars (in candra-tārakam)",
+    "tāraka"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "इमाः",
+    "imāḥ",
+    "these (lightnings)",
+    "idam"
+   ],
+   [
+    "विद्युतः",
+    "vidyutaḥ",
+    "flashes of lightning",
+    "vidyut"
+   ],
+   [
+    "भान्ति",
+    "bhānti",
+    "shine",
+    "bhā"
+   ],
+   [
+    "कुतस्",
+    "kutas",
+    "whence",
+    "kutas"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this (masculine)",
+    "idam"
+   ],
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agni"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "भान्तम्",
+    "bhāntam",
+    "shining",
+    "bhā"
+   ],
+   [
+    "अनुभाति",
+    "anubhāti",
+    "shines after",
+    "anubhā"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tad"
+   ],
+   [
+    "भासा",
+    "bhāsā",
+    "by His light",
+    "bhās"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "विभाति",
+    "vibhāti",
+    "shines",
+    "vibhā"
+   ]
+  ],
+  "tr": {
+   "text": "There the sun does not shine, nor the moon or the stars; nor do these flashes of lightning shine there. How can this fire do so ? Everything shines according as He does so; by His light all this shines diversely.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.11.mp3",
+   "whole": [
+    933.62,
+    954.13
+   ]
+  },
+  "hasBhashya": true,
+  "order": 43
+ },
+ {
+  "id": "MuU_2.2.11",
+  "ref": "2.2.11",
+  "section": "Muṇḍaka 2 · Section 2",
+  "sa": [
+   "ब्रह्मैवेदममृतं पुरस्ताद्ब्रह्म पश्चाद्ब्रह्म दक्षिणतश्चोत्तरेण ।",
+   "अधश्चोर्ध्वं च प्रसृतं ब्रह्मैवेदं विश्वमिदं वरिष्ठम् ॥ ११॥"
+  ],
+  "iast": [
+   "brahmaivedamamṛtaṃ purastādbrahma paścādbrahma dakṣiṇataścottareṇa ।",
+   "adhaścordhvaṃ ca prasṛtaṃ brahmaivedaṃ viśvamidaṃ variṣṭham ॥ 11॥"
+  ],
+  "alt": [
+   {
+    "text": "All this is Brahman immortal, naught else; Brahman is in front of us, Brahman behind us, and to the south of us and to the north of us and below us and above us; it stretches everywhere. All this is Brahman alone, all this magnificent universe.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 141",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "अमृतम्",
+    "amṛtam",
+    "immortality",
+    "amṛta"
+   ],
+   [
+    "पुरस्तात्",
+    "purastāt",
+    "in front",
+    "purastāt"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "पश्चात्",
+    "paścāt",
+    "behind",
+    "paścāt"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "दक्षिणतस्",
+    "dakṣiṇatas",
+    "to the south",
+    "dakṣiṇatas"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "उत्तरेण",
+    "uttareṇa",
+    "to the north, to the left",
+    "uttareṇa"
+   ],
+   [
+    "अधस्",
+    "adhas",
+    "below",
+    "adhas"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "ऊर्ध्वम्",
+    "ūrdhvam",
+    "upward",
+    "ūrdhvam"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "प्रसृतम्",
+    "prasṛtam",
+    "all-pervading",
+    "prasṛ"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "विश्वम्",
+    "viśvam",
+    "all",
+    "viśva"
+   ],
+   [
+    "इदम्",
+    "idam",
+    "this",
+    "idam"
+   ],
+   [
+    "वरिष्ठम्",
+    "variṣṭham",
+    "the highest",
+    "variṣṭha"
+   ]
+  ],
+  "tr": {
+   "text": "All this that is in front is but Brahman, the immortal. Brahman is at the back, as also on the right and the left. It is extended above and below, too. This world is nothing but Brahman, the highest.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.2.2.12.mp3",
+   "whole": [
+    955.67,
+    975.26
+   ]
+  },
+  "hasBhashya": true,
+  "order": 44
+ },
+ {
+  "id": "MuU_3.1.1",
+  "ref": "3.1.1",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते ।",
+   "तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥ १॥"
+  ],
+  "iast": [
+   "dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte ।",
+   "tayoranyaḥ pippalaṃ svādvattyanaśnannanyo abhicākaśīti ॥ 1॥"
+  ],
+  "alt": [
+   {
+    "text": "Two birds, beautiful of wing, close companions, cling to one common tree: of the two one eats the sweet fruit of the tree, the other eats not but watches his fellow.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 142",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "द्वा",
+    "dvā",
+    "two (Vedic masculine dual)",
+    "dvi"
+   ],
+   [
+    "सुपर्णा",
+    "suparṇā",
+    "having beautiful wings",
+    "suparṇa"
+   ],
+   [
+    "सयुजा",
+    "sayujā",
+    "together",
+    "sayuj"
+   ],
+   [
+    "सखाया",
+    "sakhāyā",
+    "friends",
+    "sakhi"
+   ],
+   [
+    "समानम्",
+    "samānam",
+    "same",
+    "samāna"
+   ],
+   [
+    "वृक्षम्",
+    "vṛkṣam",
+    "tree",
+    "vṛkṣa"
+   ],
+   [
+    "परिषस्वजाते",
+    "pariṣasvajāte",
+    "embrace",
+    "pariṣvaj"
+   ],
+   [
+    "तयोः",
+    "tayoḥ",
+    "of those two",
+    "tad"
+   ],
+   [
+    "अन्यः",
+    "anyaḥ",
+    "one",
+    "anya"
+   ],
+   [
+    "पिप्पलम्",
+    "pippalam",
+    "fruit",
+    "pippala"
+   ],
+   [
+    "स्वादु",
+    "svādu",
+    "sweet",
+    "svādu"
+   ],
+   [
+    "अत्ति",
+    "atti",
+    "eats",
+    "ad"
+   ],
+   [
+    "अन्",
+    "an",
+    "not",
+    "an"
+   ],
+   [
+    "अश्नन्",
+    "aśnan",
+    "eating (an-aśnan: not eating)",
+    "aś"
+   ],
+   [
+    "अन्यः",
+    "anyaḥ",
+    "one",
+    "anya"
+   ],
+   [
+    "अभिचाकशीति",
+    "abhicākaśīti",
+    "looks on",
+    "abhicākaś"
+   ]
+  ],
+  "tr": {
+   "text": "Two birds that are ever associated and have similar names, cling to the same tree. Of these, one eats the fruit of divergent tastes, and the other looks on without eating.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.1.mp3",
+   "whole": [
+    976.55,
+    995.27
+   ]
+  },
+  "hasBhashya": true,
+  "order": 45
+ },
+ {
+  "id": "MuU_3.1.2",
+  "ref": "3.1.2",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "समाने वृक्षे पुरुषो निमग्नोऽनीशया शोचति मुह्यमानः ।",
+   "जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः ॥ २॥"
+  ],
+  "iast": [
+   "samāne vṛkṣe puruṣo nimagno’nīśayā śocati muhyamānaḥ ।",
+   "juṣṭaṃ yadā paśyatyanyamīśamasya mahimānamiti vītaśokaḥ ॥ 2॥"
+  ],
+  "alt": [
+   {
+    "text": "The soul is the bird that sits immersed on the one common tree; but because he is not lord he is bewildered and has sorrow. But when he sees that other who is the Lord and beloved, he knows that all is His greatness and his sorrow passes away from him.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 142",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "समाने",
+    "samāne",
+    "same",
+    "samāna"
+   ],
+   [
+    "वृक्षे",
+    "vṛkṣe",
+    "in the tree",
+    "vṛkṣa"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "निमग्नः",
+    "nimagnaḥ",
+    "immersed, absorbed",
+    "nimajj"
+   ],
+   [
+    "अनीशया",
+    "anīśayā",
+    "through helplessness",
+    "anīśā"
+   ],
+   [
+    "शोचति",
+    "śocati",
+    "grieves",
+    "śuc"
+   ],
+   [
+    "मुह्यमानः",
+    "muhyamānaḥ",
+    "bewildered",
+    "muh"
+   ],
+   [
+    "जुष्टम्",
+    "juṣṭam",
+    "worshipped, revered",
+    "juṣ"
+   ],
+   [
+    "यदा",
+    "yadā",
+    "when",
+    "yadā"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "paś"
+   ],
+   [
+    "अन्यम्",
+    "anyam",
+    "another",
+    "anya"
+   ],
+   [
+    "ईशम्",
+    "īśam",
+    "Lord",
+    "īśa"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "idam"
+   ],
+   [
+    "महिमानम्",
+    "mahimānam",
+    "glory",
+    "mahiman"
+   ],
+   [
+    "इति",
+    "iti",
+    "thus",
+    "iti"
+   ],
+   [
+    "वीत",
+    "vīta",
+    "departed",
+    "vī"
+   ],
+   [
+    "शोकः",
+    "śokaḥ",
+    "sorrow (vīta-śokaḥ: free from sorrow)",
+    "śoka"
+   ]
+  ],
+  "tr": {
+   "text": "On the same tree, the individual soul remains drowned (i.e. stuck), as it were; and so it moans, being worried by its impotence. When it sees thus the other, the adored Lord, and His glory, then it becomes liberated from sorrow.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.2.mp3",
+   "whole": [
+    995.27,
+    1014.19
+   ]
+  },
+  "hasBhashya": true,
+  "order": 46
+ },
+ {
+  "id": "MuU_3.1.3",
+  "ref": "3.1.3",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "यदा पश्यः पश्यते रुक्मवर्णं",
+   "कर्तारमीशं पुरुषं ब्रह्मयोनिम् ।",
+   "तदा विद्वान् पुण्यपापे विधूय",
+   "निरञ्जनः परमं साम्यमुपैति ॥ ३॥"
+  ],
+  "iast": [
+   "yadā paśyaḥ paśyate rukmavarṇaṃ",
+   "kartāramīśaṃ puruṣaṃ brahmayonim ।",
+   "tadā vidvān puṇyapāpe vidhūya",
+   "nirañjanaḥ paramaṃ sāmyamupaiti ॥ 3॥"
+  ],
+  "alt": [
+   {
+    "text": "When, a seer, he sees the Golden-hued, the maker, the Lord, the Spirit who is the source of Brahman, then he becomes the knower and shakes from his wings sin and virtue; pure of all stain he reaches the supreme identity.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 142",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यदा",
+    "yadā",
+    "when",
+    "yadā"
+   ],
+   [
+    "पश्यः",
+    "paśyaḥ",
+    "the seer",
+    "paśya"
+   ],
+   [
+    "पश्यते",
+    "paśyate",
+    "sees",
+    "paś"
+   ],
+   [
+    "रुक्म",
+    "rukma",
+    "gold (compound member)",
+    "rukma"
+   ],
+   [
+    "वर्णम्",
+    "varṇam",
+    "colour",
+    "varṇa"
+   ],
+   [
+    "कर्तारम्",
+    "kartāram",
+    "creator",
+    "kartṛ"
+   ],
+   [
+    "ईशम्",
+    "īśam",
+    "Lord",
+    "īśa"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "योनिम्",
+    "yonim",
+    "source",
+    "yoni"
+   ],
+   [
+    "तदा",
+    "tadā",
+    "then",
+    "tadā"
+   ],
+   [
+    "विद्वान्",
+    "vidvān",
+    "one who knows",
+    "vid"
+   ],
+   [
+    "पुण्य",
+    "puṇya",
+    "merit (compound member)",
+    "puṇya"
+   ],
+   [
+    "पापे",
+    "pāpe",
+    "demerit (puṇya-pāpe: merit and demerit)",
+    "pāpa"
+   ],
+   [
+    "विधूय",
+    "vidhūya",
+    "having shaken off",
+    "vidhū"
+   ],
+   [
+    "निरञ्जनः",
+    "nirañjanaḥ",
+    "stainless",
+    "nirañjana"
+   ],
+   [
+    "परमम्",
+    "paramam",
+    "supreme",
+    "parama"
+   ],
+   [
+    "साम्यम्",
+    "sāmyam",
+    "equality",
+    "sāmya"
+   ],
+   [
+    "उपैति",
+    "upaiti",
+    "attains",
+    "upe"
+   ]
+  ],
+  "tr": {
+   "text": "When the seer sees the Purusha – the golden-hued, creator, lord, and the source of the inferior Brahman – then the illumined one completely shakes off both merit and demerit, becomes taintless, and attains absolute equality.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.3.mp3",
+   "whole": [
+    1014.19,
+    1033.9
+   ]
+  },
+  "hasBhashya": true,
+  "order": 47
+ },
+ {
+  "id": "MuU_3.1.4",
+  "ref": "3.1.4",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "प्राणो ह्येष यः सर्वभूतैर्विभाति",
+   "विजानन् विद्वान् भवते नातिवादी ।",
+   "आत्मक्रीड आत्मरतिः क्रियावानेष ब्रह्मविदां वरिष्ठः ॥ ४॥"
+  ],
+  "iast": [
+   "prāṇo hyeṣa yaḥ sarvabhūtairvibhāti",
+   "vijānan vidvān bhavate nātivādī ।",
+   "ātmakrīḍa ātmaratiḥ kriyāvāneṣa brahmavidāṃ variṣṭhaḥ ॥ 4॥"
+  ],
+  "alt": [
+   {
+    "text": "This is the life in things that shines manifested by all these beings; a man of knowledge coming wholly to know this, draws back from creeds and too much disputings. In the Self his delight, at play in the Self, doing works, — the best is he among the knowers of the Eternal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 142",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "सर्व",
+    "sarva",
+    "all (compound member)",
+    "sarva"
+   ],
+   [
+    "भूतैः",
+    "bhūtaiḥ",
+    "through beings",
+    "bhūta"
+   ],
+   [
+    "विभाति",
+    "vibhāti",
+    "shines",
+    "vibhā"
+   ],
+   [
+    "विजानन्",
+    "vijānan",
+    "knowing",
+    "vijñā"
+   ],
+   [
+    "विद्वान्",
+    "vidvān",
+    "one who knows",
+    "vid"
+   ],
+   [
+    "भवते",
+    "bhavate",
+    "becomes",
+    "bhū"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अतिवादी",
+    "ativādī",
+    "one who speaks beyond",
+    "ativādin"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "Self (compound member)",
+    "ātman"
+   ],
+   [
+    "क्रीडः",
+    "krīḍaḥ",
+    "delighting",
+    "krīḍā"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "Self (compound member)",
+    "ātman"
+   ],
+   [
+    "रतिः",
+    "ratiḥ",
+    "delight (ātma-ratiḥ: delighting in the Self)",
+    "rati"
+   ],
+   [
+    "क्रियावान्",
+    "kriyāvān",
+    "active in duty",
+    "kriyāvat"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "विदाम्",
+    "vidām",
+    "of knowers (of Brahman)",
+    "vid"
+   ],
+   [
+    "वरिष्ठः",
+    "variṣṭhaḥ",
+    "the greatest",
+    "variṣṭha"
+   ]
+  ],
+  "tr": {
+   "text": "This one is verily the Vital Force which shines divergently through all beings. Knowing this, the illumined man has no (further) occasion to go beyond anything in his talk. He disports in the Self, delights in the Self, and is engrossed in (spiritual) effort. This one is the chief among the knowers of Brahman.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.4.mp3",
+   "whole": [
+    1035.32,
+    1055.83
+   ]
+  },
+  "hasBhashya": false,
+  "order": 48
+ },
+ {
+  "id": "MuU_3.1.5",
+  "ref": "3.1.5",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "सत्येन लभ्यस्तपसा ह्येष आत्मा",
+   "सम्यग्ज्ञानेन ब्रह्मचर्येण नित्यम् ।",
+   "अन्तःशरीरे ज्योतिर्मयो हि शुभ्रो",
+   "यं पश्यन्ति यतयः क्षीणदोषाः ॥ ५॥"
+  ],
+  "iast": [
+   "satyena labhyastapasā hyeṣa ātmā",
+   "samyagjñānena brahmacaryeṇa nityam ।",
+   "antaḥśarīre jyotirmayo hi śubhro",
+   "yaṃ paśyanti yatayaḥ kṣīṇadoṣāḥ ॥ 5॥"
+  ],
+  "alt": [
+   {
+    "text": "The Self can always be won by truth, by self-discipline, by integral knowledge, by a life of purity, — this Self that is in the inner body, radiant, made all of light whom by the perishing of their blemishes the doers of askesis behold.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 143",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सत्येन",
+    "satyena",
+    "by truth",
+    "satya"
+   ],
+   [
+    "लभ्यः",
+    "labhyaḥ",
+    "attainable",
+    "labh"
+   ],
+   [
+    "तपसा",
+    "tapasā",
+    "through austerity",
+    "tapas"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "सम्यक्",
+    "samyak",
+    "rightly",
+    "samyak"
+   ],
+   [
+    "ज्ञानेन",
+    "jñānena",
+    "by knowledge",
+    "jñāna"
+   ],
+   [
+    "ब्रह्मचर्येण",
+    "brahmacaryeṇa",
+    "through celibacy",
+    "brahmacarya"
+   ],
+   [
+    "नित्यम्",
+    "nityam",
+    "constantly",
+    "nityam"
+   ],
+   [
+    "अन्तर्",
+    "antar",
+    "within",
+    "antar"
+   ],
+   [
+    "शरीरे",
+    "śarīre",
+    "in the body",
+    "śarīra"
+   ],
+   [
+    "ज्योतिः",
+    "jyotiḥ",
+    "light",
+    "jyotis"
+   ],
+   [
+    "मयः",
+    "mayaḥ",
+    "consisting of",
+    "maya"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "शुभ्रः",
+    "śubhraḥ",
+    "pure",
+    "śubhra"
+   ],
+   [
+    "यम्",
+    "yam",
+    "whom",
+    "yad"
+   ],
+   [
+    "पश्यन्ति",
+    "paśyanti",
+    "they see",
+    "paś"
+   ],
+   [
+    "यतयः",
+    "yatayaḥ",
+    "seekers",
+    "yati"
+   ],
+   [
+    "क्षीण",
+    "kṣīṇa",
+    "exhausted",
+    "kṣi"
+   ],
+   [
+    "दोषाः",
+    "doṣāḥ",
+    "faults (kṣīṇa-doṣāḥ: whose faults have ceased)",
+    "doṣa"
+   ]
+  ],
+  "tr": {
+   "text": "The bright and pure Self within the body, that the monks with (habitual effort and) attenuated blemishes see, is attainable verily through truth, concentration, complete knowledge, and continence, practised constantly.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.5.mp3",
+   "whole": [
+    1057.45,
+    1080.08
+   ]
+  },
+  "hasBhashya": true,
+  "order": 49
+ },
+ {
+  "id": "MuU_3.1.6",
+  "ref": "3.1.6",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "सत्यमेव जयते नानृतं",
+   "सत्येन पन्था विततो देवयानः ।",
+   "येनाक्रमन्त्यृषयो ह्याप्तकामा",
+   "यत्र तत्सत्यस्य परमं निधानम् ॥ ६॥"
+  ],
+  "iast": [
+   "satyameva jayate nānṛtaṃ",
+   "satyena panthā vitato devayānaḥ ।",
+   "yenākramantyṛṣayo hyāptakāmā",
+   "yatra tatsatyasya paramaṃ nidhānam ॥ 6॥"
+  ],
+  "alt": [
+   {
+    "text": "It is Truth that conquers and not falsehood; by Truth was stretched out the path of the journey of the gods, by which the sages winning their desire ascend there where Truth has its supreme abode.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 143",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "जयते",
+    "jayate",
+    "conquers",
+    "ji"
+   ],
+   [
+    "ना",
+    "nā",
+    "not",
+    "na"
+   ],
+   [
+    "अनृतम्",
+    "anṛtam",
+    "falsehood",
+    "anṛta"
+   ],
+   [
+    "सत्येन",
+    "satyena",
+    "by truth",
+    "satya"
+   ],
+   [
+    "पन्थाः",
+    "panthāḥ",
+    "path",
+    "pathin"
+   ],
+   [
+    "विततः",
+    "vitataḥ",
+    "laid out, extended",
+    "vitan"
+   ],
+   [
+    "देव",
+    "deva",
+    "gods (compound member)",
+    "deva"
+   ],
+   [
+    "यानः",
+    "yānaḥ",
+    "way",
+    "yāna"
+   ],
+   [
+    "येन",
+    "yena",
+    "by which",
+    "yad"
+   ],
+   [
+    "आक्रमन्ति",
+    "ākramanti",
+    "ascend",
+    "ākram"
+   ],
+   [
+    "ऋषयः",
+    "ṛṣayaḥ",
+    "seers",
+    "ṛṣi"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "आप्त",
+    "āpta",
+    "attained",
+    "āp"
+   ],
+   [
+    "कामाः",
+    "kāmāḥ",
+    "desires (āpta-kāmāḥ: whose desires are fulfilled)",
+    "kāma"
+   ],
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "सत्यस्य",
+    "satyasya",
+    "of truth",
+    "satya"
+   ],
+   [
+    "परमम्",
+    "paramam",
+    "supreme",
+    "parama"
+   ],
+   [
+    "निधानम्",
+    "nidhānam",
+    "treasure, abode",
+    "nidhāna"
+   ]
+  ],
+  "tr": {
+   "text": "Truth alone wins, and not untruth. By truth is laid the path called Devayana, by which the desireless seers ascend to where exists the supreme treasure attainable through truth.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.6.mp3",
+   "whole": [
+    1083.25,
+    1103.05
+   ]
+  },
+  "hasBhashya": true,
+  "order": 50
+ },
+ {
+  "id": "MuU_3.1.7",
+  "ref": "3.1.7",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "बृहच्च तद्दिव्यमचिन्त्यरूपं",
+   "सूक्ष्माच्च तत्सूक्ष्मतरं विभाति ।",
+   "दूरात्सुदूरे तदिहान्तिके च",
+   "पश्यत्स्विहैव निहितं गुहायाम् ॥ ७॥"
+  ],
+  "iast": [
+   "bṛhacca taddivyamacintyarūpaṃ",
+   "sūkṣmācca tatsūkṣmataraṃ vibhāti ।",
+   "dūrātsudūre tadihāntike ca",
+   "paśyatsvihaiva nihitaṃ guhāyām ॥ 7॥"
+  ],
+  "alt": [
+   {
+    "text": "Vast is That, divine, its form unthinkable; it shines out subtler than the subtle: very far and farther than farness, it is here close to us, for those who have vision it is even here in this world; it is here, hidden in the secret heart.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 143",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "बृहत्",
+    "bṛhat",
+    "vast",
+    "bṛhat"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "दिव्यम्",
+    "divyam",
+    "divine",
+    "divya"
+   ],
+   [
+    "अचिन्त्य",
+    "acintya",
+    "unthinkable",
+    "acintya"
+   ],
+   [
+    "रूपम्",
+    "rūpam",
+    "form",
+    "rūpa"
+   ],
+   [
+    "सूक्ष्मात्",
+    "sūkṣmāt",
+    "from the subtle",
+    "sūkṣma"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "सूक्ष्मतरम्",
+    "sūkṣmataram",
+    "subtler",
+    "sūkṣmatara"
+   ],
+   [
+    "विभाति",
+    "vibhāti",
+    "shines",
+    "vibhā"
+   ],
+   [
+    "दूरात्",
+    "dūrāt",
+    "from afar",
+    "dūra"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "दूरे",
+    "dūre",
+    "far away",
+    "dūra"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "अन्तिके",
+    "antike",
+    "near",
+    "antika"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "पश्यत्सु",
+    "paśyatsu",
+    "in those who see",
+    "paś"
+   ],
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "निहितम्",
+    "nihitam",
+    "placed, hidden",
+    "nidhā"
+   ],
+   [
+    "गुहायाम्",
+    "guhāyām",
+    "in the cave",
+    "guhā"
+   ]
+  ],
+  "tr": {
+   "text": "It is great and self-effulgent; and Its form is unthinkable. It is subtler than the subtle. It shines diversely. It is farther away than the far-off, and It is near at hand in this body. Among sentient beings It is (perceived as) seated in this very body, in the cavity of the heart.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.7.mp3",
+   "whole": [
+    1104.55,
+    1124.6
+   ]
+  },
+  "hasBhashya": true,
+  "order": 51
+ },
+ {
+  "id": "MuU_3.1.8",
+  "ref": "3.1.8",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "न चक्षुषा गृह्यते नापि वाचा",
+   "नान्यैर्देवैस्तपसा कर्मणा वा ।",
+   "ज्ञानप्रसादेन विशुद्धसत्त्वस्ततस्तु तं पश्यते निष्कलं ध्यायमानः ॥ ८॥"
+  ],
+  "iast": [
+   "na cakṣuṣā gṛhyate nāpi vācā",
+   "nānyairdevaistapasā karmaṇā vā ।",
+   "jñānaprasādena viśuddhasattvastatastu taṃ paśyate niṣkalaṃ dhyāyamānaḥ ॥ 8॥"
+  ],
+  "alt": [
+   {
+    "text": "Eye cannot seize, speech cannot grasp Him, nor these other godheads; not by austerity can he be held nor by works: only when the inner being is purified by a glad serenity of knowledge, then indeed, meditating, one beholds the Spirit indivisible.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 143",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "चक्षुषा",
+    "cakṣuṣā",
+    "by sight",
+    "cakṣus"
+   ],
+   [
+    "गृह्यते",
+    "gṛhyate",
+    "is grasped",
+    "grah"
+   ],
+   [
+    "ना",
+    "nā",
+    "not",
+    "na"
+   ],
+   [
+    "अपि",
+    "api",
+    "also",
+    "api"
+   ],
+   [
+    "वाचा",
+    "vācā",
+    "by speech",
+    "vāc"
+   ],
+   [
+    "ना",
+    "nā",
+    "not",
+    "na"
+   ],
+   [
+    "अन्यैः",
+    "anyaiḥ",
+    "by others",
+    "anya"
+   ],
+   [
+    "देवैः",
+    "devaiḥ",
+    "by the senses, gods",
+    "deva"
+   ],
+   [
+    "तपसा",
+    "tapasā",
+    "through austerity",
+    "tapas"
+   ],
+   [
+    "कर्मणा",
+    "karmaṇā",
+    "through ritual",
+    "karman"
+   ],
+   [
+    "वा",
+    "vā",
+    "or",
+    "vā"
+   ],
+   [
+    "ज्ञान",
+    "jñāna",
+    "knowledge (compound member)",
+    "jñāna"
+   ],
+   [
+    "प्रसादेन",
+    "prasādena",
+    "by clarity",
+    "prasāda"
+   ],
+   [
+    "विशुद्ध",
+    "viśuddha",
+    "purified (compound member)",
+    "viśudh"
+   ],
+   [
+    "सत्त्वः",
+    "sattvaḥ",
+    "being",
+    "sattva"
+   ],
+   [
+    "ततस्",
+    "tatas",
+    "then",
+    "tatas"
+   ],
+   [
+    "तु",
+    "tu",
+    "but",
+    "tu"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "पश्यते",
+    "paśyate",
+    "sees",
+    "paś"
+   ],
+   [
+    "निष्कलम्",
+    "niṣkalam",
+    "without parts",
+    "niṣkala"
+   ],
+   [
+    "ध्यायमानः",
+    "dhyāyamānaḥ",
+    "contemplating",
+    "dhyā"
+   ]
+  ],
+  "tr": {
+   "text": "It is not comprehended through the eye, nor through speech, nor through the other senses; nor is It attained through austerity or karma. Since one becomes purified in mind through the favourableness of the intellect, therefore can one see that indivisible Self through meditation.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.8.mp3",
+   "whole": [
+    1124.6,
+    1145.73
+   ]
+  },
+  "hasBhashya": true,
+  "order": 52
+ },
+ {
+  "id": "MuU_3.1.9",
+  "ref": "3.1.9",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "एषोऽणुरात्मा चेतसा वेदितव्यो",
+   "यस्मिन्प्राणः पञ्चधा संविवेश ।",
+   "प्राणैश्चित्तं सर्वमोतं प्रजानां",
+   "यस्मिन्विशुद्धे विभवत्येष आत्मा ॥ ९॥"
+  ],
+  "iast": [
+   "eṣo’ṇurātmā cetasā veditavyo",
+   "yasminprāṇaḥ pañcadhā saṃviveśa ।",
+   "prāṇaiścittaṃ sarvamotaṃ prajānāṃ",
+   "yasminviśuddhe vibhavatyeṣa ātmā ॥ 9॥"
+  ],
+  "alt": [
+   {
+    "text": "This Self is subtle and has to be known by a thought-mind into which the life-force has made its fivefold entry: all the conscious heart of creatures is shot through and inwoven with the currents of the life-force and only when it is purified can this Self manifest its power.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 143, 144",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "एषः",
+    "eṣaḥ",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "अणुः",
+    "aṇuḥ",
+    "minute, subtle",
+    "aṇu"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "चेतसा",
+    "cetasā",
+    "by the intellect, mind",
+    "cetas"
+   ],
+   [
+    "वेदितव्यः",
+    "veditavyaḥ",
+    "should be understood",
+    "vid"
+   ],
+   [
+    "यस्मिन्",
+    "yasmin",
+    "in which",
+    "yad"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇa"
+   ],
+   [
+    "पञ्चधा",
+    "pañcadhā",
+    "fivefold",
+    "pañcadhā"
+   ],
+   [
+    "संविवेश",
+    "saṃviveśa",
+    "enters",
+    "saṃviś"
+   ],
+   [
+    "प्राणैः",
+    "prāṇaiḥ",
+    "with the life-breaths",
+    "prāṇa"
+   ],
+   [
+    "चित्तम्",
+    "cittam",
+    "mind",
+    "citta"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "ओतम्",
+    "otam",
+    "woven, interwoven",
+    "āve"
+   ],
+   [
+    "प्रजानाम्",
+    "prajānām",
+    "of creatures",
+    "prajā"
+   ],
+   [
+    "यस्मिन्",
+    "yasmin",
+    "in which",
+    "yad"
+   ],
+   [
+    "विशुद्धे",
+    "viśuddhe",
+    "when purified",
+    "viśudh"
+   ],
+   [
+    "विभवति",
+    "vibhavati",
+    "shines forth",
+    "vibhū"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ]
+  ],
+  "tr": {
+   "text": "Within (the heart in) the body, where the vital force has entered in five forms, is this subtle Self to be realized through that intelligence by which is pervaded the entire mind as well as the motor and sensory organs of all creatures. And It is to be known in the mind, which having become purified, this Self reveals Itself distinctly.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.9.mp3",
+   "whole": [
+    1148.44,
+    1169.36
+   ]
+  },
+  "hasBhashya": true,
+  "order": 53
+ },
+ {
+  "id": "MuU_3.1.10",
+  "ref": "3.1.10",
+  "section": "Muṇḍaka 3 · Section 1",
+  "sa": [
+   "यं यं लोकं मनसा संविभाति",
+   "विशुद्धसत्त्वः कामयते यांश्च कामान् ।",
+   "तं तं लोकं जयते तांश्च कामांस्तस्मादात्मज्ञं ह्यर्चयेद्भूतिकामः ॥ १०॥"
+  ],
+  "iast": [
+   "yaṃ yaṃ lokaṃ manasā saṃvibhāti",
+   "viśuddhasattvaḥ kāmayate yāṃśca kāmān ।",
+   "taṃ taṃ lokaṃ jayate tāṃśca kāmāṃstasmādātmajñaṃ hyarcayedbhūtikāmaḥ ॥ 10॥"
+  ],
+  "alt": [
+   {
+    "text": "Whatever world the man whose inner being is purified sheds the light of his mind upon, and whatsoever desires he cherishes, that world he takes by conquest, and those desires. Then, let whosoever seeks for success and well-being approach with homage a self-knower.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 144",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यम्",
+    "yam",
+    "whichever (repeated: whatever)",
+    "yad"
+   ],
+   [
+    "यम्",
+    "yam",
+    "whichever (repeated: whatever)",
+    "yad"
+   ],
+   [
+    "लोकम्",
+    "lokam",
+    "world",
+    "loka"
+   ],
+   [
+    "मनसा",
+    "manasā",
+    "with the mind",
+    "manas"
+   ],
+   [
+    "संविभाति",
+    "saṃvibhāti",
+    "envisions, manifests",
+    "saṃvibhā"
+   ],
+   [
+    "विशुद्ध",
+    "viśuddha",
+    "purified (compound member)",
+    "viśudh"
+   ],
+   [
+    "सत्त्वः",
+    "sattvaḥ",
+    "being",
+    "sattva"
+   ],
+   [
+    "कामयते",
+    "kāmayate",
+    "desires",
+    "kāmay"
+   ],
+   [
+    "यान्",
+    "yān",
+    "whichever (desires)",
+    "yad"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "कामान्",
+    "kāmān",
+    "desires",
+    "kāma"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "तम्",
+    "tam",
+    "him",
+    "tad"
+   ],
+   [
+    "लोकम्",
+    "lokam",
+    "world",
+    "loka"
+   ],
+   [
+    "जयते",
+    "jayate",
+    "conquers",
+    "ji"
+   ],
+   [
+    "तान्",
+    "tān",
+    "them",
+    "tad"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "कामान्",
+    "kāmān",
+    "desires",
+    "kāma"
+   ],
+   [
+    "तस्मात्",
+    "tasmāt",
+    "from that",
+    "tasmāt"
+   ],
+   [
+    "आत्म",
+    "ātma",
+    "Self (compound member)",
+    "ātman"
+   ],
+   [
+    "ज्ञम्",
+    "jñam",
+    "knowing (ātma-jñam: the knower of the Self)",
+    "jña"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अर्चयेत्",
+    "arcayet",
+    "should worship",
+    "arcay"
+   ],
+   [
+    "भूति",
+    "bhūti",
+    "prosperity",
+    "bhūti"
+   ],
+   [
+    "कामः",
+    "kāmaḥ",
+    "desiring (bhūti-kāmaḥ: seeking well-being)",
+    "kāma"
+   ]
+  ],
+  "tr": {
+   "text": "The man of pure mind wins those worlds which he mentally wishes for and those enjoyable things which he covets. Therefore one, desirous of prosperity, should adore the knower of the Self.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.1.10.mp3",
+   "whole": [
+    1170.61,
+    1194.24
+   ]
+  },
+  "hasBhashya": true,
+  "order": 54
+ },
+ {
+  "id": "MuU_3.2.1",
+  "ref": "3.2.1",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "स वेदैतत्परमं ब्रह्म धाम",
+   "यत्र विश्वं निहितं भाति शुभ्रम् ।",
+   "उपासते पुरुषं ये ह्यकामास्ते",
+   "शुक्रमेतदतिवर्तन्ति धीराः ॥ १॥"
+  ],
+  "iast": [
+   "sa vedaitatparamaṃ brahma dhāma",
+   "yatra viśvaṃ nihitaṃ bhāti śubhram ।",
+   "upāsate puruṣaṃ ye hyakāmāste",
+   "śukrametadativartanti dhīrāḥ ॥ 1॥"
+  ],
+  "alt": [
+   {
+    "text": "He knows this supreme Brahman as the highest abiding place in which shines out, inset, the radiant world. The wise who are without desire and worship the Spirit pass beyond this sperm.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 144",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "vid"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "परमम्",
+    "paramam",
+    "supreme",
+    "parama"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "धाम",
+    "dhāma",
+    "abode",
+    "dhāman"
+   ],
+   [
+    "यत्र",
+    "yatra",
+    "where",
+    "yatra"
+   ],
+   [
+    "विश्वम्",
+    "viśvam",
+    "all",
+    "viśva"
+   ],
+   [
+    "निहितम्",
+    "nihitam",
+    "lodged",
+    "nidhā"
+   ],
+   [
+    "भाति",
+    "bhāti",
+    "shines",
+    "bhā"
+   ],
+   [
+    "शुभ्रम्",
+    "śubhram",
+    "pure",
+    "śubhra"
+   ],
+   [
+    "उपासते",
+    "upāsate",
+    "worship",
+    "upās"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "ये",
+    "ye",
+    "who",
+    "yad"
+   ],
+   [
+    "हि",
+    "hi",
+    "for",
+    "hi"
+   ],
+   [
+    "अकामाः",
+    "akāmāḥ",
+    "free from desires",
+    "akāma"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "शुक्रम्",
+    "śukram",
+    "pure",
+    "śukra"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "अतिवर्तन्ति",
+    "ativartanti",
+    "transcend",
+    "ativṛt"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "the discerning",
+    "dhīra"
+   ]
+  ],
+  "tr": {
+   "text": "He knows this supreme abode, this Brahman, in which is placed the Universe and which shines holy. Those wise ones indeed, who having become desireless, worship this (enlightened) person, transcend this human seed.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.1.mp3",
+   "whole": [
+    1195.66,
+    1216.38
+   ]
+  },
+  "hasBhashya": true,
+  "order": 55
+ },
+ {
+  "id": "MuU_3.2.2",
+  "ref": "3.2.2",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "कामान् यः कामयते मन्यमानः",
+   "स कामभिर्जायते तत्र तत्र ।",
+   "पर्याप्तकामस्य कृतात्मनस्तु",
+   "इहैव सर्वे प्रविलीयन्ति कामाः ॥ २॥"
+  ],
+  "iast": [
+   "kāmān yaḥ kāmayate manyamānaḥ",
+   "sa kāmabhirjāyate tatra tatra ।",
+   "paryāptakāmasya kṛtātmanastu",
+   "ihaiva sarve pravilīyanti kāmāḥ ॥ 2॥"
+  ],
+  "alt": [
+   {
+    "text": "He who cherishes desires and his mind dwells with his longings, is by his desires born again wherever they lead him, but the man who has won all his desire and has found his soul, for him even here in this world vanish away all desires.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 144",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "कामान्",
+    "kāmān",
+    "desires",
+    "kāma"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "कामयते",
+    "kāmayate",
+    "desires",
+    "kāmay"
+   ],
+   [
+    "मन्यमानः",
+    "manyamānaḥ",
+    "thinking, believing",
+    "man"
+   ],
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "कामभिः",
+    "kāmabhiḥ",
+    "by desires",
+    "kāma"
+   ],
+   [
+    "जायते",
+    "jāyate",
+    "is born",
+    "jan"
+   ],
+   [
+    "तत्र",
+    "tatra",
+    "there",
+    "tatra"
+   ],
+   [
+    "तत्र",
+    "tatra",
+    "there",
+    "tatra"
+   ],
+   [
+    "पर्याप्त",
+    "paryāpta",
+    "fulfilled",
+    "paryāp"
+   ],
+   [
+    "कामस्य",
+    "kāmasya",
+    "of desires (paryāpta-kāmasya: of one whose desires are fulfilled)",
+    "kāma"
+   ],
+   [
+    "कृतात्मनः",
+    "kṛtātmanaḥ",
+    "of one with a disciplined self",
+    "kṛtātman"
+   ],
+   [
+    "तु",
+    "tu",
+    "but",
+    "tu"
+   ],
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "सर्वे",
+    "sarve",
+    "all",
+    "sarva"
+   ],
+   [
+    "प्रविलीयन्ति",
+    "pravilīyanti",
+    "dissolve",
+    "pravilī"
+   ],
+   [
+    "कामाः",
+    "kāmāḥ",
+    "desires",
+    "kāma"
+   ]
+  ],
+  "tr": {
+   "text": "He who covets the desirable things, while brooding (on the virtues), is born amidst those very surroundings along with the desires. But for one who has got his wishes fulfilled and who is Selfpoised, all the longings vanish even here.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.2.mp3",
+   "whole": [
+    1217.67,
+    1237.34
+   ]
+  },
+  "hasBhashya": true,
+  "order": 56
+ },
+ {
+  "id": "MuU_3.2.3",
+  "ref": "3.2.3",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "नायमात्मा प्रवचनेन लभ्यो",
+   "न मेधया न बहुना श्रुतेन ।",
+   "यमेवैष वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम् ॥ ३॥"
+  ],
+  "iast": [
+   "nāyamātmā pravacanena labhyo",
+   "na medhayā na bahunā śrutena ।",
+   "yamevaiṣa vṛṇute tena labhyastasyaiṣa ātmā vivṛṇute tanūṃ svām ॥ 3॥"
+  ],
+  "alt": [
+   {
+    "text": "This Self is not won by exegesis, nor by brain-power, nor by much learning of Scripture. Only by him whom It chooses can It be won; to him this Self unveils its own body.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 145",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this (masculine)",
+    "idam"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "प्रवचनेन",
+    "pravacanena",
+    "by discourse",
+    "pravacana"
+   ],
+   [
+    "लभ्यः",
+    "labhyaḥ",
+    "attainable",
+    "labh"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "मेधया",
+    "medhayā",
+    "by intellect",
+    "medhā"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "बहुना",
+    "bahunā",
+    "by much",
+    "bahu"
+   ],
+   [
+    "श्रुतेन",
+    "śrutena",
+    "by learning",
+    "śruta"
+   ],
+   [
+    "यम्",
+    "yam",
+    "whom",
+    "yad"
+   ],
+   [
+    "एवा",
+    "evā",
+    "indeed",
+    "eva"
+   ],
+   [
+    "एष",
+    "eṣa",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "वृणुते",
+    "vṛṇute",
+    "chooses",
+    "vṛ"
+   ],
+   [
+    "तेन",
+    "tena",
+    "by him",
+    "tad"
+   ],
+   [
+    "लभ्यः",
+    "labhyaḥ",
+    "attainable",
+    "labh"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tad"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "विवृणुते",
+    "vivṛṇute",
+    "reveals",
+    "vivṛ"
+   ],
+   [
+    "तनूम्",
+    "tanūm",
+    "own body",
+    "tanū"
+   ],
+   [
+    "स्वाम्",
+    "svām",
+    "one's own",
+    "sva"
+   ]
+  ],
+  "tr": {
+   "text": "This Self is not attained through study, nor through the intellect, nor through much hearing. The very Self which this one (i.e. the aspirant) seeks is attainable through that fact of seeking; this Self of his reveals Its own nature.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.3.mp3",
+   "whole": [
+    1238.63,
+    1257.05
+   ]
+  },
+  "hasBhashya": true,
+  "order": 57
+ },
+ {
+  "id": "MuU_3.2.4",
+  "ref": "3.2.4",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "नायमात्मा बलहीनेन लभ्यो",
+   "न च प्रमादात्तपसो वाप्यलिङ्गात् ।",
+   "एतैरुपायैर्यतते यस्तु विद्वांस्तस्यैष आत्मा विशते ब्रह्मधाम ॥ ४॥"
+  ],
+  "iast": [
+   "nāyamātmā balahīnena labhyo",
+   "na ca pramādāttapaso vāpyaliṅgāt ।",
+   "etairupāyairyatate yastu vidvāṃstasyaiṣa ātmā viśate brahmadhāma ॥ 4॥"
+  ],
+  "alt": [
+   {
+    "text": "This Self cannot be won by any who is without strength, nor with error in the seeking, nor by an askesis without the true mark: but when a man of knowledge strives by these means his self enters into Brahman, his abiding place.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 145",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अयम्",
+    "ayam",
+    "this (masculine)",
+    "idam"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "बल",
+    "bala",
+    "strength (compound member)",
+    "bala"
+   ],
+   [
+    "हीनेन",
+    "hīnena",
+    "by one lacking (strength)",
+    "hā"
+   ],
+   [
+    "लभ्यः",
+    "labhyaḥ",
+    "attained",
+    "labh"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "प्रमादात्",
+    "pramādāt",
+    "by carelessness",
+    "pramāda"
+   ],
+   [
+    "तपसः",
+    "tapasaḥ",
+    "by austerity",
+    "tapas"
+   ],
+   [
+    "वा",
+    "vā",
+    "or",
+    "vā"
+   ],
+   [
+    "अपि",
+    "api",
+    "also",
+    "api"
+   ],
+   [
+    "अलिङ्गात्",
+    "aliṅgāt",
+    "without symbols of renunciation",
+    "aliṅga"
+   ],
+   [
+    "एतैः",
+    "etaiḥ",
+    "by these",
+    "etad"
+   ],
+   [
+    "उपायैः",
+    "upāyaiḥ",
+    "by these means",
+    "upāya"
+   ],
+   [
+    "यतते",
+    "yatate",
+    "strives",
+    "yat"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "तु",
+    "tu",
+    "but",
+    "tu"
+   ],
+   [
+    "विद्वान्",
+    "vidvān",
+    "one who knows",
+    "vid"
+   ],
+   [
+    "तस्य",
+    "tasya",
+    "of that",
+    "tad"
+   ],
+   [
+    "एषः",
+    "eṣaḥ",
+    "this (masculine)",
+    "etad"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "विशते",
+    "viśate",
+    "enters",
+    "viś"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "धाम",
+    "dhāma",
+    "abode",
+    "dhāman"
+   ]
+  ],
+  "tr": {
+   "text": "This Self is not attained by one devoid of strength, nor through delusion, nor through knowledge unassociated with monasticism. But the Self of that knower, who strives through these means, enters into the abode that is Brahman.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.4.mp3",
+   "whole": [
+    1258.26,
+    1279.77
+   ]
+  },
+  "hasBhashya": true,
+  "order": 58
+ },
+ {
+  "id": "MuU_3.2.5",
+  "ref": "3.2.5",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "संप्राप्यैनमृषयो ज्ञानतृप्ताः",
+   "कृतात्मानो वीतरागाः प्रशान्ताः ।",
+   "ते सर्वगं सर्वतः प्राप्य धीरा",
+   "युक्तात्मानः सर्वमेवाविशन्ति ॥ ५॥"
+  ],
+  "iast": [
+   "saṃprāpyainamṛṣayo jñānatṛptāḥ",
+   "kṛtātmāno vītarāgāḥ praśāntāḥ ।",
+   "te sarvagaṃ sarvataḥ prāpya dhīrā",
+   "yuktātmānaḥ sarvamevāviśanti ॥ 5॥"
+  ],
+  "alt": [
+   {
+    "text": "Attaining to him, seers glad with fullness of knowledge, perfected in the Self, all passions cast from them, tranquillised, — these, the wise, come to the all-pervading from every side, and, uniting themselves with him, enter utterly the All.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 145",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "सम्प्राप्य",
+    "samprāpya",
+    "having fully attained",
+    "samprāp"
+   ],
+   [
+    "एनम्",
+    "enam",
+    "this one",
+    "enad"
+   ],
+   [
+    "ऋषयः",
+    "ṛṣayaḥ",
+    "seers",
+    "ṛṣi"
+   ],
+   [
+    "ज्ञान",
+    "jñāna",
+    "knowledge (compound member)",
+    "jñāna"
+   ],
+   [
+    "तृप्ताः",
+    "tṛptāḥ",
+    "satisfied",
+    "tṛp"
+   ],
+   [
+    "कृतात्मानः",
+    "kṛtātmānaḥ",
+    "disciplined in mind",
+    "kṛtātman"
+   ],
+   [
+    "वीत",
+    "vīta",
+    "departed",
+    "vī"
+   ],
+   [
+    "रागाः",
+    "rāgāḥ",
+    "attachments (vīta-rāgāḥ: free from attachment)",
+    "rāga"
+   ],
+   [
+    "प्रशान्ताः",
+    "praśāntāḥ",
+    "peaceful",
+    "praśam"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "tad"
+   ],
+   [
+    "सर्वगम्",
+    "sarvagam",
+    "all-pervading",
+    "sarvaga"
+   ],
+   [
+    "सर्वतस्",
+    "sarvatas",
+    "on every side",
+    "sarvatas"
+   ],
+   [
+    "प्राप्य",
+    "prāpya",
+    "having reached",
+    "prāp"
+   ],
+   [
+    "धीराः",
+    "dhīrāḥ",
+    "the discerning",
+    "dhīra"
+   ],
+   [
+    "युक्त",
+    "yukta",
+    "united",
+    "yuj"
+   ],
+   [
+    "आत्मानः",
+    "ātmānaḥ",
+    "selves (yuktātmānaḥ: with selves united)",
+    "ātman"
+   ],
+   [
+    "सर्वम्",
+    "sarvam",
+    "all",
+    "sarva"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "आविशन्ति",
+    "āviśanti",
+    "enter",
+    "āviś"
+   ]
+  ],
+  "tr": {
+   "text": "Having attained this, the seers become contented with their knowledge, established in the Self, freed from attachment, and composed. Having realized the all-pervasive One everywhere, these discriminating people, ever merged in contemplation, enter into the All.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.5.mp3",
+   "whole": [
+    1281.4,
+    1303.4
+   ]
+  },
+  "hasBhashya": true,
+  "order": 59
+ },
+ {
+  "id": "MuU_3.2.6",
+  "ref": "3.2.6",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "वेदान्तविज्ञानसुनिश्चितार्थाः",
+   "संन्यासयोगाद्यतयः शुद्धसत्त्वाः ।",
+   "ते ब्रह्मलोकेषु परान्तकाले",
+   "परामृताः परिमुच्यन्ति सर्वे ॥ ६॥"
+  ],
+  "iast": [
+   "vedāntavijñānasuniścitārthāḥ",
+   "saṃnyāsayogādyatayaḥ śuddhasattvāḥ ।",
+   "te brahmalokeṣu parāntakāle",
+   "parāmṛtāḥ parimucyanti sarve ॥ 6॥"
+  ],
+  "alt": [
+   {
+    "text": "Doers of askesis who have made sure of the aim of the whole-knowledge of Vedanta, the inner being purified by the Yoga of renunciation, all in the hour of their last end passing beyond death are released into the worlds of the Brahman.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 145",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "वेदान्त",
+    "vedānta",
+    "the end or culmination of the Veda (compound member)",
+    "vedānta"
+   ],
+   [
+    "विज्ञान",
+    "vijñāna",
+    "knowledge",
+    "vijñāna"
+   ],
+   [
+    "सु",
+    "su",
+    "well",
+    "su"
+   ],
+   [
+    "निश्चित",
+    "niścita",
+    "ascertained",
+    "niści"
+   ],
+   [
+    "अर्थाः",
+    "arthāḥ",
+    "aims",
+    "artha"
+   ],
+   [
+    "संन्यास",
+    "saṃnyāsa",
+    "renunciation (compound member)",
+    "saṃnyāsa"
+   ],
+   [
+    "योगात्",
+    "yogāt",
+    "through the discipline",
+    "yoga"
+   ],
+   [
+    "यतयः",
+    "yatayaḥ",
+    "ascetics",
+    "yati"
+   ],
+   [
+    "शुद्ध",
+    "śuddha",
+    "pure (compound member)",
+    "śudh"
+   ],
+   [
+    "सत्त्वाः",
+    "sattvāḥ",
+    "beings",
+    "sattva"
+   ],
+   [
+    "ते",
+    "te",
+    "they",
+    "te"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "लोकेषु",
+    "lokeṣu",
+    "in the worlds",
+    "loka"
+   ],
+   [
+    "पर",
+    "para",
+    "supreme",
+    "para"
+   ],
+   [
+    "अन्त",
+    "anta",
+    "end (compound member)",
+    "anta"
+   ],
+   [
+    "काले",
+    "kāle",
+    "at the time",
+    "kāla"
+   ],
+   [
+    "परामृताः",
+    "parāmṛtāḥ",
+    "supreme immortality",
+    "parāmṛta"
+   ],
+   [
+    "परिमुच्यन्ति",
+    "parimucyanti",
+    "are completely liberated",
+    "parimuc"
+   ],
+   [
+    "सर्वे",
+    "sarve",
+    "all",
+    "sarva"
+   ]
+  ],
+  "tr": {
+   "text": "Those to whom the entity presented by the Vedantic knowledge has become fully ascertained, who are assiduous and have become pure in mind through the Yoga of monasticism – all of them, at the supreme moment of final departure, become identified with the supreme Immortality in the worlds that are Brahman, and they become freed on every side.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.6.mp3",
+   "whole": [
+    1304.65,
+    1325.24
+   ]
+  },
+  "hasBhashya": true,
+  "order": 60
+ },
+ {
+  "id": "MuU_3.2.7",
+  "ref": "3.2.7",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "गताः कलाः पञ्चदश प्रतिष्ठा",
+   "देवाश्च सर्वे प्रतिदेवतासु ।",
+   "कर्माणि विज्ञानमयश्च आत्मा",
+   "परेऽव्यये सर्वे एकीभवन्ति ॥ ७॥"
+  ],
+  "iast": [
+   "gatāḥ kalāḥ pañcadaśa pratiṣṭhā",
+   "devāśca sarve pratidevatāsu ।",
+   "karmāṇi vijñānamayaśca ātmā",
+   "pare’vyaye sarve ekībhavanti ॥ 7॥"
+  ],
+  "alt": [
+   {
+    "text": "The fifteen parts return into their foundations, and all the gods pass into their proper godheads, works and the Self of Knowledge, — all become one in the Supreme and Imperishable.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 146",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "गताः",
+    "gatāḥ",
+    "gone",
+    "gam"
+   ],
+   [
+    "कलाः",
+    "kalāḥ",
+    "parts",
+    "kalā"
+   ],
+   [
+    "पञ्चदश",
+    "pañcadaśa",
+    "fifteen",
+    "pañcadaśan"
+   ],
+   [
+    "प्रतिष्ठाः",
+    "pratiṣṭhāḥ",
+    "foundations",
+    "pratiṣṭhā"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "deva"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "सर्वे",
+    "sarve",
+    "all",
+    "sarva"
+   ],
+   [
+    "प्रतिदेवतासु",
+    "pratidevatāsu",
+    "in their respective deities",
+    "pratidevatā"
+   ],
+   [
+    "कर्माणि",
+    "karmāṇi",
+    "works",
+    "karman"
+   ],
+   [
+    "विज्ञान",
+    "vijñāna",
+    "knowledge",
+    "vijñāna"
+   ],
+   [
+    "मयः",
+    "mayaḥ",
+    "consisting of",
+    "maya"
+   ],
+   [
+    "च",
+    "ca",
+    "and",
+    "ca"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "Self",
+    "ātman"
+   ],
+   [
+    "परे",
+    "pare",
+    "in the supreme",
+    "para"
+   ],
+   [
+    "अव्यये",
+    "avyaye",
+    "imperishable",
+    "avyaya"
+   ],
+   [
+    "सर्वे",
+    "sarve",
+    "all",
+    "sarva"
+   ],
+   [
+    "एकीभवन्ति",
+    "ekībhavanti",
+    "become one",
+    "ekībhū"
+   ]
+  ],
+  "tr": {
+   "text": "To their sources repair the fifteen constituents (of the body) and to their respective gods go all the gods (of the senses). The karmas and the soul appearing like the intellect, all become unified with the supreme Undecaying.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.7.mp3",
+   "whole": [
+    1325.24,
+    1345.87
+   ]
+  },
+  "hasBhashya": true,
+  "order": 61
+ },
+ {
+  "id": "MuU_3.2.8",
+  "ref": "3.2.8",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय ।",
+   "तथा विद्वान् नामरूपाद्विमुक्तः",
+   "परात्परं पुरुषमुपैति दिव्यम् ॥ ८॥"
+  ],
+  "iast": [
+   "yathā nadyaḥ syandamānāḥ samudre’staṃ gacchanti nāmarūpe vihāya ।",
+   "tathā vidvān nāmarūpādvimuktaḥ",
+   "parātparaṃ puruṣamupaiti divyam ॥ 8॥"
+  ],
+  "alt": [
+   {
+    "text": "As rivers in their flowing reach their home in the ocean and cast off their names and forms, even so one who knows is delivered from name and form and reaches the Supreme beyond the Most High, even the Divine Person.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 146",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "नद्यः",
+    "nadyaḥ",
+    "rivers",
+    "nadī"
+   ],
+   [
+    "स्यन्दमानाः",
+    "syandamānāḥ",
+    "flowing",
+    "syand"
+   ],
+   [
+    "समुद्रे",
+    "samudre",
+    "in the ocean",
+    "samudra"
+   ],
+   [
+    "अस्तम्",
+    "astam",
+    "to disappearance",
+    "asta"
+   ],
+   [
+    "गच्छन्ति",
+    "gacchanti",
+    "go",
+    "gam"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "name",
+    "nāman"
+   ],
+   [
+    "रूपे",
+    "rūpe",
+    "form (nāma-rūpe: name and form)",
+    "rūpa"
+   ],
+   [
+    "विहाय",
+    "vihāya",
+    "abandoning",
+    "vihā"
+   ],
+   [
+    "तथा",
+    "tathā",
+    "thus",
+    "tathā"
+   ],
+   [
+    "विद्वान्",
+    "vidvān",
+    "one who knows",
+    "vid"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "name",
+    "nāman"
+   ],
+   [
+    "रूपात्",
+    "rūpāt",
+    "from form (nāma-rūpāt: from name and form)",
+    "rūpa"
+   ],
+   [
+    "विमुक्तः",
+    "vimuktaḥ",
+    "liberated",
+    "vimuc"
+   ],
+   [
+    "परात्",
+    "parāt",
+    "from the Supreme",
+    "para"
+   ],
+   [
+    "परम्",
+    "param",
+    "highest",
+    "para"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "Person",
+    "puruṣa"
+   ],
+   [
+    "उपैति",
+    "upaiti",
+    "attains",
+    "upe"
+   ],
+   [
+    "दिव्यम्",
+    "divyam",
+    "divine",
+    "divya"
+   ]
+  ],
+  "tr": {
+   "text": "As rivers, flowing down, become indistinguishable on reaching the sea by giving up their names and forms, so also the illumined soul, having become freed from name and form, reaches the self-effulgent Purusha that is higher than the higher (Maya).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.8.mp3",
+   "whole": [
+    1346.71,
+    1368.96
+   ]
+  },
+  "hasBhashya": true,
+  "order": 62
+ },
+ {
+  "id": "MuU_3.2.9",
+  "ref": "3.2.9",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "स यो ह वै तत्परमं ब्रह्म वेद",
+   "ब्रह्मैव भवति नास्याब्रह्मवित्कुले भवति ।",
+   "तरति शोकं तरति पाप्मानं गुहाग्रन्थिभ्यो",
+   "विमुक्तोऽमृतो भवति ॥ ९॥"
+  ],
+  "iast": [
+   "sa yo ha vai tatparamaṃ brahma veda",
+   "brahmaiva bhavati nāsyābrahmavitkule bhavati ।",
+   "tarati śokaṃ tarati pāpmānaṃ guhāgranthibhyo",
+   "vimukto’mṛto bhavati ॥ 9॥"
+  ],
+  "alt": [
+   {
+    "text": "He, verily, who knows that Supreme Brahman becomes himself Brahman; in his lineage none is born who knows not the Brahman. He crosses beyond sorrow, he crosses beyond sin, he is delivered from the knotted cord of the secret heart and becomes immortal.—",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 146",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "स",
+    "sa",
+    "he",
+    "tad"
+   ],
+   [
+    "यः",
+    "yaḥ",
+    "who",
+    "yad"
+   ],
+   [
+    "ह",
+    "ha",
+    "indeed",
+    "ha"
+   ],
+   [
+    "वै",
+    "vai",
+    "indeed",
+    "vai"
+   ],
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "परमम्",
+    "paramam",
+    "supreme",
+    "parama"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "vid"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "bhū"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अस्य",
+    "asya",
+    "of this",
+    "idam"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "विद्",
+    "vid",
+    "knower (a-brahma-vit: one ignorant of Brahman)",
+    "vid"
+   ],
+   [
+    "कुले",
+    "kule",
+    "in the family",
+    "kula"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "bhū"
+   ],
+   [
+    "तरति",
+    "tarati",
+    "crosses",
+    "tṛ"
+   ],
+   [
+    "शोकम्",
+    "śokam",
+    "sorrow",
+    "śoka"
+   ],
+   [
+    "तरति",
+    "tarati",
+    "crosses",
+    "tṛ"
+   ],
+   [
+    "पाप्मानम्",
+    "pāpmānam",
+    "evil",
+    "pāpman"
+   ],
+   [
+    "गुहा",
+    "guhā",
+    "cave",
+    "guhā"
+   ],
+   [
+    "ग्रन्थिभ्यः",
+    "granthibhyaḥ",
+    "from the knots",
+    "granthi"
+   ],
+   [
+    "विमुक्तः",
+    "vimuktaḥ",
+    "liberated",
+    "vimuc"
+   ],
+   [
+    "अमृतः",
+    "amṛtaḥ",
+    "immortal",
+    "amṛta"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "bhū"
+   ]
+  ],
+  "tr": {
+   "text": "Anyone who knows that supreme Brahman becomes Brahman indeed. In his line is not born anyone who does not know Brahman. He overcomes grief, and rises above aberrations; and becoming freed from the knots of the heart, he attains immortality.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.9.mp3",
+   "whole": [
+    1370.46,
+    1391.8
+   ]
+  },
+  "hasBhashya": true,
+  "order": 63
+ },
+ {
+  "id": "MuU_3.2.10",
+  "ref": "3.2.10",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "तदेतदृचाऽभ्युक्तम् ।",
+   "क्रियावन्तः श्रोत्रिया ब्रह्मनिष्ठाः",
+   "स्वयं जुह्वत एकर्षिं श्रद्धयन्तः ।",
+   "तेषामेवैतां ब्रह्मविद्यां वदेत",
+   "शिरोव्रतं विधिवद्यैस्तु चीर्णम् ॥ १०॥"
+  ],
+  "iast": [
+   "tadetadṛcā’bhyuktam ।",
+   "kriyāvantaḥ śrotriyā brahmaniṣṭhāḥ",
+   "svayaṃ juhvata ekarṣiṃ śraddhayantaḥ ।",
+   "teṣāmevaitāṃ brahmavidyāṃ vadeta",
+   "śirovrataṃ vidhivadyaistu cīrṇam ॥ 10॥"
+  ],
+  "alt": [
+   {
+    "text": "This is That declared by the Rig Veda. Doers of works, versed in the Veda, men absorbed in the Brahman, who putting their faith in the sole-seer offer themselves to him sacrifice, — to them one should speak this Brahmanknowledge, men by whom the Vow of the Head has been done according to the rite.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 146",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "ऋचा",
+    "ṛcā",
+    "by a Rigvedic hymn",
+    "ṛc"
+   ],
+   [
+    "अभ्युक्तम्",
+    "abhyuktam",
+    "declared",
+    "abhivac"
+   ],
+   [
+    "क्रियावन्तः",
+    "kriyāvantaḥ",
+    "performers of actions",
+    "kriyāvat"
+   ],
+   [
+    "श्रोत्रियाः",
+    "śrotriyāḥ",
+    "learned in the Vedas",
+    "śrotriya"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "निष्ठाः",
+    "niṣṭhāḥ",
+    "established",
+    "niṣṭhā"
+   ],
+   [
+    "स्वयम्",
+    "svayam",
+    "oneself",
+    "svayam"
+   ],
+   [
+    "जुह्वतः",
+    "juhvataḥ",
+    "offering into the fire",
+    "hu"
+   ],
+   [
+    "एक",
+    "eka",
+    "one",
+    "eka"
+   ],
+   [
+    "ऋषिम्",
+    "ṛṣim",
+    "seer (Ekarṣi: the sole-seer sacrificial fire)",
+    "ṛṣi"
+   ],
+   [
+    "श्रद्धयन्तः",
+    "śraddhayantaḥ",
+    "with faith",
+    "śraddhayantaḥ"
+   ],
+   [
+    "तेषाम्",
+    "teṣām",
+    "of them",
+    "tad"
+   ],
+   [
+    "एव",
+    "eva",
+    "indeed",
+    "eva"
+   ],
+   [
+    "एताम्",
+    "etām",
+    "this",
+    "etad"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahman"
+   ],
+   [
+    "विद्याम्",
+    "vidyām",
+    "knowledge (accusative)",
+    "vidyā"
+   ],
+   [
+    "वदेत",
+    "vadeta",
+    "one should teach",
+    "vad"
+   ],
+   [
+    "शिरोव्रतम्",
+    "śirovratam",
+    "the head-vow",
+    "śirovrata"
+   ],
+   [
+    "विधिवत्",
+    "vidhivat",
+    "properly, according to the rules",
+    "vidhivat"
+   ],
+   [
+    "यैः",
+    "yaiḥ",
+    "by whom",
+    "yad"
+   ],
+   [
+    "तु",
+    "tu",
+    "but",
+    "tu"
+   ],
+   [
+    "चीर्णम्",
+    "cīrṇam",
+    "completed",
+    "car"
+   ]
+  ],
+  "tr": {
+   "text": "This (rule) has been revealed by the mantra (which runs thus): ‘To them alone should one expound this knowledge of b who are engaged in the practice of disciplines, versed in the Vedas, and indeed devoted to Brahman, who personally sacrifice to the fire called Ekarsi with faith, and by whom has been duly accomplished the vow of holding fire on the head.’",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.10.mp3",
+   "whole": [
+    1393.43,
+    1421.4
+   ]
+  },
+  "hasBhashya": true,
+  "order": 64
+ },
+ {
+  "id": "MuU_3.2.11",
+  "ref": "3.2.11",
+  "section": "Muṇḍaka 3 · Section 2",
+  "sa": [
+   "तदेतत्सत्यमृषिरङ्गिराः",
+   "पुरोवाच नैतदचीर्णव्रतोऽधीते ।",
+   "नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥ ११॥"
+  ],
+  "iast": [
+   "tadetatsatyamṛṣiraṅgirāḥ",
+   "purovāca naitadacīrṇavrato’dhīte ।",
+   "namaḥ paramaṛṣibhyo namaḥ paramaṛṣibhyaḥ ॥ 11॥"
+  ],
+  "alt": [
+   {
+    "text": "This is That, the Truth of things, which the seer Angiras spoke of old. This none learns who has not performed the Vow of the Head. Salutation to the seers supreme! Salutation to the seers supreme!",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 147",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तत्",
+    "tat",
+    "that",
+    "tad"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satya"
+   ],
+   [
+    "ऋषिः",
+    "ṛṣiḥ",
+    "sage",
+    "ṛṣi"
+   ],
+   [
+    "अङ्गिराः",
+    "aṅgirāḥ",
+    "Angirasa",
+    "aṅgiras"
+   ],
+   [
+    "पुरा",
+    "purā",
+    "formerly",
+    "purā"
+   ],
+   [
+    "उवाच",
+    "uvāca",
+    "said",
+    "vac"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "एतत्",
+    "etat",
+    "this",
+    "etad"
+   ],
+   [
+    "अ",
+    "a",
+    "not",
+    "a"
+   ],
+   [
+    "चीर्ण",
+    "cīrṇa",
+    "performed",
+    "car"
+   ],
+   [
+    "व्रतः",
+    "vrataḥ",
+    "vow",
+    "vrata"
+   ],
+   [
+    "अधीते",
+    "adhīte",
+    "studies",
+    "adhī"
+   ],
+   [
+    "नमः",
+    "namaḥ",
+    "salutation",
+    "namas"
+   ],
+   [
+    "परम",
+    "parama",
+    "supreme (compound member)",
+    "parama"
+   ],
+   [
+    "ऋषिभ्यः",
+    "ṛṣibhyaḥ",
+    "to the seers",
+    "ṛṣi"
+   ],
+   [
+    "नमः",
+    "namaḥ",
+    "salutation",
+    "namas"
+   ],
+   [
+    "परम",
+    "parama",
+    "supreme (compound member)",
+    "parama"
+   ],
+   [
+    "ऋषिभ्यः",
+    "ṛṣibhyaḥ",
+    "to the seers",
+    "ṛṣi"
+   ]
+  ],
+  "tr": {
+   "text": "The seer Angiras spoke of this Truth in the days of yore. One that has not fulfilled the vow does not read this. Salutation to the great seers. Salutation to the great seers.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/mundakopanisad/4.3.2.11.mp3",
+   "whole": [
+    1422.94,
+    1442.7
+   ]
+  },
+  "hasBhashya": true,
+  "order": 65
+ }
+]

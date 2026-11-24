@@ -1,0 +1,36 @@
+{
+  "texts": {
+    "complete": 13,
+    "excerpts": 0,
+    "total": 13
+  },
+  "mantras": {
+    "complete": 1693,
+    "excerpts": 0,
+    "total": 1693
+  },
+  "shanti": 13,
+  "bhashyaVerses": 1391,
+  "audioVerses": 460,
+  "translatedVerses": 1693,
+  "analysedVerses": 1693,
+  "concepts": 65,
+  "dilemmas": 12,
+  "stories": 29,
+  "persons": 38,
+  "paths": 8,
+  "axes": 6,
+  "presets": 9,
+  "nodes": 1998,
+  "edges": 12252,
+  "semanticEdges": 1425,
+  "shankaraLinks": 571,
+  "vedaSaraLinks": 60,
+  "stems": 70,
+  "lemmas": 4509,
+  "glossary": 60,
+  "anchors": 342,
+  "crossCorpus": 55,
+  "runs": 35,
+  "corpusHash": "3272c9cd"
+}

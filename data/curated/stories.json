@@ -1,0 +1,929 @@
+{
+ "persons": [
+  {
+   "id": "naciketas",
+   "sa": "नचिकेता",
+   "iast": "Naciketā",
+   "role": "seeker"
+  },
+  {
+   "id": "yama",
+   "sa": "यम",
+   "iast": "Yama",
+   "role": "teacher"
+  },
+  {
+   "id": "vajashravasa",
+   "sa": "वाजश्रवस",
+   "iast": "Vājaśravasa",
+   "role": "father"
+  },
+  {
+   "id": "prajapati",
+   "sa": "प्रजापति",
+   "iast": "Prajāpati",
+   "role": "teacher"
+  },
+  {
+   "id": "indra",
+   "sa": "इन्द्र",
+   "iast": "Indra",
+   "role": "seeker"
+  },
+  {
+   "id": "virocana",
+   "sa": "विरोचन",
+   "iast": "Virocana",
+   "role": "seeker"
+  },
+  {
+   "id": "satyakama",
+   "sa": "सत्यकाम जाबाल",
+   "iast": "Satyakāma Jābāla",
+   "role": "seeker"
+  },
+  {
+   "id": "gautama",
+   "sa": "हारिद्रुमत गौतम",
+   "iast": "Hāridrumata Gautama",
+   "role": "teacher"
+  },
+  {
+   "id": "uddalaka",
+   "sa": "उद्दालक आरुणि",
+   "iast": "Uddālaka Āruṇi",
+   "role": "teacher"
+  },
+  {
+   "id": "shvetaketu",
+   "sa": "श्वेतकेतु",
+   "iast": "Śvetaketu",
+   "role": "seeker"
+  },
+  {
+   "id": "narada",
+   "sa": "नारद",
+   "iast": "Nārada",
+   "role": "seeker"
+  },
+  {
+   "id": "sanatkumara",
+   "sa": "सनत्कुमार",
+   "iast": "Sanatkumāra",
+   "role": "teacher"
+  },
+  {
+   "id": "yajnavalkya",
+   "sa": "याज्ञवल्क्य",
+   "iast": "Yājñavalkya",
+   "role": "teacher"
+  },
+  {
+   "id": "maitreyi",
+   "sa": "मैत्रेयी",
+   "iast": "Maitreyī",
+   "role": "seeker"
+  },
+  {
+   "id": "bhrigu",
+   "sa": "भृगु वारुणि",
+   "iast": "Bhṛgu Vāruṇi",
+   "role": "seeker"
+  },
+  {
+   "id": "varuna",
+   "sa": "वरुण",
+   "iast": "Varuṇa",
+   "role": "teacher"
+  },
+  {
+   "id": "uma",
+   "sa": "उमा हैमवती",
+   "iast": "Umā Haimavatī",
+   "role": "teacher"
+  },
+  {
+   "id": "sukesha",
+   "sa": "सुकेशा भारद्वाज",
+   "iast": "Sukeśā Bhāradvāja",
+   "role": "seeker"
+  },
+  {
+   "id": "pippalada",
+   "sa": "पिप्पलाद",
+   "iast": "Pippalāda",
+   "role": "teacher"
+  },
+  {
+   "id": "gargi",
+   "sa": "",
+   "iast": "Gārgī Vācaknavī",
+   "role": "philosopher who questions Yājñavalkya"
+  },
+  {
+   "id": "janaka",
+   "sa": "",
+   "iast": "Janaka of Videha",
+   "role": "king and seeker"
+  },
+  {
+   "id": "shaunaka",
+   "sa": "",
+   "iast": "Śaunaka",
+   "role": "householder who asks the one question"
+  },
+  {
+   "id": "angiras",
+   "sa": "",
+   "iast": "Aṅgiras",
+   "role": "teacher of the Muṇḍaka"
+  },
+  {
+   "id": "ashvapati",
+   "sa": "",
+   "iast": "Aśvapati Kaikeya",
+   "role": "king who teaches the Vaiśvānara self"
+  },
+  {
+   "id": "raikva",
+   "sa": "",
+   "iast": "Raikva",
+   "role": "the sage with the cart"
+  },
+  {
+   "id": "janashruti",
+   "sa": "",
+   "iast": "Jānaśruti Pautrāyaṇa",
+   "role": "generous king"
+  },
+  {
+   "id": "upakosala",
+   "sa": "",
+   "iast": "Upakosala Kāmalāyana",
+   "role": "student taught by the fires"
+  },
+  {
+   "id": "ajatashatru",
+   "sa": "",
+   "iast": "Ajātaśatru",
+   "role": "king of Kāśī"
+  },
+  {
+   "id": "balaki",
+   "sa": "",
+   "iast": "Bālāki Gārgya",
+   "role": "proud scholar"
+  },
+  {
+   "id": "citra",
+   "sa": "",
+   "iast": "Citra Gāṅgyāyani",
+   "role": "king who questions Śvetaketu"
+  },
+  {
+   "id": "pratardana",
+   "sa": "",
+   "iast": "Pratardana",
+   "role": "king taught by Indra"
+  },
+  {
+   "id": "brihadratha",
+   "sa": "",
+   "iast": "Bṛhadratha",
+   "role": "king who renounces his kingdom"
+  },
+  {
+   "id": "shakayanya",
+   "sa": "",
+   "iast": "Śākāyanya",
+   "role": "sage who teaches the king"
+  },
+  {
+   "id": "pravahana",
+   "sa": "",
+   "iast": "Pravāhaṇa Jaivali",
+   "role": "king who teaches the five fires"
+  },
+  {
+   "id": "ushasti",
+   "sa": "",
+   "iast": "Uṣasti Cākrāyaṇa",
+   "role": "starving priest"
+  },
+  {
+   "id": "shandilya",
+   "sa": "",
+   "iast": "Śāṇḍilya",
+   "role": "sage of the meditation on Brahman"
+  },
+  {
+   "id": "kabandhi",
+   "sa": "",
+   "iast": "Kabandhī Kātyāyana",
+   "role": "seeker before Pippalāda"
+  },
+  {
+   "id": "kausalya",
+   "sa": "",
+   "iast": "Kausalya Āśvalāyana",
+   "role": "seeker before Pippalāda"
+  }
+ ],
+ "stories": [
+  {
+   "id": "naciketas",
+   "title": "Naciketas and Death",
+   "summary": "A boy given away to Death waits three nights at his door, is offered every pleasure in exchange for his question, and refuses them all.",
+   "cast": [
+    "naciketas",
+    "yama",
+    "vajashravasa"
+   ],
+   "verses": [
+    "KaU_1.1.1",
+    "KaU_1.1.2",
+    "KaU_1.1.20",
+    "KaU_1.1.23",
+    "KaU_1.1.26",
+    "KaU_1.1.27",
+    "KaU_1.2.1",
+    "KaU_1.2.2",
+    "KaU_1.2.3"
+   ]
+  },
+  {
+   "id": "indra-virocana",
+   "title": "Indra and Virocana",
+   "summary": "Two students hear Prajāpati's first answer. Virocana leaves satisfied and teaches it to his people; Indra sees the flaw, returns three times, and is taught the truth after a hundred and one years.",
+   "cast": [
+    "prajapati",
+    "indra",
+    "virocana"
+   ],
+   "verses": [
+    "ChU_8.7.1",
+    "ChU_8.7.2",
+    "ChU_8.7.3",
+    "ChU_8.7.4",
+    "ChU_8.8.1",
+    "ChU_8.8.2",
+    "ChU_8.8.3",
+    "ChU_8.8.4",
+    "ChU_8.8.5",
+    "ChU_8.9.1",
+    "ChU_8.9.2",
+    "ChU_8.9.3",
+    "ChU_8.10.1",
+    "ChU_8.10.2",
+    "ChU_8.10.3",
+    "ChU_8.10.4",
+    "ChU_8.11.1",
+    "ChU_8.11.2",
+    "ChU_8.11.3",
+    "ChU_8.12.1",
+    "ChU_8.12.2",
+    "ChU_8.12.3",
+    "ChU_8.12.4",
+    "ChU_8.12.5",
+    "ChU_8.12.6"
+   ]
+  },
+  {
+   "id": "satyakama",
+   "title": "Satyakāma tells the truth",
+   "summary": "Asked his lineage, a boy repeats his mother's honest answer that she does not know it. The teacher accepts him because he did not swerve from the truth.",
+   "cast": [
+    "satyakama",
+    "gautama"
+   ],
+   "verses": [
+    "ChU_4.4.1",
+    "ChU_4.4.2",
+    "ChU_4.4.3",
+    "ChU_4.4.4",
+    "ChU_4.4.5"
+   ]
+  },
+  {
+   "id": "shvetaketu",
+   "title": "Uddālaka teaches Śvetaketu: “that thou art”",
+   "summary": "Śvetaketu returns from twelve years of study, proud and unable to say what makes the unheard heard. His father teaches him with clay, honey, rivers, a tree, a banyan seed and salt dissolved in water, and nine times says: that thou art.",
+   "cast": [
+    "uddalaka",
+    "shvetaketu"
+   ],
+   "verses": [
+    "ChU_6.1.1",
+    "ChU_6.1.2",
+    "ChU_6.1.3",
+    "ChU_6.1.4",
+    "ChU_6.1.5",
+    "ChU_6.1.6",
+    "ChU_6.1.7",
+    "ChU_6.8.7",
+    "ChU_6.2.1",
+    "ChU_6.2.2",
+    "ChU_6.2.3",
+    "ChU_6.9.1",
+    "ChU_6.9.2",
+    "ChU_6.9.3",
+    "ChU_6.9.4",
+    "ChU_6.10.1",
+    "ChU_6.10.2",
+    "ChU_6.10.3",
+    "ChU_6.11.1",
+    "ChU_6.11.2",
+    "ChU_6.11.3",
+    "ChU_6.12.1",
+    "ChU_6.12.2",
+    "ChU_6.12.3",
+    "ChU_6.13.1",
+    "ChU_6.13.2",
+    "ChU_6.13.3",
+    "ChU_6.14.1",
+    "ChU_6.14.2",
+    "ChU_6.14.3",
+    "ChU_6.15.1",
+    "ChU_6.15.2",
+    "ChU_6.15.3",
+    "ChU_6.16.1",
+    "ChU_6.16.2",
+    "ChU_6.16.3",
+    "ChU_6.3.1",
+    "ChU_6.3.2",
+    "ChU_6.3.3",
+    "ChU_6.3.4",
+    "ChU_6.4.1",
+    "ChU_6.4.2",
+    "ChU_6.4.3",
+    "ChU_6.4.4",
+    "ChU_6.4.5",
+    "ChU_6.4.6",
+    "ChU_6.4.7",
+    "ChU_6.5.1",
+    "ChU_6.5.2",
+    "ChU_6.5.3",
+    "ChU_6.5.4",
+    "ChU_6.6.1",
+    "ChU_6.6.2",
+    "ChU_6.6.3",
+    "ChU_6.6.4",
+    "ChU_6.6.5",
+    "ChU_6.7.1",
+    "ChU_6.7.2",
+    "ChU_6.7.3",
+    "ChU_6.7.4",
+    "ChU_6.7.5",
+    "ChU_6.7.6",
+    "ChU_6.8.1",
+    "ChU_6.8.2",
+    "ChU_6.8.3",
+    "ChU_6.8.4",
+    "ChU_6.8.5",
+    "ChU_6.8.6"
+   ]
+  },
+  {
+   "id": "narada",
+   "title": "Nārada knows the texts",
+   "summary": "Nārada lists every science he has mastered and admits he is still in sorrow: he knows the words, not the Self. Sanatkumāra leads him to the boundless.",
+   "cast": [
+    "narada",
+    "sanatkumara"
+   ],
+   "verses": [
+    "ChU_7.1.1",
+    "ChU_7.1.2",
+    "ChU_7.1.3",
+    "ChU_7.1.4",
+    "ChU_7.1.5",
+    "ChU_7.23.1",
+    "ChU_7.24.1",
+    "ChU_7.16.1",
+    "ChU_7.17.1",
+    "ChU_7.18.1",
+    "ChU_7.19.1",
+    "ChU_7.20.1",
+    "ChU_7.21.1",
+    "ChU_7.22.1"
+   ]
+  },
+  {
+   "id": "maitreyi",
+   "title": "Maitreyī's question",
+   "summary": "Offered half of a household's wealth, Maitreyī asks the only question that matters: 'What should I do with that which will not make me immortal?'",
+   "cast": [
+    "yajnavalkya",
+    "maitreyi"
+   ],
+   "verses": [
+    "BU_2.4.1",
+    "BU_2.4.2",
+    "BU_2.4.3",
+    "BU_2.4.4",
+    "BU_2.4.5"
+   ]
+  },
+  {
+   "id": "bhrigu",
+   "title": "Bhṛgu learns by inquiry",
+   "summary": "Bhṛgu asks his father for Brahman. Varuṇa gives him clues and sends him to find out. Five times Bhṛgu returns with a deeper answer, until he reaches bliss.",
+   "cast": [
+    "bhrigu",
+    "varuna"
+   ],
+   "verses": [
+    "TU_3.1",
+    "TU_3.2",
+    "TU_3.3",
+    "TU_3.4",
+    "TU_3.5",
+    "TU_3.6"
+   ]
+  },
+  {
+   "id": "yaksha",
+   "title": "The gods and the Yakṣa",
+   "summary": "The gods take a victory for their own. A mysterious being sets a blade of grass before Agni and Vāyu, who cannot burn or move it. Umā tells Indra who it was.",
+   "cast": [
+    "indra",
+    "uma"
+   ],
+   "verses": [
+    "KeU_3.1",
+    "KeU_3.2",
+    "KeU_3.3",
+    "KeU_3.4",
+    "KeU_3.5",
+    "KeU_3.6",
+    "KeU_3.7",
+    "KeU_3.8",
+    "KeU_3.9",
+    "KeU_3.10",
+    "KeU_3.11",
+    "KeU_3.12",
+    "KeU_4.1",
+    "KeU_4.2",
+    "KeU_4.3",
+    "KeU_4.4",
+    "KeU_4.5",
+    "KeU_4.6",
+    "KeU_4.7",
+    "KeU_4.8",
+    "KeU_4.9"
+   ]
+  },
+  {
+   "id": "sukesha",
+   "title": "Sukeśa will not lie",
+   "summary": "Sukeśa tells his teacher Pippalāda how a prince once asked him about the person of sixteen parts, and how he answered plainly that he did not know, because one who speaks untruth withers to the root.",
+   "cast": [
+    "sukesha",
+    "pippalada"
+   ],
+   "verses": [
+    "PU_6.1"
+   ]
+  },
+  {
+   "id": "gargi",
+   "title": "Gārgī questions Yājñavalkya",
+   "summary": "At Janaka's great debate, Gārgī presses Yājñavalkya on what the worlds are woven upon until he warns her not to ask too far; she returns with two questions like arrows and is answered with the Imperishable.",
+   "cast": [
+    "gargi",
+    "yajnavalkya",
+    "janaka"
+   ],
+   "verses": [
+    "BU_3.6.1",
+    "BU_3.8.1",
+    "BU_3.8.2",
+    "BU_3.8.3",
+    "BU_3.8.4",
+    "BU_3.8.5",
+    "BU_3.8.6",
+    "BU_3.8.7",
+    "BU_3.8.8",
+    "BU_3.8.9",
+    "BU_3.8.10",
+    "BU_3.8.11",
+    "BU_3.8.12"
+   ]
+  },
+  {
+   "id": "janaka",
+   "title": "Janaka and the light of the person",
+   "summary": "King Janaka asks Yājñavalkya what light a person has: the sun, the moon, fire, speech; and when all are gone, the Self is the light.",
+   "cast": [
+    "janaka",
+    "yajnavalkya"
+   ],
+   "verses": [
+    "BU_4.3.1",
+    "BU_4.3.2",
+    "BU_4.3.3",
+    "BU_4.3.4",
+    "BU_4.3.5",
+    "BU_4.3.6",
+    "BU_4.3.7",
+    "BU_4.1.1"
+   ]
+  },
+  {
+   "id": "pippalada",
+   "title": "Six seekers before Pippalāda",
+   "summary": "Six students come to the sage Pippalāda with fuel in hand. He makes them live a year in austerity, then answers six questions: on creation, breath, its rising and setting, sleep, OM and the Person of sixteen parts.",
+   "cast": [
+    "pippalada",
+    "sukesha",
+    "kabandhi",
+    "kausalya"
+   ],
+   "verses": [
+    "PU_1.1",
+    "PU_1.2",
+    "PU_1.3",
+    "PU_2.1",
+    "PU_3.1",
+    "PU_4.1",
+    "PU_5.1",
+    "PU_6.1",
+    "PU_1.11",
+    "PU_6.2",
+    "PU_6.3",
+    "PU_6.4",
+    "PU_6.5"
+   ]
+  },
+  {
+   "id": "shaunaka",
+   "title": "Śaunaka asks Aṅgiras",
+   "summary": "The great householder Śaunaka asks: what is that by knowing which all this is known? Aṅgiras answers with the two knowledges, the lower and the higher.",
+   "cast": [
+    "shaunaka",
+    "angiras"
+   ],
+   "verses": [
+    "MuU_1.1.3",
+    "MuU_1.1.4",
+    "MuU_1.1.5",
+    "MuU_1.1.6"
+   ]
+  },
+  {
+   "id": "raikva",
+   "title": "Jānaśruti and Raikva the cart-man",
+   "summary": "A generous king overhears two swans praising a sage who sits under a cart scratching his itch. He offers cattle and gold; Raikva sends him away until he comes with real humility.",
+   "cast": [
+    "janashruti",
+    "raikva"
+   ],
+   "verses": [
+    "ChU_4.1.1",
+    "ChU_4.1.2",
+    "ChU_4.1.3",
+    "ChU_4.1.4",
+    "ChU_4.1.5",
+    "ChU_4.1.6",
+    "ChU_4.1.7",
+    "ChU_4.1.8",
+    "ChU_4.2.1",
+    "ChU_4.2.2",
+    "ChU_4.2.3",
+    "ChU_4.2.4",
+    "ChU_4.2.5"
+   ]
+  },
+  {
+   "id": "upakosala",
+   "title": "Upakosala and the fires",
+   "summary": "A student tends his teacher's fires for twelve years and falls ill with longing; the fires themselves teach him that Brahman is breath, joy and space.",
+   "cast": [
+    "upakosala",
+    "satyakama"
+   ],
+   "verses": [
+    "ChU_4.10.1",
+    "ChU_4.10.2",
+    "ChU_4.10.3",
+    "ChU_4.10.4",
+    "ChU_4.10.5",
+    "ChU_4.14.1",
+    "ChU_4.14.2",
+    "ChU_4.14.3"
+   ]
+  },
+  {
+   "id": "vaishvanara",
+   "title": "Aśvapati and the universal self",
+   "summary": "Five learned householders and Uddālaka go to King Aśvapati, each worshipping a part of the self; he teaches them the self that is all of it.",
+   "cast": [
+    "ashvapati",
+    "uddalaka"
+   ],
+   "verses": [
+    "ChU_5.11.1",
+    "ChU_5.11.2",
+    "ChU_5.11.3",
+    "ChU_5.11.4",
+    "ChU_5.11.5",
+    "ChU_5.11.6",
+    "ChU_5.11.7",
+    "ChU_5.18.1",
+    "ChU_5.18.2"
+   ]
+  },
+  {
+   "id": "five-fires",
+   "title": "Pravāhaṇa and the five fires",
+   "summary": "Śvetaketu, proud of his learning, cannot answer King Pravāhaṇa's five questions about where beings go after death. His father comes humbly to learn the teaching of the five fires.",
+   "cast": [
+    "pravahana",
+    "shvetaketu",
+    "uddalaka"
+   ],
+   "verses": [
+    "ChU_5.3.1",
+    "ChU_5.3.2",
+    "ChU_5.3.3",
+    "ChU_5.3.4",
+    "ChU_5.3.5",
+    "ChU_5.3.6",
+    "ChU_5.3.7",
+    "ChU_5.10.1",
+    "ChU_5.10.2",
+    "ChU_5.10.3",
+    "ChU_5.10.4",
+    "ChU_5.10.5",
+    "ChU_5.10.6",
+    "ChU_5.10.7",
+    "ChU_5.10.8",
+    "ChU_5.4.1",
+    "ChU_5.4.2",
+    "ChU_5.5.1",
+    "ChU_5.5.2",
+    "ChU_5.6.1",
+    "ChU_5.6.2",
+    "ChU_5.7.1",
+    "ChU_5.7.2",
+    "ChU_5.8.1",
+    "ChU_5.8.2",
+    "ChU_5.9.1",
+    "ChU_5.9.2",
+    "BU_6.2.1",
+    "BU_6.2.2",
+    "BU_6.2.3",
+    "BU_6.2.4",
+    "BU_6.2.5",
+    "BU_6.2.6",
+    "BU_6.2.7",
+    "BU_6.2.8",
+    "BU_6.2.9",
+    "BU_6.2.10",
+    "BU_6.2.11",
+    "BU_6.2.12",
+    "BU_6.2.13",
+    "BU_6.2.14",
+    "BU_6.2.15",
+    "BU_6.2.16"
+   ]
+  },
+  {
+   "id": "ajatashatru",
+   "title": "Ajātaśatru and the proud Bālāki",
+   "summary": "Bālāki offers to teach the king Brahman and names twelve forms of it; each is refuted, and the king leads him to a sleeping man to show where the self goes in sleep.",
+   "cast": [
+    "ajatashatru",
+    "balaki"
+   ],
+   "verses": [
+    "BU_2.1.1",
+    "BU_2.1.2",
+    "BU_2.1.3",
+    "BU_2.1.4",
+    "BU_2.1.5",
+    "BU_2.1.6",
+    "BU_2.1.7",
+    "BU_2.1.8",
+    "BU_2.1.9",
+    "BU_2.1.10",
+    "BU_2.1.11",
+    "BU_2.1.12",
+    "BU_2.1.13",
+    "BU_2.1.14",
+    "BU_2.1.15",
+    "BU_2.1.16",
+    "BU_2.1.17",
+    "BU_2.1.18",
+    "BU_2.1.19",
+    "BU_2.1.20"
+   ]
+  },
+  {
+   "id": "citra",
+   "title": "Citra questions Śvetaketu",
+   "summary": "King Citra asks the young priest where the worlds after death end; neither son nor father knows, and both come to learn from the king.",
+   "cast": [
+    "citra",
+    "shvetaketu",
+    "uddalaka"
+   ],
+   "verses": [
+    "KauU_1.1",
+    "KauU_1.2",
+    "KauU_1.3",
+    "KauU_1.4",
+    "KauU_1.5",
+    "KauU_1.6"
+   ]
+  },
+  {
+   "id": "pratardana",
+   "title": "Indra teaches Pratardana",
+   "summary": "The king Pratardana wins his way to Indra's world and asks for the boon most beneficial to humans; Indra teaches him that he is prāṇa, the conscious self.",
+   "cast": [
+    "pratardana",
+    "indra"
+   ],
+   "verses": [
+    "KauU_3.1",
+    "KauU_3.2",
+    "KauU_3.3",
+    "KauU_3.4",
+    "KauU_3.5",
+    "KauU_3.6",
+    "KauU_3.7",
+    "KauU_3.8"
+   ]
+  },
+  {
+   "id": "brihadratha",
+   "title": "King Bṛhadratha in the forest",
+   "summary": "Weary of a body made of bones, skin and decay, King Bṛhadratha gives up his kingdom and stands a thousand years in austerity until the sage Śākāyanya teaches him the Self.",
+   "cast": [
+    "brihadratha",
+    "shakayanya"
+   ],
+   "verses": [
+    "MaiU_1.1",
+    "MaiU_1.2",
+    "MaiU_1.3",
+    "MaiU_1.4",
+    "MaiU_1.5",
+    "MaiU_1.6",
+    "MaiU_1.7",
+    "MaiU_2.1",
+    "MaiU_2.2"
+   ]
+  },
+  {
+   "id": "creation",
+   "title": "The Self creates the worlds",
+   "summary": "In the beginning the Self alone was; it thought, let me create the worlds, then their guardians, then food; and finally it entered the person through the crown of the head.",
+   "cast": [],
+   "verses": [
+    "AiU_1.1.1",
+    "AiU_1.1.2",
+    "AiU_1.1.3",
+    "AiU_1.1.4",
+    "AiU_1.2.1",
+    "AiU_1.2.2",
+    "AiU_1.2.3",
+    "AiU_1.2.4",
+    "AiU_1.2.5",
+    "AiU_1.3.12",
+    "AiU_1.3.13"
+   ]
+  },
+  {
+   "id": "ushasti",
+   "title": "Uṣasti eats the elephant-keeper's beans",
+   "summary": "In a famine a starving priest eats an elephant-keeper's leftover beans but refuses his water: one bends a rule to live, not for comfort. He then questions the court priests on the gods they chant to.",
+   "cast": [
+    "ushasti"
+   ],
+   "verses": [
+    "ChU_1.10.1",
+    "ChU_1.10.2",
+    "ChU_1.10.3",
+    "ChU_1.10.4",
+    "ChU_1.10.5",
+    "ChU_1.10.6",
+    "ChU_1.10.7",
+    "ChU_1.10.8",
+    "ChU_1.10.9",
+    "ChU_1.10.10",
+    "ChU_1.10.11"
+   ]
+  },
+  {
+   "id": "da-da-da",
+   "title": "The thunder says Da, Da, Da",
+   "summary": "Gods, humans and demons ask Prajāpati for teaching; to each he says only 'Da'. The gods hear restrain, the humans give, the demons be compassionate, and the thunder repeats it still.",
+   "cast": [
+    "prajapati"
+   ],
+   "verses": [
+    "BU_5.2.1",
+    "BU_5.2.2",
+    "BU_5.2.3"
+   ]
+  },
+  {
+   "id": "shandilya",
+   "title": "Śāṇḍilya's meditation",
+   "summary": "All this is Brahman. The self within the heart is smaller than a grain of rice and greater than the earth: Śāṇḍilya's teaching on how to meditate on it.",
+   "cast": [
+    "shandilya"
+   ],
+   "verses": [
+    "ChU_3.14.1",
+    "ChU_3.14.2",
+    "ChU_3.14.3",
+    "ChU_3.14.4"
+   ]
+  },
+  {
+   "id": "janaka-court",
+   "title": "Yājñavalkya at Janaka's court",
+   "summary": "King Janaka offers a thousand cows to the most learned of the Brahmins. Yājñavalkya has them driven away before anyone answers; one by one the court's scholars question him, from Aśvala to Gārgī and Śākalya, and none prevails.",
+   "cast": [
+    "janaka",
+    "yajnavalkya",
+    "gargi"
+   ],
+   "verses": [
+    "BU_3.1.1",
+    "BU_3.2.1",
+    "BU_3.3.1",
+    "BU_3.4.1",
+    "BU_3.5.1",
+    "BU_3.7.1",
+    "BU_3.9.1",
+    "BU_3.9.18",
+    "BU_3.9.26"
+   ]
+  },
+  {
+   "id": "breath-outlasts",
+   "title": "The gods, the demons and the breath",
+   "summary": "The gods chant the Udgītha to overcome the demons; each sense chants and is pierced by evil, until the breath in the mouth chants and the demons shatter against it like clods against a rock.",
+   "cast": [
+    "prajapati"
+   ],
+   "verses": [
+    "BU_1.3.1",
+    "BU_1.3.2",
+    "BU_1.3.3",
+    "BU_1.3.4",
+    "BU_1.3.5",
+    "BU_1.3.6",
+    "BU_1.3.7",
+    "BU_1.3.8",
+    "BU_1.3.9",
+    "BU_1.3.10",
+    "BU_1.3.11",
+    "BU_1.3.12",
+    "BU_1.3.13",
+    "BU_1.3.14",
+    "BU_1.3.15",
+    "BU_1.3.16",
+    "BU_1.3.17",
+    "BU_1.3.18"
+   ]
+  },
+  {
+   "id": "dogs-udgitha",
+   "title": "The dogs' Udgītha",
+   "summary": "A satire on ritual for gain: hungry dogs ask a white dog to chant the Udgītha for food, and parade like priests before the hymn: ‘Om, let us eat! Om, let us drink!’",
+   "cast": [],
+   "verses": [
+    "ChU_1.12.1",
+    "ChU_1.12.2",
+    "ChU_1.12.3",
+    "ChU_1.12.4",
+    "ChU_1.12.5"
+   ]
+  },
+  {
+   "id": "udgitha-sages",
+   "title": "Three sages on the Udgītha",
+   "summary": "Three learned men ask one another what the chant rests on; each answer is taken one step further, from heaven to space, until King Pravāhaṇa names space as the final support.",
+   "cast": [
+    "pravahana"
+   ],
+   "verses": [
+    "ChU_1.8.1",
+    "ChU_1.8.2",
+    "ChU_1.8.3",
+    "ChU_1.8.4",
+    "ChU_1.8.5",
+    "ChU_1.8.6",
+    "ChU_1.8.7",
+    "ChU_1.8.8",
+    "ChU_1.9.1",
+    "ChU_1.9.2"
+   ]
+  }
+ ]
+}

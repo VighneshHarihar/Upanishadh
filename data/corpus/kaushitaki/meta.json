@@ -1,0 +1,49 @@
+{
+  "id": "kaushitaki",
+  "abbrev": "KauU",
+  "sa": "कौषीतकिब्राह्मणोपनिषद्",
+  "iast": "Kauṣītaki",
+  "en": "Kaushitaki Upanishad",
+  "veda": "Ṛgveda",
+  "levels": [
+    "adhyāya",
+    "khaṇḍa"
+  ],
+  "scope": "complete",
+  "expect": 50,
+  "order": 12,
+  "tagline": "Citra questions Śvetaketu on the worlds after death; prāṇa as Brahman; Indra teaches Pratardana; Ajātaśatru and Bālāki.",
+  "ingest": {
+    "wikisource": {
+      "title": "कौषीतकिब्राह्मणोपनिषत्",
+      "parser": "kaushitaki"
+    },
+    "shanti": "Vāṅ me manasi",
+    "pdf": {
+      "start": "^Kaushitaki Brahmana Upanishad$",
+      "end": "Here ends the Kaushitaki-Brahmana Upanishad",
+      "marker": "^([IVX]+)-(\\d{1,2})\\.\\s*(.*)$",
+      "ref": [
+        "R$1",
+        "$2"
+      ],
+      "text": 3
+    },
+    "supplement": {
+      "ocr": "hume-excerpts",
+      "translator": "R. E. Hume",
+      "source": "The Thirteen Principal Upanishads (1921)",
+      "map": {
+        "3.9": {
+          "from": "KauU 3.9"
+        }
+      }
+    }
+  },
+  "aliases": [
+    "Kausitaki",
+    "Kaushitaki Brahmana Upanishad",
+    "Kauṣītaki Brāhmaṇa Upaniṣad",
+    "कौषीतकि"
+  ]
+}

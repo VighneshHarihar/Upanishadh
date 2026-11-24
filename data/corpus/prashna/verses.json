@@ -1,0 +1,4213 @@
+[
+ {
+  "id": "PU_0",
+  "ref": "0",
+  "section": "Śānti mantra · Bhadraṃ karṇebhiḥ",
+  "shanti": true,
+  "sa": [
+   "ॐ भद्रं कर्णेभिः शृणुयाम देवा भद्रं पश्येमाक्षभिर्यजत्राः ।",
+   "स्थिरैरङ्गैस्तुष्टुवांसस्तनूभिर्व्यशेम देवहितं यदायुः ॥",
+   "स्वस्ति न इन्द्रो वृद्धश्रवाः स्वस्ति नः पूषा विश्ववेदाः ।",
+   "स्वस्ति नस्तार्क्ष्यो अरिष्टनेमिः स्वस्ति नो बृहस्पतिर्दधातु ॥",
+   "ॐ शान्तिः शान्तिः शान्तिः ॥"
+  ],
+  "iast": [
+   "oṃ bhadraṃ karṇebhiḥ śṛṇuyāma devā bhadraṃ paśyemākṣabhir yajatrāḥ",
+   "sthirair aṅgais tuṣṭuvāṃsas tanūbhir vyaśema devahitaṃ yad āyuḥ",
+   "svasti na indro vṛddhaśravāḥ svasti naḥ pūṣā viśvavedāḥ",
+   "svasti nas tārkṣyo ariṣṭanemiḥ svasti no bṛhaspatir dadhātu",
+   "oṃ śāntiḥ śāntiḥ śāntiḥ"
+  ],
+  "alt": [],
+  "words": [],
+  "tr": {
+   "text": "Om ! O gods, may we hear auspicious words with the ears; While engaged in sacrifices, May we see auspicious things with the eyes; While praising the gods with steady limbs, May we enjoy a life that is beneficial to the gods. May Indra of ancient fame be auspicious to us; May the supremely rich (or all-knowing) Pusa (god of the earth) Be propitious to us; May Garuda, the destroyer of evil, Be well disposed towards us; May Brihaspati ensure our welfare. Om ! Peace ! Peace ! Peace !",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/shantimantra/3.wav",
+   "whole": [
+    0,
+    67.3
+   ]
+  },
+  "hasBhashya": false,
+  "order": 1
+ },
+ {
+  "id": "PU_1.1",
+  "ref": "1.1",
+  "section": "Question 1",
+  "sa": [
+   "ॐ नमः परमात्मने । हरिः ॐ । सुकेशा च भारद्वाजः शैब्यश्च सत्यकामः सौर्यायणी च गार्ग्यः",
+   "कौसल्यश्चाश्वलायनो भार्गवो वैदर्भिः कबन्धी कात्यायनस्ते हैते",
+   "ब्रह्मपरा ब्रह्मनिष्ठाः परं ब्रह्मान्वेषमाणा एष ह वै तत्सर्वं",
+   "वक्ष्यतीति ते ह समित्पाणयो भगवन्तं पिप्पलादमुपसन्नाः ॥ १.१॥"
+  ],
+  "iast": [
+   "oṃ namaḥ paramātmane । hariḥ oṃ । sukeśā ca bhāradvājaḥ śaibyaśca satyakāmaḥ sauryāyaṇī ca gārgyaḥ",
+   "kausalyaścāśvalāyano bhārgavo vaidarbhiḥ kabandhī kātyāyanaste haite",
+   "brahmaparā brahmaniṣṭhāḥ paraṃ brahmānveṣamāṇā eṣa ha vai tatsarvaṃ",
+   "vakṣyatīti te ha samitpāṇayo bhagavantaṃ pippalādamupasannāḥ ॥ 1.1॥"
+  ],
+  "alt": [
+   {
+    "text": "OM! Salutation to the Supreme Spirit. The Supreme is OM. Sukesha the Bharadwaja; the Shaivya, Satyakama; Gargya, son of the Solar race; the Coshalan, son of Uswal; the Bhargove of Vidurbha; and Cobundhy Catyaian; — these sought the Most High God, believing in the Supreme and to the Supreme devoted. Therefore they came to the Lord Pippalada, for they said “This is he that shall tell us of that Universal.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 175, 176",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ओम्",
+    "om",
+    "Oṃ",
+    "om"
+   ],
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahma"
+   ],
+   [
+    "भगवन्तम्",
+    "bhagavantam",
+    "the revered teacher",
+    "bhagavantam"
+   ]
+  ],
+  "tr": {
+   "text": "Sukesa, son of Bharadvaja; Satyakama, so of Sibi; the grandson of Surya, born of the family of Garga; Kausalya, so of Asvala; a scion of the line of Bhrigu, born in Vidarbha; and Kabandhi, descendant of Katya – all these, who were devoted to (the inferior) Brahman, engaged in realising (the inferior) Brahman, and intent on a search of the supreme Brahman, approached with faggots in hand, the venerable Pippalada with the belief, “This one will certainly tell us all about It.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.1.mp3",
+   "whole": [
+    8.87,
+    58.58
+   ]
+  },
+  "hasBhashya": false,
+  "order": 2
+ },
+ {
+  "id": "PU_1.2",
+  "ref": "1.2",
+  "section": "Question 1",
+  "sa": [
+   "तान्ह स ऋषिरुवाच भूय एव तपसा ब्रह्मचर्येण श्रद्धया",
+   "संवत्सरं संवत्स्यथ यथाकामं प्रश्नान् पृच्छत यदि",
+   "विज्ञास्यामः सर्वं ह वो वक्ष्याम इति ॥ १.२॥"
+  ],
+  "iast": [
+   "tānha sa ṛṣiruvāca bhūya eva tapasā brahmacaryeṇa śraddhayā",
+   "saṃvatsaraṃ saṃvatsyatha yathākāmaṃ praśnān pṛcchata yadi",
+   "vijñāsyāmaḥ sarvaṃ ha vo vakṣyāma iti ॥ 1.2॥"
+  ],
+  "alt": [
+   {
+    "text": "The Rishi said to them, “Another year do ye dwell in holiness and faith and askesis; then ask what ye will, and if I know, surely I will conceal nothing.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 176",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "उवाच",
+    "uvāca",
+    "said",
+    "√vac"
+   ],
+   [
+    "तपसा",
+    "tapasā",
+    "by austerity",
+    "tapasā"
+   ],
+   [
+    "ब्रह्मचर्येण",
+    "brahmacaryeṇa",
+    "by disciplined student life",
+    "brahmacaryeṇa"
+   ],
+   [
+    "श्रद्धया",
+    "śraddhayā",
+    "with faith",
+    "śraddhayā"
+   ]
+  ],
+  "tr": {
+   "text": "To them the seer said, “Live (here) again for a year in a fitting manner, with control over the senses and with brahmacharya and faith. Then put questions as you please. If we know, we shall explain all your questions.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.2.mp3",
+   "whole": [
+    58.58,
+    80.66
+   ]
+  },
+  "hasBhashya": false,
+  "order": 3
+ },
+ {
+  "id": "PU_1.3",
+  "ref": "1.3",
+  "section": "Question 1",
+  "sa": [
+   "अथ कबन्धी कात्यायन उपेत्य पप्रच्छ ।",
+   "भगवन् कुतो ह वा इमाः प्रजाः प्रजायन्त इति ॥ १.३॥"
+  ],
+  "iast": [
+   "atha kabandhī kātyāyana upetya papraccha ।",
+   "bhagavan kuto ha vā imāḥ prajāḥ prajāyanta iti ॥ 1.3॥"
+  ],
+  "alt": [
+   {
+    "text": "Then came Cobundhy, son of Katya, to him and asked: “Lord, whence are all these creatures born?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 176",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पप्रच्छ",
+    "papraccha",
+    "asked",
+    "√pracch"
+   ],
+   [
+    "कुतः",
+    "kutaḥ",
+    "from where",
+    "kutaḥ"
+   ],
+   [
+    "प्रजाः",
+    "prajāḥ",
+    "creatures",
+    "prajāḥ"
+   ]
+  ],
+  "tr": {
+   "text": "After that Kabandhi, descendant of Katya, having approached (him) asked, “Venerable sir, from what indeed are all these beings born ?”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.3.mp3",
+   "whole": [
+    80.66,
+    93.62
+   ]
+  },
+  "hasBhashya": false,
+  "order": 4
+ },
+ {
+  "id": "PU_1.4",
+  "ref": "1.4",
+  "section": "Question 1",
+  "sa": [
+   "तस्मै स होवाच प्रजाकामो वै प्रजापतिः स तपोऽतप्यत",
+   "स तपस्तप्त्वा स मिथुनमुत्पादयते । रयिं च प्राणं",
+   "चेत्येतौ मे बहुधा प्रजाः करिष्यत इति ॥ १.४॥"
+  ],
+  "iast": [
+   "tasmai sa hovāca prajākāmo vai prajāpatiḥ sa tapo’tapyata",
+   "sa tapastaptvā sa mithunamutpādayate । rayiṃ ca prāṇaṃ",
+   "cetyetau me bahudhā prajāḥ kariṣyata iti ॥ 1.4॥"
+  ],
+  "alt": [
+   {
+    "text": "To him answered the Rishi Pippalada: “The Eternal Father desired children, therefore he put forth his energy and by the heat of his energy produced twin creatures, Prana the Life, who is Male, and Rayi the Matter, who is Female. ‘These’ said he ‘shall make for me children of many natures.’",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 176",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तप्त्वा",
+    "taptvā",
+    "having heated",
+    "√tap"
+   ],
+   [
+    "मिथुनम्",
+    "mithunam",
+    "a pair",
+    "mithunam"
+   ],
+   [
+    "प्राणम्",
+    "prāṇam",
+    "life-breath",
+    "prāṇam"
+   ]
+  ],
+  "tr": {
+   "text": "To him he said: The Lord of all creatures became desirous of progeny. He deliberated on (past Vedic) knowledge. Having brooded on that knowledge, He created a couple – food and Prana – under the idea, “These two will produce creatures for me in multifarious ways.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.4.mp3",
+   "whole": [
+    94.12,
+    116.87
+   ]
+  },
+  "hasBhashya": true,
+  "order": 5
+ },
+ {
+  "id": "PU_1.5",
+  "ref": "1.5",
+  "section": "Question 1",
+  "sa": [
+   "आदित्यो ह वै प्राणो रयिरेव चन्द्रमा रयिर्वा एतत्",
+   "सर्वं यन्मूर्तं चामूर्तं च तस्मान्मूर्तिरेव रयिः ॥ १.५॥"
+  ],
+  "iast": [
+   "ādityo ha vai prāṇo rayireva candramā rayirvā etat",
+   "sarvaṃ yanmūrtaṃ cāmūrtaṃ ca tasmānmūrtireva rayiḥ ॥ 1.5॥"
+  ],
+  "alt": [
+   {
+    "text": "“The Sun verily is Life and the Moon is no more than Matter; yet truly all this Universe formed and formless is Matter; therefore Form and Matter are One.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 176",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "आदित्यः",
+    "ādityaḥ",
+    "the sun",
+    "ādityaḥ"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ],
+   [
+    "रयिः",
+    "rayiḥ",
+    "matter",
+    "rayiḥ"
+   ],
+   [
+    "चन्द्रमाः",
+    "candramāḥ",
+    "the moon",
+    "candramāḥ"
+   ]
+  ],
+  "tr": {
+   "text": "The sun is verily Prana; and food is verily the moon. Whatever is gross or subtle is but food. The gross, as distinguished from that (subtle), is certainly food (of the subtle).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.5.mp3",
+   "whole": [
+    117.42,
+    133.4
+   ]
+  },
+  "hasBhashya": true,
+  "order": 6
+ },
+ {
+  "id": "PU_1.6",
+  "ref": "1.6",
+  "section": "Question 1",
+  "sa": [
+   "अथादित्य उदयन्यत्प्राचीं दिशं प्रविशति तेन प्राच्यान् प्राणान्",
+   "रश्मिषु सन्निधत्ते । यद्दक्षिणां यत् प्रतीचीं यदुदीचीं यदधो",
+   "यदूर्ध्वं यदन्तरा दिशो यत् सर्वं प्रकाशयति तेन सर्वान् प्राणान्",
+   "रश्मिषु सन्निधत्ते ॥ १.६॥"
+  ],
+  "iast": [
+   "athāditya udayanyatprācīṃ diśaṃ praviśati tena prācyān prāṇān",
+   "raśmiṣu sannidhatte । yaddakṣiṇāṃ yat pratīcīṃ yadudīcīṃ yadadho",
+   "yadūrdhvaṃ yadantarā diśo yat sarvaṃ prakāśayati tena sarvān prāṇān",
+   "raśmiṣu sannidhatte ॥ 1.6॥"
+  ],
+  "alt": [
+   {
+    "text": "“Now when the Sun rising entereth the East, then absorbeth he the eastern breaths into his rays. But when he illumineth the south and west and north, and below and above and all the angles of space, yea, all that is, then he taketh all the breaths into his rays.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 177",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "दिशम्",
+    "diśam",
+    "direction",
+    "diśam"
+   ],
+   [
+    "प्रविशति",
+    "praviśati",
+    "enters",
+    "√viś"
+   ],
+   [
+    "प्राणान्",
+    "prāṇān",
+    "life-breaths",
+    "prāṇān"
+   ],
+   [
+    "रश्मिषु",
+    "raśmiṣu",
+    "in the rays",
+    "raśmiṣu"
+   ]
+  ],
+  "tr": {
+   "text": "Now then, the fact that the sun, while rising, enters into the eastern direction, thereby it absorbs into its rays all the creatures in the east. That it enters into the south, that it enters into the west, that it enters into the north, that it reaches the nadir and the zenith, that it enters the intermediate points of the zodiac, that it illumines all, thereby it absorbs all living things into its rays.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.6.mp3",
+   "whole": [
+    133.99,
+    164.69
+   ]
+  },
+  "hasBhashya": true,
+  "order": 7
+ },
+ {
+  "id": "PU_1.7",
+  "ref": "1.7",
+  "section": "Question 1",
+  "sa": [
+   "स एष वैश्वानरो विश्वरूपः प्राणोऽग्निरुदयते ।",
+   "तदेतदृचाऽभ्युक्तम् ॥ १.७॥"
+  ],
+  "iast": [
+   "sa eṣa vaiśvānaro viśvarūpaḥ prāṇo’gnirudayate ।",
+   "tadetadṛcā’bhyuktam ॥ 1.7॥"
+  ],
+  "alt": [
+   {
+    "text": "“Therefore is this fire that riseth, this Universal Male, of whom all things are the bodies, Prana the breath of existence. This is that which was said in the Rigveda.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 177",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ],
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agniḥ"
+   ],
+   [
+    "ऋचा",
+    "ṛcā",
+    "by a Vedic verse",
+    "ṛcā"
+   ]
+  ],
+  "tr": {
+   "text": "That very one rises up who is Prana and fire, who is identified with all creatures, and who is possessed of all forms. This very one, that has been referred to, is spoken of by the mantra:",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.7.mp3",
+   "whole": [
+    164.69,
+    177.69
+   ]
+  },
+  "hasBhashya": true,
+  "order": 8
+ },
+ {
+  "id": "PU_1.8",
+  "ref": "1.8",
+  "section": "Question 1",
+  "sa": [
+   "विश्वरूपं हरिणं जातवेदसं",
+   "परायणं ज्योतिरेकं तपन्तम् ।",
+   "सहस्ररश्मिः शतधा वर्तमानः",
+   "प्राणः प्रजानामुदयत्येष सूर्यः ॥ १.८॥"
+  ],
+  "iast": [
+   "viśvarūpaṃ hariṇaṃ jātavedasaṃ",
+   "parāyaṇaṃ jyotirekaṃ tapantam ।",
+   "sahasraraśmiḥ śatadhā vartamānaḥ",
+   "prāṇaḥ prajānāmudayatyeṣa sūryaḥ ॥ 1.8॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘Fire is this burning and radiant Sun, he is the One lustre and all-knowing Light, he is the highest heaven of spirits. With a thousand rays he burneth and existeth in a hundred existences; lo this Sun that riseth, he is the Life of all his creatures.’",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 177",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ],
+   [
+    "प्रजानाम्",
+    "prajānām",
+    "of creatures",
+    "prajānām"
+   ],
+   [
+    "सूर्यः",
+    "sūryaḥ",
+    "the sun",
+    "sūryaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "(The realisers of Brahman) knew the one that is possessed of all forms, full of rays, endowed with illumination, the resort of all, the single light (of all), and the radiator of heat. It is the sun that rises – the sun that possesses a thousand rays, exists in a hundred forms and is the life of all creatures.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.8.mp3",
+   "whole": [
+    177.69,
+    198.55
+   ]
+  },
+  "hasBhashya": true,
+  "order": 9
+ },
+ {
+  "id": "PU_1.9",
+  "ref": "1.9",
+  "section": "Question 1",
+  "sa": [
+   "संवत्सरो वै प्रजापतिस्तस्यायने दक्षिणं चोत्तरं च ।",
+   "तद्ये ह वै तदिष्टापूर्ते कृतमित्युपासते ते चान्द्रमसमेव",
+   "लोकमभिजयन्ते । त एव पुनरावर्तन्ते तस्मादेत ऋषयः",
+   "प्रजाकामा दक्षिणं प्रतिपद्यन्ते । एष ह वै रयिर्यः",
+   "पितृयाणः ॥ १.९॥"
+  ],
+  "iast": [
+   "saṃvatsaro vai prajāpatistasyāyane dakṣiṇaṃ cottaraṃ ca ।",
+   "tadye ha vai tadiṣṭāpūrte kṛtamityupāsate te cāndramasameva",
+   "lokamabhijayante । ta eva punarāvartante tasmādeta ṛṣayaḥ",
+   "prajākāmā dakṣiṇaṃ pratipadyante । eṣa ha vai rayiryaḥ",
+   "pitṛyāṇaḥ ॥ 1.9॥"
+  ],
+  "alt": [
+   {
+    "text": "“The year also is that Eternal Father and of the year there are two paths, the northern solstice and the southern. Now they who worship God with the well dug and the oblation offered, deeming these to be righteousness, conquer their heavens of the Moon; these return again to the world of birth. Therefore do the souls of sages who have not yet put from them the desire of offspring, take the way of the southern solstice which is the road of the Fathers. And this also is Matter, the Female.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 177",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "संवत्सरः",
+    "saṃvatsaraḥ",
+    "the year",
+    "saṃvatsaraḥ"
+   ],
+   [
+    "प्रजापतिः",
+    "prajāpatiḥ",
+    "the lord of creatures",
+    "prajāpatiḥ"
+   ],
+   [
+    "पुनः",
+    "punaḥ",
+    "again",
+    "punaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "The year is verily the Lord of creatures. Of Him there are two Courses, the Southern and the Northern. As to that, those, who follow, in that way, the sacrifices and public good etc., that are products of action, conquer the very world of the moon. It is they who come back. (Since this is so), hence these seers of heaven, who are desirous of progeny, attain the Southern Course. That which is the Course of the Manes is verily food.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.9.mp3",
+   "whole": [
+    199.6,
+    232.57
+   ]
+  },
+  "hasBhashya": true,
+  "order": 10
+ },
+ {
+  "id": "PU_1.10",
+  "ref": "1.10",
+  "section": "Question 1",
+  "sa": [
+   "अथोत्तरेण तपसा ब्रह्मचर्येण श्रद्धया",
+   "विद्ययाऽऽत्मानमन्विष्यादित्यमभिजयन्ते । एतद्वै",
+   "प्राणानामायतनमेतदमृतमभयमेतत् परायणमेतस्मान्न पुनरावर्तन्त",
+   "इत्येष निरोधस्तदेष श्लोकः ॥ १.१०॥"
+  ],
+  "iast": [
+   "athottareṇa tapasā brahmacaryeṇa śraddhayā",
+   "vidyayā’’tmānamanviṣyādityamabhijayante । etadvai",
+   "prāṇānāmāyatanametadamṛtamabhayametat parāyaṇametasmānna punarāvartanta",
+   "ityeṣa nirodhastadeṣa ślokaḥ ॥ 1.10॥"
+  ],
+  "alt": [
+   {
+    "text": "“But by the way of the northern solstice go the souls that have sought the Spirit through holiness and knowledge and faith and askesis; for they conquer their heavens of the Sun. There is the resting place of the breaths, there immortality casteth out fear, there is the highest heaven of spirits; thence no soul returneth; therefore is the wall and barrier. Whereof this is the Scripture.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 178",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तपसा",
+    "tapasā",
+    "by austerity",
+    "tapasā"
+   ],
+   [
+    "श्रद्धया",
+    "śraddhayā",
+    "with faith",
+    "śraddhayā"
+   ],
+   [
+    "विद्यया",
+    "vidyayā",
+    "by knowledge",
+    "vidyayā"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the Self",
+    "ātmānam"
+   ]
+  ],
+  "tr": {
+   "text": "Again, by searching for the Self through the control of the senses, brahmacharya, faith and meditation, they conquer the sun (by proceeding) along the Northern Course. This is the resort of all that lives; this is indestructible; this is fearless; this is the highest goal, for from this they do not come back. This is unrealisable (to the ignorant). Pertaining to this here is a verse:",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.10.mp3",
+   "whole": [
+    233.83,
+    263.44
+   ]
+  },
+  "hasBhashya": true,
+  "order": 11
+ },
+ {
+  "id": "PU_1.11",
+  "ref": "1.11",
+  "section": "Question 1",
+  "sa": [
+   "पञ्चपादं पितरं द्वादशाकृतिं",
+   "दिव आहुः परे अर्धे पुरीषिणम् ।",
+   "अथेमे अन्य उ परे विचक्षणं",
+   "सप्तचक्रे षडर आहुरर्पितमिति ॥ १.११॥"
+  ],
+  "iast": [
+   "pañcapādaṃ pitaraṃ dvādaśākṛtiṃ",
+   "diva āhuḥ pare ardhe purīṣiṇam ।",
+   "atheme anya u pare vicakṣaṇaṃ",
+   "saptacakre ṣaḍara āhurarpitamiti ॥ 1.11॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘Five-portioned, some say, is the Father and hath twelve figures and he floweth in the upper hemisphere beyond the heavens; but others speak of him as the Wisdom who standeth in a chariot of six spokes and seven wheels.’",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 178",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पितरम्",
+    "pitaram",
+    "the father",
+    "pitaram"
+   ]
+  ],
+  "tr": {
+   "text": "Some talk of (this sun) as possessed of five feet, as the father, as constituted by twelve limbs, and as full of water in the high place above the sky. But there are these others who call him the omniscient and say that on him, as possessed of seven wheels and six spokes, is fixed (the whole universe).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.11.mp3",
+   "whole": [
+    264.03,
+    283.54
+   ]
+  },
+  "hasBhashya": true,
+  "order": 12
+ },
+ {
+  "id": "PU_1.12",
+  "ref": "1.12",
+  "section": "Question 1",
+  "sa": [
+   "मासो वै प्रजापतिस्तस्य कृष्णपक्ष एव रयिः शुक्लः प्राणस्तस्मादेत",
+   "ऋषयः शुक्ल इष्टं कुर्वन्तीतर इतरस्मिन् ॥ १.१२॥"
+  ],
+  "iast": [
+   "māso vai prajāpatistasya kṛṣṇapakṣa eva rayiḥ śuklaḥ prāṇastasmādeta",
+   "ṛṣayaḥ śukla iṣṭaṃ kurvantītara itarasmin ॥ 1.12॥"
+  ],
+  "alt": [
+   {
+    "text": "“The month also is that Eternal Father, whereof the dark fortnight is Matter the Female and the bright fortnight is Life the Male. Therefore do one manner of sages offer sacrifice in the bright fortnight and another in the dark.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 178",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "मासः",
+    "māsaḥ",
+    "the month",
+    "māsaḥ"
+   ],
+   [
+    "प्रजापतिः",
+    "prajāpatiḥ",
+    "the lord of creatures",
+    "prajāpatiḥ"
+   ],
+   [
+    "रयिः",
+    "rayiḥ",
+    "matter",
+    "rayiḥ"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "The month verily is the Lord of all creatures. The dark fortnight is His food, and the bright His Prana. Therefore these seers perform the sacrifices in the bright fortnight. The others perform it in the other.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.12.mp3",
+   "whole": [
+    283.71,
+    300.07
+   ]
+  },
+  "hasBhashya": true,
+  "order": 13
+ },
+ {
+  "id": "PU_1.13",
+  "ref": "1.13",
+  "section": "Question 1",
+  "sa": [
+   "अहोरात्रो वै प्रजापतिस्तस्याहरेव प्राणो रात्रिरेव रयिः प्राणं वा एते",
+   "प्रस्कन्दन्ति ये दिवा रत्या संयुज्यन्ते ब्रह्मचर्यमेव तद्यद्रात्रौ",
+   "रत्या संयुज्यन्ते ॥ १.१३॥"
+  ],
+  "iast": [
+   "ahorātro vai prajāpatistasyāhareva prāṇo rātrireva rayiḥ prāṇaṃ vā ete",
+   "praskandanti ye divā ratyā saṃyujyante brahmacaryameva tadyadrātrau",
+   "ratyā saṃyujyante ॥ 1.13॥"
+  ],
+  "alt": [
+   {
+    "text": "“Day and night also are the Eternal Father, whereof the day is Life and the night is Matter. Therefore do they offend against their own life who take joy with woman by day; by night who take joy, enact holiness.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 178",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "रात्रिः",
+    "rātriḥ",
+    "night",
+    "rātriḥ"
+   ],
+   [
+    "रत्या",
+    "ratyā",
+    "in sexual union",
+    "ratyā"
+   ],
+   [
+    "रात्रौ",
+    "rātrau",
+    "at night",
+    "rātrau"
+   ]
+  ],
+  "tr": {
+   "text": "Day and night are verily the Lord of all creatures. Day is surely His Prana and night is certainly the food. Those who indulge in passion in the day, waste away Prana. That they give play to passion at night is as good as celibacy.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.13.mp3",
+   "whole": [
+    300.82,
+    323.66
+   ]
+  },
+  "hasBhashya": true,
+  "order": 14
+ },
+ {
+  "id": "PU_1.14",
+  "ref": "1.14",
+  "section": "Question 1",
+  "sa": [
+   "अन्नं वै प्रजापतिस्ततो ह वै तद्रेतस्तस्मादिमाः प्रजाः",
+   "प्रजायन्त इति ॥ १.१४॥"
+  ],
+  "iast": [
+   "annaṃ vai prajāpatistato ha vai tadretastasmādimāḥ prajāḥ",
+   "prajāyanta iti ॥ 1.14॥"
+  ],
+  "alt": [
+   {
+    "text": "“Food is the Eternal Father; for of this came the seed and of the seed is the world of creatures born.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 179",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "annam"
+   ],
+   [
+    "प्रजापतिः",
+    "prajāpatiḥ",
+    "the lord of creatures",
+    "prajāpatiḥ"
+   ],
+   [
+    "रेतः",
+    "retaḥ",
+    "seed",
+    "retaḥ"
+   ],
+   [
+    "प्रजाः",
+    "prajāḥ",
+    "creatures",
+    "prajāḥ"
+   ]
+  ],
+  "tr": {
+   "text": "Food is nothing but the Lord of all creatures. From that indeed issues that human seed. From that are born all these beings.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.14.mp3",
+   "whole": [
+    325.39,
+    334.97
+   ]
+  },
+  "hasBhashya": true,
+  "order": 15
+ },
+ {
+  "id": "PU_1.15",
+  "ref": "1.15",
+  "section": "Question 1",
+  "sa": [
+   "तद्ये ह वै तत् प्रजापतिव्रतं चरन्ति ते मिथुनमुत्पादयन्ते ।",
+   "तेषामेवैष ब्रह्मलोको येषां तपो ब्रह्मचर्यं येषु सत्यं",
+   "प्रतिष्ठितम् ॥ १.१५॥"
+  ],
+  "iast": [
+   "tadye ha vai tat prajāpativrataṃ caranti te mithunamutpādayante ।",
+   "teṣāmevaiṣa brahmaloko yeṣāṃ tapo brahmacaryaṃ yeṣu satyaṃ",
+   "pratiṣṭhitam ॥ 1.15॥"
+  ],
+  "alt": [
+   {
+    "text": "“They therefore who perform the vow of the Eternal Father produce the twin creature. But theirs is the heaven of the spirit in whom are established askesis and holiness and in whom Truth has her dwelling.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 179",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "चरन्ति",
+    "caranti",
+    "they practise",
+    "√car"
+   ],
+   [
+    "ब्रह्मचर्यम्",
+    "brahmacaryam",
+    "continence",
+    "brahmacaryam"
+   ],
+   [
+    "सत्यम्",
+    "satyam",
+    "truth",
+    "satyam"
+   ]
+  ],
+  "tr": {
+   "text": "This being so, those who undertake the well-known vow of the Lord of all creatures, beget both sons and daughters. For them alone is this world of the moon in whom there are the vows and continence, and in whom is found for ever avoidance of falsehood.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.15.mp3",
+   "whole": [
+    335.82,
+    353.98
+   ]
+  },
+  "hasBhashya": true,
+  "order": 16
+ },
+ {
+  "id": "PU_1.16",
+  "ref": "1.16",
+  "section": "Question 1",
+  "sa": [
+   "तेषामसौ विरजो ब्रह्मलोको न येषु जिह्ममनृतं न",
+   "माया चेति ॥ १.१६॥"
+  ],
+  "iast": [
+   "teṣāmasau virajo brahmaloko na yeṣu jihmamanṛtaṃ na",
+   "māyā ceti ॥ 1.16॥"
+  ],
+  "alt": [
+   {
+    "text": "“Theirs is the heaven of the Spirit, the world all spotless, in whom there is neither crookedness nor lying nor any illusion.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 179",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "अनृतम्",
+    "anṛtam",
+    "falsehood",
+    "anṛtam"
+   ],
+   [
+    "माया",
+    "māyā",
+    "deception",
+    "māyā"
+   ]
+  ],
+  "tr": {
+   "text": "For them is that taintless world of Brahman, in whom there is no crookedness no falsehood, and no dissimulation.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.1.16.mp3",
+   "whole": [
+    353.98,
+    363.82
+   ]
+  },
+  "hasBhashya": true,
+  "order": 17
+ },
+ {
+  "id": "PU_2.1",
+  "ref": "2.1",
+  "section": "Question 2",
+  "sa": [
+   "अथ हैनं भार्गवो वैदर्भिः पप्रच्छ । भगवन् कत्येव",
+   "देवाः प्रजां विधारयन्ते कतर एतत् प्रकाशयन्ते कः",
+   "पुनरेषां वरिष्ठ इति ॥ २.१॥"
+  ],
+  "iast": [
+   "atha hainaṃ bhārgavo vaidarbhiḥ papraccha । bhagavan katyeva",
+   "devāḥ prajāṃ vidhārayante katara etat prakāśayante kaḥ",
+   "punareṣāṃ variṣṭha iti ॥ 2.1॥"
+  ],
+  "alt": [
+   {
+    "text": "Then the Bhargove, the Vidurbhan, asked him: “Lord, how many Gods maintain this creature, and how many illumine it, and which of these again is the mightiest?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 179",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पप्रच्छ",
+    "papraccha",
+    "asked",
+    "√pracch"
+   ],
+   [
+    "देवाः",
+    "devāḥ",
+    "gods",
+    "devāḥ"
+   ],
+   [
+    "प्रजाम्",
+    "prajām",
+    "the creature",
+    "prajām"
+   ]
+  ],
+  "tr": {
+   "text": "Next a scion of the line of Bhrigu, born in Vidarbha, asked him, “Sir, how many in fact are the deities that sustain a creature ? Which among them exhibit this glory ? Which again is the chief among them ?”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.1.mp3",
+   "whole": [
+    363.82,
+    382.71
+   ]
+  },
+  "hasBhashya": true,
+  "order": 18
+ },
+ {
+  "id": "PU_2.2",
+  "ref": "2.2",
+  "section": "Question 2",
+  "sa": [
+   "तस्मै स होवाचाकाशो ह वा एष देवो वायुरग्निरापः",
+   "पृथिवी वाङ्मनश्चक्षुः श्रोत्रं च । ते प्रकाश्याभिवदन्ति",
+   "वयमेतद्बाणमवष्टभ्य विधारयामः ॥ २.२॥"
+  ],
+  "iast": [
+   "tasmai sa hovācākāśo ha vā eṣa devo vāyuragnirāpaḥ",
+   "pṛthivī vāṅmanaścakṣuḥ śrotraṃ ca । te prakāśyābhivadanti",
+   "vayametadbāṇamavaṣṭabhya vidhārayāmaḥ ॥ 2.2॥"
+  ],
+  "alt": [
+   {
+    "text": "To him answered the Rishi Pippalada: “These are the Gods, even Ether and Wind and Fire and Water and Earth and Speech and Mind and Sight and Hearing. These nine illumine the creature; therefore they vaunted themselves, — We, even we support this harp of God and we are the preservers.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 179",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyuḥ"
+   ],
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agniḥ"
+   ],
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ],
+   [
+    "वाक्",
+    "vāk",
+    "speech",
+    "vāk"
+   ]
+  ],
+  "tr": {
+   "text": "To him he said: Space in fact is this deity, as also are air, fire, water, earth, the organ of speech, mind, eye and ear. Exhibiting their glory they say, “Unquestionably it is we who hold together this body by not allowing it to disintegrate.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.2.mp3",
+   "whole": [
+    382.71,
+    404.03
+   ]
+  },
+  "hasBhashya": true,
+  "order": 19
+ },
+ {
+  "id": "PU_2.3",
+  "ref": "2.3",
+  "section": "Question 2",
+  "sa": [
+   "तान् वरिष्ठः प्राण उवाच । मा मोहमापद्यथ अहमेवैतत्",
+   "पञ्चधाऽऽत्मानं प्रविभज्यैतद्बाणमवष्टभ्य विधारयामीति",
+   "तेऽश्रद्दधाना बभूवुः ॥ २.३॥"
+  ],
+  "iast": [
+   "tān variṣṭhaḥ prāṇa uvāca । mā mohamāpadyatha ahamevaitat",
+   "pañcadhā’’tmānaṃ pravibhajyaitadbāṇamavaṣṭabhya vidhārayāmīti",
+   "te’śraddadhānā babhūvuḥ ॥ 2.3॥"
+  ],
+  "alt": [
+   {
+    "text": "“Then answered Breath, their mightiest: ‘Yield not unto delusion; I dividing myself into this fivefold support this harp of God, I am its preserver.’ But they believed him not.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 180",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "उवाच",
+    "uvāca",
+    "said",
+    "√vac"
+   ],
+   [
+    "मोहम्",
+    "moham",
+    "delusion",
+    "moham"
+   ],
+   [
+    "आत्मानम्",
+    "ātmānam",
+    "the Self",
+    "ātmānam"
+   ],
+   [
+    "बभूवुः",
+    "babhūvuḥ",
+    "they became",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "To them the chief Prana said, “Do not be deluded. It is I who do not allow it to disintegrate by sustaining it by dividing myself fivefold.” They remained incredulous.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.3.mp3",
+   "whole": [
+    404.03,
+    425.27
+   ]
+  },
+  "hasBhashya": true,
+  "order": 20
+ },
+ {
+  "id": "PU_2.4",
+  "ref": "2.4",
+  "section": "Question 2",
+  "sa": [
+   "सोऽभिमानादूर्ध्वमुत्क्रामत इव तस्मिन्नुत्क्रामत्यथेतरे सर्व",
+   "एवोत्क्रामन्ते तस्मिंश्च प्रतिष्ठमाने सर्व एव प्रतिष्ठन्ते । तद्यथा",
+   "मक्षिका मधुकरराजानमुत्क्रामन्तं सर्व एवोत्क्रमन्ते तस्मिंश्च",
+   "प्रतिष्ठमाने सर्व एव प्रातिष्ठन्त एवं वाङ्मनश्चक्षुः श्रोत्रं",
+   "च ते प्रीताः प्राणं स्तुन्वन्ति ॥ २.४॥"
+  ],
+  "iast": [
+   "so’bhimānādūrdhvamutkrāmata iva tasminnutkrāmatyathetare sarva",
+   "evotkrāmante tasmiṃśca pratiṣṭhamāne sarva eva pratiṣṭhante । tadyathā",
+   "makṣikā madhukararājānamutkrāmantaṃ sarva evotkramante tasmiṃśca",
+   "pratiṣṭhamāne sarva eva prātiṣṭhanta evaṃ vāṅmanaścakṣuḥ śrotraṃ",
+   "ca te prītāḥ prāṇaṃ stunvanti ॥ 2.4॥"
+  ],
+  "alt": [
+   {
+    "text": "“Therefore offended he rose up, he was issuing out from the body. But when the Breath goeth out, then go all the others with him, and when the Breath abideth all the others abide; therefore as bees with the kingbee: when he goeth out all go out with him, and when he abideth all abide, even so was it with Speech and Mind and Sight and Hearing; then were they well-pleased and hymned the Breath to adore him.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 180",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "मधुकरराजानम्",
+    "madhukararājānam",
+    "the ruler of the bees",
+    "madhukararājānam"
+   ],
+   [
+    "वाक्",
+    "vāk",
+    "speech",
+    "vāk"
+   ],
+   [
+    "प्राणम्",
+    "prāṇam",
+    "life-breath",
+    "prāṇam"
+   ]
+  ],
+  "tr": {
+   "text": "He appeared to be rising up (from the body) out of indignation. As He ascended, all the others, too, ascended immediately; and when He remained quite, all others, too, remained in position. Just as in the world, all the bee take to flight in accordance as the king of the bees takes to his wings, and they settle down as he does so, similarly, did speech, mind, eye, ear, etc., behave. Becoming delighted, they (began to) praise Prana.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.4.mp3",
+   "whole": [
+    425.27,
+    464.13
+   ]
+  },
+  "hasBhashya": false,
+  "order": 21
+ },
+ {
+  "id": "PU_2.5",
+  "ref": "2.5",
+  "section": "Question 2",
+  "sa": [
+   "एषोऽग्निस्तपत्येष सूर्य",
+   "एष पर्जन्यो मघवानेष वायुः",
+   "एष पृथिवी रयिर्देवः",
+   "सदसच्चामृतं च यत् ॥ २.५॥"
+  ],
+  "iast": [
+   "eṣo’gnistapatyeṣa sūrya",
+   "eṣa parjanyo maghavāneṣa vāyuḥ",
+   "eṣa pṛthivī rayirdevaḥ",
+   "sadasaccāmṛtaṃ ca yat ॥ 2.5॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘Lo this is he that is Fire and the Sun that burneth, Rain and Indra and Earth and Air, Matter and Deity, Form and Formless, and Immortality.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 180",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अग्निः",
+    "agniḥ",
+    "fire",
+    "agniḥ"
+   ],
+   [
+    "तपति",
+    "tapati",
+    "shines",
+    "√tap"
+   ],
+   [
+    "सूर्यः",
+    "sūryaḥ",
+    "the sun",
+    "sūryaḥ"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyuḥ"
+   ],
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ]
+  ],
+  "tr": {
+   "text": "This one (i.e. Prana) burns as fire, this one is the sun, this one is cloud, this one is Indra and air, this one is the earth and food. This god is the gross and the subtle, as well as that which is nectar.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.5.mp3",
+   "whole": [
+    465.14,
+    481.12
+   ]
+  },
+  "hasBhashya": true,
+  "order": 22
+ },
+ {
+  "id": "PU_2.6",
+  "ref": "2.6",
+  "section": "Question 2",
+  "sa": [
+   "अरा इव रथनाभौ प्राणे सर्वं प्रतिष्ठितम् ।",
+   "ऋचो यजूंषि सामानि यज्ञः क्षत्रं ब्रह्म च ॥ २.६॥"
+  ],
+  "iast": [
+   "arā iva rathanābhau prāṇe sarvaṃ pratiṣṭhitam ।",
+   "ṛco yajūṃṣi sāmāni yajñaḥ kṣatraṃ brahma ca ॥ 2.6॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘As the spokes meet in the nave of a wheel, so are all things in the Breath established, the Rigveda and the Yajur and the Sama, and Sacrifice and Brahminhood and Kshatriyahood.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 180",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अराः",
+    "arāḥ",
+    "spokes",
+    "arāḥ"
+   ],
+   [
+    "रथनाभौ",
+    "rathanābhau",
+    "in the nave of a chariot wheel",
+    "rathanābhau"
+   ],
+   [
+    "प्राणे",
+    "prāṇe",
+    "in life-breath",
+    "prāṇe"
+   ]
+  ],
+  "tr": {
+   "text": "Like spokes on the hub of a chariot wheel, are fixed on Prana all things – riks, yajus, samas, sacrifice, Kshatriya and Brahmana.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": null,
+  "hasBhashya": true,
+  "order": 23
+ },
+ {
+  "id": "PU_2.7",
+  "ref": "2.7",
+  "section": "Question 2",
+  "sa": [
+   "प्रजापतिश्चरसि गर्भे त्वमेव प्रतिजायसे ।",
+   "तुभ्यं प्राण प्रजास्त्विमा बलिं हरन्ति",
+   "यः प्राणैः प्रतितिष्ठसि ॥ २.७॥"
+  ],
+  "iast": [
+   "prajāpatiścarasi garbhe tvameva pratijāyase ।",
+   "tubhyaṃ prāṇa prajāstvimā baliṃ haranti",
+   "yaḥ prāṇaiḥ pratitiṣṭhasi ॥ 2.7॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘As the Eternal Father thou movest in the womb and art born in the likeness of the parents. To thee, O Life, the world of creatures offer the burnt offering, who by the breaths abidest.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 180",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्रजापतिः",
+    "prajāpatiḥ",
+    "the lord of creatures",
+    "prajāpatiḥ"
+   ],
+   [
+    "चरसि",
+    "carasi",
+    "you move",
+    "√car"
+   ],
+   [
+    "गर्भे",
+    "garbhe",
+    "in the womb",
+    "garbhe"
+   ],
+   [
+    "बलिम्",
+    "balim",
+    "an offering",
+    "balim"
+   ],
+   [
+    "हरन्ति",
+    "haranti",
+    "they bring",
+    "√hṛ"
+   ]
+  ],
+  "tr": {
+   "text": "It is you who move about in the womb as the Lord of creation, and it is you who take birth after the image of the parents. O Prana, it is for you, who reside with the organs, that all these creatures carry presents.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.7.mp3",
+   "whole": [
+    495.42,
+    510.64
+   ]
+  },
+  "hasBhashya": true,
+  "order": 24
+ },
+ {
+  "id": "PU_2.8",
+  "ref": "2.8",
+  "section": "Question 2",
+  "sa": [
+   "देवानामसि वह्नितमः पितॄणां प्रथमा स्वधा ।",
+   "ऋषीणां चरितं सत्यमथर्वाङ्गिरसामसि ॥ २.८॥"
+  ],
+  "iast": [
+   "devānāmasi vahnitamaḥ pitṝṇāṃ prathamā svadhā ।",
+   "ṛṣīṇāṃ caritaṃ satyamatharvāṅgirasāmasi ॥ 2.8॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘Of all the Gods thou art the strongest and fiercest and to the fathers thou art the first oblation; thou art the truth and virtue of the sages and thou art Athurvan among the sons of Ungirus.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 181",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "देवानाम्",
+    "devānām",
+    "of the gods",
+    "devānām"
+   ],
+   [
+    "असि",
+    "asi",
+    "you are",
+    "√as"
+   ],
+   [
+    "पितॄणाम्",
+    "pitṝṇām",
+    "of the fathers",
+    "pitṝṇām"
+   ],
+   [
+    "ऋषीणाम्",
+    "ṛṣīṇām",
+    "of the seers",
+    "ṛṣīṇām"
+   ]
+  ],
+  "tr": {
+   "text": "You are the best transmitter (of libation) to the celestials. You are the food-offering to the Manes that precedes other offerings. You are the right conduct of the organs that constitute the essence of the body and are known as the Atharvas.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.8.mp3",
+   "whole": [
+    510.64,
+    525.87
+   ]
+  },
+  "hasBhashya": true,
+  "order": 25
+ },
+ {
+  "id": "PU_2.9",
+  "ref": "2.9",
+  "section": "Question 2",
+  "sa": [
+   "इन्द्रस्त्वं प्राण तेजसा रुद्रोऽसि परिरक्षिता ।",
+   "त्वमन्तरिक्षे चरसि सूर्यस्त्वं ज्योतिषां पतिः ॥ २.९॥"
+  ],
+  "iast": [
+   "indrastvaṃ prāṇa tejasā rudro’si parirakṣitā ।",
+   "tvamantarikṣe carasi sūryastvaṃ jyotiṣāṃ patiḥ ॥ 2.9॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘Thou art Indra, O Breath, by thy splendour and energy and Rudra because thou preservest; thou walkest in the welkin as the Sun, that imperial lustre.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 181",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तेजसा",
+    "tejasā",
+    "by splendour",
+    "tejasā"
+   ],
+   [
+    "असि",
+    "asi",
+    "you are",
+    "√as"
+   ],
+   [
+    "अन्तरिक्षे",
+    "antarikṣe",
+    "in the intermediate space",
+    "antarikṣe"
+   ],
+   [
+    "चरसि",
+    "carasi",
+    "you move",
+    "√car"
+   ],
+   [
+    "ज्योतिषाम्",
+    "jyotiṣām",
+    "of lights",
+    "jyotiṣām"
+   ]
+  ],
+  "tr": {
+   "text": "O Prana, you are Indra. Through your valour you are Rudra; and you are the preserver on all sides. You move in the sky – you are the sun, the Lord of all luminaries.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.9.mp3",
+   "whole": [
+    525.87,
+    540.33
+   ]
+  },
+  "hasBhashya": true,
+  "order": 26
+ },
+ {
+  "id": "PU_2.10",
+  "ref": "2.10",
+  "section": "Question 2",
+  "sa": [
+   "यदा त्वमभिवर्षस्यथेमाः प्राण ते प्रजाः ।",
+   "आनन्दरूपास्तिष्ठन्ति कामायान्नं भविष्यतीति ॥ २.१०॥"
+  ],
+  "iast": [
+   "yadā tvamabhivarṣasyathemāḥ prāṇa te prajāḥ ।",
+   "ānandarūpāstiṣṭhanti kāmāyānnaṃ bhaviṣyatīti ॥ 2.10॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘When thou, O Breath, rainest, thy creatures stand all joy because there shall be grain to the heart’s desire.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 181",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्रजाः",
+    "prajāḥ",
+    "creatures",
+    "prajāḥ"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "annam"
+   ],
+   [
+    "भविष्यति",
+    "bhaviṣyati",
+    "will be",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "O Prana, when you pour down (as rain), then these creatures of yours continue to be in a happy mood under the belief, “Food will be produced to our hearts’ content.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.10.mp3",
+   "whole": [
+    540.33,
+    555.56
+   ]
+  },
+  "hasBhashya": true,
+  "order": 27
+ },
+ {
+  "id": "PU_2.11",
+  "ref": "2.11",
+  "section": "Question 2",
+  "sa": [
+   "व्रात्यस्त्वं प्राणैकर्षिरत्ता विश्वस्य सत्पतिः ।",
+   "वयमाद्यस्य दातारः पिता त्वं मातरिश्व नः ॥ २.११॥"
+  ],
+  "iast": [
+   "vrātyastvaṃ prāṇaikarṣirattā viśvasya satpatiḥ ।",
+   "vayamādyasya dātāraḥ pitā tvaṃ mātariśva naḥ ॥ 2.11॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘Thou art, O Breath, the unpurified and thou art Fire, the only purity, the devourer of all and the lord of existences. We are the givers to thee of thy eating; for thou, O Matariswun, art our Father.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 181",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "विश्वस्य",
+    "viśvasya",
+    "of the whole",
+    "viśvasya"
+   ],
+   [
+    "पिता",
+    "pitā",
+    "father",
+    "pitā"
+   ]
+  ],
+  "tr": {
+   "text": "O Prana, you are unpurified, you are the fire Ekarsi, (you are) the eater, and you are the lord of all that exists. We are the givers of (your) food. O Matarisva, you are our father.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.11.mp3",
+   "whole": [
+    555.56,
+    569.98
+   ]
+  },
+  "hasBhashya": true,
+  "order": 28
+ },
+ {
+  "id": "PU_2.12",
+  "ref": "2.12",
+  "section": "Question 2",
+  "sa": [
+   "या ते तनूर्वाचि प्रतिष्ठिता या श्रोत्रे या च चक्षुषि ।",
+   "या च मनसि सन्तता शिवां तां कुरु मोत्क्रमीः ॥ २.१२॥"
+  ],
+  "iast": [
+   "yā te tanūrvāci pratiṣṭhitā yā śrotre yā ca cakṣuṣi ।",
+   "yā ca manasi santatā śivāṃ tāṃ kuru motkramīḥ ॥ 2.12॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘That body of thine which is established in the speech, sight and hearing, and in the mind is extended, that make propitious; O Life, go not out from our midst!",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 181",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "वाचि",
+    "vāci",
+    "in speech",
+    "vāci"
+   ],
+   [
+    "श्रोत्रे",
+    "śrotre",
+    "in hearing",
+    "śrotre"
+   ],
+   [
+    "चक्षुषि",
+    "cakṣuṣi",
+    "in sight",
+    "cakṣuṣi"
+   ],
+   [
+    "मनसि",
+    "manasi",
+    "in the mind",
+    "manasi"
+   ],
+   [
+    "कुरु",
+    "kuru",
+    "make",
+    "√kṛ"
+   ]
+  ],
+  "tr": {
+   "text": "Make calm that aspect of yours that is lodged in speech, that which is in the ear, that which is in the eye, and that which permeates the mind. Do not rise up.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.12.mp3",
+   "whole": [
+    569.98,
+    583.61
+   ]
+  },
+  "hasBhashya": true,
+  "order": 29
+ },
+ {
+  "id": "PU_2.13",
+  "ref": "2.13",
+  "section": "Question 2",
+  "sa": [
+   "प्राणस्येदं वशे सर्वं त्रिदिवे यत् प्रतिष्ठितम् ।",
+   "मातेव पुत्रान् रक्षस्व श्रीश्च प्रज्ञां च विधेहि न इति ॥ २.१३॥"
+  ],
+  "iast": [
+   "prāṇasyedaṃ vaśe sarvaṃ tridive yat pratiṣṭhitam ।",
+   "māteva putrān rakṣasva śrīśca prajñāṃ ca vidhehi na iti ॥ 2.13॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘For all this Universe, yea, all that is established in the heavens to the Breath is subject; guard us as a mother watches over her little children; give us fortune and beauty, give us Wisdom.’ ”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 182",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणस्य",
+    "prāṇasya",
+    "of life-breath",
+    "prāṇasya"
+   ],
+   [
+    "पुत्रान्",
+    "putrān",
+    "sons",
+    "putrān"
+   ],
+   [
+    "रक्षस्व",
+    "rakṣasva",
+    "protect",
+    "√rakṣ"
+   ],
+   [
+    "प्रज्ञाम्",
+    "prajñām",
+    "wisdom",
+    "prajñām"
+   ]
+  ],
+  "tr": {
+   "text": "All this (in this world), as also all that is in heaven is under the control of Prana. Protect us just as a mother does her sons, and ordain for us splendour and intelligence.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.2.13.mp3",
+   "whole": [
+    584.07,
+    598.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 30
+ },
+ {
+  "id": "PU_3.1",
+  "ref": "3.1",
+  "section": "Question 3",
+  "sa": [
+   "अथ हैनं कौशल्यश्चाश्वलायनः पप्रच्छ । भगवन् कुत",
+   "एष प्राणो जायते कथमायात्यस्मिञ्शरीर आत्मानं वा",
+   "प्रविभज्य कथं प्रतिष्ठते केनोत्क्रमते कथं बाह्यमभिधत्ते",
+   "कथमध्यात्ममिति ॥ ३.१॥"
+  ],
+  "iast": [
+   "atha hainaṃ kauśalyaścāśvalāyanaḥ papraccha । bhagavan kuta",
+   "eṣa prāṇo jāyate kathamāyātyasmiñśarīra ātmānaṃ vā",
+   "pravibhajya kathaṃ pratiṣṭhate kenotkramate kathaṃ bāhyamabhidhatte",
+   "kathamadhyātmamiti ॥ 3.1॥"
+  ],
+  "alt": [
+   {
+    "text": "Then the Coshalan, the son of Uswal, asked him: “Lord, whence is this Life born? How comes it in this body or how stands by self-division? By what departeth, or how maintaineth the outward and how the inward spiritual?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 182",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पप्रच्छ",
+    "papraccha",
+    "asked",
+    "√pracch"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ],
+   [
+    "जायते",
+    "jāyate",
+    "is born",
+    "√jan"
+   ]
+  ],
+  "tr": {
+   "text": "Then Kausalya, son of Asvala, asked him, “O venerable sir, from where is this Prana born ? How does He come into this body ? How again does He dwell by dividing Himself ? How does he depart ? How does He support the external things and how the physical ?”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.1.mp3",
+   "whole": [
+    599.34,
+    624.95
+   ]
+  },
+  "hasBhashya": false,
+  "order": 31
+ },
+ {
+  "id": "PU_3.2",
+  "ref": "3.2",
+  "section": "Question 3",
+  "sa": [
+   "तस्मै स होवाचातिप्रश्नान् पृच्छसि ब्रह्मिष्ठोऽसीति",
+   "तस्मात्तेऽहं ब्रवीमि ॥ ३.२॥"
+  ],
+  "iast": [
+   "tasmai sa hovācātipraśnān pṛcchasi brahmiṣṭho’sīti",
+   "tasmātte’haṃ bravīmi ॥ 3.2॥"
+  ],
+  "alt": [
+   {
+    "text": "To him answered the Rishi Pippalada: “Many and difficult things thou askest; but because thou art very holy, therefore will I tell thee.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 182",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अतिप्रश्नान्",
+    "atipraśnān",
+    "far-reaching questions",
+    "atipraśnān"
+   ],
+   [
+    "पृच्छसि",
+    "pṛcchasi",
+    "you ask",
+    "√pracch"
+   ],
+   [
+    "ब्रवीमि",
+    "bravīmi",
+    "I say",
+    "√brū"
+   ]
+  ],
+  "tr": {
+   "text": "To him he said: You are putting super-normal questions, since you are pre-eminently a knower of Brahman. Hence I speak to you.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.2.mp3",
+   "whole": [
+    624.95,
+    636.85
+   ]
+  },
+  "hasBhashya": true,
+  "order": 32
+ },
+ {
+  "id": "PU_3.3",
+  "ref": "3.3",
+  "section": "Question 3",
+  "sa": [
+   "आत्मन एष प्राणो जायते । यथैषा पुरुषे",
+   "छायैतस्मिन्नेतदाततं",
+   "मनोकृतेनायात्यस्मिञ्शरीरे ॥ ३.३॥"
+  ],
+  "iast": [
+   "ātmana eṣa prāṇo jāyate । yathaiṣā puruṣe",
+   "chāyaitasminnetadātataṃ",
+   "manokṛtenāyātyasmiñśarīre ॥ 3.3॥"
+  ],
+  "alt": [
+   {
+    "text": "“Of the Spirit is this breath of Life born; even as a shadow is cast by a man, so is this Life extended in the Spirit and by the action of the Mind it entereth into this body.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 182",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "आत्मनः",
+    "ātmanaḥ",
+    "from the Self",
+    "ātmanaḥ"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ],
+   [
+    "जायते",
+    "jāyate",
+    "is born",
+    "√jan"
+   ],
+   [
+    "पुरुषे",
+    "puruṣe",
+    "in a person",
+    "puruṣe"
+   ],
+   [
+    "छाया",
+    "chāyā",
+    "shadow",
+    "chāyā"
+   ],
+   [
+    "शरीरे",
+    "śarīre",
+    "in the body",
+    "śarīre"
+   ]
+  ],
+  "tr": {
+   "text": "From the Self is born this Prana. Just as there can be shadow when a man is there, so this Prana is fixed on the self. He comes to this body owing to the actions of the mind.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.3.mp3",
+   "whole": [
+    636.85,
+    652.37
+   ]
+  },
+  "hasBhashya": true,
+  "order": 33
+ },
+ {
+  "id": "PU_3.4",
+  "ref": "3.4",
+  "section": "Question 3",
+  "sa": [
+   "यथा सम्राडेवाधिकृतान् विनियुङ्क्ते । एतान् ग्रामानेतान्",
+   "ग्रामानधितिष्ठस्वेत्येवमेवैष प्राण इतरान् प्राणान् पृथक्",
+   "पृथगेव सन्निधत्ते ॥ ३.४॥"
+  ],
+  "iast": [
+   "yathā samrāḍevādhikṛtān viniyuṅkte । etān grāmānetān",
+   "grāmānadhitiṣṭhasvetyevamevaiṣa prāṇa itarān prāṇān pṛthak",
+   "pṛthageva sannidhatte ॥ 3.4॥"
+  ],
+  "alt": [
+   {
+    "text": "“As an Emperor commandeth his officers, and he sayeth to one ‘Govern for me these villages’, and to another ‘Govern for me these others’, so this breath, the Life, appointeth the other breaths each in his province.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 182",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "अधिकृतान्",
+    "adhikṛtān",
+    "appointed officers",
+    "√kṛ"
+   ],
+   [
+    "ग्रामान्",
+    "grāmān",
+    "villages",
+    "grāmān"
+   ],
+   [
+    "प्राणान्",
+    "prāṇān",
+    "life-breaths",
+    "prāṇān"
+   ]
+  ],
+  "tr": {
+   "text": "As it is the king alone who employs the officers saying, “Rule over these villages, and those ones”, just so Prana engages the other organs separately.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.4.mp3",
+   "whole": [
+    653.46,
+    673.27
+   ]
+  },
+  "hasBhashya": false,
+  "order": 34
+ },
+ {
+  "id": "PU_3.5",
+  "ref": "3.5",
+  "section": "Question 3",
+  "sa": [
+   "पायूपस्थेऽपानं चक्षुःश्रोत्रे मुखनासिकाभ्यां प्राणः स्वयं",
+   "प्रातिष्ठते मध्ये तु समानः । एष ह्येतद्धुतमन्नं समं नयति",
+   "तस्मादेताः सप्तार्चिषो भवन्ति ॥ ३.५॥"
+  ],
+  "iast": [
+   "pāyūpasthe’pānaṃ cakṣuḥśrotre mukhanāsikābhyāṃ prāṇaḥ svayaṃ",
+   "prātiṣṭhate madhye tu samānaḥ । eṣa hyetaddhutamannaṃ samaṃ nayati",
+   "tasmādetāḥ saptārciṣo bhavanti ॥ 3.5॥"
+  ],
+  "alt": [
+   {
+    "text": "“In the anus and the organ of pleasure is the lower breath, and in the eyes and the ears, the mouth and the nose, the main breath itself is seated; but the medial breath is in the middle. This is he that equally distributeth the burnt offering of food; for from this are the seven fires born.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 183",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ],
+   [
+    "समानः",
+    "samānaḥ",
+    "the equalising breath",
+    "samānaḥ"
+   ],
+   [
+    "अन्नम्",
+    "annam",
+    "food",
+    "annam"
+   ],
+   [
+    "नयति",
+    "nayati",
+    "leads",
+    "√nī"
+   ],
+   [
+    "भवन्ति",
+    "bhavanti",
+    "they become",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "He places Apana in the two lower apertures. Prana Himself, issuing out of the mouth and nostrils, resides in the eyes and ears. In the middle, however, is Samana, for this one distributes equally all this food that is eaten. From that issue out these seven flames.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.5.mp3",
+   "whole": [
+    673.27,
+    695.73
+   ]
+  },
+  "hasBhashya": true,
+  "order": 35
+ },
+ {
+  "id": "PU_3.6",
+  "ref": "3.6",
+  "section": "Question 3",
+  "sa": [
+   "हृदि ह्येष आत्मा । अत्रैतदेकशतं नाडीनां तासां शतं",
+   "शतमेकैकस्या द्वासप्ततिर्द्वासप्ततिः प्रतिशाखानाडीसहस्राणि",
+   "भवन्त्यासु व्यानश्चरति ॥ ३.६॥"
+  ],
+  "iast": [
+   "hṛdi hyeṣa ātmā । atraitadekaśataṃ nāḍīnāṃ tāsāṃ śataṃ",
+   "śatamekaikasyā dvāsaptatirdvāsaptatiḥ pratiśākhānāḍīsahasrāṇi",
+   "bhavantyāsu vyānaścarati ॥ 3.6॥"
+  ],
+  "alt": [
+   {
+    "text": "“The Spirit in the heart abideth, and in the heart there are one hundred and one nerves, and each nerve hath a hundred branch-nerves and each branch-nerve hath seventy two thousand sub-branch-nerves; through these the breath pervasor moveth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 183",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "हृदि",
+    "hṛdi",
+    "in the heart",
+    "hṛdi"
+   ],
+   [
+    "आत्मा",
+    "ātmā",
+    "the Self",
+    "ātmā"
+   ],
+   [
+    "नाडीनाम्",
+    "nāḍīnām",
+    "of the channels",
+    "nāḍīnām"
+   ],
+   [
+    "व्यानः",
+    "vyānaḥ",
+    "the pervading breath",
+    "vyānaḥ"
+   ],
+   [
+    "चरति",
+    "carati",
+    "moves",
+    "√car"
+   ]
+  ],
+  "tr": {
+   "text": "This self (i.e. the subtle body) is surely in the heart. There are a hundred and one of the (chief) nerves. Each of them has a hundred (division). Each branch is divided into seventy-two thousand subbranches. Among them moves Vyana.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.6.mp3",
+   "whole": [
+    695.73,
+    718.78
+   ]
+  },
+  "hasBhashya": true,
+  "order": 36
+ },
+ {
+  "id": "PU_3.7",
+  "ref": "3.7",
+  "section": "Question 3",
+  "sa": [
+   "अथैकयोर्ध्व उदानः पुण्येन पुण्यं लोकं नयति पापेन",
+   "पापमुभाभ्यामेव मनुष्यलोकम् ॥ ३.७॥"
+  ],
+  "iast": [
+   "athaikayordhva udānaḥ puṇyena puṇyaṃ lokaṃ nayati pāpena",
+   "pāpamubhābhyāmeva manuṣyalokam ॥ 3.7॥"
+  ],
+  "alt": [
+   {
+    "text": "“Of these many there is one by which the upper breath departeth that by virtue taketh to the heaven of virtue, by sin to the hell of sin, and by mingled sin and righteousness back to the world of men restoreth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 183",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "उदानः",
+    "udānaḥ",
+    "the ascending breath",
+    "udānaḥ"
+   ],
+   [
+    "पुण्येन",
+    "puṇyena",
+    "by merit",
+    "puṇyena"
+   ],
+   [
+    "लोकम्",
+    "lokam",
+    "world",
+    "lokam"
+   ],
+   [
+    "नयति",
+    "nayati",
+    "leads",
+    "√nī"
+   ],
+   [
+    "पापेन",
+    "pāpena",
+    "by demerit",
+    "pāpena"
+   ]
+  ],
+  "tr": {
+   "text": "Now then Udana, when it is in its upward trend, leads to a virtuous world as a result of virtue, to a sinful world as a result of sin and to the human world as a result of both.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.7.mp3",
+   "whole": [
+    718.78,
+    733.45
+   ]
+  },
+  "hasBhashya": true,
+  "order": 37
+ },
+ {
+  "id": "PU_3.8",
+  "ref": "3.8",
+  "section": "Question 3",
+  "sa": [
+   "आदित्यो ह वै बाह्यः प्राण उदयत्येष ह्येनं चाक्षुषं",
+   "प्राणमनुगृह्णानः । पृथिव्यां या देवता सैषा पुरुषस्य",
+   "अपानमवष्टभ्यान्तरा यदाकाशः स समानो वायुर्व्यानः ॥ ३.८॥"
+  ],
+  "iast": [
+   "ādityo ha vai bāhyaḥ prāṇa udayatyeṣa hyenaṃ cākṣuṣaṃ",
+   "prāṇamanugṛhṇānaḥ । pṛthivyāṃ yā devatā saiṣā puruṣasya",
+   "apānamavaṣṭabhyāntarā yadākāśaḥ sa samāno vāyurvyānaḥ ॥ 3.8॥"
+  ],
+  "alt": [
+   {
+    "text": "“The Sun is the main breath outside this body, for it cherisheth the eye in its rising. The divinity in the earth, she attracteth the lower breath of man, and the ether between is the medial breath; air is the breath pervasor.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 183",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "आदित्यः",
+    "ādityaḥ",
+    "the sun",
+    "ādityaḥ"
+   ],
+   [
+    "पृथिव्याम्",
+    "pṛthivyām",
+    "in the earth",
+    "pṛthivyām"
+   ],
+   [
+    "देवता",
+    "devatā",
+    "divinity",
+    "devatā"
+   ],
+   [
+    "समानः",
+    "samānaḥ",
+    "the equalising breath",
+    "samānaḥ"
+   ],
+   [
+    "वायुः",
+    "vāyuḥ",
+    "wind",
+    "vāyuḥ"
+   ],
+   [
+    "व्यानः",
+    "vyānaḥ",
+    "the pervading breath",
+    "vyānaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "The sun is indeed the external Prana. It rises up favouring this Prana in the eye. That deity, that is in the earth, favours by attracting Apana in a human being. The space (i.e. air), that is within, is Samana. The (common) air is Vyana.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.8.mp3",
+   "whole": [
+    733.45,
+    757.21
+   ]
+  },
+  "hasBhashya": true,
+  "order": 38
+ },
+ {
+  "id": "PU_3.9",
+  "ref": "3.9",
+  "section": "Question 3",
+  "sa": [
+   "तेजो ह वा उदानस्तस्मादुपशान्ततेजाः । पुनर्भवमिन्द्रियैर्मनसि",
+   "सम्पद्यमानैः ॥ ३.९॥"
+  ],
+  "iast": [
+   "tejo ha vā udānastasmādupaśāntatejāḥ । punarbhavamindriyairmanasi",
+   "sampadyamānaiḥ ॥ 3.9॥"
+  ],
+  "alt": [
+   {
+    "text": "“Light, the primal energy, is the upper breath; therefore when the light and heat in a man hath dwindled, his senses retire into the mind and with these he departeth into another birth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 184",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तेजः",
+    "tejaḥ",
+    "light",
+    "tejaḥ"
+   ],
+   [
+    "उदानः",
+    "udānaḥ",
+    "the ascending breath",
+    "udānaḥ"
+   ],
+   [
+    "इन्द्रियैः",
+    "indriyaiḥ",
+    "with the senses",
+    "indriyaiḥ"
+   ],
+   [
+    "मनसि",
+    "manasi",
+    "in the mind",
+    "manasi"
+   ]
+  ],
+  "tr": {
+   "text": "That which if well known as luminosity, is Udana. Therefore, one who gets his light extinguished, attains rebirth together with the organs that enter into (his) mind.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.9.mp3",
+   "whole": [
+    757.21,
+    770.13
+   ]
+  },
+  "hasBhashya": true,
+  "order": 39
+ },
+ {
+  "id": "PU_3.10",
+  "ref": "3.10",
+  "section": "Question 3",
+  "sa": [
+   "यच्चित्तस्तेनैष प्राणमायाति । प्राणस्तेजसा युक्तः सहात्मना",
+   "यथासङ्कल्पितं लोकं नयति ॥ ३.१०॥"
+  ],
+  "iast": [
+   "yaccittastenaiṣa prāṇamāyāti । prāṇastejasā yuktaḥ sahātmanā",
+   "yathāsaṅkalpitaṃ lokaṃ nayati ॥ 3.10॥"
+  ],
+  "alt": [
+   {
+    "text": "“Whatsoever be the mind of a man, with that mind he seeketh refuge with the breath when he dieth, and the breath and the upper breath lead him with the Spirit within him to the world of his imaginings.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 184",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणम्",
+    "prāṇam",
+    "life-breath",
+    "prāṇam"
+   ],
+   [
+    "तेजसा",
+    "tejasā",
+    "by splendour",
+    "tejasā"
+   ],
+   [
+    "लोकम्",
+    "lokam",
+    "world",
+    "lokam"
+   ],
+   [
+    "नयति",
+    "nayati",
+    "leads",
+    "√nī"
+   ]
+  ],
+  "tr": {
+   "text": "Together with whatever thought he had (at the time of death), he enters into Prana. Prana, in combination with Udana and in association with the soul, leads him to the world desired by him.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.10.mp3",
+   "whole": [
+    770.13,
+    783.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 40
+ },
+ {
+  "id": "PU_3.11",
+  "ref": "3.11",
+  "section": "Question 3",
+  "sa": [
+   "य एवं विद्वान् प्राणं वेद न हास्य प्रजा हीयतेऽमृतो",
+   "भवति तदेषः श्लोकः ॥ ३.११॥"
+  ],
+  "iast": [
+   "ya evaṃ vidvān prāṇaṃ veda na hāsya prajā hīyate’mṛto",
+   "bhavati tadeṣaḥ ślokaḥ ॥ 3.11॥"
+  ],
+  "alt": [
+   {
+    "text": "“The wise man that knoweth thus of the breath, his progeny wasteth not and he becometh immortal. Whereof this is the Scripture.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 184",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणम्",
+    "prāṇam",
+    "life-breath",
+    "prāṇam"
+   ],
+   [
+    "वेद",
+    "veda",
+    "knows",
+    "√vid"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "The line of progeny of any man of knowledge who knows Prana thus sustains no break. He becomes immortal. Pertaining to this there occurs this mantra.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.11.mp3",
+   "whole": [
+    783.84,
+    796.58
+   ]
+  },
+  "hasBhashya": true,
+  "order": 41
+ },
+ {
+  "id": "PU_3.12",
+  "ref": "3.12",
+  "section": "Question 3",
+  "sa": [
+   "उत्पत्तिमायतिं स्थानं विभुत्वं चैव पञ्चधा ।",
+   "अध्यात्मं चैव प्राणस्य विज्ञायामृतमश्नुते",
+   "विज्ञायामृतमश्नुत इति ॥ ३.१२॥"
+  ],
+  "iast": [
+   "utpattimāyatiṃ sthānaṃ vibhutvaṃ caiva pañcadhā ।",
+   "adhyātmaṃ caiva prāṇasya vijñāyāmṛtamaśnute",
+   "vijñāyāmṛtamaśnuta iti ॥ 3.12॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘By knowing the origin of the Breath, his coming and his staying and his lordship in the five provinces, likewise his relation to the Spirit, one shall taste immortality.’ ”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 184",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "उत्पत्तिम्",
+    "utpattim",
+    "origin",
+    "utpattim"
+   ],
+   [
+    "स्थानम्",
+    "sthānam",
+    "abiding",
+    "sthānam"
+   ],
+   [
+    "प्राणस्य",
+    "prāṇasya",
+    "of life-breath",
+    "prāṇasya"
+   ],
+   [
+    "विज्ञाय",
+    "vijñāya",
+    "having known",
+    "√jñā"
+   ]
+  ],
+  "tr": {
+   "text": "Having known the origin, coming, lodgement and fivefold overlordship and the physical existence of Prana, one achieves immortality. Having known, one achieves immortality.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.3.12.mp3",
+   "whole": [
+    796.58,
+    811.09
+   ]
+  },
+  "hasBhashya": true,
+  "order": 42
+ },
+ {
+  "id": "PU_4.1",
+  "ref": "4.1",
+  "section": "Question 4",
+  "sa": [
+   "अथ हैनं सौर्यायणि गार्ग्यः पप्रच्छ । भगवन्नेतस्मिन् पुरुषे",
+   "कानि स्वपन्ति कान्यस्मिञ्जाग्रति कतर एष देवः स्वप्नान् पश्यति",
+   "कस्यैतत् सुखं भवति कस्मिन्नु सर्वे सम्प्रतिष्ठिता भवन्तीति ॥ ४.१॥"
+  ],
+  "iast": [
+   "atha hainaṃ sauryāyaṇi gārgyaḥ papraccha । bhagavannetasmin puruṣe",
+   "kāni svapanti kānyasmiñjāgrati katara eṣa devaḥ svapnān paśyati",
+   "kasyaitat sukhaṃ bhavati kasminnu sarve sampratiṣṭhitā bhavantīti ॥ 4.1॥"
+  ],
+  "alt": [
+   {
+    "text": "Then Gargya of the Solar race asked him, “Lord, what are they that slumber in this Existing and what that keep vigil? Who is this god who seeth dreams or whose is this felicity? Into whom do all they vanish?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 184",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पुरुषे",
+    "puruṣe",
+    "in a person",
+    "puruṣe"
+   ],
+   [
+    "स्वप्नान्",
+    "svapnān",
+    "dreams",
+    "svapnān"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "√dṛś"
+   ],
+   [
+    "सुखम्",
+    "sukham",
+    "happiness",
+    "sukham"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "Then the grandson of Surya, born of the family of Garga, asked him, “O adorable sir, which are the organs that go to sleep in this person ? Which keep awake in him ? Which is the deity who experiences dream ? To whom occurs this happiness ? In whom do all get merged?",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.1.mp3",
+   "whole": [
+    811.09,
+    838.55
+   ]
+  },
+  "hasBhashya": true,
+  "order": 43
+ },
+ {
+  "id": "PU_4.2",
+  "ref": "4.2",
+  "section": "Question 4",
+  "sa": [
+   "तस्मै स होवाच यथा गार्ग्य मरीचयोऽर्कस्यास्तं गच्छतः सर्वा",
+   "एतस्मिंस्तेजोमण्डल एकीभवन्ति ताः पुनः पुनरुदयतः प्रचरन्त्येवं",
+   "ह वै तत् सर्वं परे देवे मनस्येकीभवति तेन तर्ह्येष पुरुषो न",
+   "शृणोति न पश्यति न जिघ्रति न रसयते न स्पृशते नाभिवदते",
+   "नादत्ते नानन्दयते न विसृजते नेयायते स्वपितीत्याचक्षते ॥ ४.२॥"
+  ],
+  "iast": [
+   "tasmai sa hovāca yathā gārgya marīcayo’rkasyāstaṃ gacchataḥ sarvā",
+   "etasmiṃstejomaṇḍala ekībhavanti tāḥ punaḥ punarudayataḥ pracarantyevaṃ",
+   "ha vai tat sarvaṃ pare deve manasyekībhavati tena tarhyeṣa puruṣo na",
+   "śṛṇoti na paśyati na jighrati na rasayate na spṛśate nābhivadate",
+   "nādatte nānandayate na visṛjate neyāyate svapitītyācakṣate ॥ 4.2॥"
+  ],
+  "alt": [
+   {
+    "text": "To him answered the Rishi Pippalada: “O Gargya, as are the rays of the sun in its setting, for they retire and all become one in yonder circle of splendour, but when he riseth again once more they walk abroad, so all the man becomes one in the highest god, even the mind. Then indeed this being seeth not, neither heareth, nor doth he smell, nor taste, nor touch, nor speaketh he aught, nor taketh in or giveth out, nor cometh nor goeth; he feeleth not any felicity. Then they say of him, ‘He sleepeth’.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 185",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "मरीचयः",
+    "marīcayaḥ",
+    "rays",
+    "marīcayaḥ"
+   ],
+   [
+    "अर्कस्य",
+    "arkasya",
+    "of the sun",
+    "arkasya"
+   ],
+   [
+    "मनसि",
+    "manasi",
+    "in the mind",
+    "manasi"
+   ],
+   [
+    "शृणोति",
+    "śṛṇoti",
+    "hears",
+    "√śru"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "√dṛś"
+   ]
+  ],
+  "tr": {
+   "text": "To him he said, O Gargya, just as all the rays of the setting sun become unified in this orb of light, and they disperse from the sun as it rises up again, similarly all that becomes unified in the high deity, the mind. Hence this person does not then hear, does not see, does not smell, does not taste, does not touch, does not speak, does not grasp, does not enjoy, does not eject, does not move. People say, “He is sleeping.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.2.mp3",
+   "whole": [
+    838.55,
+    887.21
+   ]
+  },
+  "hasBhashya": false,
+  "order": 44
+ },
+ {
+  "id": "PU_4.3",
+  "ref": "4.3",
+  "section": "Question 4",
+  "sa": [
+   "प्राणाग्नय एवैतस्मिन् पुरे जाग्रति । गार्हपत्यो ह वा एषोऽपानो",
+   "व्यानोऽन्वाहार्यपचनो यद्गार्हपत्यात् प्रणीयते प्रणयनादाहवनीयः",
+   "प्राणः ॥ ४.३॥"
+  ],
+  "iast": [
+   "prāṇāgnaya evaitasmin pure jāgrati । gārhapatyo ha vā eṣo’pāno",
+   "vyāno’nvāhāryapacano yadgārhapatyāt praṇīyate praṇayanādāhavanīyaḥ",
+   "prāṇaḥ ॥ 4.3॥"
+  ],
+  "alt": [
+   {
+    "text": "“But the fires of the breath keep watch in that sleeping city. The lower breath is the householder’s fire and the breath pervasor the fire of the Lares that burneth to the southward. The main breath is the orient fire of the sacrifice; and even as the eastern fire taketh its fuel from the western, so in the slumber of a man the main breath taketh from the lower.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 185",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पुरे",
+    "pure",
+    "in the city",
+    "pure"
+   ],
+   [
+    "अपानः",
+    "apānaḥ",
+    "the downward breath",
+    "apānaḥ"
+   ],
+   [
+    "व्यानः",
+    "vyānaḥ",
+    "the pervading breath",
+    "vyānaḥ"
+   ],
+   [
+    "प्राणः",
+    "prāṇaḥ",
+    "life-breath",
+    "prāṇaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "It is the fires (i.e. the functions resembling fire) of Prana that really keep awake in this city of the body. That which is this Apana really resembles the Garhapatya fire, Vyana resembles the fire, Anvaharyapacana. Since the Ahavaniya fire is obtained from Garhapatya, which is the former’s source of extraction, therefore Prana conforms to Ahavaniya (because of its issuing out of Apana).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.3.mp3",
+   "whole": [
+    887.21,
+    906.64
+   ]
+  },
+  "hasBhashya": false,
+  "order": 45
+ },
+ {
+  "id": "PU_4.4",
+  "ref": "4.4",
+  "section": "Question 4",
+  "sa": [
+   "यदुच्छ्वासनिःश्वासावेतावाहुती समं नयतीति स समानः । मनो ह",
+   "वाव यजमानः । इष्टफलमेवोदानः । स एनं यजमानमहरहर्ब्रह्म",
+   "गमयति ॥ ४.४॥"
+  ],
+  "iast": [
+   "yaducchvāsaniḥśvāsāvetāvāhutī samaṃ nayatīti sa samānaḥ । mano ha",
+   "vāva yajamānaḥ । iṣṭaphalamevodānaḥ । sa enaṃ yajamānamaharaharbrahma",
+   "gamayati ॥ 4.4॥"
+  ],
+  "alt": [
+   {
+    "text": "“But the medial breath is the priest, the sacrificant; for he equaliseth the offering of the inbreath and the offering of the outbreath. The Mind is the giver of the sacrifice and the upper breath is the fruit of the sacrifice, for it taketh the sacrificer day by day into the presence of the Eternal.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 185",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "आहुती",
+    "āhutī",
+    "two oblations",
+    "āhutī"
+   ],
+   [
+    "नयति",
+    "nayati",
+    "leads",
+    "√nī"
+   ],
+   [
+    "समानः",
+    "samānaḥ",
+    "the equalising breath",
+    "samānaḥ"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manaḥ"
+   ],
+   [
+    "यजमानः",
+    "yajamānaḥ",
+    "the sacrificer",
+    "yajamānaḥ"
+   ],
+   [
+    "गमयति",
+    "gamayati",
+    "causes to go",
+    "√gam"
+   ]
+  ],
+  "tr": {
+   "text": "Samana is the priest called Hota, because it strikes a balance between exhalation and inhalation which are but (comparable to) two oblations. The mind is verily the sacrificer. The desired fruit Udana, which leads this sacrificer every day to Brahman.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.4.mp3",
+   "whole": [
+    906.64,
+    926.49
+   ]
+  },
+  "hasBhashya": true,
+  "order": 46
+ },
+ {
+  "id": "PU_4.5",
+  "ref": "4.5",
+  "section": "Question 4",
+  "sa": [
+   "अत्रैष देवः स्वप्ने महिमानमनुभवति । यद्दृष्टं",
+   "दृष्टमनुपश्यति श्रुतं श्रुतमेवार्थमनुशृणोति",
+   "देशदिगन्तरैश्च प्रत्यनुभूतं पुनः पुनः प्रत्यनुभवति दृष्टं",
+   "चादृष्टं च श्रुतं चाश्रुतं चानुभूतं चाननुभूतं च",
+   "सच्चासच्च सर्वं पश्यति सर्वः पश्यति ॥ ४.५॥"
+  ],
+  "iast": [
+   "atraiṣa devaḥ svapne mahimānamanubhavati । yaddṛṣṭaṃ",
+   "dṛṣṭamanupaśyati śrutaṃ śrutamevārthamanuśṛṇoti",
+   "deśadigantaraiśca pratyanubhūtaṃ punaḥ punaḥ pratyanubhavati dṛṣṭaṃ",
+   "cādṛṣṭaṃ ca śrutaṃ cāśrutaṃ cānubhūtaṃ cānanubhūtaṃ ca",
+   "saccāsacca sarvaṃ paśyati sarvaḥ paśyati ॥ 4.5॥"
+  ],
+  "alt": [
+   {
+    "text": "“Now the Mind in dream revelleth in the glory of his imaginings. All that it hath seen it seemeth to see over again, and of all that it hath heard it repeateth the hearing; yea, all that it hath felt and thought and known in many lands and in various regions, these it liveth over again in its dreaming. What it hath seen and what it hath not seen, what it hath heard and what it hath not heard, what it hath known and what it hath not known, what is and what is not, all, all it seeth; for the Mind is the Universe.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 186",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "स्वप्ने",
+    "svapne",
+    "in dream",
+    "svapne"
+   ],
+   [
+    "महिमानम्",
+    "mahimānam",
+    "greatness",
+    "mahimānam"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "√dṛś"
+   ]
+  ],
+  "tr": {
+   "text": "In this dream state this deity (i.e. the mind) experiences greatness. Whatever was seen, it sees again; whatever was heard, it hears again; whatever was perceived in the different places and directions, it experiences again and again; it perceives all by becoming all that was seen or not seen, heard or not heard, perceived or not perceived, and whatever is real or unreal.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.5.mp3",
+   "whole": [
+    926.49,
+    963.04
+   ]
+  },
+  "hasBhashya": true,
+  "order": 47
+ },
+ {
+  "id": "PU_4.6",
+  "ref": "4.6",
+  "section": "Question 4",
+  "sa": [
+   "स यदा तेजसाऽभिभूतो भवति । अत्रैष देवः स्वप्नान्न",
+   "पश्यत्यथ यदैतस्मिञ्शरीर एतत्सुखं भवति ॥ ४.६॥"
+  ],
+  "iast": [
+   "sa yadā tejasā’bhibhūto bhavati । atraiṣa devaḥ svapnānna",
+   "paśyatyatha yadaitasmiñśarīra etatsukhaṃ bhavati ॥ 4.6॥"
+  ],
+  "alt": [
+   {
+    "text": "“But when he is overwhelmed with light, then Mind, the God, dreameth no longer; then in this body he hath felicity.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 186",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "तेजसा",
+    "tejasā",
+    "by splendour",
+    "tejasā"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ],
+   [
+    "स्वप्नान्",
+    "svapnān",
+    "dreams",
+    "svapnān"
+   ],
+   [
+    "पश्यति",
+    "paśyati",
+    "sees",
+    "√dṛś"
+   ],
+   [
+    "सुखम्",
+    "sukham",
+    "happiness",
+    "sukham"
+   ]
+  ],
+  "tr": {
+   "text": "When that deity, (the mind), becomes overwhelmed by (solar) rays (called bile), then in this state the deity does not see dreams. Then, all that time, there occurs this kind of happiness in this body.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.6.mp3",
+   "whole": [
+    963.04,
+    977.17
+   ]
+  },
+  "hasBhashya": true,
+  "order": 48
+ },
+ {
+  "id": "PU_4.7",
+  "ref": "4.7",
+  "section": "Question 4",
+  "sa": [
+   "स यथा सोम्य वयांसि वासोवृक्षं सम्प्रतिष्ठन्ते । एवं",
+   "ह वै तत् सर्वं पर आत्मनि सम्प्रतिष्ठते ॥ ४.७॥"
+  ],
+  "iast": [
+   "sa yathā somya vayāṃsi vāsovṛkṣaṃ sampratiṣṭhante । evaṃ",
+   "ha vai tat sarvaṃ para ātmani sampratiṣṭhate ॥ 4.7॥"
+  ],
+  "alt": [
+   {
+    "text": "“O fair son, as birds wing towards their resting tree, so do all these depart into the Supreme Spirit:",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 186",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ],
+   [
+    "वयांसि",
+    "vayāṃsi",
+    "birds",
+    "vayāṃsi"
+   ],
+   [
+    "आत्मनि",
+    "ātmani",
+    "in the Self",
+    "ātmani"
+   ]
+  ],
+  "tr": {
+   "text": "To illustrate the point: As the birds, O good looking one, proceed towards the tree that provides lodging, just so all these proceed to the supreme Self.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.7.mp3",
+   "whole": [
+    977.17,
+    990.67
+   ]
+  },
+  "hasBhashya": false,
+  "order": 49
+ },
+ {
+  "id": "PU_4.8",
+  "ref": "4.8",
+  "section": "Question 4",
+  "sa": [
+   "पृथिवी च पृथिवीमात्रा चापश्चापोमात्रा च तेजश्च तेजोमात्रा च",
+   "वायुश्च वायुमात्रा चाकाशश्चाकाशमात्रा च चक्षुश्च द्रष्टव्यं",
+   "च श्रोत्रं च श्रोतव्यं च घ्राणं च घ्रातव्यं च रसश्च",
+   "रसयितव्यं च त्वक्च स्पर्शयितव्यं च वाक्च वक्तव्यं च हस्तौ",
+   "चादातव्यं चोपस्थश्चानन्दयितव्यं च पायुश्च विसर्जयितव्यं च",
+   "पादौ च गन्तव्यं च मनश्च मन्तव्यं च बुद्धिश्च बोद्धव्यं",
+   "चाहङ्कारश्चाहङ्कर्तव्यं च चित्तं च चेतयितव्यं च तेजश्च",
+   "विद्योतयितव्यं च प्राणश्च विधारयितव्यं च ॥ ४.८॥"
+  ],
+  "iast": [
+   "pṛthivī ca pṛthivīmātrā cāpaścāpomātrā ca tejaśca tejomātrā ca",
+   "vāyuśca vāyumātrā cākāśaścākāśamātrā ca cakṣuśca draṣṭavyaṃ",
+   "ca śrotraṃ ca śrotavyaṃ ca ghrāṇaṃ ca ghrātavyaṃ ca rasaśca",
+   "rasayitavyaṃ ca tvakca sparśayitavyaṃ ca vākca vaktavyaṃ ca hastau",
+   "cādātavyaṃ copasthaścānandayitavyaṃ ca pāyuśca visarjayitavyaṃ ca",
+   "pādau ca gantavyaṃ ca manaśca mantavyaṃ ca buddhiśca boddhavyaṃ",
+   "cāhaṅkāraścāhaṅkartavyaṃ ca cittaṃ ca cetayitavyaṃ ca tejaśca",
+   "vidyotayitavyaṃ ca prāṇaśca vidhārayitavyaṃ ca ॥ 4.8॥"
+  ],
+  "alt": [
+   {
+    "text": "“Earth and the inner things of earth; water and the inner things of water; light and the inner things of light; air and the inner things of air; ether and the inner things of ether; the eye and its seeings; the ear and its hearings; smell and the objects of smell; taste and the objects of taste; the skin and the objects of touch; speech and the things to be spoken; the two hands and their takings; the organ of pleasure and its enjoyings; the anus and its excretions; the feet and their goings; the mind and its feelings; the intelligence and what it understandeth; the sense of Ego and that which is felt to be Ego; the conscious heart and that of which it is conscious; light and what it lighteneth; Life and the things it maintaineth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 186, 187",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पृथिवी",
+    "pṛthivī",
+    "earth",
+    "pṛthivī"
+   ],
+   [
+    "वाक्",
+    "vāk",
+    "speech",
+    "vāk"
+   ],
+   [
+    "हस्तौ",
+    "hastau",
+    "the two hands",
+    "hastau"
+   ],
+   [
+    "पादौ",
+    "pādau",
+    "the two feet",
+    "pādau"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manaḥ"
+   ],
+   [
+    "बुद्धिः",
+    "buddhiḥ",
+    "understanding",
+    "buddhiḥ"
+   ]
+  ],
+  "tr": {
+   "text": "Earth and the rudiment of earth, water and the rudiment of water, fire and the rudiment of fire, space and the rudiment of space, the organ and object of vision, the organ and object of hearing, the organ and object of smell, the organ and object of taste, the organ and object of touch, the organ and content of speech, the hands and the object grasped, sex and enjoyment, the organ of excretion and the excreta, the feet and the space trodden, the mind and the content of thought, understanding and the content of understanding, egoism and the content of egoism, awareness and the content of awareness, the shining skin and the object revealed by that, Prana and all that has to be held by Prana.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.8.mp3",
+   "whole": [
+    991.55,
+    1054.21
+   ]
+  },
+  "hasBhashya": true,
+  "order": 50
+ },
+ {
+  "id": "PU_4.9",
+  "ref": "4.9",
+  "section": "Question 4",
+  "sa": [
+   "एष हि द्रष्टा स्प्रष्टा श्रोता घ्राता रसयिता मन्ता बोद्धा कर्ता",
+   "विज्ञानात्मा पुरुषः । स परेऽक्षर आत्मनि सम्प्रतिष्ठते ॥ ४.९॥"
+  ],
+  "iast": [
+   "eṣa hi draṣṭā spraṣṭā śrotā ghrātā rasayitā mantā boddhā kartā",
+   "vijñānātmā puruṣaḥ । sa pare’kṣara ātmani sampratiṣṭhate ॥ 4.9॥"
+  ],
+  "alt": [
+   {
+    "text": "“For this that seeth and toucheth, heareth, smelleth, tasteth, feeleth, understandeth, acteth, is the reasoning self, the Male within. This too departeth into the Higher Self which is Imperishable.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 187",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "द्रष्टा",
+    "draṣṭā",
+    "the seer",
+    "draṣṭā"
+   ],
+   [
+    "कर्ता",
+    "kartā",
+    "the doer",
+    "kartā"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "the person",
+    "puruṣaḥ"
+   ],
+   [
+    "आत्मनि",
+    "ātmani",
+    "in the Self",
+    "ātmani"
+   ]
+  ],
+  "tr": {
+   "text": "And this one is the seer, feeler, hearer, smeller, taster, thinker, ascertainer, doer – the Purusha (pervading the body and senses), that is a knower by nature. This becomes wholly established in the supreme, immutable Self.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.9.mp3",
+   "whole": [
+    1054.21,
+    1071.5
+   ]
+  },
+  "hasBhashya": false,
+  "order": 51
+ },
+ {
+  "id": "PU_4.10",
+  "ref": "4.10",
+  "section": "Question 4",
+  "sa": [
+   "परमेवाक्षरं प्रतिपद्यते स यो ह वै तदच्छायमशरीरमलोहितं",
+   "शुभ्रमक्षरं वेदयते यस्तु सोम्य । स सर्वज्ञः सर्वो भवति ।",
+   "तदेष श्लोकः ॥ ४.१०॥"
+  ],
+  "iast": [
+   "paramevākṣaraṃ pratipadyate sa yo ha vai tadacchāyamaśarīramalohitaṃ",
+   "śubhramakṣaraṃ vedayate yastu somya । sa sarvajñaḥ sarvo bhavati ।",
+   "tadeṣa ślokaḥ ॥ 4.10॥"
+  ],
+  "alt": [
+   {
+    "text": "“He that knoweth the shadowless, colourless, bodiless, luminous and imperishable Spirit, attaineth to the Imperishable, even to the Most High. O fair son, he knoweth the All and becometh the All. Whereof this is the Scripture.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 187",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अक्षरम्",
+    "akṣaram",
+    "the imperishable",
+    "akṣaram"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "He who realises that shadowless, bodiless, colourless, pure, Immutable attains the supreme Immutable Itself. O amiable one, he, again, who realises, becomes omniscient and all. Illustrative of this there occurs this verse:",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.10.mp3",
+   "whole": [
+    1071.5,
+    1092.15
+   ]
+  },
+  "hasBhashya": false,
+  "order": 52
+ },
+ {
+  "id": "PU_4.11",
+  "ref": "4.11",
+  "section": "Question 4",
+  "sa": [
+   "विज्ञानात्मा सह देवैश्च सर्वैः प्राणा भूतानि सम्प्रतिष्ठन्ति यत्र",
+   "तदक्षरं वेदयते यस्तु सोम्य स सर्वज्ञः सर्वमेवाविवेशेति ॥ ४.११॥"
+  ],
+  "iast": [
+   "vijñānātmā saha devaiśca sarvaiḥ prāṇā bhūtāni sampratiṣṭhanti yatra",
+   "tadakṣaraṃ vedayate yastu somya sa sarvajñaḥ sarvamevāviveśeti ॥ 4.11॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘He, O fair son, that knoweth the Imperishable into whom the understanding self departeth, and all the Gods, and the life-breaths and the elements, he knoweth the Universe!’ ”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 187, 188",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "देवैः",
+    "devaiḥ",
+    "with the gods",
+    "devaiḥ"
+   ],
+   [
+    "प्राणाः",
+    "prāṇāḥ",
+    "life-breaths",
+    "prāṇāḥ"
+   ],
+   [
+    "अक्षरम्",
+    "akṣaram",
+    "the imperishable",
+    "akṣaram"
+   ]
+  ],
+  "tr": {
+   "text": "O amiable one, he becomes all-knowing and enters into all, who knows that Immutable wherein merges the cognising Self – (the Purusha who is naturally a knower) – as also do the organs and the elements together with all the deities.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.4.11.mp3",
+   "whole": [
+    1092.15,
+    1111.7
+   ]
+  },
+  "hasBhashya": true,
+  "order": 53
+ },
+ {
+  "id": "PU_5.1",
+  "ref": "5.1",
+  "section": "Question 5",
+  "sa": [
+   "अथ हैनं शैब्यः सत्यकामः पप्रच्छ । स यो ह वै",
+   "तद्भगवन्मनुष्येषु प्रायणान्तमोङ्कारमभिध्यायीत । कतमं वाव",
+   "स तेन लोकं जयतीति ॥ ५.१॥"
+  ],
+  "iast": [
+   "atha hainaṃ śaibyaḥ satyakāmaḥ papraccha । sa yo ha vai",
+   "tadbhagavanmanuṣyeṣu prāyaṇāntamoṅkāramabhidhyāyīta । katamaṃ vāva",
+   "sa tena lokaṃ jayatīti ॥ 5.1॥"
+  ],
+  "alt": [
+   {
+    "text": "Then the Shaivya Satyakama asked him: “Lord, he among men that meditate unto death on OM the syllable, which of the worlds doth he conquer by its puissance?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 188",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "मनुष्येषु",
+    "manuṣyeṣu",
+    "among human beings",
+    "manuṣyeṣu"
+   ],
+   [
+    "ओङ्कारम्",
+    "oṅkāram",
+    "the syllable Oṃ",
+    "oṅkāram"
+   ],
+   [
+    "लोकम्",
+    "lokam",
+    "world",
+    "lokam"
+   ]
+  ],
+  "tr": {
+   "text": "Next, Satyakama, son of Sibi, asked him, “O venerable sir, which world does he really win thereby, who among men, intently meditates on Om in that wonderful way till death ?” To him he said:",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.5.1.mp3",
+   "whole": [
+    1111.7,
+    1131.22
+   ]
+  },
+  "hasBhashya": false,
+  "order": 54
+ },
+ {
+  "id": "PU_5.2",
+  "ref": "5.2",
+  "section": "Question 5",
+  "sa": [
+   "तस्मै स होवाच । एतद्वै सत्यकाम परं चापरं च ब्रह्म यदोङ्कारः ।",
+   "तस्माद्विद्वानेतेनैवायतनेनैकतरमन्वेति ॥ ५.२॥"
+  ],
+  "iast": [
+   "tasmai sa hovāca । etadvai satyakāma paraṃ cāparaṃ ca brahma yadoṅkāraḥ ।",
+   "tasmādvidvānetenaivāyatanenaikataramanveti ॥ 5.2॥"
+  ],
+  "alt": [
+   {
+    "text": "To him answered the Rishi Pippalada: “This imperishable Word that is OM, O Satyakama, is the Higher Brahman and also the Lower. Therefore the wise man by making his home in the Word, winneth to one of these.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 188",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahma"
+   ],
+   [
+    "ओङ्कारः",
+    "oṅkāraḥ",
+    "the syllable Oṃ",
+    "oṅkāraḥ"
+   ],
+   [
+    "आयतनेन",
+    "āyatanena",
+    "by the support",
+    "āyatanena"
+   ]
+  ],
+  "tr": {
+   "text": "O Satyakama, this very Brahman, that is (known as) the inferior and superior, is but this Om. Therefore the illumined soul attains either of the two through this one means alone.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.5.2.mp3",
+   "whole": [
+    1132.23,
+    1149.72
+   ]
+  },
+  "hasBhashya": false,
+  "order": 55
+ },
+ {
+  "id": "PU_5.3",
+  "ref": "5.3",
+  "section": "Question 5",
+  "sa": [
+   "स यद्येकमात्रमभिध्यायीत स तेनैव संवेदितस्तूर्णमेव",
+   "जगत्यामभिसम्पद्यते । तमृचो मनुष्यलोकमुपनयन्ते स तत्र",
+   "तपसा ब्रह्मचर्येण श्रद्धया सम्पन्नो महिमानमनुभवति ॥ ५.३॥"
+  ],
+  "iast": [
+   "sa yadyekamātramabhidhyāyīta sa tenaiva saṃveditastūrṇameva",
+   "jagatyāmabhisampadyate । tamṛco manuṣyalokamupanayante sa tatra",
+   "tapasā brahmacaryeṇa śraddhayā sampanno mahimānamanubhavati ॥ 5.3॥"
+  ],
+  "alt": [
+   {
+    "text": "“If he meditate on the one letter of OM the syllable, by that enlightened he attaineth swiftly in the material universe, and the hymns of the Rigveda escort him to the world of men; there endowed with askesis and faith and holiness he experienceth majesty.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 188",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "जगत्याम्",
+    "jagatyām",
+    "in the world",
+    "jagatyām"
+   ],
+   [
+    "तपसा",
+    "tapasā",
+    "by austerity",
+    "tapasā"
+   ],
+   [
+    "ब्रह्मचर्येण",
+    "brahmacaryeṇa",
+    "by disciplined student life",
+    "brahmacaryeṇa"
+   ],
+   [
+    "श्रद्धया",
+    "śraddhayā",
+    "with faith",
+    "śraddhayā"
+   ],
+   [
+    "महिमानम्",
+    "mahimānam",
+    "greatness",
+    "mahimānam"
+   ]
+  ],
+  "tr": {
+   "text": "Should he meditate on Om as consisting of one letter he becomes enlightened even by that and attains a human birth on the earth. The Rik mantras lead him to the human birth. Being endued there with self-control, continence, and faith he experiences greatness.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.5.3.mp3",
+   "whole": [
+    1149.55,
+    1175.75
+   ]
+  },
+  "hasBhashya": false,
+  "order": 56
+ },
+ {
+  "id": "PU_5.4",
+  "ref": "5.4",
+  "section": "Question 5",
+  "sa": [
+   "अथ यदि द्विमात्रेण मनसि सम्पद्यते सोऽन्तरिक्षं",
+   "यजुर्भिरुन्नीयते सोमलोकम् । स सोमलोके विभूतिमनुभूय",
+   "पुनरावर्तते ॥ ५.४॥"
+  ],
+  "iast": [
+   "atha yadi dvimātreṇa manasi sampadyate so’ntarikṣaṃ",
+   "yajurbhirunnīyate somalokam । sa somaloke vibhūtimanubhūya",
+   "punarāvartate ॥ 5.4॥"
+  ],
+  "alt": [
+   {
+    "text": "“Now if by the two letters of the syllable he in the mind attaineth, to the skies he is exalted and the hymns of the Yajur escort him to the Lunar World. In the heavens of the Moon he feeleth his soul’s majesty; then once more he returneth.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 188",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "मनसि",
+    "manasi",
+    "in the mind",
+    "manasi"
+   ],
+   [
+    "यजुर्भिः",
+    "yajurbhiḥ",
+    "by the Yajur verses",
+    "yajurbhiḥ"
+   ],
+   [
+    "सोमलोके",
+    "somaloke",
+    "in the lunar world",
+    "somaloke"
+   ],
+   [
+    "विभूतिम्",
+    "vibhūtim",
+    "majesty",
+    "vibhūtim"
+   ],
+   [
+    "अनुभूय",
+    "anubhūya",
+    "having experienced",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "Now gain, if he meditates on Om with the help of the second letter, he becomes identified with the mind. By the Yajur mantras he is lifted to the intermediate space, the world of the Moon. Having experienced greatness in the lunar world, he turns round again.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.5.4.mp3",
+   "whole": [
+    1176.34,
+    1194.55
+   ]
+  },
+  "hasBhashya": true,
+  "order": 57
+ },
+ {
+  "id": "PU_5.5",
+  "ref": "5.5",
+  "section": "Question 5",
+  "sa": [
+   "यः पुनरेतं त्रिमात्रेणोमित्येतेनैवाक्षरेण परं पुरुषमभिध्यायीत स तेजसि सूर्ये सम्पन्नः । यथा पादोदरस्त्वचा विनिर्मुच्यत",
+   "एवं ह वै स पाप्मना विनिर्मुक्तः स सामभिरुन्नीयते ब्रह्मलोकं",
+   "स एतस्माज्जीवघनात् परात्परं पुरिशयं पुरुषमीक्षते । तदेतौ",
+   "श्लोकौ भवतः ॥ ५.५॥"
+  ],
+  "iast": [
+   "yaḥ punaretaṃ trimātreṇomityetenaivākṣareṇa paraṃ puruṣamabhidhyāyīta sa tejasi sūrye sampannaḥ । yathā pādodarastvacā vinirmucyata",
+   "evaṃ ha vai sa pāpmanā vinirmuktaḥ sa sāmabhirunnīyate brahmalokaṃ",
+   "sa etasmājjīvaghanāt parātparaṃ puriśayaṃ puruṣamīkṣate । tadetau",
+   "ślokau bhavataḥ ॥ 5.5॥"
+  ],
+  "alt": [
+   {
+    "text": "“But he who by all the three letters meditateth by this syllable, even by OM on the Most High Being, he in the Solar World of light and energy is secured in his attainings; as a snake casteth off its slough, so he casteth off sin, and the hymns of the Samaveda escort him to the heaven of the Spirit. He from that Lower who is the density of existence beholdeth the Higher than the Highest of whom every form is one city. Whereof these are the verses.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 189",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "the Person",
+    "puruṣam"
+   ],
+   [
+    "सूर्ये",
+    "sūrye",
+    "in the sun",
+    "sūrye"
+   ],
+   [
+    "त्वचा",
+    "tvacā",
+    "from the skin",
+    "tvacā"
+   ],
+   [
+    "सामभिः",
+    "sāmabhiḥ",
+    "by the Sāman chants",
+    "sāmabhiḥ"
+   ]
+  ],
+  "tr": {
+   "text": "Again, any one who meditates on the supreme Purusha with the help of this very syllable Om, as possessed of three letters, becomes unified in the Sun, consisting of light. As a snake becomes freed from its Slough, exactly in a similar way, he becomes freed from sin, and he is lifted up to the world of Brahma (Hiranyagarbha) by the Sama mantras. From this total mass of creatures (that Hiranyagarbha is) he sees the supreme Purusha that penetrates every being and is higher than the higher One (viz. Hiranyagarbha). Bearing on this, there occur two verses:",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.5.5.mp3",
+   "whole": [
+    1194.43,
+    1233.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 58
+ },
+ {
+  "id": "PU_5.6",
+  "ref": "5.6",
+  "section": "Question 5",
+  "sa": [
+   "तिस्रो मात्रा मृत्युमत्यः प्रयुक्ता",
+   "अन्योन्यसक्ताः अनविप्रयुक्ताः ।",
+   "क्रियासु बाह्याभ्यन्तरमध्यमासु",
+   "सम्यक् प्रयुक्तासु न कम्पते ज्ञः ॥ ५.६॥"
+  ],
+  "iast": [
+   "tisro mātrā mṛtyumatyaḥ prayuktā",
+   "anyonyasaktāḥ anaviprayuktāḥ ।",
+   "kriyāsu bāhyābhyantaramadhyamāsu",
+   "samyak prayuktāsu na kampate jñaḥ ॥ 5.6॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘Children of death are the letters when they are used as three, the embracing and the inseparable letters; but the wise man is not shaken; for there are three kinds of works, outward deed and inward action and another which is blended of the two, and all these he doeth rightly without fear and without trembling.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 189",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "मात्राः",
+    "mātrāḥ",
+    "measures",
+    "mātrāḥ"
+   ],
+   [
+    "क्रियासु",
+    "kriyāsu",
+    "in actions",
+    "kriyāsu"
+   ],
+   [
+    "न",
+    "na",
+    "not",
+    "na"
+   ],
+   [
+    "कम्पते",
+    "kampate",
+    "trembles",
+    "√kamp"
+   ]
+  ],
+  "tr": {
+   "text": "The three letters (by themselves) are within the range of death. But if they are closely joined, one to another, are not divergently applied to different objects, and are applied to the three courses of action – external, internal and intermediate – that are properly resorted to, then the man of enlightenment does not shake (i.e. remains undisturbed).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.5.6.mp3",
+   "whole": [
+    1234.38,
+    1252.84
+   ]
+  },
+  "hasBhashya": true,
+  "order": 59
+ },
+ {
+  "id": "PU_5.7",
+  "ref": "5.7",
+  "section": "Question 5",
+  "sa": [
+   "ऋग्भिरेतं यजुर्भिरन्तरिक्षं",
+   "सामभिर्यत् तत् कवयो वेदयन्ते ।",
+   "तमोङ्कारेणैवायतनेनान्वेति विद्वान्",
+   "यत्तच्छान्तमजरममृतमभयं परं चेति ॥ ५.७॥"
+  ],
+  "iast": [
+   "ṛgbhiretaṃ yajurbhirantarikṣaṃ",
+   "sāmabhiryat tat kavayo vedayante ।",
+   "tamoṅkāreṇaivāyatanenānveti vidvān",
+   "yattacchāntamajaramamṛtamabhayaṃ paraṃ ceti ॥ 5.7॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘To the earth the Rigveda leadeth, to the skies the Yajur, but the Sama to That of which the sages know. Thither the wise man by resting on OM the syllable attaineth, even to that Supreme Quietude where age is not and fear is cast out by immortality.’ ”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 189, 190",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ऋग्भिः",
+    "ṛgbhiḥ",
+    "by the Rig verses",
+    "ṛgbhiḥ"
+   ],
+   [
+    "यजुर्भिः",
+    "yajurbhiḥ",
+    "by the Yajur verses",
+    "yajurbhiḥ"
+   ],
+   [
+    "सामभिः",
+    "sāmabhiḥ",
+    "by the Sāman chants",
+    "sāmabhiḥ"
+   ],
+   [
+    "आयतनेन",
+    "āyatanena",
+    "by the support",
+    "āyatanena"
+   ]
+  ],
+  "tr": {
+   "text": "The intelligent know this world that is attainable by the Rik mantras, the intermediate space achievable by the Yajur mantras, and that which is reached by the Sama mantras. The enlightened man attains that (threefold) world through Om alone; and through Om as an aid, he reaches that also which is the supreme Reality that is quiet and beyond old age, death and fear.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.5.7.mp3",
+   "whole": [
+    1252.84,
+    1274.96
+   ]
+  },
+  "hasBhashya": true,
+  "order": 60
+ },
+ {
+  "id": "PU_6.1",
+  "ref": "6.1",
+  "section": "Question 6",
+  "sa": [
+   "अथ हैनं सुकेशा भारद्वाजः पप्रच्छ । भगवन् हिरण्यनाभः",
+   "कौसल्यो राजपुत्रो मामुपेत्यैतं प्रश्नमपृच्छत । षोडशकलं",
+   "भारद्वाज पुरुषं वेत्थ । तमहं कुमारमब्रुवं नाहमिमं वेद ।",
+   "यद्यहमिममवेदिषं कथं ते नावक्ष्यमिति । समूलो वा एष",
+   "परिशुष्यति योऽनृतमभिवदति तस्मान्नार्हाम्यनृतं वक्तुम् । स",
+   "तूष्णीं रथमारुह्य प्रवव्राज । तं त्वा पृच्छामि क्वासौ पुरुष",
+   "इति ॥ ६.१॥"
+  ],
+  "iast": [
+   "atha hainaṃ sukeśā bhāradvājaḥ papraccha । bhagavan hiraṇyanābhaḥ",
+   "kausalyo rājaputro māmupetyaitaṃ praśnamapṛcchata । ṣoḍaśakalaṃ",
+   "bhāradvāja puruṣaṃ vettha । tamahaṃ kumāramabruvaṃ nāhamimaṃ veda ।",
+   "yadyahamimamavediṣaṃ kathaṃ te nāvakṣyamiti । samūlo vā eṣa",
+   "pariśuṣyati yo’nṛtamabhivadati tasmānnārhāmyanṛtaṃ vaktum । sa",
+   "tūṣṇīṃ rathamāruhya pravavrāja । taṃ tvā pṛcchāmi kvāsau puruṣa",
+   "iti ॥ 6.1॥"
+  ],
+  "alt": [
+   {
+    "text": "Then Sukesha the Bharadwaja asked him, “Lord, Hiranyanabha of Coshala, the king’s son, came to me and put me this question, ‘O Bharadwaja, knowest thou the Being and the sixteen parts of Him?’ and I answered the boy, ‘I know Him not; for if I knew Him, surely I should tell thee of Him: but I cannot tell thee a lie; for from the roots he shall wither who speaketh falsehood.’ But he mounted his chariot in silence and departed from me. Of Him I ask thee, who is the Being?”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 190",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "the Person",
+    "puruṣam"
+   ],
+   [
+    "वेत्थ",
+    "vettha",
+    "you know",
+    "√vid"
+   ],
+   [
+    "क्व",
+    "kva",
+    "where",
+    "kva"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "the person",
+    "puruṣaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "Then Sukesa, son of Bharadvaja, asked him, “Venerable sir, Hiranyanabha, a prince of Kosala, approached me and put this question, ‘Bharadvaja, do you know the Purusha possessed of sixteen limbs ?’ To that prince I said, ‘I do not know him. Had I known him why should I not have told you ? Anyone who utters a falsehood dries up root and all. Therefore I cannot afford to utter a falsehood. Silently he went away riding on the chariot. Of that Purusha I ask you, ‘Where does He exist ?’”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.1.mp3",
+   "whole": [
+    1275.3,
+    1326.23
+   ]
+  },
+  "hasBhashya": true,
+  "order": 61
+ },
+ {
+  "id": "PU_6.2",
+  "ref": "6.2",
+  "section": "Question 6",
+  "sa": [
+   "तस्मै स होवाचेहैवान्तःशरीरे सोम्य स पुरुषो",
+   "यस्मिन्नेताः षोडशकलाः प्रभवन्तीति ॥ ६.२॥"
+  ],
+  "iast": [
+   "tasmai sa hovācehaivāntaḥśarīre somya sa puruṣo",
+   "yasminnetāḥ ṣoḍaśakalāḥ prabhavantīti ॥ 6.2॥"
+  ],
+  "alt": [
+   {
+    "text": "To him answered the Rishi Pippalada: “O fair son, even here is that Being, in the inner body of every creature for in Him are the sixteen members born.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 190",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "इह",
+    "iha",
+    "here",
+    "iha"
+   ],
+   [
+    "शरीरे",
+    "śarīre",
+    "in the body",
+    "śarīre"
+   ],
+   [
+    "पुरुषः",
+    "puruṣaḥ",
+    "the person",
+    "puruṣaḥ"
+   ],
+   [
+    "कलाः",
+    "kalāḥ",
+    "parts",
+    "kalāḥ"
+   ],
+   [
+    "प्रभवन्ति",
+    "prabhavanti",
+    "they arise",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "To him he (Pippalada) said: O amiable one, here itself inside the body is that Purusha in whom originate these sixteen digits (or limbs).",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.2.mp3",
+   "whole": [
+    1326.23,
+    1338.64
+   ]
+  },
+  "hasBhashya": false,
+  "order": 62
+ },
+ {
+  "id": "PU_6.3",
+  "ref": "6.3",
+  "section": "Question 6",
+  "sa": [
+   "स ईक्षांचक्रे । कस्मिन्नहमुत्क्रान्त उत्क्रान्तो भविष्यामि",
+   "कस्मिन्वा प्रतिष्ठिते प्रतिष्ठास्यामीति ॥ ६.३॥"
+  ],
+  "iast": [
+   "sa īkṣāṃcakre । kasminnahamutkrānta utkrānto bhaviṣyāmi",
+   "kasminvā pratiṣṭhite pratiṣṭhāsyāmīti ॥ 6.3॥"
+  ],
+  "alt": [
+   {
+    "text": "“He bethought Him. ‘What shall that be in whose issuing forth I shall issue forth from the body and in his abiding I shall abide?’",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 190",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "भविष्यामि",
+    "bhaviṣyāmi",
+    "I shall become",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "He deliberated: “As a result of whose departure shall I rise up ? And as a result of whose continuance shall I remain established ?”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.3.mp3",
+   "whole": [
+    1338.64,
+    1352.18
+   ]
+  },
+  "hasBhashya": false,
+  "order": 63
+ },
+ {
+  "id": "PU_6.4",
+  "ref": "6.4",
+  "section": "Question 6",
+  "sa": [
+   "स प्राणमसृजत प्राणाच्छ्रद्धां खं वायुर्ज्योतिरापः पृथिवीन्द्रियं",
+   "मनः । अन्नमन्नाद्वीर्यं तपो मन्त्राः कर्म लोका लोकेषु च नाम च",
+   "॥ ६.४॥"
+  ],
+  "iast": [
+   "sa prāṇamasṛjata prāṇācchraddhāṃ khaṃ vāyurjyotirāpaḥ pṛthivīndriyaṃ",
+   "manaḥ । annamannādvīryaṃ tapo mantrāḥ karma lokā lokeṣu ca nāma ca",
+   "॥ 6.4॥"
+  ],
+  "alt": [
+   {
+    "text": "“Then he put forth the Life, and from the Life faith, next ether and then air, and then light, and then water, and then earth, the senses and mind and food, and from food virility and from virility askesis, and from askesis the mighty verses and from these action, and the worlds from action and name in the worlds; in this wise were all things born from the Spirit.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 190, 191",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "प्राणम्",
+    "prāṇam",
+    "life-breath",
+    "prāṇam"
+   ],
+   [
+    "प्राणात्",
+    "prāṇāt",
+    "from life-breath",
+    "prāṇāt"
+   ],
+   [
+    "श्रद्धाम्",
+    "śraddhām",
+    "faith",
+    "śraddhām"
+   ],
+   [
+    "मनः",
+    "manaḥ",
+    "mind",
+    "manaḥ"
+   ],
+   [
+    "नाम",
+    "nāma",
+    "name",
+    "nāma"
+   ]
+  ],
+  "tr": {
+   "text": "He created Prana; from Prana (He created) faith, space, air, fire, water, earth, organs, mind, food; from food (He created) vigour, self-control, mantras, rites, worlds and name in the worlds.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.4.mp3",
+   "whole": [
+    1352.18,
+    1370.89
+   ]
+  },
+  "hasBhashya": true,
+  "order": 64
+ },
+ {
+  "id": "PU_6.5",
+  "ref": "6.5",
+  "section": "Question 6",
+  "sa": [
+   "स यथेमा नद्यः स्यन्दमानाः समुद्रायणाः समुद्रं प्राप्यास्तं",
+   "गच्छन्ति भिद्येते तासां नामरूपे समुद्र इत्येवं प्रोच्यते । एवमेवास्य",
+   "परिद्रष्टुरिमाः षोडशकलाः पुरुषायणाः पुरुषं प्राप्यास्तं गच्छन्ति",
+   "भिद्येते चासां नामरूपे पुरुष इत्येवं प्रोच्यते स एषोऽकलोऽमृतो",
+   "भवति तदेष श्लोकः ॥ ६.५॥"
+  ],
+  "iast": [
+   "sa yathemā nadyaḥ syandamānāḥ samudrāyaṇāḥ samudraṃ prāpyāstaṃ",
+   "gacchanti bhidyete tāsāṃ nāmarūpe samudra ityevaṃ procyate । evamevāsya",
+   "paridraṣṭurimāḥ ṣoḍaśakalāḥ puruṣāyaṇāḥ puruṣaṃ prāpyāstaṃ gacchanti",
+   "bhidyete cāsāṃ nāmarūpe puruṣa ityevaṃ procyate sa eṣo’kalo’mṛto",
+   "bhavati tadeṣa ślokaḥ ॥ 6.5॥"
+  ],
+  "alt": [
+   {
+    "text": "“Therefore as all these flowing rivers move towards the sea, but when they reach the sea they are lost in it and name and form break away from them and all is called only the sea, so all the sixteen members of the silent witnessing Spirit move towards the Being, and when they have attained the Being they are lost in Him and name and form break away from them and all is called only the Being; then is He without members and immortal. Whereof this is the Scripture.",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 191",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "नद्यः",
+    "nadyaḥ",
+    "rivers",
+    "nadyaḥ"
+   ],
+   [
+    "समुद्रम्",
+    "samudram",
+    "the sea",
+    "samudram"
+   ],
+   [
+    "प्राप्य",
+    "prāpya",
+    "having reached",
+    "√āp"
+   ],
+   [
+    "गच्छन्ति",
+    "gacchanti",
+    "they go",
+    "√gam"
+   ],
+   [
+    "नामरूपे",
+    "nāmarūpe",
+    "name and form",
+    "nāmarūpe"
+   ],
+   [
+    "भवति",
+    "bhavati",
+    "becomes",
+    "√bhū"
+   ]
+  ],
+  "tr": {
+   "text": "The illustration is this: Just as these flowing rivers that have the sea as their goal, get absorbed after reaching the sea, and their names and forms are destroyed, and they are called merely the sea, so also these sixteen parts (i.e. constituents) of the all-seeing Purusha, that have Purusha as their goal, disappear on reaching Purusha, when their names and forms are destroyed and they are simply called Purusha. Such a man of realisation becomes free from the parts and is immortal. On this point there occurs this verse:",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.5.mp3",
+   "whole": [
+    1370.89,
+    1412.7
+   ]
+  },
+  "hasBhashya": false,
+  "order": 65
+ },
+ {
+  "id": "PU_6.6",
+  "ref": "6.6",
+  "section": "Question 6",
+  "sa": [
+   "अरा इव रथनाभौ कला यस्मिन्प्रतिष्ठिताः ।",
+   "तं वेद्यं पुरुषं वेद यथा मा वो मृत्युः परिव्यथा इति ॥ ६.६॥"
+  ],
+  "iast": [
+   "arā iva rathanābhau kalā yasminpratiṣṭhitāḥ ।",
+   "taṃ vedyaṃ puruṣaṃ veda yathā mā vo mṛtyuḥ parivyathā iti ॥ 6.6॥"
+  ],
+  "alt": [
+   {
+    "text": "“‘He in whom the members are set as the spokes of a wheel are set in its nave, Him know for the Being who is the goal of knowledge, so shall death pass away from you and his anguish.’ ”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 191",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "अराः",
+    "arāḥ",
+    "spokes",
+    "arāḥ"
+   ],
+   [
+    "रथनाभौ",
+    "rathanābhau",
+    "in the nave of a chariot wheel",
+    "rathanābhau"
+   ],
+   [
+    "कलाः",
+    "kalāḥ",
+    "parts",
+    "kalāḥ"
+   ],
+   [
+    "पुरुषम्",
+    "puruṣam",
+    "the Person",
+    "puruṣam"
+   ],
+   [
+    "यथा",
+    "yathā",
+    "as",
+    "yathā"
+   ]
+  ],
+  "tr": {
+   "text": "You should know that Purusha who is worthy to be known and in whom are transfixed the parts like spokes in the nave of a chariot wheel, so that death may not afflict you anywhere.",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.6.mp3",
+   "whole": [
+    1412.7,
+    1427.75
+   ]
+  },
+  "hasBhashya": true,
+  "order": 66
+ },
+ {
+  "id": "PU_6.7",
+  "ref": "6.7",
+  "section": "Question 6",
+  "sa": [
+   "तान् होवाचैतावदेवाहमेतत् परं ब्रह्म वेद । नातः",
+   "परमस्तीति ॥ ६.७॥"
+  ],
+  "iast": [
+   "tān hovācaitāvadevāhametat paraṃ brahma veda । nātaḥ",
+   "paramastīti ॥ 6.7॥"
+  ],
+  "alt": [
+   {
+    "text": "And Pippalada said to them: “Thus far do I know the Most High God; than He there is none Higher.”",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, p. 191",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "ब्रह्म",
+    "brahma",
+    "Brahman",
+    "brahma"
+   ],
+   [
+    "वेद",
+    "veda",
+    "I know",
+    "√vid"
+   ]
+  ],
+  "tr": {
+   "text": "To them he said, “I know this supreme Brahman thus far only. Beyond this there is nothing.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.7.mp3",
+   "whole": [
+    1427.75,
+    1438.6
+   ]
+  },
+  "hasBhashya": true,
+  "order": 67
+ },
+ {
+  "id": "PU_6.8",
+  "ref": "6.8",
+  "section": "Question 6",
+  "sa": [
+   "ते तमर्चयन्तस्त्वं हि नः पिता योऽस्माकमविद्यायाः परं पारं",
+   "तारयसीति । नमः परमऋषिभ्यो नमः परमऋषिभ्यः ॥ ६.८॥"
+  ],
+  "iast": [
+   "te tamarcayantastvaṃ hi naḥ pitā yo’smākamavidyāyāḥ paraṃ pāraṃ",
+   "tārayasīti । namaḥ paramaṛṣibhyo namaḥ paramaṛṣibhyaḥ ॥ 6.8॥"
+  ],
+  "alt": [
+   {
+    "text": "And they worshipping him: “For thou art our father who hast carried us over to the other side of the Ignorance.” Salutation to the mighty sages, salutation!",
+    "by": "Sri Aurobindo",
+    "cite": "Sri Aurobindo · CWSA 18, pp. 191, 192",
+    "source": "upanishads.org.in"
+   }
+  ],
+  "words": [
+   [
+    "पिता",
+    "pitā",
+    "father",
+    "pitā"
+   ],
+   [
+    "अविद्यायाः",
+    "avidyāyāḥ",
+    "of ignorance",
+    "avidyāyāḥ"
+   ],
+   [
+    "पारम्",
+    "pāram",
+    "the farther shore",
+    "pāram"
+   ],
+   [
+    "तारयसि",
+    "tārayasi",
+    "you cause to cross",
+    "√tṝ"
+   ],
+   [
+    "नमः",
+    "namaḥ",
+    "salutation",
+    "namaḥ"
+   ]
+  ],
+  "tr": {
+   "text": "While worshipping him they said, “You indeed are our father who have ferried us across nescience to the other shore. Salutation to the great seers. Salutation to the great seers.”",
+   "by": "Swami Gambhirananda",
+   "source": "108 Upanishads (comp. R. Sheppard)"
+  },
+  "audio": {
+   "mp3": "https://s3.ap-south-1.amazonaws.com/upanishaddata/SplitAudio/Prasnopanisad/6.6.8.mp3",
+   "whole": [
+    1438.6,
+    1455.76
+   ]
+  },
+  "hasBhashya": false,
+  "order": 68
+ }
+]
