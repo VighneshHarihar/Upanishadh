@@ -1,0 +1,964 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lagging Behind?</title>
+<meta name="description" content="Two and a half years after graduation, still no job. What five passages of the Upanishads say to that moment — with illustrations, the original Sanskrit and a plan to begin again.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Tiro+Devanagari+Sanskrit:ital@0;1&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#fbf8f2; --card:#fffdf9; --ink:#232327; --muted:#6c6a72; --faint:#a6a3a9; --line:#e6e1d7; --line-2:#d8d1c3;
+  --plate:var(--card);
+  --teal:#0f8a7c; --orange:#d95f0e; --amber:#b88300; --coral:#d9484d; --green:#2f8f44; --blue:#2f6fdf; --violet:#8e4ec6;
+  --accent:var(--orange);
+  --shadow:0 1px 2px rgba(40,30,10,.04),0 8px 30px rgba(40,30,10,.06);
+  --radius:18px;
+  --sans:"Inter",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Instrument Serif",Georgia,serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  --deva:"Tiro Devanagari Sanskrit","Noto Serif Devanagari",serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0d0f13; --card:#14171c; --ink:#e4e2dc; --muted:#9a978f; --faint:#6a6862; --line:#23272e; --line-2:#2e333b;
+    --teal:#3dc9b6; --orange:#ff9a52; --amber:#f2c14e; --coral:#ff6b70; --green:#6fd27e; --blue:#7aa6ff; --violet:#b98ef0;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 30px rgba(0,0,0,.35); color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0d0f13; --card:#14171c; --ink:#e4e2dc; --muted:#9a978f; --faint:#6a6862; --line:#23272e; --line-2:#2e333b;
+  --teal:#3dc9b6; --orange:#ff9a52; --amber:#f2c14e; --coral:#ff6b70; --green:#6fd27e; --blue:#7aa6ff; --violet:#b98ef0;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 30px rgba(0,0,0,.35); color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 var(--sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit}
+::selection{background:color-mix(in srgb,var(--accent) 25%,transparent)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+@media (max-width:600px){.wrap{padding:0 16px}}
+
+/* ---------- hairline illustration system ---------- */
+.hl{display:block;width:100%;height:auto;overflow:visible}
+.hl :where(path,ellipse,circle,rect,polygon,line,polyline){fill:var(--plate);stroke:var(--c-mid);stroke-width:1;vector-effect:non-scaling-stroke;stroke-linejoin:round;stroke-linecap:round}
+.hl :where(.nf){fill:none}.hl :where(.fo){stroke:none}.hl :where(.sil){stroke:var(--c-edge)}.hl :where(.hi){stroke:var(--c-hi)}
+.hl :where(.lo){stroke:var(--c-lo)}.hl :where(.dot){fill:var(--c-hi);stroke:none}.hl :where(.dot.m){fill:var(--c-edge)}
+.hl :where(.dash){stroke-dasharray:1 3}.hl :where(.ink){fill:var(--c-hi)}
+.hl .env{fill:none;stroke:var(--line-2)}.hl .env.soft{stroke:var(--line)}.hl .env.dash{stroke-dasharray:2 5}
+.hue{--c-hi:var(--h);--c-edge:color-mix(in srgb,var(--h) 72%,var(--plate));--c-mid:color-mix(in srgb,var(--h) 50%,var(--plate));--c-lo:color-mix(in srgb,var(--h) 22%,var(--plate))}
+.h-teal{--h:var(--teal)}.h-orange{--h:var(--orange)}.h-amber{--h:var(--amber)}.h-coral{--h:var(--coral)}.h-green{--h:var(--green)}.h-blue{--h:var(--blue)}.h-grey{--h:var(--faint)}
+
+/* ---------- top bar ---------- */
+.bar{position:fixed;inset:0 0 auto 0;z-index:50;background:color-mix(in srgb,var(--bg) 82%,transparent);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid transparent;transition:border-color .3s}
+.bar.on{border-color:var(--line)}
+.bar .wrap{display:flex;align-items:center;gap:16px;height:56px}
+.brand{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);text-decoration:none;white-space:nowrap}
+.brand b{color:var(--ink);font-weight:500}
+.chapters{display:flex;gap:4px;margin-left:auto;overflow-x:auto;scrollbar-width:none;mask-image:linear-gradient(90deg,transparent,#000 12px,#000 calc(100% - 12px),transparent)}
+.chapters::-webkit-scrollbar{display:none}
+.chapters a{font:500 12.5px/1 var(--sans);color:var(--muted);text-decoration:none;padding:8px 11px;border-radius:99px;white-space:nowrap;transition:background .2s,color .2s}
+.chapters a:hover{color:var(--ink);background:var(--line)}
+.chapters a.active{color:var(--ink);background:color-mix(in srgb,var(--accent) 14%,transparent)}
+.theme-btn{border:1px solid var(--line-2);background:var(--card);color:var(--ink);width:34px;height:34px;border-radius:50%;display:grid;place-items:center;cursor:pointer;flex:none}
+.theme-btn svg{width:16px;height:16px}
+.progress{position:absolute;left:0;bottom:-1px;height:2px;background:var(--accent);width:0;transition:width .1s linear}
+@media (max-width:760px){.chapters{display:none}.bar .theme-btn{margin-left:auto}}
+
+/* ---------- hero ---------- */
+.hero{min-height:100svh;display:grid;align-items:center;padding:96px 0 48px;position:relative}
+.hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:40px;align-items:center}
+.eyebrow{font:500 12px/1.4 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.hero h1{font:700 clamp(44px,7vw,84px)/.98 var(--sans);letter-spacing:-.045em;margin:18px 0 18px}
+.hero h1 em{font:italic 400 1.05em/1 var(--serif);letter-spacing:-.02em;color:var(--accent)}
+.lede{font:400 clamp(21px,2.4vw,27px)/1.35 var(--serif);font-style:italic;color:var(--muted);max-width:30ch;margin:0 0 28px}
+.hero-meta{display:flex;flex-wrap:wrap;gap:8px}
+.pill{font:500 12px/1 var(--mono);letter-spacing:.04em;padding:9px 12px;border:1px solid var(--line-2);border-radius:99px;color:var(--muted);background:var(--card)}
+.hero-art{position:relative;aspect-ratio:1/1}
+.hero-art svg{position:absolute;inset:0;width:100%;height:100%}
+.sunrise{animation:rise 6s cubic-bezier(.2,.7,.2,1) .3s both}
+@keyframes rise{from{transform:translateY(120px)}to{transform:none}}
+.rays{transform-origin:330px 186px;animation:spin 60s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.scroll-cue{position:absolute;left:50%;bottom:22px;transform:translateX(-50%);font:500 11px/1 var(--mono);letter-spacing:.14em;color:var(--faint);text-transform:uppercase;display:flex;flex-direction:column;align-items:center;gap:10px;text-decoration:none}
+.scroll-cue i{display:block;width:1px;height:34px;background:linear-gradient(var(--faint),transparent);animation:cue 2.2s ease-in-out infinite}
+@keyframes cue{0%{transform:scaleY(0);transform-origin:top}50%{transform:scaleY(1);transform-origin:top}51%{transform-origin:bottom}100%{transform:scaleY(0);transform-origin:bottom}}
+@media (max-width:860px){.scroll-cue{display:none}.hero .wrap{grid-template-columns:1fr}.hero-art{max-width:440px;width:100%;margin:0 auto;order:-1}.hero{padding-top:80px}}
+
+/* ---------- sections ---------- */
+section{padding:clamp(72px,10vw,128px) 0;position:relative}
+.sec-head{max-width:720px;margin-bottom:44px}
+.num{font:500 12px/1 var(--mono);letter-spacing:.14em;color:var(--muted);text-transform:uppercase;display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+.num .ref{color:var(--accent)}
+h2{font:700 clamp(32px,4.6vw,52px)/1.04 var(--sans);letter-spacing:-.04em;margin:14px 0 14px}
+h2 em{font:italic 400 1.06em/1 var(--serif);letter-spacing:-.015em}
+.sec-head p{font:400 clamp(19px,2vw,22px)/1.45 var(--serif);font-style:italic;color:var(--muted);margin:0}
+.divider{height:1px;background:linear-gradient(90deg,transparent,var(--line-2),transparent);margin:0}
+p{margin:0 0 1em}
+.prose{max-width:62ch;font-size:17px}
+.prose strong{font-weight:600}
+
+/* reveal */
+.rv{opacity:0;transform:translateY(18px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1)}
+.rv.in{opacity:1;transform:none}
+.rv.d1{transition-delay:.08s}.rv.d2{transition-delay:.16s}.rv.d3{transition-delay:.24s}
+
+/* ---------- problem ---------- */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:0 0 48px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 22px 20px;box-shadow:var(--shadow)}
+.stat b{display:block;font:700 clamp(34px,4.4vw,46px)/1 var(--sans);letter-spacing:-.04em;margin-bottom:8px}
+.stat span{font:500 12px/1.4 var(--mono);color:var(--muted);letter-spacing:.04em;text-transform:uppercase}
+.thoughts{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.thought{position:relative;border-radius:var(--radius);padding:24px 22px 22px;background:color-mix(in srgb,var(--coral) 6%,var(--card));border:1px solid color-mix(in srgb,var(--coral) 18%,var(--line))}
+.thought q{display:block;font:italic 400 24px/1.2 var(--serif);margin:0 0 14px;quotes:"“" "”"}
+.thought small{display:block;color:var(--muted);font-size:14px;line-height:1.5;margin-bottom:14px}
+.thought a{font:500 12px/1 var(--mono);letter-spacing:.04em;text-decoration:none;color:var(--coral);display:inline-flex;gap:6px;align-items:center}
+.thought a:hover{text-decoration:underline}
+@media (max-width:760px){.stats,.thoughts{grid-template-columns:1fr}}
+
+/* ---------- chapter layout ---------- */
+.chapter{display:grid;grid-template-columns:1fr 1fr;gap:clamp(24px,4vw,56px);align-items:start}
+.chapter.flip .stage{order:2}
+@media (max-width:900px){.chapter{grid-template-columns:1fr}.chapter.flip .stage{order:0}}
+.stage{position:sticky;top:84px;background:var(--card);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);overflow:hidden}
+@media (max-width:900px){.stage{position:relative;top:0}}
+.stage.night{background:#0c0e14;border-color:#1c2028;--plate:#0c0e14;--line:#1e222a;--line-2:#2a2f38;color:#d8d6cf}
+.stage .art{position:relative}
+.stage .controls{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:14px 16px 16px;border-top:1px solid var(--line)}
+.stage .status{font:500 12px/1.4 var(--mono);color:var(--muted);letter-spacing:.03em;margin-left:auto;text-align:right}
+.night .status{color:#8b8983}
+.btn{font:600 14px/1 var(--sans);border:1px solid var(--line-2);background:var(--bg);color:inherit;padding:11px 15px;border-radius:12px;cursor:pointer;transition:transform .15s,background .2s,border-color .2s;min-height:42px}
+.btn:hover{border-color:var(--faint)}
+.btn:active{transform:scale(.97)}
+.btn.primary{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.night .btn{background:#151922;border-color:#2a2f38;color:#e4e2dc}
+.night .btn.primary{background:var(--amber);color:#14110a;border-color:var(--amber)}
+.btn[aria-pressed="true"]{background:color-mix(in srgb,var(--accent) 16%,var(--card));border-color:color-mix(in srgb,var(--accent) 50%,var(--line-2))}
+.btn:focus-visible,.chapters a:focus-visible,.theme-btn:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.btn:disabled{opacity:.45;cursor:default}
+
+.story{font-size:17px}
+.story .lead{font:italic 400 22px/1.4 var(--serif);color:var(--ink);margin-bottom:18px}
+.verse{margin:26px 0;border-radius:20px;background:var(--card);border:1px solid var(--line);padding:24px 24px 20px;position:relative;box-shadow:var(--shadow)}
+.verse .sa{font:400 clamp(20px,2.3vw,24px)/1.7 var(--deva);margin:0 0 10px;color:var(--ink)}
+.verse .iast{font:italic 400 15px/1.6 var(--deva);color:var(--muted);margin:0 0 16px}
+.verse blockquote{margin:0;padding:14px 0 0;border-top:1px dashed var(--line-2);font:400 20px/1.45 var(--serif)}
+.verse figcaption{margin-top:12px;font:500 11.5px/1.4 var(--mono);letter-spacing:.03em;color:var(--muted);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.verse .tag{position:absolute;top:-11px;left:20px;font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;background:var(--accent);color:#fff;padding:6px 9px;border-radius:99px}
+.reading{border-left:2px solid var(--accent);padding:4px 0 4px 18px;margin:26px 0}
+.reading h3{font:500 11.5px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin:0 0 12px;display:flex;gap:8px;align-items:center}
+.reading h3 span{color:var(--faint);letter-spacing:.04em;text-transform:none}
+.reading p{font-size:17px}
+.answers{display:inline-flex;gap:8px;align-items:center;font:500 12px/1.3 var(--mono);color:var(--muted);background:color-mix(in srgb,var(--coral) 7%,transparent);border:1px solid color-mix(in srgb,var(--coral) 22%,transparent);border-radius:99px;padding:7px 12px}
+.answers b{color:var(--coral);font-weight:500}
+details.more{margin:18px 0;border:1px solid var(--line);border-radius:14px;background:var(--card)}
+details.more summary{cursor:pointer;padding:14px 16px;font:600 14px/1.3 var(--sans);list-style:none;display:flex;justify-content:space-between;gap:10px}
+details.more summary::-webkit-details-marker{display:none}
+details.more summary::after{content:"+";font:400 20px/1 var(--sans);color:var(--muted);transition:transform .2s}
+details.more[open] summary::after{transform:rotate(45deg)}
+details.more .in{padding:0 16px 16px}
+details.more .in .sa{font:400 19px/1.7 var(--deva);margin:0 0 6px}
+details.more .in .iast{font:italic 400 14px/1.6 var(--deva);color:var(--muted);margin:0 0 10px}
+
+/* nachiketa */
+.moon{transition:transform 1.4s cubic-bezier(.45,.05,.3,1),opacity .5s}
+.boon{opacity:.12;transition:opacity .7s,transform .9s cubic-bezier(.2,.8,.2,1.2);transform:translateY(14px)}
+.boon.lit{opacity:1;transform:none}
+.boon.lit [data-p=flame]{animation:flick 1.6s ease-in-out infinite;transform-origin:20px 19px}
+@keyframes flick{0%,100%{transform:scale(1) rotate(0)}30%{transform:scale(.94,1.05) rotate(-3deg)}60%{transform:scale(1.03,.96) rotate(2deg)}}
+.star{animation:tw 3s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.25}50%{opacity:1}}
+.night-dots{display:flex;gap:6px}
+.night-dots i{width:9px;height:9px;border-radius:50%;border:1px solid #57544d;display:block;transition:background .3s}
+.night-dots i.on{background:var(--amber);border-color:var(--amber)}
+
+/* birds */
+.birdA [data-p=head],.birdB [data-p=head]{transform-origin:25px 24px;transition:transform .5s cubic-bezier(.2,.8,.2,1)}
+.tasting .birdA [data-p=head]{animation:peck 1.1s ease-in-out infinite}
+@keyframes peck{0%,100%{transform:rotate(0)}35%{transform:rotate(-42deg)}50%{transform:rotate(-38deg)}}
+.watching .birdA [data-p=head]{transform:rotate(16deg)}
+.watching .birdB [data-p=head]{transform:rotate(8deg)}
+.fchip{font:500 10.5px var(--mono);fill:var(--coral);opacity:0;transition:opacity .6s}
+.tasting .fchip{opacity:1}
+.fchip-bg{fill:var(--card);stroke:color-mix(in srgb,var(--coral) 35%,var(--plate))}
+.seeline{stroke:var(--amber);stroke-dasharray:2 5;fill:none;opacity:0;transition:opacity .6s;stroke-width:1.6}
+.watching .seeline{opacity:1;animation:dash 1.2s linear infinite}
+@keyframes dash{to{stroke-dashoffset:-14}}
+.halo{fill:none;stroke:var(--amber);opacity:0;transition:opacity .8s}
+.watching .halo{opacity:.6}
+.meter{flex:1 1 160px;min-width:140px}
+.meter label{display:flex;justify-content:space-between;font:500 11px/1 var(--mono);color:var(--muted);margin-bottom:6px;letter-spacing:.03em}
+.meter .track{height:6px;border-radius:9px;background:var(--line);overflow:hidden}
+.meter .fill{height:100%;width:62%;background:var(--coral);border-radius:9px;transition:width 1.1s cubic-bezier(.2,.7,.2,1),background .6s}
+
+/* isha */
+.range{flex:1 1 220px;display:flex;flex-direction:column;gap:6px}
+.range label{display:flex;justify-content:space-between;font:500 12px/1 var(--mono);color:var(--muted)}
+.range label b{color:var(--green);font-weight:500}
+input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:28px;background:transparent;cursor:pointer}
+input[type=range]::-webkit-slider-runnable-track{height:4px;border-radius:4px;background:linear-gradient(90deg,var(--green) var(--p,0%),var(--line) var(--p,0%))}
+input[type=range]::-moz-range-track{height:4px;border-radius:4px;background:var(--line)}
+input[type=range]::-moz-range-progress{height:4px;border-radius:4px;background:var(--green)}
+input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:22px;height:22px;border-radius:50%;background:var(--card);border:2px solid var(--green);margin-top:-9px;box-shadow:var(--shadow)}
+input[type=range]::-moz-range-thumb{width:18px;height:18px;border-radius:50%;background:var(--card);border:2px solid var(--green)}
+.life{margin:30px 0 8px;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:22px;box-shadow:var(--shadow)}
+.life h4{margin:0 0 4px;font:600 15px/1.3 var(--sans)}
+.life p.cap{margin:0 0 16px;color:var(--muted);font-size:14px}
+.grid100{display:grid;grid-template-columns:repeat(20,1fr);gap:4px}
+.grid100 i{aspect-ratio:1;border-radius:3px;background:var(--line);display:block;position:relative;overflow:hidden}
+.grid100 i.past{background:color-mix(in srgb,var(--faint) 45%,var(--line))}
+.grid100 i.gap{background:var(--coral)}
+.grid100 i.half::after{content:"";position:absolute;inset:0 50% 0 0;background:var(--coral)}
+.legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:14px;font:500 11.5px/1 var(--mono);color:var(--muted)}
+.legend span{display:inline-flex;gap:6px;align-items:center}
+.legend i{width:11px;height:11px;border-radius:3px;display:inline-block}
+
+/* fork */
+.road-pre{transition:opacity .8s}
+.chose-preyas .road-pre{opacity:1}
+.lamp-glow{opacity:0;transition:opacity 1s}
+.chose-shreyas .lamp-glow{opacity:1}
+.fork-msg{min-height:3.2em}
+
+/* arise */
+.arise-sun{transition:transform 3.4s cubic-bezier(.2,.7,.2,1)}
+.risen .arise-sun{transform:translateY(-120px)}
+.stander [data-p=head]{transform-origin:43px 52px;transition:transform 1.4s cubic-bezier(.3,.7,.2,1) .8s;transform:rotate(18deg)}
+.stander [data-p=torso]{transform-origin:42px 114px;transition:transform 1.4s cubic-bezier(.3,.7,.2,1) .6s;transform:rotate(4deg)}
+.risen .stander [data-p=head]{transform:rotate(-12deg)}
+.risen .stander [data-p=torso]{transform:rotate(-2deg)}
+
+/* map */
+.map{background:var(--card);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);overflow:hidden}
+.map-grid{display:grid;grid-template-columns:1.35fr 1fr}
+@media (max-width:900px){.map-grid{grid-template-columns:1fr}}
+.map svg{display:block;width:100%;height:auto}
+.map .edge{stroke:var(--line-2);stroke-width:1.2;fill:none;transition:stroke .3s,stroke-width .3s}
+.map .edge.hot{stroke:var(--accent);stroke-width:2}
+.map .node{cursor:pointer}
+.map .node circle{fill:var(--card);stroke:var(--line-2);stroke-width:1.2;transition:all .3s}
+.map .node text{font:500 11px var(--mono);fill:var(--muted);transition:fill .3s}
+.map .node.k-dilemma circle{stroke:var(--coral);fill:color-mix(in srgb,var(--coral) 10%,var(--card))}
+.map .node.k-verse circle{stroke:var(--accent)}
+.map .node.k-concept circle{stroke:var(--teal)}
+.map .node.k-root circle{stroke:var(--amber)}
+.map .node.hot circle{stroke-width:2.4;fill:color-mix(in srgb,var(--accent) 14%,var(--card))}
+.map .node.hot text{fill:var(--ink)}
+.map .node:focus{outline:none}
+.map .node:focus-visible circle{stroke-width:3}
+.map-info{padding:28px;border-left:1px solid var(--line);display:flex;flex-direction:column;gap:14px}
+@media (max-width:900px){.map-info{border-left:0;border-top:1px solid var(--line)}}
+.map-info .kind{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.map-info h3{font:700 24px/1.15 var(--sans);letter-spacing:-.02em;margin:0}
+.map-info .why{font:italic 400 19px/1.45 var(--serif);color:var(--ink);margin:0}
+.map-info ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.map-info li{font-size:14px;color:var(--muted);padding-left:14px;position:relative}
+.map-info li::before{content:"";position:absolute;left:0;top:.6em;width:6px;height:1px;background:var(--faint)}
+.map-info li code{font:500 11px var(--mono);color:var(--accent);background:color-mix(in srgb,var(--accent) 9%,transparent);padding:2px 6px;border-radius:6px}
+.map-key{display:flex;flex-wrap:wrap;gap:14px;padding:14px 20px;border-top:1px solid var(--line);font:500 11px/1 var(--mono);color:var(--muted)}
+.map-key span{display:inline-flex;align-items:center;gap:6px}
+.map-key i{width:10px;height:10px;border-radius:50%;border:1.5px solid;display:inline-block}
+
+/* plan */
+.plan{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;counter-reset:s}
+@media (max-width:760px){.plan{grid-template-columns:1fr}}
+.step{display:grid;grid-template-columns:auto 1fr;gap:14px;align-items:start;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px 16px;box-shadow:var(--shadow);cursor:pointer;transition:border-color .3s,background .3s}
+.step:hover{border-color:var(--line-2)}
+.step input{appearance:none;-webkit-appearance:none;width:24px;height:24px;border-radius:8px;border:1.5px solid var(--line-2);margin:2px 0 0;display:grid;place-items:center;cursor:pointer;background:var(--bg);transition:all .2s}
+.step input:checked{background:var(--green);border-color:var(--green)}
+.step input:checked::after{content:"";width:10px;height:6px;border:2px solid #fff;border-top:0;border-right:0;transform:rotate(-45deg) translate(1px,-1px)}
+.step h4{margin:0 0 4px;font:600 16px/1.3 var(--sans)}
+.step h4 small{font:500 11px var(--mono);color:var(--accent);letter-spacing:.06em;margin-left:6px}
+.step p{margin:0;font-size:14.5px;color:var(--muted);line-height:1.55}
+.step.done{background:color-mix(in srgb,var(--green) 6%,var(--card));border-color:color-mix(in srgb,var(--green) 30%,var(--line))}
+.step.done h4{text-decoration:line-through;text-decoration-color:color-mix(in srgb,var(--green) 60%,transparent)}
+.plan-meter{display:flex;align-items:center;gap:14px;margin:0 0 22px;font:500 12px var(--mono);color:var(--muted)}
+.plan-meter .track{flex:1;height:6px;background:var(--line);border-radius:9px;overflow:hidden}
+.plan-meter .fill{height:100%;width:0;background:var(--green);transition:width .6s}
+
+/* reel */
+.reel{display:grid;grid-template-columns:auto 1fr;gap:clamp(24px,5vw,64px);align-items:center}
+@media (max-width:760px){.reel{grid-template-columns:1fr;justify-items:center}}
+.phone{width:min(300px,80vw);aspect-ratio:9/16;border-radius:34px;padding:9px;background:#15161a;box-shadow:0 30px 60px -20px rgba(30,20,0,.35),0 0 0 1px #2a2b30 inset}
+.phone video{width:100%;height:100%;border-radius:26px;object-fit:cover;display:block;background:#fbf8f2}
+.scenes{list-style:none;margin:20px 0 0;padding:0;display:flex;flex-direction:column;gap:2px}
+.scenes button{all:unset;cursor:pointer;display:grid;grid-template-columns:52px 1fr;gap:12px;padding:10px 12px;border-radius:12px;font-size:15px;transition:background .2s}
+.scenes button:hover,.scenes button:focus-visible{background:var(--line)}
+.scenes button.on{background:color-mix(in srgb,var(--accent) 12%,transparent)}
+.scenes span{font:500 12px/1.9 var(--mono);color:var(--muted)}
+
+/* closing */
+.bhuma{text-align:center;padding:clamp(80px,12vw,150px) 0}
+.bhuma .sa{font:400 clamp(28px,4.5vw,46px)/1.4 var(--deva);margin:0 0 10px}
+.bhuma .iast{font:italic 400 17px var(--deva);color:var(--muted);margin:0 0 26px}
+.bhuma blockquote{font:italic 400 clamp(24px,3.4vw,36px)/1.25 var(--serif);max-width:24ch;margin:0 auto 18px}
+.bhuma cite{font:500 12px var(--mono);color:var(--muted);font-style:normal;letter-spacing:.04em}
+.help{display:grid;grid-template-columns:auto 1fr auto;gap:20px;align-items:center;background:color-mix(in srgb,var(--teal) 7%,var(--card));border:1px solid color-mix(in srgb,var(--teal) 25%,var(--line));border-radius:22px;padding:24px 26px}
+.help .ic{width:44px;height:44px;border-radius:14px;display:grid;place-items:center;background:color-mix(in srgb,var(--teal) 15%,transparent);color:var(--teal)}
+.help h3{margin:0 0 4px;font:600 18px/1.3 var(--sans)}
+.help p{margin:0;color:var(--muted);font-size:15px}
+.help a.call{font:700 22px/1 var(--sans);text-decoration:none;color:var(--teal);white-space:nowrap;letter-spacing:-.02em}
+@media (max-width:640px){.help{grid-template-columns:1fr}}
+footer{padding:56px 0 72px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+footer .cols{display:grid;grid-template-columns:1.2fr 1fr;gap:32px}
+@media (max-width:760px){footer .cols{grid-template-columns:1fr}}
+footer h5{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--ink);margin:0 0 12px}
+footer ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+
+@media (prefers-reduced-motion: reduce){
+  *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+  .rv{opacity:1;transform:none}
+}
+</style>
+</head>
+<body>
+
+<header class="bar" id="bar">
+  <div class="wrap">
+    <a class="brand" href="#top">Upa<b>Sārathi</b> · reflections</a>
+    <nav class="chapters" aria-label="Chapters">
+      <a href="#where">Where I am</a>
+      <a href="#waiting">Waiting</a>
+      <a href="#birds">Two birds</a>
+      <a href="#work">Keep working</a>
+      <a href="#road">The good road</a>
+      <a href="#arise">Arise</a>
+      <a href="#map">The map</a>
+      <a href="#plan">The plan</a>
+    </nav>
+    <button class="theme-btn" id="themeBtn" aria-label="Toggle light or dark theme">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M4.6 4.6l1.6 1.6M17.8 17.8l1.6 1.6M2.5 12h2.2M19.3 12h2.2M4.6 19.4l1.6-1.6M17.8 6.2l1.6-1.6"/></svg>
+    </button>
+  </div>
+  <div class="progress" id="progress"></div>
+</header>
+
+<main id="top">
+<!-- ================= HERO ================= -->
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <div class="eyebrow rv">A reflection from the Principal Upanishads</div>
+      <h1 class="rv d1">Lagging <em>behind?</em></h1>
+      <p class="lede rv d2">Two and a half years after graduation, still no job — and the feeling that it was easy for everyone else. Five old verses have a lot to say about this exact moment.</p>
+      <div class="hero-meta rv d3">
+        <span class="pill">6 chapters</span>
+        <span class="pill">Kaṭha · Muṇḍaka · Īśā · Chāndogya</span>
+        <span class="pill">~8 min read</span>
+      </div>
+    </div>
+    <div class="hero-art rv d2" aria-hidden="true">
+      <svg class="hl" viewBox="0 0 440 440">
+        <defs>
+          <radialGradient id="heroFade" cx="50%" cy="62%" r="55%"><stop offset="40%" stop-color="#fff"/><stop offset="100%" stop-color="#000"/></radialGradient>
+          <mask id="heroMask"><rect width="440" height="440" fill="url(#heroFade)"/></mask>
+          <clipPath id="above"><rect x="0" y="0" width="440" height="300"/></clipPath>
+        </defs>
+        <g clip-path="url(#above)">
+          <g class="sunrise hue h-orange">
+            <g class="rays"><path class="nf" d="M380,186 L392,186"/><path class="nf" d="M376.2,205.1 L394.7,212.8"/><path class="nf" d="M365.4,221.4 L373.8,229.8"/><path class="nf" d="M349.1,232.2 L356.8,250.7"/><path class="nf" d="M330,236 L330,248"/><path class="nf" d="M310.9,232.2 L303.2,250.7"/><path class="nf" d="M294.6,221.4 L286.2,229.8"/><path class="nf" d="M283.8,205.1 L265.3,212.8"/><path class="nf" d="M280,186 L268,186"/><path class="nf" d="M283.8,166.9 L265.3,159.2"/><path class="nf" d="M294.6,150.6 L286.2,142.2"/><path class="nf" d="M310.9,139.8 L303.2,121.3"/><path class="nf" d="M330,136 L330,124"/><path class="nf" d="M349.1,139.8 L356.8,121.3"/><path class="nf" d="M365.4,150.6 L373.8,142.2"/><path class="nf" d="M376.2,166.9 L394.7,159.2"/></g>
+            <circle cx="330" cy="186" r="46" class="lo dash nf"/>
+            <circle cx="330" cy="186" r="36" class="ink"/>
+          </g>
+        </g>
+        <g mask="url(#heroMask)">
+          <path class="env" d="M0,300 L440,300"/>
+          <path class="env soft" d="M10,300 C70,270 130,270 190,300 M260,300 C310,282 370,282 430,300"/>
+          <path class="env soft" d="M306.6,302 L-411,460"/><path class="env soft" d="M313.8,302 L-183,460"/><path class="env soft" d="M321,302 L45,460"/><path class="env soft" d="M325.8,302 L197,460"/><path class="env soft" d="M334.2,302 L463,460"/><path class="env soft" d="M341.4,302 L691,460"/><path class="env soft" d="M348.6,302 L919,460"/>
+        </g>
+        <g class="hue h-teal" transform="translate(70,226) scale(.98)"><g data-p="glow"><path class="lo dash nf" d="M203,160 L128,80"/><path class="lo dash nf" d="M202,172 L130,92"/><path class="lo dash nf" d="M200,184 L128,104"/></g><path d="M38,206 C36,202.33 40.67,195.67 46,192 C51.33,188.33 61,185.67 70,184 C79,182.33 89.67,182.17 100,182 C110.33,181.83 123.33,181.67 132,183 C140.67,184.33 147.67,186.83 152,190 C156.33,193.17 159,198.33 158,202 C157,205.67 155.67,209.83 146,212 C136.33,214.17 114.67,214.67 100,215 C85.33,215.33 68.33,215.5 58,214 C47.67,212.5 40,209.67 38,206 Z"/><path class="lo nf" d="M70,198 Q100,191 142,196"/><g data-p="torso" transform="rotate(0,96,196)"><path d="M70,194 C64.5,188.5 64,174.83 63,165 C62,155.17 62.17,143.83 64,135 C65.83,126.17 69.33,117.67 74,112 C78.67,106.33 86.33,102.33 92,101 C97.67,99.67 103.5,101.17 108,104 C112.5,106.83 116.5,111.17 119,118 C121.5,124.83 122.17,136 123,145 C123.83,154 124.5,164.17 124,172 C123.5,179.83 124.67,187.67 120,192 C115.33,196.33 104.33,197.67 96,198 C87.67,198.33 75.5,199.5 70,194 Z"/><path class="lo nf" d="M84,104 Q96,112 108,105"/><path d="M96,90 L95,104 L107,104 L106,90 Z" class="nf"/><g data-p="head" transform="rotate(0,99,100)"><path d="M122,78 C122,81.33 121.09,85.11 119.59,88 C118.09,90.89 115.6,93.65 113,95.32 C110.4,96.99 107,98 104,98 C101,98 97.6,96.99 95,95.32 C92.4,93.65 89.91,90.89 88.41,88 C86.91,85.11 86,81.33 86,78 C86,74.67 86.91,70.89 88.41,68 C89.91,65.11 92.4,62.35 95,60.68 C97.6,59.01 101,58 104,58 C107,58 110.4,59.01 113,60.68 C115.6,62.35 118.09,65.11 119.59,68 C121.09,70.89 122,74.67 122,78 Z"/><path class="ink" d="M86,84 C85,81 83,72.5 84,68 C85,63.5 88.5,59.5 92,57 C95.5,54.5 100.67,53 105,53 C109.33,53 114.83,54.83 118,57 C121.17,59.17 123.33,63.33 124,66 C124.67,68.67 124,72.83 122,73 C120,73.17 115.67,67.83 112,67 C108.33,66.17 103.33,66.83 100,68 C96.67,69.17 93.67,71 92,74 C90.33,77 91,84.33 90,86 C89,87.67 87,87 86,84 Z"/><ellipse cx="97" cy="81" rx="3" ry="4.5"/><path data-p="brow" class="nf sil" d="M110,72 Q114,70.6 118,72"/><ellipse data-p="eye" class="dot m" cx="114.5" cy="79" rx="1.5" ry="2.2"/><path data-p="mouth" class="nf sil" d="M112,90 Q115.5,90.6 119,90"/></g><path data-p="arm" d="M104.51,111.73 C103.82,114.77 104.91,121.59 106.06,126.43 C107.21,131.27 109.04,136.06 111.43,140.77 C113.82,145.48 116.83,150.11 120.4,154.7 C123.97,159.29 128.13,163.81 132.86,168.3 C137.58,172.8 142.88,177.25 148.75,181.69 C154.63,186.13 164.02,192.87 168.1,194.94 C172.18,197.01 172.6,195.07 173.24,194.09 C173.87,193.11 175.19,192.13 171.9,189.06 C168.6,185.98 159,180.09 153.47,175.64 C147.93,171.19 143.01,166.75 138.7,162.36 C134.39,157.97 130.7,153.6 127.6,149.3 C124.5,145 122.04,140.74 120.13,136.56 C118.22,132.39 116.93,128.29 116.16,124.24 C115.39,120.19 116.49,114.96 115.49,112.27 C114.5,109.59 112.02,108.25 110.19,108.15 C108.36,108.06 105.2,108.68 104.51,111.73 Z"/><g data-p="hand" transform="translate(170,192)"><ellipse cx="0" cy="0" rx="5" ry="4"/></g></g><path d="M150,202 L196,194 L216,200 L170,208 Z"/><path d="M170,208 L170,211 L216,203 L216,200" class="nf"/><path class="sil" d="M196,194 L206,150 L212,151 L202,195 Z"/><path class="hi nf" d="M197,191 L206,153"/></g>
+      </svg>
+    </div>
+  </div>
+  <a class="scroll-cue" href="#where">Begin<i></i></a>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= WHERE I AM ================= -->
+<section id="where" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">00 — Where I am</div>
+      <h2 class="rv d1">The problem, <em>said plainly.</em></h2>
+      <p class="rv d2">“I tried in my first year after graduation — applications, interview prep — and didn't get a job. Now it's been two and a half years. Everything feels pointless.”</p>
+    </div>
+    <div class="stats">
+      <div class="stat rv"><b>2½ yrs</b><span>since graduation</span></div>
+      <div class="stat rv d1"><b>1 year</b><span>of applying &amp; preparing</span></div>
+      <div class="stat rv d2"><b>0</b><span>offers — so far</span></div>
+    </div>
+    <p class="prose rv">Underneath the tiredness, three thoughts are doing most of the damage. Each one sounds like a fact. None of them is. Each chapter below answers one of them with a passage from the Upanishads — quoted exactly, in the original Sanskrit and in translation — followed by what it might mean for you.</p>
+    <div class="thoughts" style="margin-top:28px">
+      <div class="thought rv"><q>The time I spent is wasted.</q><small>Two and a half years feel like a hole in the résumé and in me.</small><a href="#waiting">→ Nachiketā's three nights</a></div>
+      <div class="thought rv d1"><q>For them it was easy.</q><small>Every offer letter and “excited to share” post lands like a verdict.</small><a href="#birds">→ The two birds</a></div>
+      <div class="thought rv d2"><q>Starting again just loses more time.</q><small>By the time I catch up, they'll be even further ahead.</small><a href="#work">→ Īśā's hundred years</a></div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= 1 WAITING ================= -->
+<section id="waiting" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">01 — Waiting <span class="ref">Kaṭha Upaniṣad 1.1.9</span></div>
+      <h2 class="rv d1">Waiting is <em>not wasted.</em></h2>
+      <p class="rv d2">A boy waits three nights at Death's door — and every night becomes a gift.</p>
+    </div>
+    <div class="chapter">
+      <div class="stage night rv" id="nachi">
+        <div class="art">
+          <svg class="hl" viewBox="0 0 480 400" role="img" aria-label="A boy sits at a doorway at night; a moon crosses the sky and three lamps light up above him.">
+            <g id="stars"><circle class="star" cx="330" cy="79" r="1.4" fill="var(--amber)" stroke="none" style="animation-delay:1.08s"/><circle class="star" cx="365" cy="149" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:2.52s"/><circle class="star" cx="409" cy="77" r="1.4" fill="var(--amber)" stroke="none" style="animation-delay:0.16s"/><circle class="star" cx="92" cy="42" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:1.41s"/><circle class="star" cx="138" cy="111" r="1.4" fill="var(--amber)" stroke="none" style="animation-delay:0.31s"/><circle class="star" cx="139" cy="17" r="1.4" fill="var(--amber)" stroke="none" style="animation-delay:0.65s"/><circle class="star" cx="155" cy="60" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:0.48s"/><circle class="star" cx="420" cy="32" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:1.85s"/><circle class="star" cx="239" cy="46" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:0.01s"/><circle class="star" cx="458" cy="15" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:2.32s"/><circle class="star" cx="96" cy="56" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:0.94s"/><circle class="star" cx="113" cy="152" r="1.4" fill="var(--amber)" stroke="none" style="animation-delay:1.88s"/><circle class="star" cx="105" cy="64" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:0.90s"/><circle class="star" cx="196" cy="120" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:2.81s"/><circle class="star" cx="147" cy="30" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:0.90s"/><circle class="star" cx="320" cy="164" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:1.79s"/><circle class="star" cx="374" cy="100" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:0.93s"/><circle class="star" cx="431" cy="92" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:2.09s"/><circle class="star" cx="106" cy="137" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:2.11s"/><circle class="star" cx="41" cy="79" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:2.85s"/><circle class="star" cx="195" cy="117" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:1.65s"/><circle class="star" cx="226" cy="107" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:1.74s"/><circle class="star" cx="16" cy="129" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:2.12s"/><circle class="star" cx="331" cy="64" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:2.27s"/><circle class="star" cx="431" cy="132" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:1.54s"/><circle class="star" cx="280" cy="78" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:0.32s"/><circle class="star" cx="395" cy="108" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:0.11s"/><circle class="star" cx="58" cy="67" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:1.54s"/><circle class="star" cx="197" cy="51" r="1.1" fill="var(--amber)" stroke="none" style="animation-delay:0.83s"/><circle class="star" cx="371" cy="153" r="0.9" fill="var(--amber)" stroke="none" style="animation-delay:0.94s"/></g>
+            <g class="moon hue h-amber" id="moon" transform="translate(40 150)"><g transform="translate(-20 -20)"><circle class="lo dash nf" cx="20" cy="20" r="19"/><circle class="ink" cx="20" cy="20" r="13"/><circle class="fo" cx="26.5" cy="15.5" r="11.5"/></g></g>
+            <path class="env" d="M300,170 L300,300 M300,300 L40,400 M300,170 L40,270"/>
+            <path class="env" d="M150,360 L150,244 L206,222 L206,340"/>
+            <path class="env soft" d="M300,300 L480,380 M260,316 L480,420 M220,331 L460,431 M180,347 L420,447 M340,318 L120,402 M380,336 L170,420"/>
+            <g transform="translate(206 168)"><g class="boon hue h-amber" data-i="0"><circle class="lo dash nf" cx="20" cy="12" r="11"/><path d="M5,22 Q20,36 35,22 Z"/><path class="nf" d="M3,22 L37,22"/><g data-p="flame"><path class="ink" d="M20,3 C21.5,3 24,9.42 24.5,12 C25,14.58 24.25,17.42 23,18.5 C21.75,19.58 18.25,19.58 17,18.5 C15.75,17.42 15,14.58 15.5,12 C16,9.42 18.5,3 20,3 Z"/></g></g></g>
+            <g transform="translate(262 140)"><g class="boon hue h-amber" data-i="1"><circle class="lo dash nf" cx="20" cy="12" r="11"/><path d="M5,22 Q20,36 35,22 Z"/><path class="nf" d="M3,22 L37,22"/><g data-p="flame"><path class="ink" d="M20,3 C21.5,3 24,9.42 24.5,12 C25,14.58 24.25,17.42 23,18.5 C21.75,19.58 18.25,19.58 17,18.5 C15.75,17.42 15,14.58 15.5,12 C16,9.42 18.5,3 20,3 Z"/></g></g></g>
+            <g transform="translate(318 168)"><g class="boon hue h-amber" data-i="2"><circle class="lo dash nf" cx="20" cy="12" r="11"/><path d="M5,22 Q20,36 35,22 Z"/><path class="nf" d="M3,22 L37,22"/><g data-p="flame"><path class="ink" d="M20,3 C21.5,3 24,9.42 24.5,12 C25,14.58 24.25,17.42 23,18.5 C21.75,19.58 18.25,19.58 17,18.5 C15.75,17.42 15,14.58 15.5,12 C16,9.42 18.5,3 20,3 Z"/></g></g></g>
+            <ellipse cx="276" cy="356" rx="66" ry="8" fill="#1a1d25" stroke="none"/>
+            <g class="hue h-orange" transform="translate(190 182) scale(.82)"><path d="M38,206 C36,202.33 40.67,195.67 46,192 C51.33,188.33 61,185.67 70,184 C79,182.33 89.67,182.17 100,182 C110.33,181.83 123.33,181.67 132,183 C140.67,184.33 147.67,186.83 152,190 C156.33,193.17 159,198.33 158,202 C157,205.67 155.67,209.83 146,212 C136.33,214.17 114.67,214.67 100,215 C85.33,215.33 68.33,215.5 58,214 C47.67,212.5 40,209.67 38,206 Z"/><path class="lo nf" d="M70,198 Q100,191 142,196"/><g data-p="torso" transform="rotate(0,96,196)"><path d="M70,194 C64.5,188.5 64,174.83 63,165 C62,155.17 62.17,143.83 64,135 C65.83,126.17 69.33,117.67 74,112 C78.67,106.33 86.33,102.33 92,101 C97.67,99.67 103.5,101.17 108,104 C112.5,106.83 116.5,111.17 119,118 C121.5,124.83 122.17,136 123,145 C123.83,154 124.5,164.17 124,172 C123.5,179.83 124.67,187.67 120,192 C115.33,196.33 104.33,197.67 96,198 C87.67,198.33 75.5,199.5 70,194 Z"/><path class="lo nf" d="M84,104 Q96,112 108,105"/><path d="M96,90 L95,104 L107,104 L106,90 Z" class="nf"/><g data-p="head" transform="rotate(0,99,100)"><path d="M122,78 C122,81.33 121.09,85.11 119.59,88 C118.09,90.89 115.6,93.65 113,95.32 C110.4,96.99 107,98 104,98 C101,98 97.6,96.99 95,95.32 C92.4,93.65 89.91,90.89 88.41,88 C86.91,85.11 86,81.33 86,78 C86,74.67 86.91,70.89 88.41,68 C89.91,65.11 92.4,62.35 95,60.68 C97.6,59.01 101,58 104,58 C107,58 110.4,59.01 113,60.68 C115.6,62.35 118.09,65.11 119.59,68 C121.09,70.89 122,74.67 122,78 Z"/><path class="ink" d="M86,84 C85,81 83,72.5 84,68 C85,63.5 88.5,59.5 92,57 C95.5,54.5 100.67,53 105,53 C109.33,53 114.83,54.83 118,57 C121.17,59.17 123.33,63.33 124,66 C124.67,68.67 124,72.83 122,73 C120,73.17 115.67,67.83 112,67 C108.33,66.17 103.33,66.83 100,68 C96.67,69.17 93.67,71 92,74 C90.33,77 91,84.33 90,86 C89,87.67 87,87 86,84 Z"/><ellipse cx="97" cy="81" rx="3" ry="4.5"/><path data-p="brow" class="nf sil" d="M110,72 Q114,70.6 118,72"/><ellipse data-p="eye" class="dot m" cx="114.5" cy="79" rx="1.5" ry="2.2"/><path data-p="mouth" class="nf sil" d="M112,90 Q115.5,90.6 119,90"/></g><path data-p="arm" d="M104.53,112.55 C104.04,115.52 105.81,121.59 106.69,125.99 C107.56,130.39 108.58,134.71 109.76,138.95 C110.93,143.19 112.26,147.35 113.73,151.42 C115.21,155.5 116.83,159.49 118.61,163.4 C120.38,167.31 122.31,171.14 124.38,174.88 C126.45,178.62 129.09,183.79 131.03,185.85 C132.98,187.92 135.05,187.88 136.04,187.26 C137.03,186.65 137.78,184.8 136.97,182.15 C136.16,179.49 132.96,175.01 131.18,171.34 C129.4,167.68 127.77,163.95 126.28,160.15 C124.8,156.36 123.46,152.5 122.27,148.58 C121.08,144.65 120.03,140.66 119.13,136.61 C118.23,132.55 117.48,128.43 116.87,124.23 C116.26,120.04 116.68,114.13 115.47,111.45 C114.26,108.78 111.44,107.99 109.62,108.17 C107.79,108.35 105.02,109.58 104.53,112.55 Z"/><g data-p="hand" transform="translate(134,184)"><ellipse cx="0" cy="0" rx="5" ry="4"/></g></g></g>
+          </svg>
+        </div>
+        <div class="controls">
+          <button class="btn primary" id="nightBtn">Wait one night</button>
+          <button class="btn" id="nightReset" hidden>Again</button>
+          <div class="status"><div class="night-dots" aria-hidden="true"><i></i><i></i><i></i></div><span id="nightTxt">Night 0 of 3</span></div>
+        </div>
+      </div>
+      <div class="story">
+        <p class="lead rv">Nachiketā's father, performing a great sacrifice, was giving away cows too old to give milk. The boy asked, three times, “To whom will you give me?” In anger the father said: “To Death I give you.”</p>
+        <p class="rv">So Nachiketā went to the house of Yama, the lord of Death. Yama was away. The boy waited at the door for three nights, with nothing to eat. When Yama returned, he did not tell the boy he was late. He said this:</p>
+        <figure class="verse rv">
+          <span class="tag">The verse</span>
+          <p class="sa">तिस्रो रात्रीर्यदवात्सीर्गृहे मेऽनश्नन् ब्रह्मन्नतिथिर्नमस्यः ।<br>नमस्तेऽस्तु ब्रह्मन् स्वस्ति मेऽस्तु<br>तस्मात्प्रति त्रीन्वरान्वृणीष्व ॥</p>
+          <p class="iast">tisro rātrīryadavātsīrgṛhe me’naśnan brahmannatithirnamasyaḥ ।<br>namaste’stu brahman svasti me’stu<br>tasmātprati trīnvarānvṛṇīṣva ॥</p>
+          <blockquote>“O Brahmana, since thou, a worshipful guest, hast dwelt in my house for three nights without food, let me make salutation to thee. O Brahmana, may peace be with me. Therefore, ask for three boons in return.”</blockquote>
+          <figcaption><span>Kaṭha Upaniṣad 1.1.9</span><span>tr. Vidyavachaspati V. Panoli</span></figcaption>
+        </figure>
+        <div class="reading rv">
+          <h3>What it says to you <span>· my reading</span></h3>
+          <p>The nights Nachiketā spent waiting were not deducted from his life. They were counted — one boon for each. And the boy who arrived “late” went on to receive the deepest teaching in the Upanishads, one nobody else in the story was given.</p>
+          <p>Your two and a half years can be counted the same way, if you look at them honestly: which interviews went wrong, what you now understand about the work you want, what you can do now that you couldn't then. <strong>Waiting you learn from is not wasted.</strong></p>
+        </div>
+        <span class="answers rv">answers <b>“the time I spent is wasted”</b></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= 2 BIRDS ================= -->
+<section id="birds" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">02 — Comparison <span class="ref">Muṇḍaka Upaniṣad 3.1.1–2</span></div>
+      <h2 class="rv d1">Two birds. <em>One tree.</em></h2>
+      <p class="rv d2">One keeps tasting the fruit and grieves. The other only watches — and is free.</p>
+    </div>
+    <div class="chapter flip">
+      <div class="stage rv tasting" id="birdsStage">
+        <div class="art">
+          <svg class="hl" viewBox="0 0 480 400" role="img" aria-label="Two birds on one tree. One pecks at fruit labelled with other people's successes; the other watches calmly.">
+            <path class="env" d="M0,370 L480,370"/>
+            <path class="env soft" d="M0,370 C60,346 120,346 180,370 M330,370 C380,352 430,352 480,370"/>
+            <ellipse cx="243" cy="372" rx="74" ry="7" fill="var(--line)" stroke="none"/>
+            <g class="hue h-green" transform="translate(80 18)"><g data-p="leaf0"><path class="lo-fill" d="M157.57,140 C157.04,147.36 157.9,154.08 153.49,160.69 C149.08,167.31 138.5,174.09 131.1,179.7 C123.71,185.3 118.42,193.08 109.14,194.35 C99.86,195.62 85.63,189.96 75.43,187.31 C65.24,184.67 54.9,182.96 47.97,178.48 C41.05,174 37.42,166.84 33.89,160.43 C30.36,154.02 28.45,147.44 26.8,140 C25.14,132.56 20.89,122.05 23.95,115.78 C27.02,109.5 36.35,107.01 45.21,102.34 C54.07,97.67 66.6,90.65 77.13,87.76 C87.67,84.87 98.03,82.39 108.44,84.99 C118.86,87.59 131.59,98.12 139.63,103.38 C147.66,108.63 153.68,110.4 156.67,116.51 C159.66,122.61 158.09,132.64 157.57,140 Z"/><path class="lo nf" d="M57.02,139.16 q4,-3 8,0"/><path class="lo nf" d="M107.36,161.03 q4,-3 8,0"/><path class="lo nf" d="M57.49,143.9 q4,-3 8,0"/><path class="lo nf" d="M121.63,152.45 q4,-3 8,0"/><path class="lo nf" d="M124.04,130.59 q4,-3 8,0"/></g><g data-p="leaf1"><path class="lo-fill" d="M310.49,132 C310.55,140.06 299.07,150.05 293.48,157.73 C287.88,165.41 284.55,173.59 276.94,178.09 C269.33,182.6 258.35,183.45 247.84,184.75 C237.33,186.05 224.41,188.22 213.87,185.9 C203.34,183.57 192.53,175.57 184.63,170.79 C176.72,166 169.87,163.65 166.45,157.19 C163.03,150.72 164.97,139.9 164.11,132 C163.26,124.1 158.08,116.79 161.31,109.8 C164.53,102.82 174.67,96.19 183.48,90.07 C192.29,83.95 203.86,74.67 214.15,73.07 C224.45,71.47 235.48,77.89 245.26,80.46 C255.05,83.02 264.87,83.62 272.85,88.44 C280.82,93.26 286.82,102.12 293.09,109.38 C299.37,116.64 310.43,123.94 310.49,132 Z"/><path class="lo nf" d="M229.2,107.71 q4,-3 8,0"/><path class="lo nf" d="M214.14,153.95 q4,-3 8,0"/><path class="lo nf" d="M195.45,123.3 q4,-3 8,0"/><path class="lo nf" d="M260.45,118.2 q4,-3 8,0"/><path class="lo nf" d="M259.81,146.4 q4,-3 8,0"/></g><g data-p="leaf2"><path class="lo-fill" d="M233.37,82 C234.51,91.59 242.83,101.89 238.58,109.65 C234.34,117.4 218.2,123.14 207.9,128.51 C197.61,133.88 187.53,139.05 176.83,141.85 C166.14,144.65 155.89,146.32 143.76,145.31 C131.62,144.29 114.32,141.34 104.02,135.76 C93.72,130.19 84.71,120.83 81.96,111.87 C79.2,102.91 88.17,91.76 87.48,82 C86.8,72.24 74.11,62.26 77.86,53.32 C81.61,44.38 99.41,34.43 109.97,28.37 C120.53,22.31 130,17.33 141.23,16.94 C152.45,16.55 165.81,22.56 177.34,26.03 C188.88,29.5 201.37,33.41 210.44,37.76 C219.51,42.1 227.96,44.74 231.78,52.12 C235.6,59.49 232.24,72.41 233.37,82 Z"/><path class="lo nf" d="M139.99,106.35 q4,-3 8,0"/><path class="lo nf" d="M200.93,83.65 q4,-3 8,0"/><path class="lo nf" d="M199.39,89.75 q4,-3 8,0"/><path class="lo nf" d="M179.87,106.41 q4,-3 8,0"/><path class="lo nf" d="M168.53,54.71 q4,-3 8,0"/></g><g data-p="leaf3"><path class="lo-fill" d="M237.36,170 C235.08,176.35 229.84,184.52 225.11,189.36 C220.38,194.21 217.17,196.5 208.97,199.08 C200.77,201.66 186.81,202.91 175.92,204.83 C165.03,206.76 153.88,211.82 143.61,210.65 C133.35,209.48 123.57,201.88 114.31,197.83 C105.06,193.77 95.4,190.95 88.08,186.31 C80.77,181.67 70.56,175.8 70.45,170 C70.33,164.2 80.62,157.33 87.42,151.5 C94.21,145.68 102.06,138.08 111.21,135.07 C120.35,132.05 131.26,133.37 142.29,133.42 C153.33,133.46 166.31,134.14 177.42,135.34 C188.53,136.54 198.7,137.96 208.94,140.61 C219.17,143.27 234.07,146.37 238.81,151.27 C243.55,156.16 239.65,163.65 237.36,170 Z"/><path class="lo nf" d="M120,170.19 q4,-3 8,0"/><path class="lo nf" d="M199.21,173.55 q4,-3 8,0"/><path class="lo nf" d="M158.93,187.99 q4,-3 8,0"/><path class="lo nf" d="M161.94,187.98 q4,-3 8,0"/><path class="lo nf" d="M170.44,187.38 q4,-3 8,0"/></g><path class="sil" d="M144,352 C142.5,342.67 148.5,316.67 149,300 C149.5,283.33 147.83,266 147,252 C146.17,238 143.17,225 144,216 C144.83,207 148.33,198.33 152,198 C155.67,197.67 164,205 166,214 C168,223 163.83,237.67 164,252 C164.17,266.33 165.33,283.33 167,300 C168.67,316.67 175.5,342.67 174,352 C172.5,361.33 163,356 158,356 C153,356 145.5,361.33 144,352 Z"/><path class="sil" d="M155.42,228.35 C153.44,225.87 147.32,222.09 142.72,219.55 C138.11,217 133.12,214.86 127.78,213.07 C122.44,211.29 116.74,209.88 110.66,208.82 C104.59,207.75 98.15,207.05 91.33,206.68 C84.51,206.3 77.33,206.28 69.75,206.58 C62.17,206.89 50.09,207.91 45.86,208.51 C41.63,209.1 44.31,209.66 44.36,210.15 C44.4,210.65 41.9,211.39 46.14,211.49 C50.38,211.59 62.35,210.67 69.81,210.75 C77.27,210.83 84.3,211.25 90.89,211.99 C97.48,212.73 103.64,213.8 109.34,215.18 C115.04,216.56 120.3,218.27 125.11,220.26 C129.91,222.25 134.26,224.56 138.17,227.12 C142.08,229.69 145.85,234.44 148.58,235.65 C151.31,236.86 153.42,235.61 154.56,234.39 C155.69,233.17 157.39,230.82 155.42,228.35 Z"/><path class="sil" d="M162.8,230.14 C165.58,229.41 169.49,225.65 173.75,223.61 C178.01,221.57 182.9,219.65 188.37,217.91 C193.84,216.18 199.92,214.59 206.58,213.2 C213.23,211.8 220.47,210.58 228.29,209.54 C236.1,208.5 244.49,207.64 253.44,206.97 C262.4,206.3 276.98,206 282.02,205.5 C287.05,205 283.66,204.48 283.65,203.98 C283.64,203.48 287.05,202.7 281.98,202.5 C276.91,202.3 262.27,202.52 253.22,202.81 C244.18,203.1 235.68,203.57 227.71,204.24 C219.75,204.9 212.33,205.75 205.42,206.8 C198.52,207.85 192.16,209.08 186.3,210.53 C180.43,211.98 175.1,213.61 170.25,215.5 C165.4,217.39 159.39,219.78 157.2,221.86 C155,223.94 156.17,226.58 157.1,227.96 C158.04,229.34 160.03,230.86 162.8,230.14 Z"/><path class="sil" d="M155.08,203.33 C154.07,200.49 149.72,194.22 147.09,190.09 C144.47,185.95 141.88,182.1 139.33,178.52 C136.78,174.95 134.26,171.65 131.79,168.63 C129.31,165.62 126.87,162.89 124.47,160.44 C122.07,157.99 119.71,155.82 117.39,153.94 C115.07,152.06 111.93,149.92 110.55,149.16 C109.17,148.41 109.26,149.12 109.08,149.4 C108.9,149.67 108.38,149.72 109.45,150.84 C110.52,151.95 113.45,154.05 115.5,156.06 C117.55,158.07 119.63,160.34 121.75,162.9 C123.87,165.45 126.02,168.27 128.21,171.37 C130.4,174.46 132.63,177.83 134.89,181.48 C137.16,185.13 139.46,189.05 141.8,193.24 C144.13,197.44 147.03,204.35 148.92,206.67 C150.82,208.98 152.14,207.71 153.17,207.15 C154.19,206.6 156.09,206.18 155.08,203.33 Z"/><path class="sil" d="M160.9,201.96 C163.13,199.71 167.01,192.68 170,188.54 C173,184.4 175.96,180.59 178.88,177.11 C181.8,173.63 184.68,170.48 187.53,167.65 C190.38,164.83 193.18,162.33 195.96,160.15 C198.74,157.98 201.48,156.13 204.2,154.6 C206.91,153.07 210.79,151.78 212.27,150.96 C213.75,150.15 213.15,150.02 213.06,149.7 C212.97,149.38 213.42,148.64 211.73,149.04 C210.04,149.43 205.9,150.71 202.92,152.07 C199.93,153.43 196.89,155.13 193.82,157.18 C190.74,159.23 187.62,161.62 184.47,164.35 C181.32,167.08 178.13,170.15 174.9,173.56 C171.67,176.96 168.41,180.71 165.11,184.79 C161.81,188.87 156.51,195.17 155.1,198.04 C153.69,200.92 155.66,201.38 156.63,202.03 C157.6,202.68 158.67,204.21 160.9,201.96 Z"/><g data-p="fruit0"><path class="nf" d="M64,210.65 L64,224.65"/><circle class="ink" cx="64" cy="229.65" r="5.5"/></g><g data-p="fruit1"><path class="nf" d="M80,211.88 L80,235.88"/><circle class="dot m" cx="80" cy="240.88" r="5.5"/></g><g data-p="fruit2"><path class="nf" d="M252,210 L252,226"/><circle class="ink" cx="252" cy="231" r="5.5"/></g></g>
+            <circle class="halo" cx="264.3" cy="190.9" r="34"/>
+            <path class="seeline" d="M256.3,185.2 Q217.3,121.4 198.2,191.9"/>
+            <g class="birdA hue h-coral" transform="translate(152.2 175.8) scale(1.15)"><g data-p="tail"><path d="M54,27 C56.67,27.33 63.33,33.17 66,36 C68.67,38.83 70.67,43.17 70,44 C69.33,44.83 65.33,42.67 62,41 C58.67,39.33 51.33,36.33 50,34 C48.67,31.67 51.33,26.67 54,27 Z"/></g><path class="nf" d="M36,40 L35,48 M44,40 L45,48"/><path d="M18,25 C19.33,22.17 23.67,18.5 28,17 C32.33,15.5 39.33,15.17 44,16 C48.67,16.83 53,19.67 56,22 C59,24.33 61.67,27.67 62,30 C62.33,32.33 60.67,34.33 58,36 C55.33,37.67 50.67,39.33 46,40 C41.33,40.67 34.33,41 30,40 C25.67,39 22,36.5 20,34 C18,31.5 16.67,27.83 18,25 Z"/><path class="nf" d="M30,26 Q44,21 55,30 Q44,36 32,33"/><g data-p="head" transform="rotate(0,25,24)"><path d="M28.5,17 C28.5,18.76 27.78,20.86 26.69,22.29 C25.59,23.72 23.71,25.01 21.94,25.56 C20.17,26.1 17.83,26.1 16.06,25.56 C14.29,25.01 12.41,23.72 11.31,22.29 C10.22,20.86 9.5,18.76 9.5,17 C9.5,15.24 10.22,13.14 11.31,11.71 C12.41,10.28 14.29,8.99 16.06,8.44 C17.83,7.9 20.17,7.9 21.94,8.44 C23.71,8.99 25.59,10.28 26.69,11.71 C27.78,13.14 28.5,15.24 28.5,17 Z"/><path class="hi" d="M11,15 L3,18.5 L11,20 Z"/><ellipse data-p="eye" class="dot" cx="16" cy="14.5" rx="1.4" ry="1.7"/></g></g>
+            <g class="birdB hue h-amber" transform="translate(242.5 171.4) scale(1.15)"><g data-p="tail"><path d="M54,27 C56.67,27.33 63.33,33.17 66,36 C68.67,38.83 70.67,43.17 70,44 C69.33,44.83 65.33,42.67 62,41 C58.67,39.33 51.33,36.33 50,34 C48.67,31.67 51.33,26.67 54,27 Z"/></g><path class="nf" d="M36,40 L35,48 M44,40 L45,48"/><path d="M18,25 C19.33,22.17 23.67,18.5 28,17 C32.33,15.5 39.33,15.17 44,16 C48.67,16.83 53,19.67 56,22 C59,24.33 61.67,27.67 62,30 C62.33,32.33 60.67,34.33 58,36 C55.33,37.67 50.67,39.33 46,40 C41.33,40.67 34.33,41 30,40 C25.67,39 22,36.5 20,34 C18,31.5 16.67,27.83 18,25 Z"/><path class="nf" d="M30,26 Q44,21 55,30 Q44,36 32,33"/><g data-p="head" transform="rotate(0,25,24)"><path d="M28.5,17 C28.5,18.76 27.78,20.86 26.69,22.29 C25.59,23.72 23.71,25.01 21.94,25.56 C20.17,26.1 17.83,26.1 16.06,25.56 C14.29,25.01 12.41,23.72 11.31,22.29 C10.22,20.86 9.5,18.76 9.5,17 C9.5,15.24 10.22,13.14 11.31,11.71 C12.41,10.28 14.29,8.99 16.06,8.44 C17.83,7.9 20.17,7.9 21.94,8.44 C23.71,8.99 25.59,10.28 26.69,11.71 C27.78,13.14 28.5,15.24 28.5,17 Z"/><path class="hi" d="M11,15 L3,18.5 L11,20 Z"/><ellipse data-p="eye" class="dot" cx="16" cy="14.5" rx="1.4" ry="1.7"/></g></g>
+            <g class="fchip"><rect class="fchip-bg" x="16" y="300" width="135" height="22" rx="11"/><text x="83.5" y="315" text-anchor="middle" class="fchip">their offer letter</text></g><g class="fchip"><rect class="fchip-bg" x="128" y="330" width="96" height="22" rx="11"/><text x="176" y="345" text-anchor="middle" class="fchip">their salary</text></g><g class="fchip"><rect class="fchip-bg" x="300" y="312" width="141.5" height="22" rx="11"/><text x="370.8" y="327" text-anchor="middle" class="fchip">“excited to share…”</text></g>
+          </svg>
+        </div>
+        <div class="controls">
+          <button class="btn" id="tasteBtn" aria-pressed="true">Taste their fruit</button>
+          <button class="btn" id="watchBtn" aria-pressed="false">Just watch</button>
+          <div class="meter"><label><span>restlessness</span><span id="restTxt">high</span></label><div class="track"><div class="fill" id="restFill"></div></div></div>
+        </div>
+      </div>
+      <div class="story">
+        <p class="lead rv">This image is so old it comes from the Ṛgveda, and the Upanishads keep returning to it.</p>
+        <figure class="verse rv">
+          <span class="tag">The verses</span>
+          <p class="sa">द्वा सुपर्णा सयुजा सखाया समानं वृक्षं परिषस्वजाते ।<br>तयोरन्यः पिप्पलं स्वाद्वत्त्यनश्नन्नन्यो अभिचाकशीति ॥</p>
+          <p class="iast">dvā suparṇā sayujā sakhāyā samānaṃ vṛkṣaṃ pariṣasvajāte ।<br>tayoranyaḥ pippalaṃ svādvattyanaśnannanyo abhicākaśīti ॥</p>
+          <blockquote>“Two birds that are ever associated and have similar names, cling to the same tree. Of these, one eats the fruit of divergent tastes, and the other looks on without eating.”</blockquote>
+          <p class="sa" style="margin-top:22px">समाने वृक्षे पुरुषो निमग्नोऽनीशया शोचति मुह्यमानः ।<br>जुष्टं यदा पश्यत्यन्यमीशमस्य महिमानमिति वीतशोकः ॥</p>
+          <p class="iast">samāne vṛkṣe puruṣo nimagno’nīśayā śocati muhyamānaḥ ।<br>juṣṭaṃ yadā paśyatyanyamīśamasya mahimānamiti vītaśokaḥ ॥</p>
+          <blockquote>“On the same tree, the individual soul remains drowned (i.e. stuck), as it were; and so it moans, being worried by its impotence. When it sees thus the other, the adored Lord, and His glory, then it becomes liberated from sorrow.”</blockquote>
+          <figcaption><span>Muṇḍaka Upaniṣad 3.1.1–2</span><span>tr. Swami Gambhirananda</span></figcaption>
+        </figure>
+        <div class="reading rv">
+          <h3>What it says to you <span>· my reading</span></h3>
+          <p>The grieving bird is the one tasting every fruit: their offer letters, their salaries, their “excited to share” posts. Each taste turns into a judgement about yourself. The verse names the feeling exactly — <em>anīśayā śocati</em>, it grieves from a sense of powerlessness.</p>
+          <p>Its sorrow ends not when it wins the fruit, but when it <strong>sees the other bird</strong>: the part of you that watches calmly and is not made of results. “It was easy for them” is something you see from outside. You see their fruit, never their struggle.</p>
+        </div>
+        <span class="answers rv">answers <b>“for them it was easy”</b></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= 3 WORK ================= -->
+<section id="work" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">03 — Effort <span class="ref">Īśā Upaniṣad 2</span></div>
+      <h2 class="rv d1">Keep doing <em>your work.</em></h2>
+      <p class="rv d2">“There is no other way than this.” Not a race — a hundred-year horizon.</p>
+    </div>
+    <div class="chapter">
+      <div class="stage rv" id="plantStage">
+        <div class="art">
+          <svg class="hl" viewBox="0 0 480 400" role="img" aria-label="A seed grows into a flowering plant as days of steady work pass.">
+            <path class="env" d="M0,330 L480,330"/>
+            <path class="env soft" d="M300,330 C350,300 420,300 480,322"/>
+            <path class="env soft" d="M180.4,333 L-248,420"/><path class="env soft" d="M188.8,333 L-56,420"/><path class="env soft" d="M195.8,333 L104,420"/><path class="env soft" d="M204.2,333 L296,420"/><path class="env soft" d="M211.2,333 L456,420"/><path class="env soft" d="M219.6,333 L648,420"/>
+            <g class="hue h-blue" transform="translate(262 56) scale(1.05)"><path d="M10,36 C3.67,33.67 6.33,29 8,26 C9.67,23 16,20.67 20,18 C24,15.33 27.33,11.67 32,10 C36.67,8.33 43.33,7 48,8 C52.67,9 55.67,14.67 60,16 C64.33,17.33 70,14.33 74,16 C78,17.67 83,22.67 84,26 C85,29.33 86.33,33.67 80,36 C73.67,38.33 57.67,40 46,40 C34.33,40 16.33,38.33 10,36 Z"/></g>
+            <g id="rain" class="hue h-blue"></g>
+            <g class="hue h-green" id="plant" transform="translate(75 17.5) scale(1.25)"><g data-p="roots"><path class="lo nf" data-p="root0" d="M100,242 C92,248 82,252 68,256"/><path class="lo nf" data-p="root1" d="M100,242 C101,249 99,253 100,259"/><path class="lo nf" data-p="root2" d="M100,242 C108,248 120,251 134,255"/></g><path d="M36,252 C18.67,250 49.33,243 60,240 C70.67,237 86.67,234 100,234 C113.33,234 129.33,237 140,240 C150.67,243 181.33,250 164,252 C146.67,254 53.33,254 36,252 Z"/><ellipse data-p="seed" class="ink" cx="100" cy="238" rx="4" ry="3"/><g data-p="plant"><path data-p="stem" class="nf hi" style="stroke-width:1.8" d="M100,238 C94,190 106,140 100,96"/><g data-p="lf0" transform="translate(102,205) scale(0)"><path d="M0,0 C-0.67,-2.17 7,-7.67 12,-9 C17,-10.33 29.33,-10.17 30,-8 C30.67,-5.83 21,2.67 16,4 C11,5.33 0.67,2.17 0,0 Z"/><path class="nf lo" d="M0,0 L20,-5"/></g><g data-p="lf1" transform="translate(98,175) scale(0)"><path d="M0,0 C0.67,-2.17 -7,-7.67 -12,-9 C-17,-10.33 -29.33,-10.17 -30,-8 C-30.67,-5.83 -21,2.67 -16,4 C-11,5.33 -0.67,2.17 0,0 Z"/><path class="nf lo" d="M0,0 L-20,-5"/></g><g data-p="lf2" transform="translate(102,145) scale(0)"><path d="M0,0 C-0.67,-2.17 7,-7.67 12,-9 C17,-10.33 29.33,-10.17 30,-8 C30.67,-5.83 21,2.67 16,4 C11,5.33 0.67,2.17 0,0 Z"/><path class="nf lo" d="M0,0 L20,-5"/></g><g data-p="lf3" transform="translate(98,122) scale(0)"><path d="M0,0 C0.67,-2.17 -7,-7.67 -12,-9 C-17,-10.33 -29.33,-10.17 -30,-8 C-30.67,-5.83 -21,2.67 -16,4 C-11,5.33 -0.67,2.17 0,0 Z"/><path class="nf lo" d="M0,0 L-20,-5"/></g><g data-p="bud" transform="translate(100,96) scale(0)"><ellipse class="ink" cx="0" cy="-7" rx="5" ry="3.4" transform="rotate(-90,0,-7)"/><ellipse class="ink" cx="6.06" cy="-3.5" rx="5" ry="3.4" transform="rotate(-30,6.06,-3.5)"/><ellipse class="ink" cx="6.06" cy="3.5" rx="5" ry="3.4" transform="rotate(30,6.06,3.5)"/><ellipse class="ink" cx="0" cy="7" rx="5" ry="3.4" transform="rotate(90,0,7)"/><ellipse class="ink" cx="-6.06" cy="3.5" rx="5" ry="3.4" transform="rotate(150,-6.06,3.5)"/><ellipse class="ink" cx="-6.06" cy="-3.5" rx="5" ry="3.4" transform="rotate(210,-6.06,-3.5)"/><circle class="dot m" cx="0" cy="0" r="3"/></g></g></g>
+            <text id="dayLabel" x="24" y="40" style="font:500 12px var(--mono);fill:var(--muted);letter-spacing:.08em">DAY 1</text>
+          </svg>
+        </div>
+        <div class="controls">
+          <div class="range"><label for="days"><span>days of steady work</span><b id="daysTxt">1</b></label><input id="days" type="range" min="1" max="120" value="1"></div>
+          <button class="btn" id="growBtn">Play</button>
+        </div>
+      </div>
+      <div class="story">
+        <p class="lead rv">The Īśā is only eighteen verses long. Its second verse is about how to live in the world while working in it.</p>
+        <figure class="verse rv">
+          <span class="tag">The verse</span>
+          <p class="sa">कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः ।<br>एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥</p>
+          <p class="iast">kurvanneveha karmāṇi jijīviṣecchataṃ samāḥ ।<br>evaṃ tvayi nānyatheto’sti na karma lipyate nare ॥</p>
+          <blockquote>“By performing karma in this world (as enjoined by the scriptures) should one yearn to live a hundred years. Thus action does not bind thee, the doer. There is no other way than this.”</blockquote>
+          <figcaption><span>Īśā Upaniṣad 2</span><span>tr. Vidyavachaspati V. Panoli</span></figcaption>
+        </figure>
+        <div class="reading rv">
+          <h3>What it says to you <span>· my reading</span></h3>
+          <p>The verse does not say “act if you will win”, or “act if you are on schedule”. It says keep doing your work, and that work done this way does not bind you. The weight comes from tying your worth to the result — not from the effort.</p>
+          <p>And it sets the horizon at <strong>a hundred years</strong>. Look at the grid below: the gap that feels enormous is two and a half squares.</p>
+        </div>
+        <div class="life rv">
+          <h4>A life of a hundred years</h4>
+          <p class="cap">One square per year, assuming you graduated around 22.</p>
+          <div class="grid100" id="grid100" aria-label="100 squares: 22 lived before graduation, 2.5 since, 75.5 still ahead."></div>
+          <div class="legend"><span><i style="background:color-mix(in srgb,var(--faint) 45%,var(--line))"></i>before graduation</span><span><i style="background:var(--coral)"></i>the 2½ “lost” years</span><span><i style="background:var(--line)"></i>still ahead</span></div>
+        </div>
+        <span class="answers rv">answers <b>“starting again just loses more time”</b></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= 4 ROAD ================= -->
+<section id="road" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">04 — The choice <span class="ref">Kaṭha Upaniṣad 1.2.1–2</span></div>
+      <h2 class="rv d1">Choose the good, <em>not the easy.</em></h2>
+      <p class="rv d2">Śreyas, the good, and preyas, the pleasant, both come to every person. The wise one tells them apart.</p>
+    </div>
+    <div class="chapter flip">
+      <div class="stage rv" id="forkStage">
+        <div class="art">
+          <svg class="hl" viewBox="0 0 480 400" role="img" aria-label="A path forks: one easy road fades downhill, the other climbs steps to a lamp on a hill.">
+            <path class="env soft" d="M0,170 L480,170 M0,170 C60,142 120,142 180,170"/>
+            <path class="env" d="M60,400 Q250,320 330,214 Q370,168 420,176 Q460,184 480,210"/>
+            <path class="env" d="M232,400 L246,290 M276,400 L262,290"/>
+            <path class="env" d="M262,290 L262,266 L288,266 L288,242 L314,242 L314,218 L340,218 L340,194 L366,194 L366,170 L392,170 L410,170"/>
+            <g class="road-pre" style="opacity:.55"><path class="env dash" d="M246,300 Q170,312 30,372"/><path class="env dash" d="M242,314 Q160,336 50,396"/></g>
+            <text x="34" y="352" style="font:500 10.5px var(--mono);fill:var(--faint)">preyas</text>
+            <text x="356" y="300" style="font:500 10.5px var(--mono);fill:var(--faint)">śreyas</text>
+            <circle class="lamp-glow" cx="408" cy="152" r="30" fill="none" stroke="var(--amber)" stroke-dasharray="2 4"/>
+            <g class="hue h-amber" id="lamp" transform="translate(388 140)"><circle class="lo dash nf" cx="20" cy="12" r="11"/><path d="M5,22 Q20,36 35,22 Z"/><path class="nf" d="M3,22 L37,22"/><g data-p="flame"><path class="ink" d="M20,3 C21.5,3 24,9.42 24.5,12 C25,14.58 24.25,17.42 23,18.5 C21.75,19.58 18.25,19.58 17,18.5 C15.75,17.42 15,14.58 15.5,12 C16,9.42 18.5,3 20,3 Z"/></g></g>
+            <g class="hue h-teal" id="walker" transform="translate(242 340)"><g transform="translate(-14 -56) scale(1.17)"><path d="M8.03,27.67 C7.6,28.36 7.76,29.73 7.65,30.75 C7.55,31.78 7.46,32.81 7.4,33.83 C7.33,34.86 7.28,35.88 7.25,36.9 C7.22,37.93 7.21,38.95 7.22,39.97 C7.23,40.99 7.26,42.01 7.31,43.03 C7.35,44.05 7.2,45.31 7.5,46.08 C7.8,46.85 8.59,47.68 9.09,47.65 C9.59,47.62 10.27,46.7 10.5,45.92 C10.73,45.14 10.46,43.95 10.47,42.97 C10.48,41.99 10.51,41.01 10.56,40.03 C10.6,39.05 10.67,38.07 10.75,37.1 C10.83,36.12 10.93,35.14 11.05,34.17 C11.17,33.19 11.3,32.22 11.46,31.25 C11.61,30.27 12.18,29.1 11.97,28.33 C11.77,27.56 10.89,26.73 10.23,26.62 C9.57,26.51 8.46,26.98 8.03,27.67 Z"/><path d="M12.03,28.33 C11.82,29.1 12.39,30.27 12.54,31.25 C12.7,32.22 12.83,33.19 12.95,34.17 C13.07,35.14 13.17,36.12 13.25,37.1 C13.33,38.07 13.4,39.05 13.44,40.03 C13.49,41.01 13.52,41.99 13.53,42.97 C13.54,43.95 13.27,45.14 13.5,45.92 C13.73,46.7 14.41,47.62 14.91,47.65 C15.41,47.68 16.2,46.85 16.5,46.08 C16.8,45.31 16.65,44.05 16.69,43.03 C16.74,42.01 16.77,40.99 16.78,39.97 C16.79,38.95 16.78,37.93 16.75,36.9 C16.72,35.88 16.67,34.86 16.6,33.83 C16.54,32.81 16.45,31.78 16.35,30.75 C16.24,29.73 16.4,28.36 15.97,27.67 C15.54,26.98 14.43,26.51 13.77,26.62 C13.11,26.73 12.23,27.56 12.03,28.33 Z"/><path d="M7,30 C6,27.67 5.17,20.83 6,18 C6.83,15.17 10,13 12,13 C14,13 17.17,15.17 18,18 C18.83,20.83 18,27.67 17,30 C16,32.33 13.67,32 12,32 C10.33,32 8,32.33 7,30 Z"/><path class="ink" d="M17,8 C17,9.08 16.62,10.36 16.05,11.23 C15.47,12.1 14.48,12.9 13.55,13.23 C12.61,13.56 11.39,13.56 10.45,13.23 C9.52,12.9 8.53,12.1 7.95,11.23 C7.38,10.36 7,9.08 7,8 C7,6.92 7.38,5.64 7.95,4.77 C8.53,3.9 9.52,3.1 10.45,2.77 C11.39,2.44 12.61,2.44 13.55,2.77 C14.48,3.1 15.47,3.9 16.05,4.77 C16.62,5.64 17,6.92 17,8 Z"/></g></g>
+          </svg>
+        </div>
+        <div class="controls">
+          <button class="btn" id="preBtn">The pleasant road</button>
+          <button class="btn primary" id="shrBtn">The good road</button>
+          <div class="status fork-msg" id="forkMsg">Two roads. Which one?</div>
+        </div>
+      </div>
+      <div class="story">
+        <p class="lead rv">Yama offers Nachiketā every pleasure — wealth, long life, music — in place of his question. The boy refuses. Yama is pleased, and says:</p>
+        <figure class="verse rv">
+          <span class="tag">The verse</span>
+          <p class="sa">श्रेयश्च प्रेयश्च मनुष्यमेतः<br>तौ सम्परीत्य विविनक्ति धीरः ।<br>श्रेयो हि धीरोऽभि प्रेयसो वृणीते<br>प्रेयो मन्दो योगक्षेमाद्वृणीते ॥</p>
+          <p class="iast">śreyaśca preyaśca manuṣyametaḥ<br>tau samparītya vivinakti dhīraḥ ।<br>śreyo hi dhīro’bhi preyaso vṛṇīte<br>preyo mando yogakṣemādvṛṇīte ॥</p>
+          <blockquote>“The preferable and the pleasurable approach man. The intelligent one examines both and separates them. Yea, the intelligent one prefers the preferable to the pleasurable, (whereas) the ignorant one selects the pleasurable for the sake of yoga (attainment of that which is not already possessed) and kshema (the preservation of that which is already in possession).”</blockquote>
+          <figcaption><span>Kaṭha Upaniṣad 1.2.2</span><span>tr. Vidyavachaspati V. Panoli</span></figcaption>
+        </figure>
+        <details class="more rv">
+          <summary>The verse just before it · Kaṭha 1.2.1</summary>
+          <div class="in"><p class="sa">अन्यच्छ्रेयोऽन्यदुतैव प्रेयस्ते उभे नानार्थे पुरुषँ सिनीतः ।<br>तयोः श्रेय आददानस्य साधु<br>भवति हीयतेऽर्थाद्य उ प्रेयो वृणीते ॥</p><p class="iast">anyacchreyo’nyadutaiva preyaste ubhe nānārthe puruṣam̐ sinītaḥ ।<br>tayoḥ śreya ādadānasya sādhu<br>bhavati hīyate’rthādya u preyo vṛṇīte ॥</p><p style="font:400 18px/1.45 var(--serif);margin:0">“Different is (that which is) preferable; and different, indeed, is the pleasurable. These two, serving different purposes, blind man. Good accrues to him who, of these two, chooses the preferable. He who chooses the pleasurable falls from the goal.”</p></div>
+        </details>
+        <div class="reading rv">
+          <h3>What it says to you <span>· my reading</span></h3>
+          <p>Right now the pleasant choice is to decide it's pointless and stop. It feels like relief, and the verse says plainly what it costs: <em>“he who chooses the pleasurable falls from the goal.”</em></p>
+          <p>The good choice is harder and quieter: begin again, without needing it to feel good yet. Notice the key word, <em>vivinakti</em> — the wise one <strong>examines both and separates them</strong>. You don't have to feel brave. You only have to see which road is which.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= 5 ARISE ================= -->
+<section id="arise" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">05 — Begin <span class="ref">Kaṭha Upaniṣad 1.3.14</span></div>
+      <h2 class="rv d1">Arise. Awake. <em>Find those who know.</em></h2>
+      <p class="rv d2">The most famous line in the Kaṭha — and it admits the path is hard.</p>
+    </div>
+    <div class="chapter">
+      <div class="stage rv" id="ariseStage">
+        <div class="art">
+          <svg class="hl" viewBox="0 0 480 400" role="img" aria-label="A person standing on a narrow path lifts their head as the sun rises.">
+            <defs><clipPath id="sky2"><rect x="0" y="0" width="480" height="230"/></clipPath></defs>
+            <g clip-path="url(#sky2)"><g class="arise-sun hue h-orange" transform="translate(0 0)"><g transform="translate(300 230)"><g data-p="rays"><path class="nf" d="M96,60 L106,60"/><path class="nf" d="M93.26,73.78 L108.04,79.9"/><path class="nf" d="M85.46,85.46 L92.53,92.53"/><path class="nf" d="M73.78,93.26 L79.9,108.04"/><path class="nf" d="M60,96 L60,106"/><path class="nf" d="M46.22,93.26 L40.1,108.04"/><path class="nf" d="M34.54,85.46 L27.47,92.53"/><path class="nf" d="M26.74,73.78 L11.96,79.9"/><path class="nf" d="M24,60 L14,60"/><path class="nf" d="M26.74,46.22 L11.96,40.1"/><path class="nf" d="M34.54,34.54 L27.47,27.47"/><path class="nf" d="M46.22,26.74 L40.1,11.96"/><path class="nf" d="M60,24 L60,14"/><path class="nf" d="M73.78,26.74 L79.9,11.96"/><path class="nf" d="M85.46,34.54 L92.53,27.47"/><path class="nf" d="M93.26,46.22 L108.04,40.1"/></g><circle class="lo dash nf" cx="60" cy="60" r="32"/><circle class="ink" cx="60" cy="60" r="26"/></g></g></g>
+            <path class="env" d="M0,230 L480,230"/>
+            <path class="env soft" d="M0,230 C70,200 140,200 210,230 M280,230 C330,212 400,212 470,230"/>
+            <path class="env" d="M358,232 L196,400 M362,232 L310,400"/>
+            <path class="env dash" d="M360,232 L253,400"/>
+            <path class="env soft" d="M335,234 L-440,420"/><path class="env soft" d="M341,234 L-248,420"/><path class="env soft" d="M347,234 L-56,420"/><path class="env soft" d="M370,234 L680,420"/><path class="env soft" d="M376,234 L872,420"/>
+            <path d="M118,214 q6,-6 12,0 q6,-6 12,0" class="nf" style="stroke:var(--faint)"/>
+            <ellipse cx="214" cy="380" rx="24" ry="4" fill="var(--line)" stroke="none"/>
+            <g class="stander hue h-teal" transform="translate(172 186)"><path d="M31.5,111.93 C30.59,114.62 31.59,120.16 31.61,124.33 C31.63,128.5 31.63,132.71 31.61,136.96 C31.6,141.21 31.56,145.5 31.5,149.83 C31.45,154.15 31.37,158.52 31.28,162.92 C31.19,167.32 31.08,171.76 30.95,176.24 C30.82,180.72 30.04,186.85 30.51,189.79 C30.98,192.72 32.6,193.77 33.77,193.84 C34.93,193.91 36.69,193.08 37.49,190.21 C38.3,187.35 38.25,181.13 38.61,176.65 C38.96,172.17 39.29,167.72 39.61,163.3 C39.92,158.89 40.22,154.51 40.5,150.17 C40.77,145.83 41.03,141.53 41.28,137.26 C41.52,132.99 41.74,128.76 41.94,124.56 C42.15,120.36 43.31,114.81 42.5,112.07 C41.68,109.34 38.89,108.18 37.05,108.15 C35.22,108.13 32.41,109.23 31.5,111.93 Z"/><path d="M39.51,112.37 C38.83,115.13 40.27,120.58 40.62,124.74 C40.97,128.9 41.3,133.1 41.62,137.34 C41.93,141.58 42.23,145.86 42.5,150.17 C42.78,154.49 43.04,158.84 43.28,163.23 C43.52,167.63 43.74,172.06 43.95,176.52 C44.15,180.99 43.82,187.15 44.5,190.04 C45.18,192.93 46.88,193.86 48.05,193.85 C49.21,193.84 50.91,192.87 51.5,189.96 C52.09,187.04 51.59,180.86 51.61,176.37 C51.63,171.87 51.63,167.41 51.61,162.99 C51.59,158.57 51.55,154.18 51.5,149.83 C51.44,145.48 51.37,141.16 51.27,136.88 C51.18,132.6 51.07,128.36 50.94,124.15 C50.81,119.94 51.52,114.29 50.49,111.63 C49.45,108.96 46.57,108.04 44.74,108.16 C42.91,108.28 40.2,109.61 39.51,112.37 Z"/><path d="M28,190 L38,190 L40,194 L27,194 Z"/><path d="M42,190 L54,190 L56,194 L41,194 Z"/><path data-p="armB" d="M31.09,61.14 C30.1,62.85 30.07,66.78 29.65,69.54 C29.22,72.3 28.85,75.03 28.54,77.71 C28.22,80.39 27.97,83.04 27.77,85.65 C27.57,88.26 27.43,90.83 27.34,93.35 C27.25,95.88 27.22,98.37 27.25,100.83 C27.28,103.28 27.03,106.41 27.5,108.06 C27.97,109.71 29.23,110.77 30.07,110.75 C30.9,110.73 32.05,109.57 32.5,107.94 C32.95,106.31 32.61,103.32 32.75,100.95 C32.89,98.59 33.08,96.19 33.33,93.76 C33.57,91.32 33.88,88.85 34.23,86.35 C34.59,83.85 35,81.31 35.46,78.73 C35.93,76.16 36.45,73.55 37.02,70.9 C37.59,68.26 39.14,64.8 38.91,62.86 C38.67,60.92 36.9,59.55 35.6,59.27 C34.3,58.98 32.09,59.43 31.09,61.14 Z"/><g data-p="torso" transform="rotate(0,42,114)"><path d="M30,114 C27.67,108.33 27.83,92.67 28,84 C28.17,75.33 29,67.17 31,62 C33,56.83 36.5,54 40,53 C43.5,52 49.33,51.5 52,56 C54.67,60.5 55.67,70.33 56,80 C56.33,89.67 56.33,107.67 54,114 C51.67,120.33 46,118 42,118 C38,118 32.33,119.67 30,114 Z"/><g data-p="head" transform="rotate(0,43,52)"><path d="M56,38 C56,40.08 55.44,42.45 54.53,44.25 C53.61,46.05 52.09,47.78 50.5,48.83 C48.91,49.87 46.83,50.5 45,50.5 C43.17,50.5 41.09,49.87 39.5,48.83 C37.91,47.78 36.39,46.05 35.47,44.25 C34.56,42.45 34,40.08 34,38 C34,35.92 34.56,33.55 35.47,31.75 C36.39,29.95 37.91,28.22 39.5,27.17 C41.09,26.13 43.17,25.5 45,25.5 C46.83,25.5 48.91,26.13 50.5,27.17 C52.09,28.22 53.61,29.95 54.53,31.75 C55.44,33.55 56,35.92 56,38 Z"/><path class="ink" d="M34,42 C33.5,39.5 33,33.83 34,31 C35,28.17 37.67,26.17 40,25 C42.33,23.83 45.5,23.5 48,24 C50.5,24.5 53.5,26.33 55,28 C56.5,29.67 57.83,33.33 57,34 C56.17,34.67 52.33,32.17 50,32 C47.67,31.83 45,32 43,33 C41,34 39,35.83 38,38 C37,40.17 37.67,45.33 37,46 C36.33,46.67 34.5,44.5 34,42 Z"/><ellipse data-p="eye" class="dot m" cx="51.5" cy="38" rx="1.1" ry="1.7"/><path data-p="mouth" class="nf sil" d="M49,45 Q52,45.6 54.5,45"/></g><path data-p="armF" d="M45.19,63.22 C45.11,65.18 46.97,68.52 47.69,71.12 C48.42,73.72 49.04,76.28 49.55,78.81 C50.06,81.33 50.46,83.82 50.76,86.28 C51.06,88.74 51.25,91.16 51.33,93.56 C51.42,95.95 51.39,98.31 51.26,100.64 C51.13,102.97 50.34,105.85 50.54,107.53 C50.75,109.21 51.67,110.55 52.49,110.7 C53.3,110.86 54.75,110.06 55.46,108.47 C56.16,106.87 56.43,103.63 56.74,101.14 C57.05,98.66 57.25,96.13 57.33,93.56 C57.42,90.99 57.38,88.37 57.24,85.72 C57.09,83.07 56.83,80.37 56.45,77.64 C56.07,74.91 55.58,72.13 54.97,69.32 C54.37,66.51 53.95,62.45 52.81,60.78 C51.67,59.12 49.42,58.93 48.15,59.33 C46.88,59.74 45.27,61.25 45.19,63.22 Z"/></g></g>
+          </svg>
+        </div>
+        <div class="controls">
+          <button class="btn primary" id="riseBtn">Arise</button>
+          <div class="status" id="riseTxt">uttiṣṭhata · jāgrata</div>
+        </div>
+      </div>
+      <div class="story">
+        <figure class="verse rv" style="margin-top:0">
+          <span class="tag">The verse</span>
+          <p class="sa">उत्तिष्ठत जाग्रत<br>प्राप्य वरान्निबोधत ।<br>क्षुरस्य धारा निशिता दुरत्यया<br>दुर्गं पथस्तत्कवयो वदन्ति ॥</p>
+          <p class="iast">uttiṣṭhata jāgrata<br>prāpya varānnibodhata ।<br>kṣurasya dhārā niśitā duratyayā<br>durgaṃ pathastatkavayo vadanti ॥</p>
+          <blockquote>“Arise, awake, and learn by approaching the exalted ones, for that path is sharp as a razor’s edge, impassable, and hard to go by, say the wise.”</blockquote>
+          <figcaption><span>Kaṭha Upaniṣad 1.3.14</span><span>tr. Vidyavachaspati V. Panoli</span></figcaption>
+        </figure>
+        <div class="reading rv">
+          <h3>What it says to you <span>· my reading</span></h3>
+          <p>Three verbs, in order: <strong>arise</strong> (get up from where you've sunk), <strong>awake</strong> (see your situation clearly, not through the fog of comparison), <strong>learn by approaching</strong> — <em>prāpya varān</em>, go to those who are further along.</p>
+          <p>And then, honestly: the path is “sharp as a razor's edge.” If it feels difficult, that doesn't mean you're failing. It's the path as described. Don't walk it alone — find people who can guide you: seniors, alumni, people already doing the work you want.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= BHUMA ================= -->
+<section class="bhuma" style="background:linear-gradient(180deg,transparent,color-mix(in srgb,var(--amber) 7%,transparent),transparent)">
+  <div class="wrap">
+    <p class="sa rv">यो वै भूमा तत् सुखम् । नाल्पे सुखम् अस्ति ।</p>
+    <p class="iast rv d1">yo vai bhūmā tat sukham · nālpe sukham asti</p>
+    <blockquote class="rv d2">“That which is infinite, is alone happiness. There is no happiness in anything finite.”</blockquote>
+    <cite class="rv d3">Chāndogya Upaniṣad 7.23.1 · tr. Swami Swahananda</cite>
+    <p class="prose rv d3" style="margin:28px auto 0;color:var(--muted);text-align:center">A job matters a great deal. But your worth was never meant to rest on one offer letter.</p>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= MAP ================= -->
+<section id="map" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">06 — How it connects</div>
+      <h2 class="rv d1">The map <em>behind the answer.</em></h2>
+      <p class="rv d2">These verses weren't picked at random. In the project's knowledge graph, several are already linked to the same human problem: measuring your worth against others.</p>
+    </div>
+    <div class="map rv">
+      <div class="map-grid">
+        <svg viewBox="0 0 620 480" id="mapSvg" role="group" aria-label="Knowledge graph: a dilemma linked to verses, concepts and a Vedic root. Select a node to read the link."></svg>
+        <div class="map-info" aria-live="polite">
+          <div class="kind" id="mKind">Dilemma</div>
+          <h3 id="mTitle">Measuring one's worth against others</h3>
+          <p class="why" id="mWhy">Select any node to see why it is linked.</p>
+          <ul id="mLinks"></ul>
+        </div>
+      </div>
+      <div class="map-key"><span><i style="border-color:var(--coral)"></i>dilemma</span><span><i style="border-color:var(--accent)"></i>verse</span><span><i style="border-color:var(--teal)"></i>concept</span><span><i style="border-color:var(--amber)"></i>Vedic root</span><span style="margin-left:auto">source · public/data/graph.json</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= PLAN ================= -->
+<section id="plan" data-ch>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="num rv">07 — The plan</div>
+      <h2 class="rv d1">Your clock <em>starts today.</em></h2>
+      <p class="rv d2">Not from graduation day. Six steps, each tied to a verse. Tick them off as you go — this page remembers on your device.</p>
+    </div>
+    <div class="plan-meter rv"><span id="planTxt">0 of 6</span><div class="track"><div class="fill" id="planFill"></div></div></div>
+    <div class="plan" id="planList">
+      <label class="step rv"><input type="checkbox" data-k="0"><div><h4>Stop counting from graduation <small>Īśā 2</small></h4><p>Hiring managers ask what you can do now far more than when you graduated. Your timeline begins today.</p></div></label>
+      <label class="step rv d1"><input type="checkbox" data-k="1"><div><h4>Review your three nights <small>Kaṭha 1.1.9</small></h4><p>Write down where things broke: résumé shortlisting, aptitude tests, technical rounds or HR rounds. Each needs a different fix.</p></div></label>
+      <label class="step rv"><input type="checkbox" data-k="2"><div><h4>One small daily practice <small>Īśā 2</small></h4><p>Two or three focused hours a day beats a punishing plan you'll quit in a week. Steady, not frantic.</p></div></label>
+      <label class="step rv d1"><input type="checkbox" data-k="3"><div><h4>Build one thing you can show <small>Kaṭha 1.2.2</small></h4><p>A real project explains the gap better than an apology. “Here's what I built” changes the conversation.</p></div></label>
+      <label class="step rv"><input type="checkbox" data-k="4"><div><h4>Approach those who know <small>Kaṭha 1.3.14</small></h4><p>Message three to five people already in the role you want — seniors, alumni — for referrals and honest feedback on your résumé.</p></div></label>
+      <label class="step rv d1"><input type="checkbox" data-k="5"><div><h4>Protect the watching bird <small>Muṇḍaka 3.1.2</small></h4><p>Mute your batchmates' updates for a while. That isn't weakness; it's keeping your mind clear enough to work.</p></div></label>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- ================= REEL ================= -->
+<section id="reel">
+  <div class="wrap">
+    <div class="reel">
+      <div class="phone rv"><video id="reelVid" src="upanishad-reel.mp4" poster="reel-poster.jpg" controls playsinline preload="metadata"></video></div>
+      <div>
+        <div class="num rv">The reel · 63 seconds</div>
+        <h2 class="rv d1">Watch it <em>as a story.</em></h2>
+        <p class="prose rv d2" style="color:var(--muted)">The same journey as a vertical video with soft music — a tanpura drone and a slow flute line in raga Bhupali, composed for it. Jump to any scene:</p>
+        <ul class="scenes rv d3" id="scenes">
+          <li><button data-t="0"><span>0:00</span>Where I am — the problem</button></li>
+          <li><button data-t="10.4"><span>0:10</span>Nachiketā's three nights</button></li>
+          <li><button data-t="20.6"><span>0:20</span>Two birds, one tree</button></li>
+          <li><button data-t="30.9"><span>0:31</span>Keep doing your work</button></li>
+          <li><button data-t="40.2"><span>0:40</span>Choose the good road</button></li>
+          <li><button data-t="50.5"><span>0:50</span>Arise, awake — your clock starts today</button></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= HELP ================= -->
+<section style="padding-top:0">
+  <div class="wrap">
+    <div class="help rv">
+      <div class="ic" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7.5-4.6-9.3-9.3C1.4 8.3 3.6 4.5 7.3 4.5c2 0 3.4 1.1 4.7 2.7 1.3-1.6 2.7-2.7 4.7-2.7 3.7 0 5.9 3.8 4.6 7.2C19.5 16.4 12 21 12 21z"/></svg></div>
+      <div><h3>If “pointless” starts to feel heavier</h3><p>If the feeling becomes hopelessness that doesn't lift, please talk to someone you trust. In India, Tele-MANAS is free, confidential and available around the clock. Reaching out is part of “approaching those who know” — not a failure.</p></div>
+      <a class="call" href="tel:14416">14416</a>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap cols">
+    <div>
+      <h5>About this page</h5>
+      <p style="margin:0 0 10px">Made with UpaSārathi — the 13 Principal Upanishads as a knowledge graph. Every Sanskrit line and translation here is quoted exactly from the project's corpus; the “my reading” sections are interpretation, marked as such.</p>
+      <p style="margin:0">Illustrations follow the Hairline line-art style (MIT, © Lucas Marques).</p>
+    </div>
+    <div>
+      <h5>Translations quoted</h5>
+      <ul>
+        <li>Kaṭha &amp; Īśā — Vidyavachaspati V. Panoli</li>
+        <li>Muṇḍaka — Swami Gambhīrānanda</li>
+        <li>Chāndogya — Swami Swahananda</li>
+        <li>Sanskrit text — upanishads.org.in, via the corpus</li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<script>
+(() => {
+const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
+const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+
+/* theme */
+const root = document.documentElement, saved = store.get("lb-theme");
+if (saved) root.dataset.theme = saved;
+$("#themeBtn").addEventListener("click", () => {
+  const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  root.dataset.theme = dark ? "light" : "dark"; store.set("lb-theme", root.dataset.theme);
+});
+
+/* reveal + nav + progress */
+const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } }), { rootMargin: "0px 0px -8% 0px" });
+$$(".rv").forEach((el) => io.observe(el));
+const links = $$(".chapters a"), secs = $$("[data-ch]");
+const onScroll = () => {
+  const y = scrollY, h = document.documentElement.scrollHeight - innerHeight;
+  $("#progress").style.width = (h > 0 ? (y / h) * 100 : 0) + "%";
+  $("#bar").classList.toggle("on", y > 10);
+  let cur = null; for (const s of secs) if (s.getBoundingClientRect().top < innerHeight * 0.4) cur = s.id;
+  links.forEach((a) => a.classList.toggle("active", a.getAttribute("href") === "#" + cur));
+};
+addEventListener("scroll", onScroll, { passive: true }); onScroll();
+
+/* 1 — Nachiketā */
+{
+  let n = 0; const moon = $("#moon"), dots = $$(".night-dots i"), btn = $("#nightBtn"), reset = $("#nightReset"), txt = $("#nightTxt");
+  const arc = (u) => [40 + 400 * u, 150 - 110 * Math.sin(Math.PI * u)];
+  const setMoon = (u, instant) => { const [x, y] = arc(u); moon.style.transition = instant ? "none" : ""; moon.setAttribute("transform", `translate(${x} ${y})`); };
+  const crossNight = () => new Promise((res) => {
+    if (reduce) { res(); return; }
+    const t0 = performance.now(), D = 1600;
+    const step = (now) => { const u = Math.min(1, (now - t0) / D); const e = 0.5 - 0.5 * Math.cos(Math.PI * u); const [x, y] = arc(e); moon.style.transition = "none"; moon.setAttribute("transform", `translate(${x} ${y})`); moon.style.opacity = u > .9 ? (1 - u) * 10 : 1; u < 1 ? requestAnimationFrame(step) : res(); };
+    requestAnimationFrame(step);
+  });
+  btn.addEventListener("click", async () => {
+    if (n >= 3) return; btn.disabled = true; await crossNight(); n++;
+    dots.forEach((d, i) => d.classList.toggle("on", i < n));
+    setMoon(0, true); moon.style.opacity = n < 3 ? 1 : 0;
+    if (n < 3) { txt.textContent = `Night ${n} of 3`; btn.textContent = "Wait another night"; btn.disabled = false; }
+    else {
+      txt.textContent = "Three nights → three boons"; btn.hidden = true; reset.hidden = false;
+      $$(".boon").forEach((b, i) => setTimeout(() => b.classList.add("lit"), reduce ? 0 : 250 + i * 380));
+    }
+  });
+  reset.addEventListener("click", () => { n = 0; dots.forEach((d) => d.classList.remove("on")); $$(".boon").forEach((b) => b.classList.remove("lit")); btn.hidden = false; btn.disabled = false; btn.textContent = "Wait one night"; reset.hidden = true; txt.textContent = "Night 0 of 3"; moon.style.opacity = 1; setMoon(0, true); });
+}
+
+/* 2 — birds */
+{
+  const st = $("#birdsStage"), t = $("#tasteBtn"), w = $("#watchBtn"), fill = $("#restFill"), rt = $("#restTxt");
+  const set = (taste) => {
+    st.classList.toggle("tasting", taste); st.classList.toggle("watching", !taste);
+    t.setAttribute("aria-pressed", taste); w.setAttribute("aria-pressed", !taste);
+    fill.style.width = taste ? "82%" : "12%"; fill.style.background = taste ? "var(--coral)" : "var(--amber)"; rt.textContent = taste ? "high" : "settling";
+  };
+  t.addEventListener("click", () => set(true)); w.addEventListener("click", () => set(false)); set(true);
+}
+
+/* 3 — plant + life grid */
+{
+  const r = $("#days"), dt = $("#daysTxt"), lab = $("#dayLabel"), stem = $('#plant [data-p=stem]'), bud = $('#plant [data-p=bud]');
+  const leaves = [0, 1, 2, 3].map((i) => $(`#plant [data-p=lf${i}]`)), roots = [0, 1, 2].map((i) => $(`#plant [data-p=root${i}]`));
+  const LP = [[102, 205], [98, 175], [102, 145], [98, 122]], LAT = [0.23, 0.44, 0.66, 0.82];
+  stem.setAttribute("pathLength", 1); stem.style.strokeDasharray = "1 1";
+  roots.forEach((p) => { p.setAttribute("pathLength", 1); p.style.strokeDasharray = "1 1"; });
+  const draw = () => {
+    const d = +r.value, p = (d - 1) / 119;
+    r.style.setProperty("--p", p * 100 + "%"); dt.textContent = d; lab.textContent = "DAY " + d;
+    stem.style.strokeDashoffset = 1 - Math.min(1, p / 0.85);
+    leaves.forEach((g, i) => { const s = Math.max(0, Math.min(1, (p / 0.85 - LAT[i]) / 0.12)); g.setAttribute("transform", `translate(${LP[i][0]},${LP[i][1]}) scale(${s})`); });
+    roots.forEach((g, i) => { g.style.strokeDashoffset = 1 - Math.max(0, Math.min(1, (p - 0.08 - i * 0.06) / 0.4)); });
+    const b = Math.max(0, Math.min(1, (p - 0.86) / 0.12)); bud.setAttribute("transform", `translate(100,96) scale(${b})`);
+  };
+  r.addEventListener("input", draw); draw();
+  let playing = null; const gb = $("#growBtn");
+  gb.addEventListener("click", () => {
+    if (playing) { cancelAnimationFrame(playing); playing = null; gb.textContent = "Play"; return; }
+    if (+r.value >= 120) r.value = 1;
+    gb.textContent = "Pause"; let last = performance.now();
+    const tick = (now) => { if (now - last > 45) { r.value = +r.value + 1; draw(); last = now; } if (+r.value < 120) playing = requestAnimationFrame(tick); else { playing = null; gb.textContent = "Play again"; } };
+    playing = requestAnimationFrame(tick);
+  });
+  const grid = $("#grid100");
+  for (let i = 0; i < 100; i++) { const c = document.createElement("i"); if (i < 22) c.className = "past"; else if (i < 24) c.className = "gap"; else if (i === 24) c.className = "half"; grid.appendChild(c); }
+  // rain drops
+  const rain = $("#rain"); const NS = "http://www.w3.org/2000/svg";
+  if (!reduce) for (let k = 0; k < 6; k++) { const l = document.createElementNS(NS, "path"); l.setAttribute("d", `M${282 + (k % 3) * 16},104 l-4,12`); l.setAttribute("class", "nf hi"); l.style.animation = `drop 1.6s ${k * 0.27}s linear infinite`; rain.appendChild(l); }
+  const ss = document.createElement("style"); ss.textContent = "@keyframes drop{0%{transform:translate(0,0);opacity:0}10%{opacity:1}100%{transform:translate(-62px,196px);opacity:0}}"; document.head.appendChild(ss);
+}
+
+/* 4 — fork */
+{
+  const st = $("#forkStage"), w = $("#walker"), msg = $("#forkMsg"), pre = $("#preBtn"), shr = $("#shrBtn");
+  const START = [242, 340], FORK = [254, 296];
+  const STEPS = [[262, 266], [288, 266], [288, 242], [314, 242], [314, 218], [340, 218], [340, 194], [366, 194], [366, 170], [392, 170], [388, 170]];
+  let anim = null;
+  const along = (pts, D, done) => {
+    cancelAnimationFrame(anim);
+    const segs = []; let L = 0; for (let i = 1; i < pts.length; i++) { const l = Math.hypot(pts[i][0] - pts[i - 1][0], pts[i][1] - pts[i - 1][1]); segs.push(l); L += l; }
+    if (reduce) { const p = pts.at(-1); w.setAttribute("transform", `translate(${p[0]} ${p[1]})`); done && done(); return; }
+    const t0 = performance.now();
+    const step = (now) => {
+      const u = Math.min(1, (now - t0) / D), e = u < .5 ? 2 * u * u : 1 - (-2 * u + 2) ** 2 / 2; let d = e * L, i = 0;
+      while (i < segs.length - 1 && d > segs[i]) { d -= segs[i]; i++; }
+      const k = segs[i] ? d / segs[i] : 0, x = pts[i][0] + (pts[i + 1][0] - pts[i][0]) * k, y = pts[i][1] + (pts[i + 1][1] - pts[i][1]) * k;
+      w.setAttribute("transform", `translate(${x} ${y + Math.sin(now / 90) * 0.8})`);
+      u < 1 ? (anim = requestAnimationFrame(step)) : done && done();
+    };
+    anim = requestAnimationFrame(step);
+  };
+  const reset = () => { st.classList.remove("chose-preyas", "chose-shreyas"); w.style.opacity = 1; };
+  pre.addEventListener("click", () => {
+    reset(); st.classList.add("chose-preyas"); msg.textContent = "Relief tonight…";
+    along([START, FORK, [190, 316], [90, 360]], 2600, () => { w.style.transition = "opacity 1s"; w.style.opacity = .15; msg.textContent = "…and the same place six months later. “He falls from the goal.”"; });
+  });
+  shr.addEventListener("click", () => {
+    reset(); w.style.transition = ""; msg.textContent = "One step at a time…";
+    along([START, FORK, ...STEPS], 4200, () => { st.classList.add("chose-shreyas"); msg.textContent = "Hard, slow — and lit. “Good accrues to him.”"; });
+  });
+}
+
+/* 5 — arise */
+{
+  const st = $("#ariseStage"), b = $("#riseBtn"), t = $("#riseTxt");
+  const go = () => { st.classList.add("risen"); b.textContent = "Again"; t.textContent = "arise · awake · learn"; };
+  b.addEventListener("click", () => { if (st.classList.contains("risen")) { st.classList.remove("risen"); b.textContent = "Arise"; t.textContent = "uttiṣṭhata · jāgrata"; } else go(); });
+  new IntersectionObserver((es, o) => es.forEach((e) => { if (e.isIntersecting) { setTimeout(go, 600); o.disconnect(); } }), { threshold: .6 }).observe(st);
+}
+
+/* 6 — knowledge-graph map */
+{
+  const G = {"nodes": [{"id": "dilemma", "kind": "dilemma", "label": "Comparison", "title": "Measuring one's worth against others", "ref": null, "x": 310, "y": 250, "why": "One of the project's curated dilemmas. Four verses are linked to it as diagnoses — the same four ideas this page leans on."}, {"id": "MuU_3.1.2", "kind": "verse", "label": "MuU 3.1.2", "title": "The grieving bird", "ref": "Muṇḍaka 3.1.2", "x": 170, "y": 160, "why": "It grieves from powerlessness — until it sees the other bird."}, {"id": "MuU_3.1.1", "kind": "verse", "label": "MuU 3.1.1", "title": "Two birds, one tree", "ref": "Muṇḍaka 3.1.1", "x": 175, "y": 52, "why": "One eats the fruit; the other looks on without eating."}, {"id": "RV_1.164.20", "kind": "root", "label": "ṚV 1.164.20", "title": "The riddle hymn of Dīrghatamas", "ref": "Ṛgveda 1.164.20", "x": 345, "y": 48, "why": "The two-birds image is older than the Upanishads — it begins here."}, {"id": "concept:sakshin", "kind": "concept", "label": "Sākṣī", "title": "Sākṣī — the witness", "ref": null, "x": 78, "y": 250, "why": "The self that watches without eating the fruit."}, {"id": "KaU_1.2.2", "kind": "verse", "label": "KaU 1.2.2", "title": "The good and the pleasant", "ref": "Kaṭha 1.2.2", "x": 455, "y": 160, "why": "The steady one examines both and chooses the good."}, {"id": "concept:shreyas", "kind": "concept", "label": "Śreyas", "title": "Śreyas — the good", "ref": null, "x": 545, "y": 64, "why": "The harder good, chosen over the pleasant."}, {"id": "concept:viveka", "kind": "concept", "label": "Viveka", "title": "Viveka — discernment", "ref": null, "x": 548, "y": 250, "why": "Telling the two apart: samparītya vivinakti."}, {"id": "ChU_7.23.1", "kind": "verse", "label": "ChU 7.23.1", "title": "Joy is in the boundless", "ref": "Chāndogya 7.23.1", "x": 455, "y": 360, "why": "There is no happiness in anything finite."}, {"id": "concept:bhuman", "kind": "concept", "label": "Bhūman", "title": "Bhūman — the boundless", "ref": null, "x": 545, "y": 440, "why": "The infinite, which alone is happiness."}, {"id": "IU_7", "kind": "verse", "label": "IU 7", "title": "Seeing oneness", "ref": "Īśā 7", "x": 170, "y": 360, "why": "For one who sees all beings as the Self, what delusion, what sorrow?"}, {"id": "concept:ekatva", "kind": "concept", "label": "Ekatva", "title": "Ekatva — oneness", "ref": null, "x": 80, "y": 440, "why": "Seeing one Self in all — where comparison has nothing to hold on to."}], "edges": [{"s": "MuU_3.1.2", "t": "dilemma", "type": "DIAGNOSES", "why": "On the same tree the self, deluded and powerless, grieves; when it sees the other, the Lord, it is freed from sorrow."}, {"s": "KaU_1.2.2", "t": "dilemma", "type": "DIAGNOSES", "why": "The pleasant and the good: the relief of a verdict, or the harder good of seeing clearly."}, {"s": "ChU_7.23.1", "t": "dilemma", "type": "DIAGNOSES", "why": "Joy is in the boundless; there is no joy in the small."}, {"s": "IU_7", "t": "dilemma", "type": "DIAGNOSES", "why": "For one who sees all beings as the Self, what delusion, what sorrow?"}, {"s": "MuU_3.1.1", "t": "RV_1.164.20", "type": "ROOTED_IN", "why": "The two birds: Dīrghatamas’s riddle hymn, taken into the Muṇḍaka."}, {"s": "MuU_3.1.1", "t": "concept:sakshin", "type": "TEACHES", "why": "The other bird, not eating, looks on."}, {"s": "MuU_3.1.2", "t": "concept:sakshin", "type": "TEACHES", "why": "When the grieving bird sees the other, the Lord, its sorrow ends."}, {"s": "KaU_1.2.2", "t": "concept:shreyas", "type": "TEACHES", "why": "The steady one examines both and chooses the good over the pleasant."}, {"s": "KaU_1.2.2", "t": "concept:viveka", "type": "TEACHES", "why": "'Examining both, the steady one separates them' (samparītya vivinakti)."}, {"s": "ChU_7.23.1", "t": "concept:bhuman", "type": "TEACHES", "why": "'The boundless is joy; there is no joy in the small.'"}, {"s": "IU_7", "t": "concept:ekatva", "type": "TEACHES", "why": "For one who sees oneness, what delusion, what sorrow?"}]};
+  const svg = $("#mapSvg"), NS = "http://www.w3.org/2000/svg";
+  const mk = (t, a, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); p && p.appendChild(e); return e; };
+  const byId = Object.fromEntries(G.nodes.map((n) => [n.id, n]));
+  const eg = mk("g", {}, svg), ng = mk("g", {}, svg);
+  const edgeEls = G.edges.map((e) => { const a = byId[e.s], b = byId[e.t]; const mx = (a.x + b.x) / 2, my = (a.y + b.y) / 2 - 18; return { e, el: mk("path", { class: "edge", d: `M${a.x},${a.y} Q${mx},${my} ${b.x},${b.y}` }, eg) }; });
+  const nodeEls = G.nodes.map((n) => {
+    const g = mk("g", { class: "node k-" + n.kind, tabindex: 0, role: "button", "aria-label": n.title }, ng);
+    mk("circle", { cx: n.x, cy: n.y, r: n.kind === "dilemma" ? 16 : 9 }, g);
+    const anchor = "middle";
+    const tx = mk("text", { x: n.x + (anchor === "end" ? 14 : anchor === "start" ? -14 : 0), y: n.y + (n.kind === "dilemma" ? 34 : n.y < 240 ? -16 : 24), "text-anchor": anchor === "end" ? "end" : anchor === "start" ? "start" : "middle" }, g);
+    tx.textContent = n.label;
+    const pick = () => select(n.id); g.addEventListener("click", pick); g.addEventListener("keydown", (ev) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pick(); } });
+    g.addEventListener("mouseenter", pick);
+    return { n, g };
+  });
+  const KIND = { dilemma: "Dilemma", verse: "Verse", concept: "Concept", root: "Vedic root" };
+  function select(id) {
+    const n = byId[id];
+    const rel = G.edges.filter((e) => e.s === id || e.t === id);
+    const near = new Set(rel.flatMap((e) => [e.s, e.t]));
+    nodeEls.forEach(({ n: m, g }) => g.classList.toggle("hot", near.has(m.id) || m.id === id));
+    edgeEls.forEach(({ e, el }) => el.classList.toggle("hot", e.s === id || e.t === id));
+    $("#mKind").textContent = KIND[n.kind] + (n.ref ? " · " + n.ref : "");
+    $("#mTitle").textContent = n.title; $("#mWhy").textContent = n.why || "";
+    const ul = $("#mLinks"); ul.innerHTML = "";
+    rel.forEach((e) => { const o = byId[e.s === id ? e.t : e.s]; const li = document.createElement("li"); li.innerHTML = `<code>${e.type}</code> `; li.append(o.title + (e.why ? " — " + e.why : "")); ul.appendChild(li); });
+  }
+  select("dilemma");
+}
+
+/* plan */
+{
+  const boxes = $$("#planList input"), fill = $("#planFill"), txt = $("#planTxt");
+  let saved = []; try { saved = JSON.parse(store.get("lb-plan") || "[]"); } catch {}
+  const upd = () => { const done = boxes.filter((b) => b.checked).length; fill.style.width = (done / boxes.length) * 100 + "%"; txt.textContent = `${done} of ${boxes.length}`; boxes.forEach((b) => b.closest(".step").classList.toggle("done", b.checked)); store.set("lb-plan", JSON.stringify(boxes.map((b) => b.checked))); };
+  boxes.forEach((b, i) => { b.checked = !!saved[i]; b.addEventListener("change", upd); }); upd();
+}
+
+/* reel scenes */
+{
+  const v = $("#reelVid"), bs = $$("#scenes button");
+  bs.forEach((b) => b.addEventListener("click", () => { v.currentTime = +b.dataset.t; v.play().catch(() => {}); }));
+  v.addEventListener("timeupdate", () => { let cur = 0; bs.forEach((b, i) => { if (v.currentTime >= +b.dataset.t - 0.1) cur = i; }); bs.forEach((b, i) => b.classList.toggle("on", i === cur && !v.paused)); });
+}
+})();
+</script>
+</body>
+</html>
