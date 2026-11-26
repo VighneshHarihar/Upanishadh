@@ -1,0 +1,753 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Knowing, Not Doing</title>
+<meta name="description" content="Why the mind knows the right thing but the body doesn't do it — read through the Kaṭha's chariot, the Chāndogya's chain and the Bṛhadāraṇyaka, with diagrams and a daily practice.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Tiro+Devanagari+Sanskrit:ital@0;1&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#fbf8f2; --card:#fffdf9; --ink:#232327; --muted:#6c6a72; --faint:#a6a3a9; --line:#e6e1d7; --line-2:#d8d1c3;
+  --plate:var(--card);
+  --teal:#0f8a7c; --orange:#d95f0e; --amber:#b88300; --coral:#d9484d; --green:#2f8f44; --blue:#2f6fdf; --violet:#8e4ec6;
+  --accent:#8e4ec6;
+  --shadow:0 1px 2px rgba(40,30,10,.04),0 8px 30px rgba(40,30,10,.06);
+  --radius:18px;
+  --sans:"Inter",ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif;
+  --serif:"Instrument Serif",Georgia,serif;
+  --mono:"JetBrains Mono",ui-monospace,monospace;
+  --deva:"Tiro Devanagari Sanskrit","Noto Serif Devanagari",serif;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0d0f13; --card:#14171c; --ink:#e4e2dc; --muted:#9a978f; --faint:#6a6862; --line:#23272e; --line-2:#2e333b;
+    --teal:#3dc9b6; --orange:#ff9a52; --amber:#f2c14e; --coral:#ff6b70; --green:#6fd27e; --blue:#7aa6ff; --violet:#b98ef0; --accent:#b98ef0;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 30px rgba(0,0,0,.35); color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0d0f13; --card:#14171c; --ink:#e4e2dc; --muted:#9a978f; --faint:#6a6862; --line:#23272e; --line-2:#2e333b;
+  --teal:#3dc9b6; --orange:#ff9a52; --amber:#f2c14e; --coral:#ff6b70; --green:#6fd27e; --blue:#7aa6ff; --violet:#b98ef0; --accent:#b98ef0;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 30px rgba(0,0,0,.35); color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 var(--sans);-webkit-font-smoothing:antialiased;overflow-x:hidden}
+::selection{background:color-mix(in srgb,var(--accent) 25%,transparent)}
+.wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+.narrow{max-width:720px}
+@media (max-width:600px){.wrap{padding:0 16px}}
+p{margin:0 0 1em}
+
+/* hairline drawing system */
+.hl{display:block;width:100%;height:auto;overflow:visible}
+.hl :where(path,ellipse,circle,rect,polygon){fill:var(--plate);stroke:var(--c-mid);stroke-width:1;vector-effect:non-scaling-stroke;stroke-linejoin:round;stroke-linecap:round}
+.hl :where(.nf){fill:none}.hl :where(.sil){stroke:var(--c-edge)}.hl :where(.lo){stroke:var(--c-lo)}.hl :where(.dot){fill:var(--c-hi);stroke:none}.hl :where(.ink){fill:var(--c-hi)}
+.hl .env{fill:none;stroke:var(--line-2)}.hl .env.dash{stroke-dasharray:3 7}
+.hue{--c-hi:var(--h);--c-edge:color-mix(in srgb,var(--h) 72%,var(--plate));--c-mid:color-mix(in srgb,var(--h) 55%,var(--plate));--c-lo:color-mix(in srgb,var(--h) 22%,var(--plate))}
+.h-teal{--h:var(--teal)}.h-orange{--h:var(--orange)}.h-amber{--h:var(--amber)}.h-coral{--h:var(--coral)}.h-violet{--h:var(--violet)}.h-grey{--h:var(--faint)}
+.hl .leg{fill:none;stroke:var(--c-mid);stroke-width:5;stroke-linecap:round}
+
+/* bar */
+.bar{position:fixed;inset:0 0 auto 0;z-index:50;background:color-mix(in srgb,var(--bg) 84%,transparent);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid transparent;transition:border-color .3s}
+.bar.on{border-color:var(--line)}
+.bar .wrap{display:flex;align-items:center;gap:16px;height:56px}
+.brand{font:500 12px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);text-decoration:none;white-space:nowrap}
+.brand b{color:var(--ink);font-weight:500}
+.chapters{display:flex;gap:4px;margin-left:auto;overflow-x:auto;scrollbar-width:none}
+.chapters::-webkit-scrollbar{display:none}
+.chapters a{font:500 12.5px/1 var(--sans);color:var(--muted);text-decoration:none;padding:8px 11px;border-radius:99px;white-space:nowrap;transition:background .2s,color .2s}
+.chapters a:hover{color:var(--ink);background:var(--line)}
+.chapters a.active{color:var(--ink);background:color-mix(in srgb,var(--accent) 14%,transparent)}
+.theme-btn{border:1px solid var(--line-2);background:var(--card);color:var(--ink);width:34px;height:34px;border-radius:50%;display:grid;place-items:center;cursor:pointer;flex:none}
+.progress{position:absolute;left:0;bottom:-1px;height:2px;background:var(--accent);width:0}
+@media (max-width:860px){.chapters{display:none}.bar .theme-btn{margin-left:auto}}
+
+/* hero */
+.hero{padding:120px 0 40px}
+.eyebrow{font:500 12px/1.4 var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.hero h1{font:700 clamp(44px,7.4vw,88px)/.98 var(--sans);letter-spacing:-.045em;margin:18px 0 20px}
+.hero h1 em{font:italic 400 1.04em/1 var(--serif);letter-spacing:-.02em;color:var(--accent)}
+.lede{font:italic 400 clamp(21px,2.4vw,27px)/1.38 var(--serif);color:var(--muted);max-width:34ch;margin:0 0 30px}
+.toc{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-top:40px}
+.toc a{display:block;text-decoration:none;color:inherit;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 14px 12px;transition:border-color .2s,transform .2s}
+.toc a:hover{border-color:var(--accent);transform:translateY(-2px)}
+.toc b{display:block;font:500 11px/1 var(--mono);color:var(--accent);letter-spacing:.08em;margin-bottom:8px}
+.toc span{font:600 14.5px/1.3 var(--sans)}
+@media (max-width:760px){.toc{grid-template-columns:repeat(2,1fr)}}
+
+/* sections */
+section{padding:clamp(64px,9vw,112px) 0}
+.divider{height:1px;background:linear-gradient(90deg,transparent,var(--line-2),transparent)}
+.num{font:500 12px/1 var(--mono);letter-spacing:.14em;color:var(--muted);text-transform:uppercase;display:flex;gap:10px;flex-wrap:wrap}
+.num .ref{color:var(--accent)}
+h2{font:700 clamp(30px,4.4vw,50px)/1.05 var(--sans);letter-spacing:-.04em;margin:14px 0 14px}
+h2 em{font:italic 400 1.06em/1 var(--serif);letter-spacing:-.015em}
+.kicker{font:italic 400 clamp(19px,2vw,22px)/1.45 var(--serif);color:var(--muted);margin:0 0 36px;max-width:60ch}
+.prose{font-size:17.5px;max-width:66ch}
+.prose strong{font-weight:600}
+h3.sub{font:600 19px/1.3 var(--sans);letter-spacing:-.01em;margin:40px 0 12px}
+
+/* figure cards */
+.fig{background:var(--card);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);overflow:hidden;margin:8px 0 30px}
+.fig .art{padding:18px 18px 6px}
+.fig .bar2{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:14px 16px;border-top:1px solid var(--line)}
+.fig .art.scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}@media (max-width:640px){.fig .art.scroll svg{min-width:600px}.fig .art.scroll::after{content:"scroll →";display:block;font:500 10.5px var(--mono);color:var(--faint);text-align:right;padding-top:4px}}
+.fig figcaption{font:500 11.5px/1.5 var(--mono);color:var(--muted);letter-spacing:.03em;padding:0 18px 14px}
+.btn{font:600 14px/1 var(--sans);border:1px solid var(--line-2);background:var(--bg);color:inherit;padding:11px 15px;border-radius:12px;cursor:pointer;min-height:42px;transition:transform .15s,background .2s,border-color .2s}
+.btn:hover{border-color:var(--faint)}.btn:active{transform:scale(.97)}
+.btn[aria-pressed="true"]{background:color-mix(in srgb,var(--accent) 14%,var(--card));border-color:color-mix(in srgb,var(--accent) 50%,var(--line-2))}
+.btn.primary{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.btn:focus-visible,.chip-b:focus-visible,.rung:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.status{margin-left:auto;font:500 12px/1.4 var(--mono);color:var(--muted);text-align:right}
+
+/* verse */
+.verse{margin:24px 0;border-radius:20px;background:var(--card);border:1px solid var(--line);padding:24px 24px 18px;position:relative;box-shadow:var(--shadow)}
+.verse .sa{font:400 clamp(19px,2.2vw,23px)/1.7 var(--deva);margin:0 0 8px}
+.verse .iast{font:italic 400 14.5px/1.6 var(--deva);color:var(--muted);margin:0 0 14px}
+.verse blockquote{margin:0;padding:14px 0 0;border-top:1px dashed var(--line-2);font:400 20px/1.45 var(--serif)}
+.verse .cap{margin-top:12px;font:500 11.5px/1.4 var(--mono);letter-spacing:.03em;color:var(--muted);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}
+.verse .tag{position:absolute;top:-11px;left:20px;font:500 11px/1 var(--mono);letter-spacing:.08em;text-transform:uppercase;background:var(--accent);color:#fff;padding:6px 9px;border-radius:99px}
+.pair{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:24px 0}
+.pair .verse{margin:0}
+.pair .verse.bad{border-color:color-mix(in srgb,var(--coral) 30%,var(--line))}
+.pair .verse.bad .tag{background:var(--coral)}
+.pair .verse.good{border-color:color-mix(in srgb,var(--teal) 30%,var(--line))}
+.pair .verse.good .tag{background:var(--teal)}
+@media (max-width:760px){.pair{grid-template-columns:1fr}}
+.reading{border-left:2px solid var(--accent);padding:4px 0 4px 18px;margin:24px 0;max-width:66ch}
+.reading h4{font:500 11.5px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin:0 0 12px}
+.reading h4 span{color:var(--faint);letter-spacing:.04em;text-transform:none}
+.reading p{font-size:17px}
+
+/* gap diagram */
+.gap{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:0;margin:10px 0 30px}
+.gbox{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:22px;box-shadow:var(--shadow);text-align:center}
+.gbox b{display:block;font:700 26px/1.1 var(--sans);letter-spacing:-.03em;margin:6px 0}
+.gbox small{font:500 11.5px/1.4 var(--mono);color:var(--muted)}
+.gbox.ok{border-color:color-mix(in srgb,var(--teal) 35%,var(--line))}.gbox.ok b{color:var(--teal)}
+.gbox.no{border-color:color-mix(in srgb,var(--coral) 35%,var(--line))}.gbox.no b{color:var(--coral)}
+.gmid{width:clamp(80px,16vw,180px);position:relative;height:60px}
+.gmid svg{width:100%;height:100%}
+.gmid span{position:absolute;left:50%;top:-6px;transform:translateX(-50%);font:500 11px var(--mono);color:var(--coral);white-space:nowrap}
+@media (max-width:640px){.gap{grid-template-columns:1fr}.gmid{width:60px;height:70px;margin:0 auto}.gmid svg{transform:rotate(90deg)}.gmid span{left:70px;top:26px;transform:none}}
+.story-card{display:grid;grid-template-columns:auto 1fr;gap:18px;align-items:start;background:color-mix(in srgb,var(--amber) 7%,var(--card));border:1px solid color-mix(in srgb,var(--amber) 28%,var(--line));border-radius:20px;padding:22px}
+.story-card .ic{width:46px;height:46px;border-radius:14px;background:color-mix(in srgb,var(--amber) 16%,transparent);display:grid;place-items:center;color:var(--amber);font:600 20px var(--serif)}
+.story-card h4{margin:0 0 6px;font:600 17px/1.3 var(--sans)}
+.story-card p{margin:0;color:var(--muted);font-size:15.5px}
+.story-card code{font:500 11px var(--mono);color:var(--amber)}
+
+/* chariot */
+#chariot .part{transition:opacity .3s}
+#chariot.focus .part{opacity:.18}
+#chariot.focus .part.on{opacity:1}
+#chariot .horses{transform-origin:520px 240px;transition:transform 1.2s cubic-bezier(.3,.7,.2,1)}
+.loose #chariot .horses{transform:translate(6px,-22px) rotate(-9deg);animation:buck 1.4s ease-in-out 1.2s infinite}
+@keyframes buck{0%,100%{transform:translate(6px,-22px) rotate(-9deg)}50%{transform:translate(10px,-27px) rotate(-12deg)}}
+#chariot .rein{fill:none;stroke:var(--violet);stroke-width:1.6;transition:opacity .6s}
+#chariot .rein.slack{opacity:0;stroke-dasharray:3 4}
+.loose #chariot .rein.tight{opacity:0}.loose #chariot .rein.slack{opacity:1}
+.legend{display:flex;flex-wrap:wrap;gap:8px;padding:0 18px 16px}
+.chip-b{all:unset;cursor:pointer;display:inline-flex;align-items:center;gap:8px;padding:8px 12px;border:1px solid var(--line-2);border-radius:99px;font:500 12.5px/1 var(--sans);background:var(--bg)}
+.chip-b i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.chip-b em{font:italic 400 14px var(--deva);color:var(--muted)}
+.chip-b.on{border-color:var(--ink)}
+.maptable{width:100%;border-collapse:collapse;font-size:15px;margin:16px 0 8px}
+.maptable th{font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);text-align:left;padding:10px 12px;border-bottom:1px solid var(--line-2)}
+.maptable td{padding:12px;border-bottom:1px solid var(--line);vertical-align:top}
+.maptable td:first-child{font-weight:600;white-space:nowrap}
+.maptable em{font:italic 400 15px var(--deva);color:var(--muted)}
+.tw{overflow-x:auto}
+
+/* senses */
+#senses .arrow{fill:none;stroke:var(--coral);stroke-width:1.4;transition:opacity .6s}
+#senses .chip{fill:var(--card);stroke:color-mix(in srgb,var(--coral) 40%,var(--line))}
+#senses .chip-t{font:500 11.5px var(--mono);fill:var(--coral)}
+#senses .out{transition:opacity .8s}
+#senses .inward{fill:none;stroke:var(--teal);stroke-width:2;stroke-dasharray:4 5;opacity:.15;transition:opacity .8s}
+#senses .in-t{font:500 11.5px var(--mono);fill:var(--teal);opacity:.2;transition:opacity .8s}
+.inward-on #senses .out{opacity:.22}
+.inward-on #senses .inward{opacity:1;animation:march 1.2s linear infinite}
+.inward-on #senses .in-t{opacity:1}
+@keyframes march{to{stroke-dashoffset:-18}}
+
+/* flowcharts */
+.flow .fn rect,.flow .fn path{fill:var(--card);stroke:var(--line-2);stroke-width:1.2;transition:all .35s}
+.flow .n-t{font:600 13.5px var(--sans);fill:var(--ink)}
+.flow .n-sub{font:500 10.5px var(--mono);fill:var(--muted)}
+.flow .e-t{font:500 11px var(--mono);fill:var(--muted)}
+.flow .ref-t{font:500 11px var(--mono);fill:var(--accent)}
+.flow .fe path{fill:none;stroke:var(--faint);stroke-width:1.3;transition:stroke .3s}
+.flow .fn.start rect{stroke:var(--ink)}
+.flow .fn.pre rect{stroke:color-mix(in srgb,var(--coral) 55%,var(--line));fill:color-mix(in srgb,var(--coral) 5%,var(--card))}
+.flow .fn.shr rect{stroke:color-mix(in srgb,var(--teal) 55%,var(--line));fill:color-mix(in srgb,var(--teal) 5%,var(--card))}
+.flow .fn.warn rect{stroke-dasharray:4 4}
+.flow .fn.fix rect{stroke:var(--accent);fill:color-mix(in srgb,var(--accent) 9%,var(--card));stroke-width:1.6}
+.flow .fe.pre path{stroke:color-mix(in srgb,var(--coral) 60%,var(--line))}
+.flow .fe.shr path{stroke:color-mix(in srgb,var(--teal) 60%,var(--line))}
+.flow .fe.fix path{stroke:var(--accent);stroke-dasharray:3 4}
+.flow .fe.loop path{stroke:var(--accent);stroke-dasharray:4 4}
+.flow .fn.dec path{stroke:var(--accent)}
+.flow .fn.end rect{stroke:var(--teal);fill:color-mix(in srgb,var(--teal) 7%,var(--card))}
+#rx .fn.cur rect,#rx .fn.cur path{stroke:var(--accent);stroke-width:2.4;fill:color-mix(in srgb,var(--accent) 14%,var(--card))}
+#rx .fn.past rect{stroke:color-mix(in srgb,var(--accent) 45%,var(--line))}
+#rx .fn{opacity:.55;transition:opacity .4s}
+#rx .fn.cur,#rx .fn.past{opacity:1}
+.flow-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:24px;align-items:start}
+@media (max-width:900px){.flow-grid{grid-template-columns:1fr}}
+.stepcard{position:sticky;top:84px;background:var(--card);border:1px solid var(--line);border-radius:22px;box-shadow:var(--shadow);padding:24px}
+.stepcard .k{font:500 11px/1 var(--mono);color:var(--accent);letter-spacing:.1em;text-transform:uppercase}
+.stepcard h4{font:700 24px/1.15 var(--sans);letter-spacing:-.02em;margin:10px 0 10px}
+.stepcard p{color:var(--muted);font-size:16px}
+.stepcard blockquote{margin:14px 0 18px;font:italic 400 19px/1.45 var(--serif);border-left:2px solid var(--line-2);padding-left:14px}
+.stepcard .nav{display:flex;gap:8px;align-items:center}
+.dots{display:flex;gap:5px;margin-left:auto}
+.dots i{width:7px;height:7px;border-radius:50%;background:var(--line-2)}
+.dots i.on{background:var(--accent)}
+
+/* ladder */
+.ladder-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:24px;align-items:start}
+@media (max-width:900px){.ladder-grid{grid-template-columns:1fr}}
+.ladder{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;align-items:stretch}
+.ladder li{display:flex;flex-direction:column;align-items:center}
+.rung{all:unset;cursor:pointer;width:100%;box-sizing:border-box;display:grid;grid-template-columns:auto 1fr auto;gap:12px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:14px 16px;transition:border-color .25s,background .25s}
+.rung:hover{border-color:var(--line-2)}
+.rung b{font:600 16px/1.2 var(--sans)}
+.rung em{font:italic 400 15px var(--deva);color:var(--muted)}
+.rung small{font:500 11px var(--mono);color:var(--faint)}
+.rung.on{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 9%,var(--card))}
+.rung.key{border-color:color-mix(in srgb,var(--teal) 55%,var(--line))}
+.ladder .link{font:500 10.5px/1 var(--mono);color:var(--muted);padding:6px 0;display:flex;align-items:center;gap:6px}
+.ladder .link::before,.ladder .link::after{content:"";width:1px;height:10px;background:var(--line-2)}
+.ladder .link{flex-direction:column}
+.ladder-panel{position:sticky;top:84px}
+.compare{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin:26px 0 0}
+@media (max-width:640px){.compare{grid-template-columns:1fr}}
+.cmp{border-radius:18px;padding:18px;border:1px solid var(--line);background:var(--card)}
+.cmp h5{margin:0 0 12px;font:500 11px/1 var(--mono);letter-spacing:.1em;text-transform:uppercase}
+.cmp.bad h5{color:var(--coral)}.cmp.good h5{color:var(--teal)}
+.cmp ol{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:4px}
+.cmp li{display:flex;align-items:center;gap:8px;font-size:15px}
+.cmp li::before{content:"↓";font:500 12px var(--mono);color:var(--faint);width:12px}
+.cmp li:first-child::before{content:"•"}
+.cmp .x{color:var(--coral);font:500 12px var(--mono);margin-top:10px}
+
+/* desire chain */
+.chain{display:flex;align-items:stretch;gap:0;margin:16px 0 0;flex-wrap:wrap}
+.chain .c{flex:1 1 120px;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px 14px;text-align:center;box-shadow:var(--shadow);min-width:120px}
+.chain .c b{display:block;font:600 16px/1.2 var(--sans)}
+.chain .c em{display:block;font:italic 400 15px var(--deva);color:var(--muted);margin-top:4px}
+.chain .c.desire{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 8%,var(--card))}
+.chain .ar{display:grid;place-items:center;width:34px;color:var(--faint);font:400 20px var(--sans)}
+@media (max-width:640px){.chain{flex-direction:column}.chain .c{flex:none}.chain .ar{width:auto;height:28px;transform:rotate(90deg)}}
+.knowbox{margin:0 0 4px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.knowbox .k{border:1px dashed var(--line-2);border-radius:14px;padding:10px 14px;font:600 15px var(--sans);color:var(--muted)}
+.knowbox .k span{font:500 11px var(--mono);color:var(--faint);display:block}
+.knowbox .hint{font:500 12px var(--mono);color:var(--accent)}
+
+/* map */
+.map{background:var(--card);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);overflow:hidden}
+.map-grid{display:grid;grid-template-columns:1.35fr 1fr}
+@media (max-width:900px){.map-grid{grid-template-columns:1fr}}
+.map svg{display:block;width:100%;height:auto}
+.map .edge{stroke:var(--line-2);stroke-width:1.2;fill:none;transition:stroke .3s,stroke-width .3s}
+.map .edge.mine{stroke-dasharray:3 5}
+.map .edge.hot{stroke:var(--accent);stroke-width:2}
+.map .node{cursor:pointer}
+.map .node circle{fill:var(--card);stroke:var(--line-2);stroke-width:1.3;transition:all .3s}
+.map .node text{font:500 10.5px var(--mono);fill:var(--muted)}
+.map .k-question circle{stroke:var(--ink);fill:color-mix(in srgb,var(--ink) 6%,var(--card))}
+.map .k-verse circle{stroke:var(--accent)}
+.map .k-concept circle{stroke:var(--teal)}
+.map .k-dilemma circle{stroke:var(--coral)}
+.map .k-story circle{stroke:var(--amber)}
+.map .node.hot circle{stroke-width:2.6;fill:color-mix(in srgb,var(--accent) 14%,var(--card))}
+.map .node.hot text{fill:var(--ink)}
+.map .node:focus{outline:none}.map .node:focus-visible circle{stroke-width:3.4}
+.map-info{padding:28px;border-left:1px solid var(--line);display:flex;flex-direction:column;gap:12px}
+@media (max-width:900px){.map-info{border-left:0;border-top:1px solid var(--line)}}
+.map-info .kind{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+.map-info h3{font:700 23px/1.15 var(--sans);letter-spacing:-.02em;margin:0}
+.map-info .why{font:italic 400 18px/1.45 var(--serif);margin:0}
+.map-info ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.map-info li{font-size:14px;color:var(--muted)}
+.map-info li code{font:500 10.5px var(--mono);color:var(--accent);background:color-mix(in srgb,var(--accent) 9%,transparent);padding:2px 6px;border-radius:6px}
+.map-key{display:flex;flex-wrap:wrap;gap:14px;padding:14px 20px;border-top:1px solid var(--line);font:500 11px/1 var(--mono);color:var(--muted)}
+.map-key span{display:inline-flex;align-items:center;gap:6px}
+.map-key i{width:10px;height:10px;border-radius:50%;border:1.5px solid;display:inline-block}
+
+/* small verse cards */
+.mini{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:26px}
+@media (max-width:860px){.mini{grid-template-columns:1fr}}
+.mini .v{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:var(--shadow)}
+.mini .v .r{font:500 11px var(--mono);color:var(--accent);letter-spacing:.06em}
+.mini .v .s{font:400 16px/1.6 var(--deva);margin:8px 0}
+.mini .v q{display:block;font:italic 400 17px/1.4 var(--serif);quotes:"“" "”";margin:0 0 10px}
+.mini .v p{margin:0;font-size:14px;color:var(--muted)}
+
+/* daily */
+.daily{background:var(--card);border:1px solid var(--line);border-radius:24px;box-shadow:var(--shadow);padding:24px}
+.daily header{display:flex;flex-wrap:wrap;gap:12px;align-items:baseline;margin-bottom:16px}
+.daily header b{font:700 20px var(--sans)}
+.daily header span{font:500 12px var(--mono);color:var(--muted)}
+.daily label{display:grid;grid-template-columns:auto 1fr auto;gap:14px;align-items:center;padding:12px 4px;border-top:1px solid var(--line);cursor:pointer}
+.daily input{appearance:none;-webkit-appearance:none;width:24px;height:24px;border-radius:8px;border:1.5px solid var(--line-2);display:grid;place-items:center;cursor:pointer;background:var(--bg);margin:0}
+.daily input:checked{background:var(--teal);border-color:var(--teal)}
+.daily input:checked::after{content:"";width:10px;height:6px;border:2px solid #fff;border-top:0;border-right:0;transform:rotate(-45deg) translate(1px,-1px)}
+.daily .t{font-size:15.5px}
+.daily .t small{display:block;color:var(--muted);font-size:13px}
+.daily .r{font:500 11px var(--mono);color:var(--accent);white-space:nowrap}
+.daily .meter{height:6px;background:var(--line);border-radius:9px;overflow:hidden;margin-top:14px}
+.daily .meter i{display:block;height:100%;width:0;background:var(--teal);transition:width .5s}
+
+.close{text-align:center;padding:clamp(80px,12vw,140px) 0}
+.close .sa{font:400 clamp(26px,4.4vw,44px)/1.4 var(--deva);margin:0 0 6px}
+.close .iast{font:italic 400 17px var(--deva);color:var(--muted);margin:0 0 22px}
+.close blockquote{font:italic 400 clamp(26px,3.6vw,40px)/1.2 var(--serif);max-width:22ch;margin:0 auto 16px}
+.close cite{font:500 12px var(--mono);color:var(--muted);font-style:normal}
+footer{padding:48px 0 70px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
+footer .cols{display:grid;grid-template-columns:1.2fr 1fr;gap:32px}
+@media (max-width:760px){footer .cols{grid-template-columns:1fr}}
+footer h5{font:500 11px/1 var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--ink);margin:0 0 12px}
+footer ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:6px}
+
+.rv{opacity:0;transform:translateY(16px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1)}
+.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion: reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.rv{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<header class="bar" id="bar">
+  <div class="wrap">
+    <a class="brand" href="#top">Upa<b>Sārathi</b> · reflections</a>
+    <nav class="chapters" aria-label="Chapters">
+      <a href="#gap">The gap</a><a href="#chariot-sec">Chariot</a><a href="#outward">Outward</a><a href="#pleasant">Why pleasant wins</a><a href="#ladder-sec">The chain</a><a href="#desire">Desire</a><a href="#map">Map</a><a href="#practice">Practice</a>
+    </nav>
+    <button class="theme-btn" id="themeBtn" aria-label="Toggle light or dark theme"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="12" r="4.2"/><path d="M12 2.5v2.2M12 19.3v2.2M4.6 4.6l1.6 1.6M17.8 17.8l1.6 1.6M2.5 12h2.2M19.3 12h2.2M4.6 19.4l1.6-1.6M17.8 6.2l1.6-1.6"/></svg></button>
+  </div>
+  <div class="progress" id="progress"></div>
+</header>
+
+<main id="top">
+<section class="hero">
+  <div class="wrap">
+    <div class="eyebrow rv">A reflection from the Principal Upanishads</div>
+    <h1 class="rv">I know.<br><em>So why don't I?</em></h1>
+    <p class="lede rv">The mind knows the right thing to do — and still the body won't move. The Upanishads have a precise answer: knowing and doing live in different parts of you.</p>
+    <figure class="fig rv" style="margin-top:0">
+      <div class="art"><svg class="hl" viewBox="0 70 720 260" aria-label="A chariot: rider, charioteer, reins and two horses on a road.">
+<g class="road"><path class="env" d="M0,306 L720,306"/><path class="env" d="M0,250 L720,250"/><path class="env dash" d="M0,278 L720,278"/></g>
+<g class="hpart" data-part="body"><g class="hue h-grey"><circle cx="230" cy="262" r="44"/><circle cx="230" cy="262" r="7" class="ink"/><path class="nf" d="M237,262 L274,262"/><path class="nf" d="M234.9,266.9 L261.1,293.1"/><path class="nf" d="M230,269 L230,306"/><path class="nf" d="M225.1,266.9 L198.9,293.1"/><path class="nf" d="M223,262 L186,262"/><path class="nf" d="M225.1,257.1 L198.9,230.9"/><path class="nf" d="M230,255 L230,218"/><path class="nf" d="M234.9,257.1 L261.1,230.9"/><circle cx="230" cy="262" r="38" class="nf lo"/><path d="M160,236 C156.8,235.2 166.8,196.8 170,196 C173.2,195.2 314.8,195.2 318,196 C321.2,196.8 335.2,235.2 332,236 C328.8,236.8 163.2,236.8 160,236 Z"/><path class="nf" d="M176,212 L318,212"/><path class="nf sil" d="M330,226 L470,226"/></g></g>
+<g class="hpart" data-part="self"><g class="hue h-orange"><path d="M204.5,148.5 C208,143.8 220,143.8 223.5,148.5 C227,153.2 225.6,169.1 225.4,177 C225.2,184.9 225.9,192.8 222.6,196 C219.2,199.2 208.8,199.2 205.4,196 C202.1,192.8 202.8,184.9 202.6,177 C202.4,169.1 201,153.2 204.5,148.5 Z"/><circle cx="214" cy="137.1" r="8.5"/><path class="ink" d="M205.4,137.1 A8.5,8.5 0 0 1 222.6,135.2 Q214,131.4 205.4,137.1 Z"/></g></g>
+<g class="hpart" data-part="intellect"><g class="hue h-teal"><path d="M289,141 C293,135.5 307,135.5 311,141 C315,146.5 313.4,164.8 313.2,174 C313,183.2 313.8,192.3 309.9,196 C306,199.7 294,199.7 290.1,196 C286.2,192.3 287,183.2 286.8,174 C286.6,164.8 285,146.5 289,141 Z"/><circle cx="300" cy="127.8" r="9.9"/><path class="ink" d="M290.1,127.8 A9.9,9.9 0 0 1 309.9,125.6 Q300,121.2 290.1,127.8 Z"/><path class="nf" d="M306,148 L334,166"/></g></g>
+<g class="hpart" data-part="mind"><g class="hue h-violet">
+  <path class="nf" style="stroke:var(--violet);stroke-width:1.6" d="M334,166 L582,172"/><path class="nf" style="stroke:var(--violet);stroke-width:1.6" d="M334,164 L646,160"/>
+  <path class="rein slack" style="display:none" d="M334,168 Q372,246 420,238"/><path class="rein slack" style="display:none" d="M334,166 Q392,252 446,246"/>
+</g></g>
+<g class="hpart" data-part="senses"><g class="horses hue h-amber"><g class="h2"><path class="nf" d="M532,204 Q508,212 514,242"/><path class="leg" d="M544,220 L540,244 L541.6,264" fill="none"/><path class="leg" d="M556,220 L562,244 L559.6,264" fill="none"/><path class="leg" d="M602,220 L597,244 L599.0,264" fill="none"/><path class="leg" d="M614,220 L621,244 L618.2,264" fill="none"/><path d="M530,204 C531.7,199.2 540,193.5 548,191 C556,188.5 568,188.8 578,189 C588,189.2 600.3,189.8 608,192 C615.7,194.2 621.7,197.7 624,202 C626.3,206.3 626.3,214.2 622,218 C617.7,221.8 607.3,223.8 598,225 C588.7,226.2 576,225.8 566,225 C556,224.2 544,223.5 538,220 C532,216.5 528.3,208.8 530,204 Z"/><path d="M606,194 C605.7,188.7 617.7,178 622,172 C626.3,166 628.3,160 632,158 C635.7,156 643.3,156.7 644,160 C644.7,163.3 639.3,170.7 636,178 C632.7,185.3 629,201.3 624,204 C619,206.7 606.3,199.3 606,194 Z"/><path class="ink" d="M608,192 C609,189.7 616.3,174.7 620,168 C623.7,161.3 629.3,152.7 630,152 C630.7,151.3 626.7,159 624,164 C621.3,169 616.7,177.3 614,182 C611.3,186.7 607,194.3 608,192 Z"/><path d="M630,156 C631,153 635.3,147.3 640,148 C644.7,148.7 653.7,156.3 658,160 C662.3,163.7 665.7,167.5 666,170 C666.3,172.5 663.7,175 660,175 C656.3,175 648.3,171.5 644,170 C639.7,168.5 636.3,168.3 634,166 C631.7,163.7 629,159 630,156 Z"/><path d="M638,150 L640,138 L645,151 Z"/><circle class="dot" cx="650" cy="160" r="1.6"/></g><g class="h1"><path class="nf" d="M464,216 Q440,224 446,254"/><path class="leg" d="M476,232 L472,256 L473.6,276" fill="none"/><path class="leg" d="M488,232 L494,256 L491.6,276" fill="none"/><path class="leg" d="M534,232 L529,256 L531.0,276" fill="none"/><path class="leg" d="M546,232 L553,256 L550.2,276" fill="none"/><path d="M462,216 C463.7,211.2 472,205.5 480,203 C488,200.5 500,200.8 510,201 C520,201.2 532.3,201.8 540,204 C547.7,206.2 553.7,209.7 556,214 C558.3,218.3 558.3,226.2 554,230 C549.7,233.8 539.3,235.8 530,237 C520.7,238.2 508,237.8 498,237 C488,236.2 476,235.5 470,232 C464,228.5 460.3,220.8 462,216 Z"/><path d="M538,206 C537.7,200.7 549.7,190 554,184 C558.3,178 560.3,172 564,170 C567.7,168 575.3,168.7 576,172 C576.7,175.3 571.3,182.7 568,190 C564.7,197.3 561,213.3 556,216 C551,218.7 538.3,211.3 538,206 Z"/><path class="ink" d="M540,204 C541,201.7 548.3,186.7 552,180 C555.7,173.3 561.3,164.7 562,164 C562.7,163.3 558.7,171 556,176 C553.3,181 548.7,189.3 546,194 C543.3,198.7 539,206.3 540,204 Z"/><path d="M562,168 C563,165 567.3,159.3 572,160 C576.7,160.7 585.7,168.3 590,172 C594.3,175.7 597.7,179.5 598,182 C598.3,184.5 595.7,187 592,187 C588.3,187 580.3,183.5 576,182 C571.7,180.5 568.3,180.3 566,178 C563.7,175.7 561,171 562,168 Z"/><path d="M570,162 L572,150 L577,163 Z"/><circle class="dot" cx="582" cy="172" r="1.6"/></g></g></g>
+<g class="hpart" data-part="objects"><g class="hue h-coral objects">
+  <rect x="664" y="120" width="22" height="36" rx="4"/><rect x="668" y="126" width="14" height="22" rx="2" class="lo nf"/>
+  <circle cx="22" cy="116" r="10" class="nf"/><path class="nf" d="M14,110 q8,-14 16,0"/>
+  <path class="nf" d="M676,200 q8,-10 16,0 q-8,10 -16,0 Z"/>
+</g></g></svg></div>
+      <figcaption>Kaṭha Upaniṣad 1.3.3–4 · the chariot — the oldest diagram of the knowing–doing gap</figcaption>
+    </figure>
+    <nav class="toc rv" aria-label="Contents">
+      <a href="#gap"><b>00</b><span>The gap</span></a>
+      <a href="#chariot-sec"><b>01</b><span>The chariot</span></a>
+      <a href="#outward"><b>02</b><span>Outward-facing senses</span></a>
+      <a href="#pleasant"><b>03</b><span>Why the pleasant wins</span></a>
+      <a href="#ladder-sec"><b>04</b><span>The Chāndogya chain</span></a>
+      <a href="#desire"><b>05</b><span>Desire becomes deed</span></a>
+      <a href="#map"><b>06</b><span>The graph</span></a>
+      <a href="#practice"><b>07</b><span>The practice</span></a>
+    </nav>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 00 GAP -->
+<section id="gap" data-ch>
+  <div class="wrap">
+    <div class="num rv">00 — The gap</div>
+    <h2 class="rv">Knowing is not <em>doing.</em></h2>
+    <p class="kicker rv">“My mind knows what's the right thing to do. Still, somehow, it gets difficult to perform those actions.”</p>
+    <div class="gap rv" role="img" aria-label="Knowing, on the left, is complete; a broken arrow leads to doing, on the right, which doesn't happen.">
+      <div class="gbox ok"><small>THE INTELLECT</small><b>I know ✓</b><small>study · apply · build</small></div>
+      <div class="gmid"><span>the gap</span><svg viewBox="0 0 180 60" preserveAspectRatio="none"><path d="M4,30 L70,30" stroke="var(--line-2)" stroke-width="2" fill="none"/><path d="M110,30 L170,30" stroke="var(--line-2)" stroke-width="2" fill="none" stroke-dasharray="4 5"/><path d="M80,18 L100,42 M100,18 L80,42" stroke="var(--coral)" stroke-width="2" fill="none"/><path d="M162,24 L172,30 L162,36" stroke="var(--line-2)" stroke-width="2" fill="none"/></svg></div>
+      <div class="gbox no"><small>THE BODY</small><b>I don't do ✗</b><small>scroll · delay · later</small></div>
+    </div>
+    <p class="prose rv">This is one of the oldest problems people have written about, and the Upanishads don't treat it as a lack of willpower or intelligence. They treat it as a question of <strong>structure</strong>: who in you knows, who in you acts, and what connects them. Five passages answer it from five angles. Every Sanskrit line and translation below is quoted exactly from the project's corpus; the sections marked “my reading” are interpretation.</p>
+    <div class="story-card rv" style="margin-top:28px">
+      <div class="ic">ना</div>
+      <div><h4>You're in good company: Nārada knew everything, and was still in sorrow</h4>
+      <p>In the Chāndogya, the sage Nārada lists every science he has mastered — and admits it hasn't helped. The project's knowledge graph tags this story: <em>“Nārada lists every science he has mastered and admits he is still in sorrow: he knows the words, not the Self. Sanatkumāra leads him to the boundless.”</em> The teacher's answer to him is the chain you'll find in chapter 04.</p>
+      <code>graph · story:narada ← IN_STORY ← ChU 7.21.1, ChU 7.22.1</code></div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 01 CHARIOT -->
+<section id="chariot-sec" data-ch>
+  <div class="wrap">
+    <div class="num rv">01 — The structure <span class="ref">Kaṭha Upaniṣad 1.3.3–9</span></div>
+    <h2 class="rv">You are <em>a chariot.</em></h2>
+    <p class="kicker rv">Five parts, each with a job. Knowing belongs to one of them. Moving belongs to another.</p>
+
+    <figure class="fig rv" id="chariotFig">
+      <div class="art"><svg class="hl" id="chariot" viewBox="0 70 720 260" role="img" aria-label="Interactive chariot. Select a part to highlight it; switch between loose reins and a collected mind.">
+<g class="road"><path class="env" d="M0,306 L720,306"/><path class="env" d="M0,250 L720,250"/><path class="env dash" d="M0,278 L720,278"/></g>
+<g class="part" data-part="body"><g class="hue h-grey"><circle cx="230" cy="262" r="44"/><circle cx="230" cy="262" r="7" class="ink"/><path class="nf" d="M237,262 L274,262"/><path class="nf" d="M234.9,266.9 L261.1,293.1"/><path class="nf" d="M230,269 L230,306"/><path class="nf" d="M225.1,266.9 L198.9,293.1"/><path class="nf" d="M223,262 L186,262"/><path class="nf" d="M225.1,257.1 L198.9,230.9"/><path class="nf" d="M230,255 L230,218"/><path class="nf" d="M234.9,257.1 L261.1,230.9"/><circle cx="230" cy="262" r="38" class="nf lo"/><path d="M160,236 C156.8,235.2 166.8,196.8 170,196 C173.2,195.2 314.8,195.2 318,196 C321.2,196.8 335.2,235.2 332,236 C328.8,236.8 163.2,236.8 160,236 Z"/><path class="nf" d="M176,212 L318,212"/><path class="nf sil" d="M330,226 L470,226"/></g></g>
+<g class="part" data-part="self"><g class="hue h-orange"><path d="M204.5,148.5 C208,143.8 220,143.8 223.5,148.5 C227,153.2 225.6,169.1 225.4,177 C225.2,184.9 225.9,192.8 222.6,196 C219.2,199.2 208.8,199.2 205.4,196 C202.1,192.8 202.8,184.9 202.6,177 C202.4,169.1 201,153.2 204.5,148.5 Z"/><circle cx="214" cy="137.1" r="8.5"/><path class="ink" d="M205.4,137.1 A8.5,8.5 0 0 1 222.6,135.2 Q214,131.4 205.4,137.1 Z"/></g></g>
+<g class="part" data-part="intellect"><g class="hue h-teal"><path d="M289,141 C293,135.5 307,135.5 311,141 C315,146.5 313.4,164.8 313.2,174 C313,183.2 313.8,192.3 309.9,196 C306,199.7 294,199.7 290.1,196 C286.2,192.3 287,183.2 286.8,174 C286.6,164.8 285,146.5 289,141 Z"/><circle cx="300" cy="127.8" r="9.9"/><path class="ink" d="M290.1,127.8 A9.9,9.9 0 0 1 309.9,125.6 Q300,121.2 290.1,127.8 Z"/><path class="nf" d="M306,148 L334,166"/></g></g>
+<g class="part" data-part="mind"><g class="hue h-violet">
+  <path class="rein tight" d="M334,166 L582,172"/><path class="rein tight" d="M334,164 L646,160"/>
+  <path class="rein slack" d="M334,168 Q372,246 420,238"/><path class="rein slack" d="M334,166 Q392,252 446,246"/>
+</g></g>
+<g class="part" data-part="senses"><g class="horses hue h-amber"><g class="h2"><path class="nf" d="M532,204 Q508,212 514,242"/><path class="leg" d="M544,220 L540,244 L541.6,264" fill="none"/><path class="leg" d="M556,220 L562,244 L559.6,264" fill="none"/><path class="leg" d="M602,220 L597,244 L599.0,264" fill="none"/><path class="leg" d="M614,220 L621,244 L618.2,264" fill="none"/><path d="M530,204 C531.7,199.2 540,193.5 548,191 C556,188.5 568,188.8 578,189 C588,189.2 600.3,189.8 608,192 C615.7,194.2 621.7,197.7 624,202 C626.3,206.3 626.3,214.2 622,218 C617.7,221.8 607.3,223.8 598,225 C588.7,226.2 576,225.8 566,225 C556,224.2 544,223.5 538,220 C532,216.5 528.3,208.8 530,204 Z"/><path d="M606,194 C605.7,188.7 617.7,178 622,172 C626.3,166 628.3,160 632,158 C635.7,156 643.3,156.7 644,160 C644.7,163.3 639.3,170.7 636,178 C632.7,185.3 629,201.3 624,204 C619,206.7 606.3,199.3 606,194 Z"/><path class="ink" d="M608,192 C609,189.7 616.3,174.7 620,168 C623.7,161.3 629.3,152.7 630,152 C630.7,151.3 626.7,159 624,164 C621.3,169 616.7,177.3 614,182 C611.3,186.7 607,194.3 608,192 Z"/><path d="M630,156 C631,153 635.3,147.3 640,148 C644.7,148.7 653.7,156.3 658,160 C662.3,163.7 665.7,167.5 666,170 C666.3,172.5 663.7,175 660,175 C656.3,175 648.3,171.5 644,170 C639.7,168.5 636.3,168.3 634,166 C631.7,163.7 629,159 630,156 Z"/><path d="M638,150 L640,138 L645,151 Z"/><circle class="dot" cx="650" cy="160" r="1.6"/></g><g class="h1"><path class="nf" d="M464,216 Q440,224 446,254"/><path class="leg" d="M476,232 L472,256 L473.6,276" fill="none"/><path class="leg" d="M488,232 L494,256 L491.6,276" fill="none"/><path class="leg" d="M534,232 L529,256 L531.0,276" fill="none"/><path class="leg" d="M546,232 L553,256 L550.2,276" fill="none"/><path d="M462,216 C463.7,211.2 472,205.5 480,203 C488,200.5 500,200.8 510,201 C520,201.2 532.3,201.8 540,204 C547.7,206.2 553.7,209.7 556,214 C558.3,218.3 558.3,226.2 554,230 C549.7,233.8 539.3,235.8 530,237 C520.7,238.2 508,237.8 498,237 C488,236.2 476,235.5 470,232 C464,228.5 460.3,220.8 462,216 Z"/><path d="M538,206 C537.7,200.7 549.7,190 554,184 C558.3,178 560.3,172 564,170 C567.7,168 575.3,168.7 576,172 C576.7,175.3 571.3,182.7 568,190 C564.7,197.3 561,213.3 556,216 C551,218.7 538.3,211.3 538,206 Z"/><path class="ink" d="M540,204 C541,201.7 548.3,186.7 552,180 C555.7,173.3 561.3,164.7 562,164 C562.7,163.3 558.7,171 556,176 C553.3,181 548.7,189.3 546,194 C543.3,198.7 539,206.3 540,204 Z"/><path d="M562,168 C563,165 567.3,159.3 572,160 C576.7,160.7 585.7,168.3 590,172 C594.3,175.7 597.7,179.5 598,182 C598.3,184.5 595.7,187 592,187 C588.3,187 580.3,183.5 576,182 C571.7,180.5 568.3,180.3 566,178 C563.7,175.7 561,171 562,168 Z"/><path d="M570,162 L572,150 L577,163 Z"/><circle class="dot" cx="582" cy="172" r="1.6"/></g></g></g>
+<g class="part" data-part="objects"><g class="hue h-coral objects">
+  <rect x="664" y="120" width="22" height="36" rx="4"/><rect x="668" y="126" width="14" height="22" rx="2" class="lo nf"/>
+  <circle cx="22" cy="116" r="10" class="nf"/><path class="nf" d="M14,110 q8,-14 16,0"/>
+  <path class="nf" d="M676,200 q8,-10 16,0 q-8,10 -16,0 Z"/>
+</g></g></svg></div>
+      <div class="legend" id="legend">
+        <button class="chip-b" data-p="self"><i style="background:var(--orange)"></i>Self · rider <em>ātman</em></button>
+        <button class="chip-b" data-p="body"><i style="background:var(--faint)"></i>Body · chariot <em>śarīra</em></button>
+        <button class="chip-b" data-p="intellect"><i style="background:var(--teal)"></i>Intellect · charioteer <em>buddhi</em></button>
+        <button class="chip-b" data-p="mind"><i style="background:var(--violet)"></i>Mind · reins <em>manas</em></button>
+        <button class="chip-b" data-p="senses"><i style="background:var(--amber)"></i>Senses · horses <em>indriya</em></button>
+        <button class="chip-b" data-p="objects"><i style="background:var(--coral)"></i>Objects · the road <em>viṣaya</em></button>
+      </div>
+      <div class="bar2">
+        <button class="btn" id="looseBtn" aria-pressed="false">Loose reins</button>
+        <button class="btn" id="heldBtn" aria-pressed="true">Collected mind</button>
+        <div class="status" id="chStatus">Reins held: the horses stay on the road.</div>
+      </div>
+    </figure>
+
+    <div class="verse rv">
+      <span class="tag">The verses</span>
+      <p class="sa">आत्मानँ रथिनं विद्धि शरीरँ रथमेव तु ।<br>बुद्धिं तु सारथिं विद्धि मनः प्रग्रहमेव च ॥</p><p class="iast">ātmānam̐ rathinaṃ viddhi śarīram̐ rathameva tu ।<br>buddhiṃ tu sārathiṃ viddhi manaḥ pragrahameva ca ॥</p>
+      <blockquote>“Know the Self to be the master of the chariot, and the body to be the chariot. Know the intellect to be the charioteer, and the mind to be the reins.”</blockquote>
+      <p class="sa" style="margin-top:20px">इन्द्रियाणि हयानाहुर्विषयाँ स्तेषु गोचरान् ।<br>आत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥</p><p class="iast">indriyāṇi hayānāhurviṣayām̐ steṣu gocarān ।<br>ātmendriyamanoyuktaṃ bhoktetyāhurmanīṣiṇaḥ ॥</p>
+      <blockquote>“The senses they speak of as the horses; the objects within their view, the way. When the Self is yoked with the mind and the senses, the wise call It the enjoyer.”</blockquote>
+      <div class="cap"><span>Kaṭha Upaniṣad 1.3.3–4</span><span>tr. Vidyavachaspati V. Panoli</span></div>
+    </div>
+
+    <h3 class="sub rv">Map the chariot onto your evening</h3>
+    <div class="tw rv"><table class="maptable">
+      <thead><tr><th>Part</th><th>In the verse</th><th>In you, at 9 pm (my reading)</th></tr></thead>
+      <tbody>
+        <tr><td>Rider</td><td>the Self <em>ātman</em></td><td>The one who wants a good life — and who is neither the mood nor the habit.</td></tr>
+        <tr><td>Charioteer</td><td>intellect <em>buddhi</em></td><td>“I should study for an hour.” <strong>This part already works.</strong></td></tr>
+        <tr><td>Reins</td><td>mind <em>manas</em></td><td>Attention, from moment to moment. Where the slack is.</td></tr>
+        <tr><td>Horses</td><td>senses <em>indriya</em></td><td>The hand reaching for the phone, the eyes toward the next video.</td></tr>
+        <tr><td>Road</td><td>objects <em>viṣaya</em></td><td>The phone, the bed, the snack, the feed.</td></tr>
+      </tbody></table></div>
+
+    <div class="pair">
+      <div class="verse bad rv"><span class="tag">Reins loose</span><p class="sa">यस्त्वविज्ञानवान्भवत्ययुक्तेन मनसा सदा ।<br>तस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥</p><blockquote>“But whoso is devoid of discrimination and is possessed of a mind ever uncollected – his senses are uncontrollable like the vicious horses of a driver.”</blockquote><div class="cap"><span>Kaṭha 1.3.5</span></div></div>
+      <div class="verse good rv"><span class="tag">Reins held</span><p class="sa">यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा ।<br>तस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥</p><blockquote>“But whoso is discriminative and possessed of a mind ever collected – his senses are controllable like the good horses of a driver.”</blockquote><div class="cap"><span>Kaṭha 1.3.6</span></div></div>
+    </div>
+
+    <div class="reading rv">
+      <h4>What it says to you <span>· my reading</span></h4>
+      <p>When you say “my mind knows”, the Kaṭha would say: <strong>your charioteer knows.</strong> The intellect sees the road perfectly. But the chariot doesn't move by the charioteer seeing — it moves by the reins, and the reins are the mind, which has to be “ever collected” (<em>yuktena manasā sadā</em>). Notice the word <em>sadā</em> — always. Not once, when you feel inspired.</p>
+      <p>So the problem isn't that you don't know enough. More knowing only improves the charioteer's map. What's slack is the reins — and reins are tightened by practice, not by information.</p>
+    </div>
+    <div class="verse rv"><span class="tag">Where it leads</span><p class="sa">विज्ञानसारथिर्यस्तु मनः प्रग्रहवान्नरः ।<br>सोऽध्वनः पारमाप्नोति तद्विष्णोः परमं पदम् ॥</p><blockquote>“But the man who has a discriminating intellect as his driver, and a controlled-mind as the reins, reaches the end of the path – that supreme state of Vishnu.”</blockquote><div class="cap"><span>Kaṭha 1.3.9</span><span>tr. Vidyavachaspati V. Panoli</span></div></div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 02 OUTWARD -->
+<section id="outward" data-ch>
+  <div class="wrap">
+    <div class="num rv">02 — The default <span class="ref">Kaṭha Upaniṣad 2.1.1</span></div>
+    <h2 class="rv">The horses <em>face outward.</em></h2>
+    <p class="kicker rv">The pull isn't a flaw in you. The text says the senses were made this way.</p>
+    <figure class="fig rv" id="sensesFig">
+      <div class="art"><svg class="hl" id="senses" viewBox="0 0 640 320" role="img" aria-label="A person with arrows pulling outward to phone, noise, food, others' posts, comfort and worry; one dashed arrow turns inward.">
+        <defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,1 L9,5 L0,9" fill="none" style="stroke:var(--faint)" stroke-width="1.4"/></marker></defs>
+        <g class="out"><path class="arrow" d="M293.0,144.2 L194.0,86.1" marker-end="url(#ah)"/><rect x="124" y="58" width="92" height="28" rx="14" class="chip"/><text x="170" y="76.5" text-anchor="middle" class="chip-t">phone</text></g><g class="out"><path class="arrow" d="M350.6,144.9 L462.8,89.4" marker-end="url(#ah)"/><rect x="444" y="62" width="92" height="28" rx="14" class="chip"/><text x="490" y="80.5" text-anchor="middle" class="chip-t">noise</text></g><g class="out"><path class="arrow" d="M288.0,163.2 L170.5,175.1" marker-end="url(#ah)"/><rect x="96" y="164" width="92" height="28" rx="14" class="chip"/><text x="142" y="182.5" text-anchor="middle" class="chip-t">food</text></g><g class="out"><path class="arrow" d="M353.5,164.0 L476.2,178.5" marker-end="url(#ah)"/><rect x="460" y="168" width="92" height="28" rx="14" class="chip"/><text x="506" y="186.5" text-anchor="middle" class="chip-t">their posts</text></g><g class="out"><path class="arrow" d="M298.4,178.7 L219.2,247.4" marker-end="url(#ah)"/><rect x="154" y="250" width="92" height="28" rx="14" class="chip"/><text x="200" y="268.5" text-anchor="middle" class="chip-t">comfort</text></g><g class="out"><path class="arrow" d="M345.2,180.2 L437.6,254.1" marker-end="url(#ah)"/><rect x="414" y="258" width="92" height="28" rx="14" class="chip"/><text x="460" y="276.5" text-anchor="middle" class="chip-t">worry</text></g>
+        <path class="inward" d="M346,150 C420,150 420,228 330,214"/>
+        <text x="320" y="300" text-anchor="middle" class="in-t">āvṛtta-cakṣuḥ · the eye turned back</text>
+        <g class="hue h-teal"><circle cx="320" cy="128" r="16"/><path d="M300,206 C296,178 302,152 320,148 C338,152 344,178 340,206 Z"/><circle cx="320" cy="186" r="5" class="ink"/></g>
+      </svg></div>
+      <div class="bar2">
+        <button class="btn" id="inwardBtn" aria-pressed="false">Turn the eye inward</button>
+        <div class="status" id="inStatus">Six directions out. None in.</div>
+      </div>
+    </figure>
+    <div class="verse rv"><span class="tag">The verse</span><p class="sa">पराञ्चि खानि व्यतृणत् स्वयम्भूस्तस्मात्पराङ्पश्यति नान्तरात्मन् ।<br>कश्चिद्धीरः प्रत्यगात्मानमैक्षदावृत्तचक्षुरमृतत्वमिच्छन् ॥</p><p class="iast">parāñci khāni vyatṛṇat svayambhūstasmātparāṅpaśyati nāntarātman ।<br>kaściddhīraḥ pratyagātmānamaikṣadāvṛttacakṣuramṛtatvamicchan ॥</p><blockquote>“The self-existent damned the out-going senses. Therefore one sees externally and not the internal Self. Someone (who is) intelligent, with his eyes turned away, desirous of immortality, sees the inner Self.”</blockquote><div class="cap"><span>Kaṭha Upaniṣad 2.1.1 · graph: DIAGNOSES “Pleasure that scrolls on”</span><span>tr. Vidyavachaspati V. Panoli</span></div></div>
+    <div class="reading rv">
+      <h4>What it says to you <span>· my reading</span></h4>
+      <p>The first thing this verse removes is shame. Looking outward is the <strong>default setting</strong>, not a personal defect: every sense opens outward, and most of what's on your phone is designed to keep them that way. You were never going to out-will that by knowing better.</p>
+      <p>The second thing it gives is a direction: someone steady, “with his eyes turned away”, looks within. Practically, that starts with the outward pulls you can simply remove — before the moment of choice, not during it.</p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 03 PLEASANT -->
+<section id="pleasant" data-ch>
+  <div class="wrap">
+    <div class="num rv">03 — The engine <span class="ref">Chāndogya 7.22.1 · 7.23.1</span></div>
+    <h2 class="rv">You only act where <em>happiness is.</em></h2>
+    <p class="kicker rv">The Chāndogya says something blunt: nobody acts without getting happiness from it. Follow that through, and the gap explains itself.</p>
+    <figure class="fig rv">
+      <div class="art scroll"><svg class="hl flow" viewBox="0 0 640 470" role="img" aria-label="Flowchart: at a moment of choice, the pleasant pays happiness now so you act on it; the good pays later so nothing pays now and it is skipped; the fix is to give the good a happiness now by linking it to something boundless.">
+        
+        <g class="fn start" data-id="m"><rect x="185" y="14" width="270" height="56" rx="12"/><text x="320.0" y="36.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">A moment of choice</tspan></text><text x="320.0" y="58" text-anchor="middle" class="n-sub">you already know the right thing</text></g><g class="fn pre" data-id="p1"><rect x="30" y="120" width="230" height="56" rx="12"/><text x="145.0" y="142.0" text-anchor="middle" class="n-t"><tspan x="145.0" dy="0">Preyas — the pleasant</tspan></text><text x="145.0" y="164" text-anchor="middle" class="n-sub">scroll · rest · later</text></g><g class="fn shr" data-id="s1"><rect x="380" y="120" width="230" height="56" rx="12"/><text x="495.0" y="142.0" text-anchor="middle" class="n-t"><tspan x="495.0" dy="0">Śreyas — the good</tspan></text><text x="495.0" y="164" text-anchor="middle" class="n-sub">study · apply · build</text></g><g class="fn pre" data-id="p2"><rect x="30" y="222" width="230" height="56" rx="12"/><text x="145.0" y="244.0" text-anchor="middle" class="n-t"><tspan x="145.0" dy="0">Happiness now</tspan></text><text x="145.0" y="266" text-anchor="middle" class="n-sub">pays out immediately</text></g><g class="fn shr" data-id="s2"><rect x="380" y="222" width="230" height="56" rx="12"/><text x="495.0" y="244.0" text-anchor="middle" class="n-t"><tspan x="495.0" dy="0">Happiness later</tspan></text><text x="495.0" y="266" text-anchor="middle" class="n-sub">pays out in weeks</text></g><g class="fn pre" data-id="p3"><rect x="30" y="324" width="230" height="56" rx="12"/><text x="145.0" y="346.0" text-anchor="middle" class="n-t"><tspan x="145.0" dy="0">You act — on the pleasant</tspan></text><text x="145.0" y="368" text-anchor="middle" class="n-sub">ChU 7.22.1: no happiness, no action</text></g><g class="fn shr warn" data-id="s3"><rect x="380" y="324" width="230" height="56" rx="12"/><text x="495.0" y="346.0" text-anchor="middle" class="n-t"><tspan x="495.0" dy="0">Nothing pays now → skipped</tspan></text><text x="495.0" y="368" text-anchor="middle" class="n-sub">the knowing–doing gap</text></g><g class="fn fix" data-id="fix"><rect x="330" y="410" width="300" height="52" rx="12"/><text x="480.0" y="432.0" text-anchor="middle" class="n-t"><tspan x="480.0" dy="0">Fix: give it happiness now — link it to</tspan><tspan x="480.0" dy="16">the boundless (7.23.1)</tspan></text></g><g class="fe pre"><path d="M300,70 Q300,96 160,118" marker-end="url(#ah)"/></g><g class="fe shr"><path d="M340,70 Q340,96 480,118" marker-end="url(#ah)"/></g><g class="fe pre"><path d="M145,176 L145,220" marker-end="url(#ah)"/></g><g class="fe shr"><path d="M495,176 L495,220" marker-end="url(#ah)"/></g><g class="fe pre"><path d="M145,278 L145,322" marker-end="url(#ah)"/></g><g class="fe shr"><path d="M495,278 L495,322" marker-end="url(#ah)"/></g><g class="fe fix"><path d="M495,380 L495,408" marker-end="url(#ah)"/></g>
+      </svg></div>
+      <figcaption>Flowchart · the knowing–doing gap as the Chāndogya's rule plays out (my reading of 7.22.1)</figcaption>
+    </figure>
+    <div class="pair">
+      <div class="verse rv"><span class="tag">The rule</span><p class="sa">यदा वै सुखं लभते ऽथ करोति ।<br>नासुखं लब्ध्वा करोति ।<br>सुखम् एव लब्ध्वा करोति ।<br>सुखं त्व् एव विजिज्ञासितव्यम् इति ।<br>सुखं भगवो विजिज्ञास इति ॥</p><blockquote>“‘When one obtains happiness’, then alone does one act. Without obtaining happiness one does not act. Only on obtaining happiness does one act. But one must desire to understand happiness’. ‘Revered sir, I desire to understand happiness’.”</blockquote><div class="cap"><span>Chāndogya 7.22.1</span><span>tr. Swami Swahananda</span></div></div>
+      <div class="verse rv"><span class="tag">The real payment</span><p class="sa">यो वै भूमा तत् सुखम् ।<br>नाल्पे सुखम् अस्ति ।<br>भूमैव सुखम् ।<br>भूमा त्व् एव विजिज्ञासितव्य इति ।<br>भूमानं भगवो विजिज्ञास इति ॥</p><blockquote>“That which is infinite, is alone happiness. There is no happiness in anything finite. The infinite alone is happiness. But one must desire to understand the infinite’. ‘Revered sir, I desire to understand the infinite’.”</blockquote><div class="cap"><span>Chāndogya 7.23.1</span><span>tr. Swami Swahananda</span></div></div>
+    </div>
+    <div class="reading rv">
+      <h4>What it says to you <span>· my reading</span></h4>
+      <p>The pleasant choice (<em>preyas</em>) pays happiness <strong>immediately</strong>; the good choice (<em>śreyas</em>) pays <strong>later</strong>. At the moment of choosing, the mind follows 7.22.1 exactly: it acts where happiness is — which, right now, is the pleasant.</p>
+      <p>The fix isn't to stop wanting happiness — the text doesn't ask that. It's to <strong>find a deeper happiness in the right action itself</strong>: the boundless, 7.23.1, rather than the small. In practice: what this hour of work makes possible beyond today — independence, the people you'll help, becoming someone who can do the thing. When the good action carries that, it can compete.</p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 04 LADDER -->
+<section id="ladder-sec" data-ch>
+  <div class="wrap">
+    <div class="num rv">04 — The chain <span class="ref">Chāndogya 7.18–7.22</span></div>
+    <h2 class="rv">Steadiness comes <em>after</em> acting.</h2>
+    <p class="kicker rv">Sanatkumāra's answer to Nārada is a chain — each link “comes from” the one below it. Select a link to read its verse.</p>
+    <div class="ladder-grid">
+      <ol class="ladder rv" id="ladder">
+        <li><button class="rung" data-k="C718"><small>7.18</small><b>Understanding</b><em>vijñāna</em></button><span class="link">comes from</span></li>
+        <li><button class="rung" data-k="C719"><small>7.19</small><b>Reflection</b><em>mati</em></button><span class="link">comes from</span></li>
+        <li><button class="rung" data-k="C720"><small>7.20</small><b>Faith</b><em>śraddhā</em></button><span class="link">comes from</span></li>
+        <li><button class="rung key" data-k="C721"><small>7.21</small><b>Steadfastness</b><em>niṣṭhā</em></button><span class="link">comes from</span></li>
+        <li><button class="rung" data-k="C722"><small>7.22</small><b>Action</b><em>kṛti</em></button><span class="link">comes from</span></li>
+        <li><button class="rung" data-k="C7231"><small>7.23</small><b>Happiness</b><em>sukha · bhūmā</em></button></li>
+      </ol>
+      <div class="ladder-panel">
+        <div class="verse rv" id="ladderVerse" style="margin-top:0"><span class="tag" id="lvTag">Steadfastness</span><p class="sa" id="lvSa"></p><blockquote id="lvTr"></blockquote><div class="cap"><span id="lvRef"></span><span>tr. Swami Swahananda</span></div></div>
+        <div class="compare rv">
+          <div class="cmp bad"><h5>What most of us expect</h5><ol><li>Understand it</li><li>Feel steady &amp; motivated</li><li>Then act</li></ol><div class="x">→ waits forever for the feeling</div></div>
+          <div class="cmp good"><h5>What the Chāndogya says</h5><ol><li>Find the happiness in it</li><li>Act</li><li>Steadfastness follows</li><li>Faith, reflection, understanding</li></ol></div>
+        </div>
+      </div>
+    </div>
+    <div class="reading rv">
+      <h4>What it says to you <span>· my reading</span></h4>
+      <p>This is the most practical verse in the whole page: <strong>“Only on acting does one become steadfast.”</strong> You have been waiting to feel steady before acting. The Chāndogya puts it the other way round — the steadiness is <em>produced</em> by acting. Two minutes of real work produces a little <em>niṣṭhā</em>; tomorrow's two minutes start from there.</p>
+      <p>Notice, too, where the chain bottoms out: in happiness (<em>sukha</em>) — the same rule as chapter 03. The two chapters are one idea: find the happiness in the action, act, and the steadiness you were waiting for arrives behind you.</p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 05 DESIRE -->
+<section id="desire" data-ch>
+  <div class="wrap">
+    <div class="num rv">05 — The source <span class="ref">Bṛhadāraṇyaka 4.4.5</span></div>
+    <h2 class="rv">Desire becomes <em>deed.</em></h2>
+    <p class="kicker rv">Yājñavalkya's chain of becoming has four links. Knowing isn't one of them.</p>
+    <div class="knowbox rv"><div class="k"><span>outside the chain</span>Knowing “I should”</div><div class="hint">⇣ has to become wanting before it can move anything</div></div>
+    <div class="chain rv" role="img" aria-label="Desire leads to resolve, resolve to work, work to what one attains.">
+      <div class="c desire"><b>Desire</b><em>kāma</em></div><div class="ar">→</div>
+      <div class="c"><b>Resolve</b><em>kratu</em></div><div class="ar">→</div>
+      <div class="c"><b>Work</b><em>karma</em></div><div class="ar">→</div>
+      <div class="c"><b>Attainment</b><em>abhisaṃpadyate</em></div>
+    </div>
+    <div class="verse rv" style="margin-top:28px"><span class="tag">The verse</span><p class="sa">… यथाकारी यथाचारी तथा भवति । साधुकारी साधुर् भवति । पापकारी पापो भवति । पुण्यः पुण्येन कर्मणा पापः पापेन । अथो खल्व् आहुः । काममय एवायं पुरुष इति । स यथाकामो भवति तत्क्रतुर् भवति । यत्क्रतुर् भवति तत् कर्म कुरुते । यत् कर्म कुरुते तद् अभिसंपद्यते ॥</p><p class="iast">… yathākārī yathācārī tathā bhavati । sādhukārī sādhur bhavati । pāpakārī pāpo bhavati । puṇyaḥ puṇyena karmaṇā pāpaḥ pāpena । atho khalv āhuḥ । kāmamaya evāyaṃ puruṣa iti । sa yathākāmo bhavati tatkratur bhavati । yatkratur bhavati tat karma kurute । yat karma kurute tad abhisaṃpadyate ॥</p><blockquote>“As it does and acts, so it becomes; by doing good it becomes good, and by doing evil it becomes evil – it becomes virtuous through good acts and vicious through evil acts. Others, however, say, ‘The self is identified with desire alone. What it desires, it resolves; what it resolves, it works out; and what it works out, it attains.’”</blockquote><div class="cap"><span>Bṛhadāraṇyaka 4.4.5 (closing lines) · graph: TEACHES Kāma, Karma</span><span>tr. Swami Madhavananda</span></div></div>
+    <div class="reading rv">
+      <h4>What it says to you <span>· my reading</span></h4>
+      <p>Two lines matter. First: <strong>“As it does and acts, so it becomes.”</strong> You don't become a person who studies daily by deciding to be one; you become it by doing it. Second, the view the verse reports: desire → resolve → work → attainment. A “should” you don't actually <em>want</em> never turns into resolve.</p>
+      <p>So don't only argue with yourself about what's right. Spend time making the right thing <strong>wanted</strong>: picture the specific life it leads to, talk to someone already living it, notice small wins. That is how knowledge enters the chain.</p>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 06 MAP -->
+<section id="map" data-ch>
+  <div class="wrap">
+    <div class="num rv">06 — How it connects</div>
+    <h2 class="rv">The graph <em>behind the answer.</em></h2>
+    <p class="kicker rv">Solid lines are real links in the project's knowledge graph. Dashed lines from your question are my reading. Select a node.</p>
+    <div class="map rv">
+      <div class="map-grid">
+        <svg viewBox="0 0 640 500" id="mapSvg" role="group" aria-label="Knowledge graph around the question of knowing but not doing."></svg>
+        <div class="map-info" aria-live="polite">
+          <div class="kind" id="mKind"></div><h3 id="mTitle"></h3><p class="why" id="mWhy"></p><ul id="mLinks"></ul>
+        </div>
+      </div>
+      <div class="map-key"><span><i style="border-color:var(--ink)"></i>your question</span><span><i style="border-color:var(--accent)"></i>verse</span><span><i style="border-color:var(--teal)"></i>concept</span><span><i style="border-color:var(--coral)"></i>dilemma</span><span><i style="border-color:var(--amber)"></i>story</span><span style="margin-left:auto">source · public/data/graph.json</span></div>
+    </div>
+  </div>
+</section>
+
+<div class="divider"></div>
+
+<!-- 07 PRACTICE -->
+<section id="practice" data-ch>
+  <div class="wrap">
+    <div class="num rv">07 — The practice</div>
+    <h2 class="rv">The next time <em>you hesitate.</em></h2>
+    <p class="kicker rv">Six steps for the moment the horses pull, each from one of the verses above. Step through it once, so it's familiar when you need it.</p>
+    <div class="flow-grid">
+      <figure class="fig rv" style="margin:0">
+        <div class="art scroll"><svg class="hl flow" id="rx" viewBox="0 0 640 748" role="img" aria-label="Flowchart: notice the pull, pause, name it, remove the trigger, link it to the bigger joy, act for two minutes; if still pulled, go back to the pause; otherwise keep going.">
+          <defs><marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,1 L9,5 L0,9" fill="none" style="stroke:var(--faint)" stroke-width="1.4"/></marker></defs>
+          <g class="fn step" data-id="r1"><rect x="150" y="16" width="340" height="62" rx="12"/><text x="320.0" y="41.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">Notice the pull</tspan></text><text x="320.0" y="66" text-anchor="middle" class="n-sub">the horses turn — expected, not shameful</text></g><text x="500" y="52" class="ref-t">Kaṭha 2.1.1</text><g class="fe "><path d="M320,78 L320,102" marker-end="url(#ah)"/></g><g class="fn step" data-id="r2"><rect x="150" y="104" width="340" height="62" rx="12"/><text x="320.0" y="129.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">Pause one minute</tspan></text><text x="320.0" y="154" text-anchor="middle" class="n-sub">speech into mind, mind into the clear self</text></g><text x="500" y="140" class="ref-t">Kaṭha 1.3.13</text><g class="fe "><path d="M320,166 L320,190" marker-end="url(#ah)"/></g><g class="fn step" data-id="r3"><rect x="150" y="192" width="340" height="62" rx="12"/><text x="320.0" y="217.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">Name it</tspan></text><text x="320.0" y="242" text-anchor="middle" class="n-sub">“this is preyas, that is śreyas”</text></g><text x="500" y="228" class="ref-t">Kaṭha 1.2.2</text><g class="fe "><path d="M320,254 L320,278" marker-end="url(#ah)"/></g><g class="fn step" data-id="r4"><rect x="150" y="280" width="340" height="62" rx="12"/><text x="320.0" y="305.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">Remove the trigger</tspan></text><text x="320.0" y="330" text-anchor="middle" class="n-sub">phone away · one tab · door shut</text></g><text x="500" y="316" class="ref-t">Kaṭha 2.1.1</text><g class="fe "><path d="M320,342 L320,366" marker-end="url(#ah)"/></g><g class="fn step" data-id="r5"><rect x="150" y="368" width="340" height="62" rx="12"/><text x="320.0" y="393.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">Link it to the bigger joy</tspan></text><text x="320.0" y="418" text-anchor="middle" class="n-sub">why this matters beyond today</text></g><text x="500" y="404" class="ref-t">Chāndogya 7.22–23</text><g class="fe "><path d="M320,430 L320,454" marker-end="url(#ah)"/></g><g class="fn step" data-id="r6"><rect x="150" y="456" width="340" height="62" rx="12"/><text x="320.0" y="481.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">Act for two minutes</tspan></text><text x="320.0" y="506" text-anchor="middle" class="n-sub">open the file · write one line</text></g><text x="500" y="492" class="ref-t">Chāndogya 7.21.1</text><g class="fe "><path d="M320,518 L320,548" marker-end="url(#ah)"/></g><g class="fn dec" data-id="d1"><path d="M320,548 L410,592 L320,636 L230,592 Z"/><text x="320" y="588" text-anchor="middle" class="n-t">Still pulled</text><text x="320" y="605" text-anchor="middle" class="n-t">away?</text></g><g class="fe loop"><path d="M230,592 L96,592 L96,135 L148,135" marker-end="url(#ah)"/><text x="110" y="582" class="e-t" text-anchor="middle">yes — hold the reins</text></g><g class="fe "><path d="M320,636 L320,666" marker-end="url(#ah)"/><text x="334" y="654" class="e-t" text-anchor="middle">no</text></g><g class="fn end" data-id="r7"><rect x="150" y="668" width="340" height="62" rx="12"/><text x="320.0" y="693.0" text-anchor="middle" class="n-t"><tspan x="320.0" dy="0">Keep going — steadiness grows</tspan></text><text x="320.0" y="718" text-anchor="middle" class="n-sub">“only on acting does one become steadfast”</text></g><text x="500" y="704" class="ref-t">Śvetāśvatara 2.9</text>
+        </svg></div>
+      </figure>
+      <div class="stepcard rv" aria-live="polite">
+        <div class="k" id="scK">Step 1 of 7</div>
+        <h4 id="scT"></h4>
+        <p id="scP"></p>
+        <blockquote id="scQ"></blockquote>
+        <div class="nav"><button class="btn" id="scPrev">Back</button><button class="btn primary" id="scNext">Next step</button><div class="dots" id="scDots"></div></div>
+      </div>
+    </div>
+
+    <div class="mini">
+      <div class="v rv"><div class="r">ŚVETĀŚVATARA 2.9 · EXPECT RESTIVE HORSES</div><p class="s">प्राणान् प्रपीड्येह स युक्तचेष्टः क्षीने प्राणे नासिकयोच्छ्वसीत  ।<br>दुष्टाश्वयुक्तम् इव वाहम् एनं विद्वान् मनो धारयेताप्रमत्तः ॥</p><q>Controlling the senses with an effort, and regulating the activities in the body, one should breathe out through the nostrils when the vital activities become gentle. Then the knowing one, without being in the least distracted, should keep his hold on the mind as on the reins attached to restive horses.</q><p>Don't wait for a calm mind. Expect the pull daily and hold on anyway — “without being in the least distracted”.</p></div>
+      <div class="v rv"><div class="r">MUṆḌAKA 3.2.4 · BUILD STRENGTH</div><p class="s">नायमात्मा बलहीनेन लभ्यो<br>न च प्रमादात्तपसो वाप्यलिङ्गात् ।<br>एतैरुपायैर्यतते यस्तु विद्वांस्तस्यैष आत्मा विशते ब्रह्मधाम ॥</p><q>This Self is not attained by one devoid of strength, nor through delusion, nor through knowledge unassociated with monasticism. But the Self of that knower, who strives through these means, enters into the abode that is Brahman.</q><p>Sleep, food and movement are part of the practice. Exhausted horses can't be steered.</p></div>
+      <div class="v rv"><div class="r">KAṬHA 1.3.13 · THE PAUSE</div><p class="s">यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि ।<br>ज्ञानमात्मनि महति नियच्छेत्तद्यच्छेच्छान्त आत्मनि ॥</p><q>Let the wise man merge speech in his mind, merge that (mind) into the intelligent self and the intelligent self into the Mahat. (Let him then) merge the Mahat into the peaceful Self.</q><p>A one-minute settling before acting: stop the inner talk, let the mind come to rest, then decide from the clear place.</p></div>
+    </div>
+
+    <h3 class="sub rv">Today's reins</h3>
+    <div class="daily rv" id="daily">
+      <header><b>Daily check-in</b><span id="dDate"></span><span id="dStreak" style="margin-left:auto"></span></header>
+      <label><input type="checkbox" data-k="0"><span class="t">Removed one trigger before starting<small>phone in another room, one tab, door shut</small></span><span class="r">Kaṭha 2.1.1</span></label>
+      <label><input type="checkbox" data-k="1"><span class="t">Did two minutes before I felt ready<small>acting first, steadiness after</small></span><span class="r">Chāndogya 7.21</span></label>
+      <label><input type="checkbox" data-k="2"><span class="t">Named a choice as preyas or śreyas<small>at least once, out loud or in writing</small></span><span class="r">Kaṭha 1.2.2</span></label>
+      <label><input type="checkbox" data-k="3"><span class="t">Linked today's work to why it matters<small>the bigger joy, not just the task</small></span><span class="r">Chāndogya 7.23</span></label>
+      <label><input type="checkbox" data-k="4"><span class="t">Slept, ate and moved enough<small>strength for the horses</small></span><span class="r">Muṇḍaka 3.2.4</span></label>
+      <div class="meter"><i id="dMeter"></i></div>
+    </div>
+  </div>
+</section>
+
+<section class="close">
+  <div class="wrap">
+    <p class="sa rv">यदा वै करोत्य् अथ निस्तिष्ठति ।</p>
+    <p class="iast rv">yadā vai karoty atha nistiṣṭhati</p>
+    <blockquote class="rv">“When one acts, then alone does one become steadfast.”</blockquote>
+    <cite class="rv">Chāndogya Upaniṣad 7.21.1 · tr. Swami Swahananda</cite>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap cols">
+    <div><h5>About this page</h5><p style="margin:0 0 10px">Made with UpaSārathi — the 13 Principal Upanishads as a knowledge graph. Sanskrit and translations are quoted exactly from the project's corpus; links on the map come from <code>public/data/graph.json</code>; the “my reading” sections are interpretation.</p><p style="margin:0"><a href="../lagging-behind/">← Also read: “Lagging behind?”</a></p></div>
+    <div><h5>Translations quoted</h5><ul><li>Kaṭha — Vidyavachaspati V. Panoli</li><li>Chāndogya — Swami Swahananda</li><li>Bṛhadāraṇyaka — Swami Mādhavānanda</li><li>Śvetāśvatara — Swami Tyāgīśānanda</li><li>Muṇḍaka — Swami Gambhīrānanda</li></ul></div>
+  </div>
+</footer>
+
+<script>
+(() => {
+const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
+const store = { get(k) { try { return localStorage.getItem(k); } catch { return null; } }, set(k, v) { try { localStorage.setItem(k, v); } catch {} } };
+const root = document.documentElement, saved = store.get("kd-theme"); if (saved) root.dataset.theme = saved;
+$("#themeBtn").addEventListener("click", () => { const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; root.dataset.theme = dark ? "light" : "dark"; store.set("kd-theme", root.dataset.theme); });
+const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } }), { rootMargin: "0px 0px -8% 0px" });
+$$(".rv").forEach((el) => io.observe(el));
+const links = $$(".chapters a"), secs = $$("[data-ch]");
+const onScroll = () => { const y = scrollY, h = document.documentElement.scrollHeight - innerHeight; $("#progress").style.width = (h > 0 ? y / h * 100 : 0) + "%"; $("#bar").classList.toggle("on", y > 10);
+  let cur = null; for (const s of secs) if (s.getBoundingClientRect().top < innerHeight * .4) cur = s.id; links.forEach((a) => a.classList.toggle("active", a.getAttribute("href") === "#" + cur)); };
+addEventListener("scroll", onScroll, { passive: true }); onScroll();
+
+/* chariot */
+{
+  const fig = $("#chariotFig"), svg = $("#chariot"), st = $("#chStatus"), lb = $("#looseBtn"), hb = $("#heldBtn");
+  const set = (loose) => { fig.classList.toggle("loose", loose); lb.setAttribute("aria-pressed", loose); hb.setAttribute("aria-pressed", !loose);
+    st.textContent = loose ? "Reins dropped: the charioteer still knows the road — the horses don't care." : "Reins held: the horses stay on the road."; };
+  lb.addEventListener("click", () => set(true)); hb.addEventListener("click", () => set(false));
+  let cur = null;
+  $$("#legend .chip-b").forEach((b) => {
+    const go = () => { cur = cur === b.dataset.p ? null : b.dataset.p; svg.classList.toggle("focus", !!cur);
+      $$(".part", svg).forEach((p) => p.classList.toggle("on", p.dataset.part === cur)); $$("#legend .chip-b").forEach((c) => c.classList.toggle("on", c.dataset.p === cur)); };
+    b.addEventListener("click", go);
+  });
+}
+/* senses */
+{
+  const fig = $("#sensesFig"), b = $("#inwardBtn"), s = $("#inStatus");
+  b.addEventListener("click", () => { const on = !fig.classList.contains("inward-on"); fig.classList.toggle("inward-on", on); b.setAttribute("aria-pressed", on);
+    b.textContent = on ? "Let the eye wander" : "Turn the eye inward"; s.textContent = on ? "The pulls are still there — but they're not steering." : "Six directions out. None in."; });
+}
+/* ladder */
+{
+  const L = {"C718": {"tag": "Understanding", "ref": "Chāndogya 7.18.1", "sa": "यदा वै  मनुते ऽथ विजानाति ।<br>नामत्वा विजानाति ।<br>मत्वैव विजानाति ।<br>मतिस् त्व् एव विजिज्ञासितव्येति ।<br>मतिं भगवो विजिज्ञास इति ॥", "tr": "‘When one reflects, then alone does one understand. Without reflecting one does not understand. Only he who reflects understands. But one must desire to understand reflection.’ ‘Revered sir, I desire to understand reflection’."}, "C719": {"tag": "Reflection", "ref": "Chāndogya 7.19.1", "sa": "यदा वै श्रद्दधात्य् अथ मनुते ।<br>नाश्रद्दधन् मनुते ।<br>श्रद्दधद् एव मनुते ।<br>श्रद्धा त्व् एव विजिज्ञासितव्येति ।<br>श्रद्धां भगवो विजिज्ञास इति ॥", "tr": "‘When one has faith, then alone does one reflect. Without faith, one does not reflect. Only he who has faith reflects. But one must desire to understand faith’. ‘Revered sir, I desire to understand faith’."}, "C720": {"tag": "Faith", "ref": "Chāndogya 7.20.1", "sa": "यदा वै निस्तिष्ठत्य् अथ श्रद्दधाति ।<br>नानिस्तिष्ठञ् छ्रद्दधाति ।<br>निस्तिष्ठन्न् एव श्रद्दधाति ।<br>निष्ठा त्व् एव विजिज्ञासितव्येति ।<br>निष्ठां भगवो विजिज्ञास इति ॥", "tr": "‘When one has steadfastness, then alone does one have faith. Without steadfastness, one does not have faith. Only he who has steadfastness has faith. But one must desire to understand steadfastness.’ ‘Revered sir, I desire to understand steadfastness.’"}, "C721": {"tag": "Steadfastness", "ref": "Chāndogya 7.21.1", "sa": "यदा वै करोत्य् अथ निस्तिष्ठति ।<br>नाकृत्वा निस्तिष्ठति ।<br>कृत्वैव निस्तिष्ठति ।<br>कृतिस् त्व् एव विजिज्ञासितव्येति ।<br>कृतिं भगवो विजिज्ञास इति ॥", "tr": "‘When one acts, then alone does one become steadfast. Without acting, one does not become steadfast. Only on acting does one become steadfast. But one must desire to understand activity’. ‘Revered sir, I desire to understand activity’."}, "C722": {"tag": "Action", "ref": "Chāndogya 7.22.1", "sa": "यदा वै सुखं लभते ऽथ करोति ।<br>नासुखं लब्ध्वा करोति ।<br>सुखम् एव लब्ध्वा करोति ।<br>सुखं त्व् एव विजिज्ञासितव्यम् इति ।<br>सुखं भगवो विजिज्ञास इति ॥", "tr": "‘When one obtains happiness’, then alone does one act. Without obtaining happiness one does not act. Only on obtaining happiness does one act. But one must desire to understand happiness’. ‘Revered sir, I desire to understand happiness’."}, "C7231": {"tag": "Happiness", "ref": "Chāndogya 7.23.1", "sa": "यो वै भूमा तत् सुखम् ।<br>नाल्पे सुखम् अस्ति ।<br>भूमैव सुखम् ।<br>भूमा त्व् एव विजिज्ञासितव्य इति ।<br>भूमानं भगवो विजिज्ञास इति ॥", "tr": "That which is infinite, is alone happiness. There is no happiness in anything finite. The infinite alone is happiness. But one must desire to understand the infinite’. ‘Revered sir, I desire to understand the infinite’."}};
+  const show = (k) => { const v = L[k]; $("#lvTag").textContent = v.tag; $("#lvSa").innerHTML = v.sa; $("#lvTr").textContent = "“" + v.tr + "”"; $("#lvRef").textContent = v.ref;
+    $$("#ladder .rung").forEach((r) => r.classList.toggle("on", r.dataset.k === k)); };
+  $$("#ladder .rung").forEach((r) => r.addEventListener("click", () => show(r.dataset.k)));
+  show("C721");
+}
+/* protocol stepper */
+{
+  const S = [{"id": "r1", "ref": "Kaṭha 2.1.1", "t": "Notice the pull", "p": "The horses turn toward the phone, the bed, the next video. Don't argue with it and don't be ashamed of it — the text says the senses were made outward-facing. Just notice: “here it is.”", "q": "“The self-existent damned the out-going senses. Therefore one sees externally and not the internal Self. Someone (who is) intelligent, with his eyes turned away, desirous of immortality, sees the inner Self.”"}, {"id": "r2", "ref": "Kaṭha 1.3.13", "t": "Pause for one minute", "p": "Stop the inner talk. Let the mind settle into the part of you that already knows. Three slow breaths is enough to put the charioteer back in the seat.", "q": "“Let the wise man merge speech in his mind, merge that (mind) into the intelligent self and the intelligent self into the Mahat. (Let him then) merge the Mahat into the peaceful Self.”"}, {"id": "r3", "ref": "Kaṭha 1.2.2", "t": "Name it", "p": "Say it plainly, out loud or in writing: “this is preyas — the pleasant; that is śreyas — the good.” Naming separates them; you don't have to feel brave, only to see which is which.", "q": "“The preferable and the pleasurable approach man. The intelligent one examines both and separates them. Yea, the intelligent one prefers the preferable to the pleasurable, (whereas) the ignorant one selects the pleasurable for the sake of yoga (attainment of that which is not already possessed) and kshema (the preservation of that which is already in possession).”"}, {"id": "r4", "ref": "Kaṭha 2.1.1", "t": "Remove the trigger", "p": "Turn the horses before they bolt: phone in another room, one tab open, notifications off, door shut. This is far easier than resisting the pull mid-stride.", "q": "Someone intelligent, “with his eyes turned away”, sees the inner Self."}, {"id": "r5", "ref": "Chāndogya 7.22–23", "t": "Link it to the bigger joy", "p": "One sentence: what does this hour make possible beyond today? Independence, the people you'll help, the person you're becoming. Give the right action a happiness of its own, so it can compete.", "q": "“‘When one obtains happiness’, then alone does one act. Without obtaining happiness one does not act. Only on obtaining happiness does one act. But one must desire to understand happiness’. ‘Revered sir, I desire to understand happiness’.”"}, {"id": "r6", "ref": "Chāndogya 7.21.1", "t": "Act for two minutes", "p": "Open the file. Write one line. Solve one problem. Don't wait to feel steady — the steadiness comes from this.", "q": "“‘When one acts, then alone does one become steadfast. Without acting, one does not become steadfast. Only on acting does one become steadfast. But one must desire to understand activity’. ‘Revered sir, I desire to understand activity’.”"}, {"id": "d1", "ref": "Śvetāśvatara 2.9", "t": "Still pulled? Hold the reins again", "p": "If the pull returns, go back to the pause — that loop is the practice, not a failure of it. Expect restive horses every day, and keep your hold. If not: keep going; the steadiness grows.", "q": "“Controlling the senses with an effort, and regulating the activities in the body, one should breathe out through the nostrils when the vital activities become gentle. Then the knowing one, without being in the least distracted, should keep his hold on the mind as on the reins attached to restive horses.”"}];
+  let i = 0; const dots = $("#scDots");
+  S.forEach(() => dots.appendChild(document.createElement("i")));
+  const draw = () => { const s = S[i];
+    $("#scK").textContent = `Step ${i + 1} of ${S.length} · ${s.ref}`; $("#scT").textContent = s.t; $("#scP").textContent = s.p; $("#scQ").textContent = s.q;
+    $$("#rx .fn").forEach((n) => { const k = S.findIndex((x) => x.id === n.dataset.id); n.classList.toggle("cur", k === i); n.classList.toggle("past", k > -1 && k < i); });
+    $$("#scDots i").forEach((d, k) => d.classList.toggle("on", k <= i));
+    $("#scPrev").disabled = i === 0; $("#scNext").textContent = i === S.length - 1 ? "Start again" : "Next step"; };
+  $("#scNext").addEventListener("click", () => { i = i === S.length - 1 ? 0 : i + 1; draw(); });
+  $("#scPrev").addEventListener("click", () => { if (i > 0) { i--; draw(); } });
+  draw();
+}
+/* map */
+{
+  const G = {"nodes": [{"id": "q", "kind": "question", "label": "Your question", "title": "I know, but I don't do it", "ref": null, "x": 320, "y": 272, "why": "Your question — not a node in the graph. The dashed lines are my reading; every solid line is a real link in graph.json."}, {"id": "KaU_1.3.3", "kind": "verse", "label": "KaU 1.3.3", "title": "The chariot", "ref": "Kaṭha 1.3.3", "x": 170, "y": 172, "why": "Know the Self to be the master of the chariot, and the body to be the chariot. Know the intellect to be the charioteer, and the mind to be the reins."}, {"id": "KaU_2.1.1", "kind": "verse", "label": "KaU 2.1.1", "title": "The outward senses", "ref": "Kaṭha 2.1.1", "x": 470, "y": 172, "why": "The self-existent damned the out-going senses. Therefore one sees externally and not the internal Self. Someone (who is) intelligent, with his eyes turned away, desirous of immortality, sees the inner Self."}, {"id": "KaU_1.2.2", "kind": "verse", "label": "KaU 1.2.2", "title": "The good and the pleasant", "ref": "Kaṭha 1.2.2", "x": 320, "y": 114, "why": "The intelligent one examines both and separates them."}, {"id": "ChU_7.21.1", "kind": "verse", "label": "ChU 7.21.1", "title": "Acting makes steadfast", "ref": "Chāndogya 7.21.1", "x": 170, "y": 382, "why": "‘When one acts, then alone does one become steadfast. Without acting, one does not become steadfast. Only on acting does one become steadfast. But one must desire to understand activity’. ‘Revered sir, I desire to understand activity’."}, {"id": "ChU_7.22.1", "kind": "verse", "label": "ChU 7.22.1", "title": "Action follows happiness", "ref": "Chāndogya 7.22.1", "x": 320, "y": 432, "why": "‘When one obtains happiness’, then alone does one act. Without obtaining happiness one does not act. Only on obtaining happiness does one act. But one must desire to understand happiness’. ‘Revered sir, I desire to understand happiness’."}, {"id": "BU_4.4.5", "kind": "verse", "label": "BU 4.4.5", "title": "Desire becomes deed", "ref": "Bṛhadāraṇyaka 4.4.5", "x": 470, "y": 382, "why": "What it desires, it resolves; what it resolves, it works out; and what it works out, it attains."}, {"id": "concept:buddhi-sarathi", "kind": "concept", "label": "Buddhi", "title": "Buddhi as sārathi", "ref": null, "x": 60, "y": 102, "why": "the intellect as charioteer"}, {"id": "concept:manas", "kind": "concept", "label": "Manas", "title": "Manas", "ref": null, "x": 60, "y": 232, "why": "the mind"}, {"id": "dilemma:outsourcing-judgment", "kind": "dilemma", "label": "Reins", "title": "Handing someone else the reins", "ref": null, "x": 150, "y": 52, "why": "The request asks another to decide what only the person can decide."}, {"id": "concept:indriya", "kind": "concept", "label": "Indriya", "title": "Indriya", "ref": null, "x": 580, "y": 102, "why": "the senses (the horses)"}, {"id": "concept:pratyak", "kind": "concept", "label": "Pratyag-ātmā", "title": "Pratyag-ātmā", "ref": null, "x": 590, "y": 232, "why": "turning inward"}, {"id": "dilemma:attention-capture", "kind": "dilemma", "label": "Scrolling", "title": "Pleasure that scrolls on", "ref": null, "x": 490, "y": 52, "why": "Attention pulled outward by what is designed to hold it."}, {"id": "concept:viveka", "kind": "concept", "label": "Viveka", "title": "Viveka", "ref": null, "x": 320, "y": 42, "why": "discernment"}, {"id": "story:narada", "kind": "story", "label": "Nārada", "title": "Nārada knows the texts", "ref": null, "x": 80, "y": 462, "why": "Nārada lists every science he has mastered and admits he is still in sorrow: he knows the words, not the Self. Sanatkumāra leads him to the boundless."}, {"id": "concept:kama", "kind": "concept", "label": "Kāma", "title": "Kāma", "ref": null, "x": 590, "y": 462, "why": "desire"}, {"id": "concept:karma", "kind": "concept", "label": "Karma", "title": "Karma", "ref": null, "x": 600, "y": 342, "why": "action, and what it makes of us"}], "edges": [{"s": "KaU_1.3.3", "t": "concept:buddhi-sarathi", "type": "TEACHES", "why": "Know the self as the rider, the body as the chariot, the intellect as the charioteer, the mind as the reins."}, {"s": "KaU_1.3.3", "t": "concept:manas", "type": "TEACHES", "why": "Know the mind to be the reins."}, {"s": "KaU_1.3.3", "t": "dilemma:outsourcing-judgment", "type": "DIAGNOSES", "why": "You are the rider of the chariot; the intellect is your charioteer. The reins are not handed to someone outside."}, {"s": "KaU_2.1.1", "t": "concept:pratyak", "type": "TEACHES", "why": "A rare steady person, desiring immortality, turned the eye inward and saw the inner self."}, {"s": "KaU_2.1.1", "t": "dilemma:attention-capture", "type": "DIAGNOSES", "why": "The senses were made outward-turning; so one looks outward and not within."}, {"s": "KaU_1.2.2", "t": "concept:viveka", "type": "TEACHES", "why": "'Examining both, the steady one separates them' (samparītya vivinakti)."}, {"s": "ChU_7.21.1", "t": "story:narada", "type": "IN_STORY", "why": ""}, {"s": "ChU_7.22.1", "t": "story:narada", "type": "IN_STORY", "why": ""}, {"s": "BU_4.4.5", "t": "concept:kama", "type": "TEACHES", "why": "A person is made of desire; desire becomes will, will becomes deed, deed becomes destiny."}, {"s": "BU_4.4.5", "t": "concept:karma", "type": "TEACHES", "why": "As one acts, so one becomes; one attains what one does."}, {"s": "KaU_1.3.3", "t": "concept:indriya", "type": "TEACHES", "why": "via Kaṭha 1.3.4 — The senses are the horses; their objects are the roads they run on."}, {"s": "q", "t": "KaU_1.3.3", "type": "my reading", "why": "", "mine": true}, {"s": "q", "t": "KaU_2.1.1", "type": "my reading", "why": "", "mine": true}, {"s": "q", "t": "KaU_1.2.2", "type": "my reading", "why": "", "mine": true}, {"s": "q", "t": "ChU_7.21.1", "type": "my reading", "why": "", "mine": true}, {"s": "q", "t": "ChU_7.22.1", "type": "my reading", "why": "", "mine": true}, {"s": "q", "t": "BU_4.4.5", "type": "my reading", "why": "", "mine": true}]};
+  const svg = $("#mapSvg"), NS = "http://www.w3.org/2000/svg";
+  const mk = (t, a, p) => { const e = document.createElementNS(NS, t); for (const k in a) e.setAttribute(k, a[k]); p && p.appendChild(e); return e; };
+  const byId = Object.fromEntries(G.nodes.map((n) => [n.id, n]));
+  const eg = mk("g", {}, svg), ng = mk("g", {}, svg);
+  const edges = G.edges.map((e) => { const a = byId[e.s], b = byId[e.t]; const mx = (a.x + b.x) / 2, my = (a.y + b.y) / 2 - 14;
+    return { e, el: mk("path", { class: "edge" + (e.mine ? " mine" : ""), d: `M${a.x},${a.y} Q${mx},${my} ${b.x},${b.y}` }, eg) }; });
+  const nodes = G.nodes.map((n) => { const g = mk("g", { class: "node k-" + n.kind, tabindex: 0, role: "button", "aria-label": n.title }, ng);
+    mk("circle", { cx: n.x, cy: n.y, r: n.kind === "question" ? 18 : n.kind === "verse" ? 10 : 8 }, g);
+    const t = mk("text", { x: n.x, y: n.kind === "question" ? n.y + 36 : n.y < 257 ? n.y - 15 : n.y + 24, "text-anchor": "middle" }, g); t.textContent = n.label;
+    const pick = () => select(n.id); g.addEventListener("click", pick); g.addEventListener("mouseenter", pick);
+    g.addEventListener("keydown", (ev) => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); pick(); } }); return { n, g }; });
+  const KIND = { question: "Your question", verse: "Verse", concept: "Concept", dilemma: "Dilemma", story: "Story" };
+  function select(id) { const n = byId[id], rel = G.edges.filter((e) => e.s === id || e.t === id), near = new Set(rel.flatMap((e) => [e.s, e.t]));
+    nodes.forEach(({ n: m, g }) => g.classList.toggle("hot", near.has(m.id)));
+    edges.forEach(({ e, el }) => el.classList.toggle("hot", e.s === id || e.t === id));
+    $("#mKind").textContent = KIND[n.kind] + (n.ref ? " · " + n.ref : ""); $("#mTitle").textContent = n.title; $("#mWhy").textContent = n.why || "";
+    const ul = $("#mLinks"); ul.innerHTML = "";
+    rel.forEach((e) => { const o = byId[e.s === id ? e.t : e.s]; const li = document.createElement("li"); const c = document.createElement("code"); c.textContent = e.type; li.append(c, " " + o.title + (e.why ? " — " + e.why : "")); ul.appendChild(li); }); }
+  select("q");
+}
+/* daily */
+{
+  const d = new Date(), key = "kd-" + d.toISOString().slice(0, 10), boxes = $$("#daily input");
+  $("#dDate").textContent = d.toLocaleDateString(undefined, { weekday: "long", day: "numeric", month: "long" });
+  let st = []; try { st = JSON.parse(store.get(key) || "[]"); } catch {}
+  const streak = () => { let n = 0; for (let k = 0; k < 365; k++) { const dd = new Date(Date.now() - k * 864e5).toISOString().slice(0, 10); let a = []; try { a = JSON.parse(store.get("kd-" + dd) || "[]"); } catch {} if (a.filter(Boolean).length >= 3) n++; else if (k > 0) break; } return n; };
+  const upd = () => { const v = boxes.map((b) => b.checked); store.set(key, JSON.stringify(v)); $("#dMeter").style.width = v.filter(Boolean).length / boxes.length * 100 + "%";
+    const s = streak(); $("#dStreak").textContent = s ? `${s}-day streak (3+ ticks)` : "tick 3 to start a streak"; };
+  boxes.forEach((b, i) => { b.checked = !!st[i]; b.addEventListener("change", upd); }); upd();
+}
+})();
+</script>
+</body>
+</html>
